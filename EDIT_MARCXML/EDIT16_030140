@@ -1,0 +1,116 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01593nam0a22003371i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\030140</controlfield>
+  <controlfield tag="005">20080207000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">,er- nele dau- VIri (3) 1550 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971126d1550        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">FR</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Il ℗Petrarca con nuoue et breui dichiarationi, insieme vna tauola di tutti i vocaboli, detti, et prouerbi difficili diligentemente dichiarati</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Lyone</subfield>
+    <subfield code="c">appresso Gulielmo Rouillio</subfield>
+    <subfield code="d">1550</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">575, \33! p.</subfield>
+    <subfield code="d">16ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="d">Lione</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Petrarca,</subfield>
+    <subfield code="b">Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001153</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Rouill,̌ Guillaume</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000407</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Roviglio, Guglielmo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003146</subfield>
+    <subfield code="z">Rouill,̌ Guillaume</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Rovillio, Guglielmo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005411</subfield>
+    <subfield code="z">Rouill,̌ Guillaume</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Rovillius, Gulielmus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005412</subfield>
+    <subfield code="z">Rouill,̌ Guillaume</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca citt ̉di Arezzo. Arezzo</subfield>
+    <subfield code="1">AR0070</subfield>
+    <subfield code="2">RT1 QA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca di Casa Carducci. Bologna</subfield>
+    <subfield code="1">BO0283</subfield>
+    <subfield code="2">UBO GC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Riccardiana. Firenze</subfield>
+    <subfield code="1">FI0094</subfield>
+    <subfield code="2">CFI RF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Padova</subfield>
+    <subfield code="1">PD0090</subfield>
+    <subfield code="2">PUV 55</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Forteguerriana. Pistoia</subfield>
+    <subfield code="1">PT0025</subfield>
+    <subfield code="2">RT1 IE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Girolamo Tartarotti. Rovereto</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">TN0103</subfield>
+    <subfield code="2">ZTN 08</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica A. Hortis. Trieste</subfield>
+    <subfield code="1">TS0013</subfield>
+    <subfield code="2">TSA BC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">British Library. London</subfield>
+    <subfield code="1">UK0001</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica De Gregoriana. Crescentino</subfield>
+    <subfield code="1">VC0020</subfield>
+    <subfield code="2">TO0 C9</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Archivio Museo. Bassano del Grappa</subfield>
+    <subfield code="1">VI0005</subfield>
+    <subfield code="2">VIA BA</subfield>
+  </datafield>
+</record>
+</collection>

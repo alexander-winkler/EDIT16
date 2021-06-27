@@ -1,0 +1,102 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01923nam0a22002771i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\044400</controlfield>
+  <controlfield tag="005">19990119000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19990114d1532        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Gregorii Ariminensis ... ℗Lectura super primo &amp; secundo sententiarum nuperrime impressa, ac sue pristine integritati denuo restituta ... Additiones quas nonnulli post aliaque nostram impressionem excusserunt adiunximus, ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetijs</subfield>
+    <subfield code="c">apud Octauianum Scotum</subfield>
+    <subfield code="d">1532</subfield>
+    <subfield code="e">Venetijs</subfield>
+    <subfield code="g">impresse iussu &amp; sumptibus heredum ... Octauiani Scoti ciuis Modoetiensis: &amp; sociorum</subfield>
+    <subfield code="h">1522. die 28. Martij</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">3 v.</subfield>
+    <subfield code="d"></subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">((Ed. composta da quella del 1518 per i vol. 1 e 2 e da quella del 1522 per il vol. 3., sostituendo il primo front. (e la c. corrispondente). - A cura di Paolo da Genazzano il cui nome appare sul verso del front. - Marche sul front. del vol. 1 (Z271) e alle c. y6r. del vol. 1, 2p10r. del vol. 2 e 2f7v. del vol. 3 (V466). - Got. ; gr. - Iniziali e cornice xil</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Gregorio</subfield>
+    <subfield code="c"> : da#Rimini</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006281</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Paolo</subfield>
+    <subfield code="c"> : da#Genazzano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005719</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Scoto, Ottaviano &lt;1.&gt; - eredi &amp; C.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002931</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Gregorius</subfield>
+    <subfield code="c"> : Ariminensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019683</subfield>
+    <subfield code="z">Gregorio : da#Rimini</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Paulus</subfield>
+    <subfield code="c"> : de#Genazzano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024326</subfield>
+    <subfield code="z">Paolo : da#Genazzano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Genestano,</subfield>
+    <subfield code="b">Paulus : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024327</subfield>
+    <subfield code="z">Paolo : da#Genazzano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Genazzano,</subfield>
+    <subfield code="b">Paulus : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024328</subfield>
+    <subfield code="z">Paolo : da#Genazzano</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front. del vol. 1.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000504</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000504</subfield>
+    <subfield code="b">Cerchio con croce doppia e iniziali O.S.M. Intorno una corona di foglie sorretta da due putti</subfield>
+    <subfield code="c">Z271</subfield>
+    <subfield code="d">Dimensione: 8,7 x 7,5</subfield>
+    <subfield code="f">CORONA</subfield>
+    <subfield code="f">CROCE</subfield>
+    <subfield code="f">OSM</subfield>
+    <subfield code="f">PUTTI</subfield>
+    <subfield code="g">1518-1566</subfield>
+  </datafield>
+</record>
+</collection>

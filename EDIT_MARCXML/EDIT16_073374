@@ -1,0 +1,140 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02169nam0a22003851i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\073374</controlfield>
+  <controlfield tag="005">20080918000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">5.9. 2.1. e-g. cemo (3) 1559 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20080918d1559        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">M. Tullii Ciceronis Sententiae insigniores, et pia apophthegmata ex ducentis veteribus oratoribus, philosophis, seu poetis, tam Graecis, quam Latinis, (quorum nomina sequens pagella indicabit) ad bene beateque uiuendum diligentissime selecta. In hac postrema editione nuper addit ̆sunt Demosthenis oratoris Graeci sententiae, ex Grc̆o in Latinum conuersae</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">Lodouicus Auancius excudendum curabat</subfield>
+    <subfield code="d">1559</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\48!, 522, \6! p.</subfield>
+    <subfield code="d">12ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Il curatore, Pierre Lagnier, si ricava dalla prefazione a c. B11v.E&apos; la 65661</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Lagnier,</subfield>
+    <subfield code="b">Pierre</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008125</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Demosthenes</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000040</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Cicero,</subfield>
+    <subfield code="b">Marcus Tullius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002170</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Avanzi, Ludovico</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000357</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Lagnerius,</subfield>
+    <subfield code="b">Petrus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016026</subfield>
+    <subfield code="z">Lagnier, Pierre</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Demostene</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015284</subfield>
+    <subfield code="z">Demosthenes</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Tullius Cicero,</subfield>
+    <subfield code="b">Marcus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020042</subfield>
+    <subfield code="z">Cicero, Marcus Tullius</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Avantius, Ludovicus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004269</subfield>
+    <subfield code="z">Avanzi, Ludovico</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Avancius, Lodovicus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004270</subfield>
+    <subfield code="z">Avanzi, Ludovico</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Avanzo, Lodovico</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004271</subfield>
+    <subfield code="z">Avanzi, Ludovico</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale dell&apos;Archiginnasio. Bologna</subfield>
+    <subfield code="1">BO0304</subfield>
+    <subfield code="2">UBO GA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale. Cremona</subfield>
+    <subfield code="1">CR0062</subfield>
+    <subfield code="2">LO1 28</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale. Lucca</subfield>
+    <subfield code="1">LU0022</subfield>
+    <subfield code="2">LUA BL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Accademia nazionale Virgiliana. Mantova</subfield>
+    <subfield code="1">MN0040</subfield>
+    <subfield code="2">LO1 15</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Porziuncola. Assisi</subfield>
+    <subfield code="1">PG0179</subfield>
+    <subfield code="2">UM1 36</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Fondazione Marco Besso. Roma</subfield>
+    <subfield code="1">RM0211</subfield>
+    <subfield code="2">RML 14</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001042</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001042</subfield>
+    <subfield code="b">Albero di olivo con radici affioranti.</subfield>
+    <subfield code="e">Pax artium altrix</subfield>
+    <subfield code="c">U112</subfield>
+    <subfield code="d">Dimensioni: 4 x 4,5</subfield>
+    <subfield code="f">PAXARTIUMA</subfield>
+    <subfield code="f">OLIVO</subfield>
+    <subfield code="f">ALBERO</subfield>
+    <subfield code="g">1557-1569</subfield>
+  </datafield>
+</record>
+</collection>

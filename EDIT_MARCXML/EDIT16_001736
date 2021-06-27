@@ -1,0 +1,107 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01314nam0a2200313 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\001736</controlfield>
+  <controlfield tag="005">19970101000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">,&amp;u, tepo o.e. dola (3) 1580 (A)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e,ia e-i- e-lo teEc (3) 1580 (A)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">2</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">relo noe- ill- alpa (3) 1580 (A)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">3</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1580        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Opere spirituali, diuise in tre parti</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetia</subfield>
+    <subfield code="c">appresso Francesco Ziletti</subfield>
+    <subfield code="d">1580</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">3 v.</subfield>
+    <subfield code="d">12ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Androzzi,</subfield>
+    <subfield code="b">Fulvio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000707</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Ziletti, Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000247</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ziletus, Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004189</subfield>
+    <subfield code="z">Ziletti, Francesco</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Zilettus, Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005830</subfield>
+    <subfield code="z">Ziletti, Francesco</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Cupramontana</subfield>
+    <subfield code="1">AN0031</subfield>
+    <subfield code="2">URB C4</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Accademia valdarnese del Poggio. Montevarchi</subfield>
+    <subfield code="1">AR0069</subfield>
+    <subfield code="2">UFI AV</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale dell&apos;Archiginnasio. Bologna</subfield>
+    <subfield code="1">BO0304</subfield>
+    <subfield code="2">UBO GA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale. Lucca</subfield>
+    <subfield code="1">LU0022</subfield>
+    <subfield code="2">LUA BL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Civica Giuseppe Cultrera. Leonessa</subfield>
+    <subfield code="1">RI0070</subfield>
+    <subfield code="2">RL1 S7</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Angelica. Roma</subfield>
+    <subfield code="1">RM0290</subfield>
+    <subfield code="2">RML 06</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Terni</subfield>
+    <subfield code="1">TR0032</subfield>
+    <subfield code="2">UM1 09</subfield>
+  </datafield>
+</record>
+</collection>

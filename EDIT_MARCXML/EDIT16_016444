@@ -1,0 +1,131 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02300nam0a2200337 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\016444</controlfield>
+  <controlfield tag="005">20130508000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">n-K. der- diu- maqu (3) 1531 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1531        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Thomas de Garbo. ℗Summa medicinalis preclarissimi doctoris Thome de Garbo Florentini, filij Dyni, summa diligentia studioque nouissime recognita, atque ab innumeris pene mendis nouiter expurgata. Additis insuper duplici indice altero notabilium, altero questionum necnon &amp; auctorum locis quos toto hoc opere preclarus hic auctor citat in margine nunc primum collocatis. Eiusdem auctoris de restauratione humidi radicalis tractatus breuis &amp; resolutus. Item de reductione medicinarum ad actum eiusdem auctoris tractatus alius</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">\Venezia</subfield>
+    <subfield code="c">eredi di Ottaviano Scoto il vecchio!</subfield>
+    <subfield code="d">1531</subfield>
+    <subfield code="e">Venetijs</subfield>
+    <subfield code="g">mandato &amp; expensis heredum nobilis domini Octauiani Scotti ciuis Modoetiensis</subfield>
+    <subfield code="h">1531 die XV Iulij</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\4!, 119, \1! c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Del_Garbo,</subfield>
+    <subfield code="b">Tommaso</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003111</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Scoto, Ottaviano</subfield>
+    <subfield code="c"> &lt;1.&gt; - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000130</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Garbo,</subfield>
+    <subfield code="b">Tommaso : del</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018517</subfield>
+    <subfield code="z">Del_Garbo, Tommaso</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Garbo,</subfield>
+    <subfield code="b">Thomas : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022122</subfield>
+    <subfield code="z">Del_Garbo, Tommaso</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Scotus, Octavianus</subfield>
+    <subfield code="c"> &lt;1.&gt; - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005636</subfield>
+    <subfield code="z">Scoto, Ottaviano &lt;1.&gt; - eredi</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Scotti, Ottaviano</subfield>
+    <subfield code="c"> &lt;1.&gt; - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005637</subfield>
+    <subfield code="z">Scoto, Ottaviano &lt;1.&gt; - eredi</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Riccardiana. Firenze</subfield>
+    <subfield code="1">FI0094</subfield>
+    <subfield code="2">CFI RF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Sperelliana. Gubbio</subfield>
+    <subfield code="1">PG0049</subfield>
+    <subfield code="2">UM1 11</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Augusta. Perugia</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">PG0109</subfield>
+    <subfield code="2">UM1 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale monsignor Rocco Briscese. Venosa</subfield>
+    <subfield code="1">PZ0122</subfield>
+    <subfield code="2">ZPZ 10</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front. e nel coloph.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000019</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000019</subfield>
+    <subfield code="b">Cerchio con croce doppia e iniziali O.S.M. Intorno fregi floreali</subfield>
+    <subfield code="c">A101</subfield>
+    <subfield code="c">V466</subfield>
+    <subfield code="c">Z297</subfield>
+    <subfield code="d">7x8</subfield>
+    <subfield code="f">CROCE</subfield>
+    <subfield code="f">LORENA</subfield>
+    <subfield code="f">OSM</subfield>
+    <subfield code="g">1507-1550</subfield>
+  </datafield>
+</record>
+</collection>

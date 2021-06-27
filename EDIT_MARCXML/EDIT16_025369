@@ -1,0 +1,127 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02011nam0a2200349 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\025369</controlfield>
+  <controlfield tag="005">20141121000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">doto di,i dime tadu (3) 1596 (A)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">A</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">S.ne di,i dime tadu (3) 1596 (A)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">B</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">o-e, di,i dime tadu (3) 1596 (A)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">C</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970926d1596        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Il ℗mondo e sue parti. Cio ̈Europa, Affrica, Asia et America, nel quale, oltre alle tauole in disegno, si discorre delle sue prouincie, regni, regioni, citt ̉castelli, ville, monti, fiumi, laghi, mari, porti, golfi, isole, populationi, leggi, riti, e costumi. Da Gioseppe Rosaccio con breuit ̉descritto. Parte prima</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Verona</subfield>
+    <subfield code="c">per Francesco delle Donne</subfield>
+    <subfield code="d">&amp; Scipione Vargnano suo genero</subfield>
+    <subfield code="d">1596</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\20!, 238 p.</subfield>
+    <subfield code="c">ill., tav. rip.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Var. B: ricomposta l&apos;epistola dedicatoria a Ferdinando de Medici. - Var. C: lettera dedicatoria a Cesare d&apos;Este</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Verona</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Rosaccio,</subfield>
+    <subfield code="b">Giuseppe</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007417</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Dalle_Donne, Francesco &amp; Vargnano, Scipione</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000297</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Vargnano, Scipione</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000298</subfield>
+    <subfield code="z">Dalle_Donne, Francesco &amp; Vargnano, Scipione</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Luciano Benincasa. Ancona</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">AN0001</subfield>
+    <subfield code="2">URB BA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Sagarriga Visconti-Volpi. Bari</subfield>
+    <subfield code="z">(Var. B)</subfield>
+    <subfield code="1">BA0018</subfield>
+    <subfield code="2">BA1 BA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica A. Mai. Bergamo</subfield>
+    <subfield code="z">(Var.B)</subfield>
+    <subfield code="1">BG0026</subfield>
+    <subfield code="2">LO1 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Teresiana. Mantova</subfield>
+    <subfield code="1">MN0035</subfield>
+    <subfield code="2">LO1 12</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="z">(Var.C)</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Padova</subfield>
+    <subfield code="1">PD0158</subfield>
+    <subfield code="2">PUV 00</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Assisi</subfield>
+    <subfield code="z">(Var. A)</subfield>
+    <subfield code="1">PG0001</subfield>
+    <subfield code="2">UM1 10</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Augusta. Perugia</subfield>
+    <subfield code="1">PG0109</subfield>
+    <subfield code="2">UM1 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Societ ̉geografica italiana. Roma</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">RM0238</subfield>
+    <subfield code="2">IEI SG</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">British Library. London</subfield>
+    <subfield code="1">UK0001</subfield>
+  </datafield>
+</record>
+</collection>

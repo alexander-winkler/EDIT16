@@ -1,0 +1,106 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01776nam0a2200301 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\024283</controlfield>
+  <controlfield tag="005">20130211000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">46e- sque umti dequ (3) 1567 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970730d1567        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Statuta et iura municipalia antiquae vrbis, &amp; populi ciuitatis Nucerij, consilij generalis, magnificae ciuitatis praedictae, &amp; auctoritate publica facta, &amp; fidelium, ac expertorum notariorum Francisci Troili, Lucae Iacobutij, Francisci Rentij, municipum Nucerij  electorum &amp; deputatorum diligentia &amp; cura impressa</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Fulginei</subfield>
+    <subfield code="c">per Augustinum Colaldum de Ciuitate Ducali</subfield>
+    <subfield code="c">apud Vincentium Cantagallum</subfield>
+    <subfield code="d">1567 pridiae Calendas Martij</subfield>
+    <subfield code="e">Impressum Fulginei</subfield>
+    <subfield code="g">per Augustinum Colaldum de Ciuitate Ducali</subfield>
+    <subfield code="g">apud Vincentium Cantagallum</subfield>
+    <subfield code="h">1567 pridiae Calendas Martij</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">96 \i.e. 77!, \1! c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Foligno</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Nocera Umbra</subfield>
+    <subfield code="3">7086</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Colaldi, Agostino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000505</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Cantagalli, Vincenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001621</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Civitas Nuceria</subfield>
+    <subfield code="3">21785</subfield>
+    <subfield code="z">Nocera Umbra</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Colaldus, Augustinus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004628</subfield>
+    <subfield code="z">Colaldi, Agostino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Colaldo, Agostino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004629</subfield>
+    <subfield code="z">Colaldi, Agostino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Cantagallus, Vincentius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004436</subfield>
+    <subfield code="z">Cantagalli, Vincenzo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Cantagallo, Vincenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004447</subfield>
+    <subfield code="z">Cantagalli, Vincenzo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Giosu ̈Carducci. Citt ̉di Castello</subfield>
+    <subfield code="1">PG0032</subfield>
+    <subfield code="2">UM1 05</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Foligno</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">PG0035</subfield>
+    <subfield code="2">UM1 04</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Senato della Repubblica Giovanni Spadolini. Roma</subfield>
+    <subfield code="1">RM0427</subfield>
+    <subfield code="2">ZRM 12</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Archivio di Stato di Roma. Roma</subfield>
+    <subfield code="1">RM0459</subfield>
+    <subfield code="2">RML 12</subfield>
+  </datafield>
+</record>
+</collection>

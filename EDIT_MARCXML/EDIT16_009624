@@ -1,0 +1,107 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01648nam0a2200301 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\009624</controlfield>
+  <controlfield tag="005">20130507000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">s.u: a.u; s.ru ++++ (C) 1574 (Q)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101f1574        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Carmina, quae in naui affixa fuerant, qua serenissimus Ioannes Austriacus in Padi traiectione vectus est, collecta a Daniele Tudisco comite, Ioanne Ludouico Lando comite, Ioanne Nicellio, Ludouico Siccamelica, Camillo Zamberto condiscipulis. MDLXXIIII. Nonis Augusti</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Placentiae</subfield>
+    <subfield code="c">apud Franciscum Comitem</subfield>
+    <subfield code="d">\1574?!</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\6! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Il titolo si ricava da c. \2!r. Sul front.: Hic manendum. Hic solum patria forti</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Piacenza</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Tedeschi,</subfield>
+    <subfield code="b">Daniele</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002226</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Landi,</subfield>
+    <subfield code="b">Giovanni Ludovico</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002227</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Nicelli,</subfield>
+    <subfield code="b">Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002228</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Conti, Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000117</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Tudiscus,</subfield>
+    <subfield code="b">Daniel</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014970</subfield>
+    <subfield code="z">Tedeschi, Daniele</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Landus,</subfield>
+    <subfield code="b">Ioannes Ludovicus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020060</subfield>
+    <subfield code="z">Landi, Giovanni Ludovico</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Nicellius,</subfield>
+    <subfield code="b">Ioannes</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014755</subfield>
+    <subfield code="z">Nicelli, Giovanni</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Comes, Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003107</subfield>
+    <subfield code="z">Conti, Francesco</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Firenze</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">FI0098</subfield>
+    <subfield code="2">CFI CF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Palatina. Parma</subfield>
+    <subfield code="1">PR0072</subfield>
+    <subfield code="2">PAR PA</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001892</subfield>
+    <subfield code="b">Pellegrino in cammino con il bordone in spalla. Sullo sfondo paesaggio. Nella cornice del frontespizio.</subfield>
+    <subfield code="e">Tentanda via est</subfield>
+    <subfield code="c">Z947</subfield>
+    <subfield code="f">PELLEGRINO</subfield>
+    <subfield code="f">TENTANDA</subfield>
+    <subfield code="g">1561-1593</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,201 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02915nam0a2200517 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\028910</controlfield>
+  <controlfield tag="005">20171204000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">ama, t.s. s,a; StET (3) 1578 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971114d1578        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Serenissimi Cosmi Medycis primi Hetruriae magniducis actiones Sebastiano Sanleolino i.c. Florentino auctore</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Florentiae</subfield>
+    <subfield code="c">typis Georgij Marescoti</subfield>
+    <subfield code="d">1578</subfield>
+    <subfield code="e">Florentiae</subfield>
+    <subfield code="g">ex officina typographica Georgij Marescoti</subfield>
+    <subfield code="h">Calendis Nouembris 1578</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\8!, 132, \8! c.</subfield>
+    <subfield code="c">ill., \2! ritr.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Firenze</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Sanleolini,</subfield>
+    <subfield code="b">Sebastiano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008680</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Marescotti, Giorgio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000049</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Sanleolinus,</subfield>
+    <subfield code="b">Sebastianus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\017172</subfield>
+    <subfield code="z">Sanleolini, Sebastiano</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Mariscotti, Giorgio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005030</subfield>
+    <subfield code="z">Marescotti, Giorgio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Marescottus, Georgius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005031</subfield>
+    <subfield code="z">Marescotti, Giorgio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Marescotus, Georgius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005032</subfield>
+    <subfield code="z">Marescotti, Giorgio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Bologna</subfield>
+    <subfield code="1">BO0098</subfield>
+    <subfield code="2">UBO BU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Bandiniana. Fiesole</subfield>
+    <subfield code="1">FI0015</subfield>
+    <subfield code="2">ZFI 38</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario arcivescovile maggiore. Firenze</subfield>
+    <subfield code="1">FI0056</subfield>
+    <subfield code="2">RT1 QM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Firenze</subfield>
+    <subfield code="1">FI0098</subfield>
+    <subfield code="2">CFI CF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Moreniana. Firenze</subfield>
+    <subfield code="1">FI0099</subfield>
+    <subfield code="2">RT1 BP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca delle Oblate. Firenze</subfield>
+    <subfield code="1">FI0104</subfield>
+    <subfield code="2">RT1 AA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca umanistica. Sede di Lettere. Firenze</subfield>
+    <subfield code="1">FI0211</subfield>
+    <subfield code="2">UFI LT</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Genova</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">GE0038</subfield>
+    <subfield code="2">LIG 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Braidense. Milano</subfield>
+    <subfield code="1">MI0185</subfield>
+    <subfield code="2">MIL NB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Foligno</subfield>
+    <subfield code="1">PG0035</subfield>
+    <subfield code="2">UM1 04</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Augusta. Perugia</subfield>
+    <subfield code="1">PG0109</subfield>
+    <subfield code="2">UM1 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Pisa</subfield>
+    <subfield code="1">PI0112</subfield>
+    <subfield code="2">PIS R1</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca  Panizzi. Reggio Emilia</subfield>
+    <subfield code="1">RE0052</subfield>
+    <subfield code="2">RE2 PA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria Alessandrina. Roma</subfield>
+    <subfield code="1">RM0280</subfield>
+    <subfield code="2">RML 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale degli Intronati. Siena</subfield>
+    <subfield code="1">SI0046</subfield>
+    <subfield code="2">RT1 QI</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">British Library. London</subfield>
+    <subfield code="1">UK0001</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\002574</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">In fine</subfield>
+    <subfield code="9">IT\ICCU\CNCM\002114</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\002574</subfield>
+    <subfield code="b">Stemma dei Medici e veduta di Firenze. Nella cornice del frontespizio</subfield>
+    <subfield code="c">U1089</subfield>
+    <subfield code="f">STEMMA</subfield>
+    <subfield code="f">FIRENZE</subfield>
+    <subfield code="g">1577-1599</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\002114</subfield>
+    <subfield code="b">Nave a vele spiegate passa rasente gli scogli. Nel fregio al centro in basso iniziali G.M. In cornice figurata.</subfield>
+    <subfield code="e">Et vult et potest</subfield>
+    <subfield code="c">Z890</subfield>
+    <subfield code="d">Dimensioni: 6,2 x 8,5</subfield>
+    <subfield code="f">NAVE</subfield>
+    <subfield code="g">1568-1600</subfield>
+  </datafield>
+</record>
+</collection>

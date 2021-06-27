@@ -1,0 +1,110 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01502nam0a22003131i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\020456</controlfield>
+  <controlfield tag="005">20120423000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">n-il i,i- e;de tumi (3) 1585 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1585        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Il ℗theatro de vari, e diuersi ceruelli mondani</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Reggio</subfield>
+    <subfield code="c">appresso Hercoliano Bartoli</subfield>
+    <subfield code="d">et Ippolito Tromba</subfield>
+    <subfield code="d">ad instanza di Pietro Giouanelli</subfield>
+    <subfield code="d">1585</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\16!, 293, \11! p.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Reggio Emilia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Garzoni,</subfield>
+    <subfield code="b">Tommaso</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004432</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Bartoli, Ercoliano &amp; Tromba, Ippolito</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001419</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Giovannelli, Pietro</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001410</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Garzoni,</subfield>
+    <subfield code="b">Ottaviano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018614</subfield>
+    <subfield code="z">Garzoni, Tommaso</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Tromba, Ippolito</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001420</subfield>
+    <subfield code="z">Bartoli, Ercoliano &amp; Tromba, Ippolito</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Giovannello, Pietro</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004894</subfield>
+    <subfield code="z">Giovannelli, Pietro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Giovanelli, Pietro</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004895</subfield>
+    <subfield code="z">Giovannelli, Pietro</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Aurelio Saffi. Forl</subfield>
+    <subfield code="1">FC0018</subfield>
+    <subfield code="2">RAV FO</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei Cappuccini. Firenze</subfield>
+    <subfield code="1">FI0041</subfield>
+    <subfield code="2">RT1 PC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Fabrizio Trisi. Lugo</subfield>
+    <subfield code="1">RA0025</subfield>
+    <subfield code="2">RAV CE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca  Panizzi. Reggio Emilia</subfield>
+    <subfield code="1">RE0052</subfield>
+    <subfield code="2">RE2 PA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Opera pia del collegio Nazareno. Roma</subfield>
+    <subfield code="1">RM0654</subfield>
+    <subfield code="2">RMS M4</subfield>
+  </datafield>
+</record>
+</collection>

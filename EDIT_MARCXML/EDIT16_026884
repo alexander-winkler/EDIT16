@@ -1,0 +1,90 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01355nam0a22002651i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\026884</controlfield>
+  <controlfield tag="005">19990205000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">a.in sira paa- ridi (3) 1542 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971022d1542        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Costantino Cesare De li scelti et vtilissimi documenti de l&apos;Agricoltura, nuoamente dal latino in volgare tradotto per M. Nicol ̣Vitelli ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Venetia</subfield>
+    <subfield code="c">per Giovan Battista da Borgofranco</subfield>
+    <subfield code="d">1542</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">194, \6! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Vitelli,</subfield>
+    <subfield code="b"></subfield>
+    <subfield code="3">IT\ICCU\CNCA\005669</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Constantinus</subfield>
+    <subfield code="c"> &lt;imperatore d&apos;Oriente</subfield>
+    <subfield code="c"> ; 7&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008159</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Pocatela, Giovanni Battista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000763</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Vitelli,</subfield>
+    <subfield code="b"></subfield>
+    <subfield code="3">IT\ICCU\CNCA\025413</subfield>
+    <subfield code="z"></subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Constantinus</subfield>
+    <subfield code="c"> : Porphyrogenetus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026042</subfield>
+    <subfield code="z">Constantinus &lt;imperatore d&apos;Oriente ; 7&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Costantino</subfield>
+    <subfield code="c"> : Porfirogenito</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026043</subfield>
+    <subfield code="z">Constantinus &lt;imperatore d&apos;Oriente ; 7&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Borgofranco, Giovanni Battista da</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002280</subfield>
+    <subfield code="z">Pocatela, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Burgofranco, Ioannes Baptista a</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002530</subfield>
+    <subfield code="z">Pocatela, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Orto botanico dell&apos;Universit ̉degli studi di Padova. Padova</subfield>
+    <subfield code="1">PD0341</subfield>
+    <subfield code="2">PUV 46</subfield>
+  </datafield>
+</record>
+</collection>

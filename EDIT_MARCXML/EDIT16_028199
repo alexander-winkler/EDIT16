@@ -1,0 +1,85 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01096nam0a2200253 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\028199</controlfield>
+  <controlfield tag="005">20080506000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">i.ra voo. f.o. poct (3) 1508 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971105d1508        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Consilia Iohannis de Anania cum additionibus domini Ludouici Bolognini</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="d">\Venezia! :</subfield>
+    <subfield code="e">Impressa per Paganinum de Paganinis Brixiensem</subfield>
+    <subfield code="h">1508 die quinto mensis Decembris</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\6!, 68 c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Giovanni</subfield>
+    <subfield code="c"> : d&apos;#Anagni</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006078</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Bolognini,</subfield>
+    <subfield code="b">Ludovico</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000196</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Paganini, Paganino</subfield>
+    <subfield code="c"> &lt;1.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000083</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Ioannes</subfield>
+    <subfield code="c"> : de#Anania</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006080</subfield>
+    <subfield code="z">Giovanni : d&apos;#Anagni</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Anania,</subfield>
+    <subfield code="b">Giovanni : d&apos;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014158</subfield>
+    <subfield code="z">Giovanni : d&apos;#Anagni</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Paganinis, Paganinus de</subfield>
+    <subfield code="c"> &lt;1&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005254</subfield>
+    <subfield code="z">Paganini, Paganino &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica F. Calvo. Alessandria</subfield>
+    <subfield code="1">AL0002</subfield>
+    <subfield code="2">TO0 41</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Verona</subfield>
+    <subfield code="1">VR0059</subfield>
+    <subfield code="2">ZVR 02</subfield>
+  </datafield>
+</record>
+</collection>

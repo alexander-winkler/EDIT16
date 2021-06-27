@@ -1,0 +1,85 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01453nam0a22002531i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\061425</controlfield>
+  <controlfield tag="005">20051003000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">s.ia c-r, t.em indu (3) 1586 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20050923d1586        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Tractatus de causis ex quibus emphyteuta iure suo priuatur. Auctore d. Aurelio Corbulo Vrbinate I.V.D. et abbate s. Gaudentii Ariminensis dioecesis</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Vrbini</subfield>
+    <subfield code="c">Iacobus Chriegher Germanus  tip. Paolo Tartarino!</subfield>
+    <subfield code="d">1586. -_\8!</subfield>
+    <subfield code="d">541</subfield>
+    <subfield code="d">\i.e. 543!_\46! p.</subfield>
+    <subfield code="d">in fol</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a"></subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Corboli,</subfield>
+    <subfield code="b">Aurelio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003486</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Criegher, Johann</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000693</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Corbulus,</subfield>
+    <subfield code="b">Aurelius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013869</subfield>
+    <subfield code="z">Corboli, Aurelio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Chrigero, Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003698</subfield>
+    <subfield code="z">Criegher, Johann</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Criegher, Ioannes</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004686</subfield>
+    <subfield code="z">Criegher, Johann</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Dipartimento di storia e filosofia del diritto e diritto canonico dell&apos;Universit ̉degli studi di Padova. Padova</subfield>
+    <subfield code="1">PD0441</subfield>
+    <subfield code="2">PUV 13</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria Alessandrina. Roma</subfield>
+    <subfield code="1">RM0280</subfield>
+    <subfield code="2">RML 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Vallicelliana. Roma</subfield>
+    <subfield code="1">RM0281</subfield>
+    <subfield code="2">RML 08</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Casanatense. Roma</subfield>
+    <subfield code="1">RM0313</subfield>
+    <subfield code="2">RML 07</subfield>
+  </datafield>
+</record>
+</collection>

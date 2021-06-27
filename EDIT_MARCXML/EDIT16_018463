@@ -1,0 +1,151 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02237nam0a22004091i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\018463</controlfield>
+  <controlfield tag="005">20100913000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">n-in e.u- o-m- r-cu (C) 1562 (Q)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101f1562        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Oratio habita a Guidone Fabro oratore Caroli Galliarum regii christianiss. in generali congregatione &amp; subsequenter responsum Synodi in admissione oratorum eiusdem regis christianiss. datum in sessione quarta sacri Concilij Tridentini sub Pio p.p. IIII  IIII Iunij MDLXII</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Brixiae</subfield>
+    <subfield code="c">apud Damianum Turlinum</subfield>
+    <subfield code="d">\1562!</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\8! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Brescia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Pibrac,</subfield>
+    <subfield code="b">Guy du_Faur : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005207</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Turlino, Damiano</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000234</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Fabrus,</subfield>
+    <subfield code="b">Guido</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007336</subfield>
+    <subfield code="z">Pibrac, Guy du_Faur : de</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Du_Faur,</subfield>
+    <subfield code="b">Guy</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007337</subfield>
+    <subfield code="z">Pibrac, Guy du_Faur : de</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Turlinis, Damianus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004144</subfield>
+    <subfield code="z">Turlino, Damiano</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Turlinus, Damianus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005604</subfield>
+    <subfield code="z">Turlino, Damiano</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Turlini, Damiano</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005605</subfield>
+    <subfield code="z">Turlino, Damiano</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Arcivescovile. Bologna</subfield>
+    <subfield code="1">BO0639</subfield>
+    <subfield code="2">PBE G5</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Queriniana. Brescia</subfield>
+    <subfield code="1">BS0026</subfield>
+    <subfield code="2">ZBS 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale. Cremona</subfield>
+    <subfield code="1">CR0062</subfield>
+    <subfield code="2">LO1 28</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca francescano-cappuccina provinciale. Milano</subfield>
+    <subfield code="1">MI0183</subfield>
+    <subfield code="2">ZMI 51</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Braidense. Milano</subfield>
+    <subfield code="1">MI0185</subfield>
+    <subfield code="2">MIL NB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Ludovico Jacobilli del Seminario vescovile. Foligno</subfield>
+    <subfield code="1">PG0040</subfield>
+    <subfield code="2">UM1 39</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Vallicelliana. Roma</subfield>
+    <subfield code="1">RM0281</subfield>
+    <subfield code="2">RML 08</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Angelica. Roma</subfield>
+    <subfield code="1">RM0290</subfield>
+    <subfield code="2">RML 06</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Trento</subfield>
+    <subfield code="1">TN0121</subfield>
+    <subfield code="2">ZTN 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Marciana. Venezia</subfield>
+    <subfield code="1">VE0049</subfield>
+    <subfield code="2">VEA BM</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000869</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000869</subfield>
+    <subfield code="b">Aquila ad ali spiegate tiene negli artigli un libro aperto. In cornice figurata</subfield>
+    <subfield code="c">U16</subfield>
+    <subfield code="d">Dimensioni: 7,5 x 9,3</subfield>
+    <subfield code="f">AQUILA</subfield>
+    <subfield code="f">LIBRO</subfield>
+    <subfield code="g">1557-1599</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,105 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01688nam0a22003011i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\078574</controlfield>
+  <controlfield tag="005">20140620000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">a.de s.a- o.o. AbAb (3) 1570 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20140605d1570        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">SPA</subfield>
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">ES</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Vocabulario de las dos lenguas toscana y castellana de Christoual de las Casas. En que se contiene la declaracion de toscano en castellano, y de castellano en toscano. En dos partes con vna introducion para leer, y pronunciar bien entrambas lenguas</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">En Seuilla</subfield>
+    <subfield code="c">vendese en casa de Francisco de Aguilar mercader de libros</subfield>
+    <subfield code="d">1570</subfield>
+    <subfield code="e">Impresso en Seuilla</subfield>
+    <subfield code="g">en casa de Alonso Escriuano en la calle de la Sierpe</subfield>
+    <subfield code="h">1570</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">248 c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">ES</subfield>
+    <subfield code="d">Siviglia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Casas,</subfield>
+    <subfield code="b">Cristobal : de#las</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002724</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Escribano, Alonso</subfield>
+    <subfield code="3">IT\ICCU\CNCT\006448</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Aguilar, Francisco de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\006453</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Las Casas,</subfield>
+    <subfield code="b">Cristobal : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013207</subfield>
+    <subfield code="z">Casas, Cristobal : de#las</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Escriuano, Alonso</subfield>
+    <subfield code="3">IT\ICCU\CNCT\006449</subfield>
+    <subfield code="z">Escribano, Alonso</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Garca̕ Escribano, Alonso</subfield>
+    <subfield code="3">IT\ICCU\CNCT\006450</subfield>
+    <subfield code="z">Escribano, Alonso</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">De Aguilar, Francisco</subfield>
+    <subfield code="3">IT\ICCU\CNCT\006454</subfield>
+    <subfield code="z">Aguilar, Francisco de</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca estera - Biblioteca de la Universidad de Sevilla. Sevilla</subfield>
+    <subfield code="1">AA0013</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Labronica Francesco Domenico Guerrazzi. Livorno</subfield>
+    <subfield code="1">LI0011</subfield>
+    <subfield code="2">LIA FA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Collegio cardinale Giulio Alberoni. Piacenza</subfield>
+    <subfield code="1">PC0032</subfield>
+    <subfield code="2">PIA AB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Vercelli</subfield>
+    <subfield code="1">VC0073</subfield>
+    <subfield code="2">TO0 A2</subfield>
+  </datafield>
+</record>
+</collection>

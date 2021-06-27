@@ -1,0 +1,88 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01407nam0a22002651i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\055594</controlfield>
+  <controlfield tag="005">20040413000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20040210d1566        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Privilegia a summo pontifice Pio IV Congregationi Monachorum Corporis Christi concessa, ex proprio corum originali de verbo ad verbum fideliter extracta</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Impressum Fulginae</subfield>
+    <subfield code="c">per Augustinum Colaldi</subfield>
+    <subfield code="d">de Ciuitate Ducali</subfield>
+    <subfield code="c">apud Vincentium Cantagallum</subfield>
+    <subfield code="d">1566</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">24 c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Foligno</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Congregazione del Corpo di Cristo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004295</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Colaldi, Agostino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000505</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Cantagalli, Vincenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001621</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Congregatio monacorum Corporis Christi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004296</subfield>
+    <subfield code="z">Congregazione del Corpo di Cristo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Congregazione benedettina del Corpus Christi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004297</subfield>
+    <subfield code="z">Congregazione del Corpo di Cristo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Congregatio monachorum Corporis Christi Ordinis Cisterciensis</subfield>
+    <subfield code="3">15560</subfield>
+    <subfield code="z">Congregazione del Corpo di Cristo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Colaldus, Augustinus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004628</subfield>
+    <subfield code="z">Colaldi, Agostino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Colaldo, Agostino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004629</subfield>
+    <subfield code="z">Colaldi, Agostino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Cantagallus, Vincentius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004436</subfield>
+    <subfield code="z">Cantagalli, Vincenzo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Cantagallo, Vincenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004447</subfield>
+    <subfield code="z">Cantagalli, Vincenzo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

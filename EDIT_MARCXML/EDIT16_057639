@@ -1,0 +1,76 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01215nam0a2200241 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\057639</controlfield>
+  <controlfield tag="005">20151120000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">o.he coet a-g. chIt (3) 1520 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20040423d1520        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Vocabularium utriusque iuris perutile ac valde necessarium omnibus scholaribus utriusque censure studentibus, noviterque ab omnibus mendis purgatum et emendatum, ac non nullis additis vocabulis decoratus. Una cum tractatu de modo studendi et nominibus omnium scribentium in utroque iure</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Mediolani</subfield>
+    <subfield code="g">ex officina Minuciana</subfield>
+    <subfield code="h">1520 Prid. Kal. Marcias</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">142 c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Milano</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Minuziano, Alessandro</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000404</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Minutianus, Alexander</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004001</subfield>
+    <subfield code="z">Minuziano, Alessandro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Officina Minutiana</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005200</subfield>
+    <subfield code="z">Minuziano, Alessandro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Libraria Minutiana</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005201</subfield>
+    <subfield code="z">Minuziano, Alessandro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Minutiano, Alessandro</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005202</subfield>
+    <subfield code="z">Minuziano, Alessandro</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Braidense. Milano</subfield>
+    <subfield code="1">MI0185</subfield>
+    <subfield code="2">MIL NB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Palatina. Parma</subfield>
+    <subfield code="1">PR0072</subfield>
+    <subfield code="2">PAR PA</subfield>
+  </datafield>
+</record>
+</collection>

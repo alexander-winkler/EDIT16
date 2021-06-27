@@ -1,0 +1,200 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>03013nam0a2200505 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\024874</controlfield>
+  <controlfield tag="005">20120806000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">T.I. eti- osn- covi (3) 1600 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970915d1600        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">De gutta podagrica, chiragrica, et arthritica libri duo Francisci Indiae med. et philosophi Veron. In quibus natura earum, &amp; curatio, miro ordine discutitur, &amp; enucleatur. Et medicamenta non vulgaria, magnaeque vis, et efficatiae praestantissimae, et quae  ̉nullo vnquam antea fortasse excogitata, proponuntur</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Veronae</subfield>
+    <subfield code="c">Societatis Aspirantium cura</subfield>
+    <subfield code="d">1600</subfield>
+    <subfield code="e">Veronae</subfield>
+    <subfield code="g">Angelus Tamus excudebat</subfield>
+    <subfield code="h">1600</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\24!, 118, \2! p.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Verona</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">India,</subfield>
+    <subfield code="b">Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007273</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">Compagnia degli Aspiranti</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002315</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Tamo, Angelo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000263</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">India,</subfield>
+    <subfield code="b">Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020096</subfield>
+    <subfield code="z">India, Francesco</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Societas Aspirantium</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002963</subfield>
+    <subfield code="z">Compagnia degli Aspiranti</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Tamus, Angelus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005567</subfield>
+    <subfield code="z">Tamo, Angelo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Marucelliana. Firenze</subfield>
+    <subfield code="1">FI0101</subfield>
+    <subfield code="2">CFI MF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Berio. Genova</subfield>
+    <subfield code="1">GE0036</subfield>
+    <subfield code="2">SGE BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Braidense. Milano</subfield>
+    <subfield code="1">MI0185</subfield>
+    <subfield code="2">MIL NB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Palermo</subfield>
+    <subfield code="1">PA0063</subfield>
+    <subfield code="2">PA1 CP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Passerini Landi. Piacenza</subfield>
+    <subfield code="1">PC0030</subfield>
+    <subfield code="2">PIA PL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Padova</subfield>
+    <subfield code="1">PD0158</subfield>
+    <subfield code="2">PUV 00</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Palatina. Parma</subfield>
+    <subfield code="1">PR0072</subfield>
+    <subfield code="2">PAR PA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Pavia</subfield>
+    <subfield code="1">PV0291</subfield>
+    <subfield code="2">MIL UP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Medica &quot;Pietro Giuseppe Corradini&quot; Arcispedale Santa Maria Nuova Azienda Ospedaliera. Reggio Emilia</subfield>
+    <subfield code="1">RE0047</subfield>
+    <subfield code="2">REA BM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Lancisiana. Roma</subfield>
+    <subfield code="1">RM0260</subfield>
+    <subfield code="2">RMS H8</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca medica statale. Roma</subfield>
+    <subfield code="1">RM0263</subfield>
+    <subfield code="2">RML 05</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Casanatense. Roma</subfield>
+    <subfield code="1">RM0313</subfield>
+    <subfield code="2">RML 07</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Gambalunghiana. Rimini</subfield>
+    <subfield code="1">RN0013</subfield>
+    <subfield code="2">RAV RI</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">British Library. London</subfield>
+    <subfield code="1">UK0001</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Bertoliana. Vicenza</subfield>
+    <subfield code="1">VI0096</subfield>
+    <subfield code="2">VIA BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca capitolare. Verona</subfield>
+    <subfield code="1">VR0056</subfield>
+    <subfield code="2">VIA VC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Verona</subfield>
+    <subfield code="1">VR0059</subfield>
+    <subfield code="2">ZVR 02</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001248</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Nel coloph.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000944</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001248</subfield>
+    <subfield code="b">Serpenti emergenti dalle acque guardano la riva. Sullo sfondo montagne e nuvole</subfield>
+    <subfield code="c">U246</subfield>
+    <subfield code="d">Dimensioni: 4 x 3,8 cm</subfield>
+    <subfield code="f">SERPENTI</subfield>
+    <subfield code="f">MONTAGNE</subfield>
+    <subfield code="g">1600</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000944</subfield>
+    <subfield code="b">Nido su albero con uccello che guarda verso il vento che soffia. In cornice figurata. In basso, in ovale un orso e tre stelle.</subfield>
+    <subfield code="e">Hoc flante citius</subfield>
+    <subfield code="c">V545</subfield>
+    <subfield code="c">Z898</subfield>
+    <subfield code="d">Dimensioni: 6 x 7</subfield>
+    <subfield code="f">HOCFLANTEC</subfield>
+    <subfield code="f">NIDO</subfield>
+    <subfield code="f">UCCELLO</subfield>
+    <subfield code="f">ORSO</subfield>
+    <subfield code="f">VENTO</subfield>
+    <subfield code="g">1598-1600</subfield>
+  </datafield>
+</record>
+</collection>

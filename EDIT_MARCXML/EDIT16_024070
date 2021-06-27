@@ -1,0 +1,73 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00948na 0a22002051i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\024070</controlfield>
+  <controlfield tag="005">20100315000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970724             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Stimulus amoris</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Bonaventura</subfield>
+    <subfield code="c"> : da#Bagnorea</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001077</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Giacomo</subfield>
+    <subfield code="c"> : da#Milano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\028434</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Henri</subfield>
+    <subfield code="c"> : de#Baume</subfield>
+    <subfield code="3">IT\ICCU\CNCA\028443</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Bonaventura</subfield>
+    <subfield code="c"> : da#Bagnoregio</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012695</subfield>
+    <subfield code="z">Bonaventura : da#Bagnorea &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Eutichio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018565</subfield>
+    <subfield code="z">Bonaventura : da#Bagnorea &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Giovanni Pietro</subfield>
+    <subfield code="c"> : di#Fidenza</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018566</subfield>
+    <subfield code="z">Bonaventura : da#Bagnorea &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Jacobus</subfield>
+    <subfield code="c"> : Mediolanensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\028435</subfield>
+    <subfield code="z">Giacomo : da#Milano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Henricus</subfield>
+    <subfield code="c"> : de#Balma</subfield>
+    <subfield code="3">IT\ICCU\CNCA\028445</subfield>
+    <subfield code="z">Henri : de#Baume</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Baume,</subfield>
+    <subfield code="b">Henri : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\028446</subfield>
+    <subfield code="z">Henri : de#Baume</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,135 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02162nam0a2200361 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\017180</controlfield>
+  <controlfield tag="005">20150604000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">a-t- o.o: o.o, quco (3) 1600 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1600        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Palermo triunfante. Di don Vincenzo Di Giouanni, e Carretto, gentil&apos;huomo palermitano, e dottor di lege. Oue si scriue la famosissima guerra tra i palermitani, e i cartaginesi</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Palermo</subfield>
+    <subfield code="c">per Gio. Battista Maringo</subfield>
+    <subfield code="d">1600</subfield>
+    <subfield code="h">In Palermo</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\6!, 133, \1! p.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Per l&apos;autore cfr.: G. M. Mira, Bibliografia siciliana ovvero gran dizionario bibliografico delle opere edite e inedite, antiche e moderne di autori siciliani</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Palermo</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Di_Giovanni,</subfield>
+    <subfield code="b">Girolamo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004830</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Di_Giovanni,</subfield>
+    <subfield code="b">Vincenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004456</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Maringo, Giovanni Battista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001070</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Di_Giovanni e Carretto,</subfield>
+    <subfield code="b">Girolamo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013915</subfield>
+    <subfield code="z">Di_Giovanni, Girolamo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Di_Giovanni e Carretto,</subfield>
+    <subfield code="b">Vincenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004831</subfield>
+    <subfield code="z">Di_Giovanni, Vincenzo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Maringhus, Ioannes Baptista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005034</subfield>
+    <subfield code="z">Maringo, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Maringhi, Baptista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005035</subfield>
+    <subfield code="z">Maringo, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Braidense. Milano</subfield>
+    <subfield code="1">MI0185</subfield>
+    <subfield code="2">MIL NB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Santa Maria La Nuova. Monreale</subfield>
+    <subfield code="1">PA0057</subfield>
+    <subfield code="2">PAL 55</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Palermo</subfield>
+    <subfield code="1">PA0063</subfield>
+    <subfield code="2">PA1 CP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca centrale della Regione siciliana Alberto Bombace. Palermo</subfield>
+    <subfield code="1">PA0064</subfield>
+    <subfield code="2">PAL BP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Classense. Ravenna</subfield>
+    <subfield code="1">RA0036</subfield>
+    <subfield code="2">RAV CL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Istituto archeologico germanico. Roma</subfield>
+    <subfield code="1">RM0676</subfield>
+    <subfield code="2">ZRM 76</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000389</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000389</subfield>
+    <subfield code="b">Compasso, tenuto da mano uscente da nuvola, che traccia un cerchio su base esagonale.</subfield>
+    <subfield code="e">Dove natura manca supplisce l&apos;arte.</subfield>
+    <subfield code="c">A46</subfield>
+    <subfield code="c">Z373</subfield>
+    <subfield code="f">CERCHIO</subfield>
+    <subfield code="f">COMPASSO</subfield>
+    <subfield code="f">DOVENATURA</subfield>
+    <subfield code="f">MANO</subfield>
+    <subfield code="f">NUVOLA</subfield>
+    <subfield code="g">1598-1600</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,97 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01464nam0a22002891i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\034722</controlfield>
+  <controlfield tag="005">20080201000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">emut .*3. reus telu (3) 1598 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19980107d1598        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Commentarius in sex priores Galeni libros methodi medendi autore Fabio Pacio philosopho, ac medico Vicetino. Secundo editus. Cum triplici indice</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Vicetiae</subfield>
+    <subfield code="c">typis Georgii Graeci</subfield>
+    <subfield code="d">1598</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\22! c., 1268 \i.e. 1266! col., \1! c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Vicenza</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Pace,</subfield>
+    <subfield code="b">Fabio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007409</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Galenus,</subfield>
+    <subfield code="b">Claudius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000093</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Greco, Giorgio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000092</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Galeno,</subfield>
+    <subfield code="b">Claudio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014027</subfield>
+    <subfield code="z">Galenus, Claudius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Galeno</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025929</subfield>
+    <subfield code="z">Galenus, Claudius</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Graecus, Georgius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005047</subfield>
+    <subfield code="z">Greco, Giorgio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca delle Facolt ̉di giurisprudenza e di lettere e filosofia dell&apos;Universit ̉degli studi di Milano. Milano</subfield>
+    <subfield code="1">MI0190</subfield>
+    <subfield code="2">USM A6</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Centro APICE - Archivi della parola, dell&apos;immagine e della comunicazione editoriale dell&apos;Universit ̉degli studi di Milano. Milano</subfield>
+    <subfield code="1">MI1289</subfield>
+    <subfield code="2">USM S6</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Padova</subfield>
+    <subfield code="1">PD0090</subfield>
+    <subfield code="2">PUV 55</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Collegio Ghislieri. Pavia</subfield>
+    <subfield code="1">PV0079</subfield>
+    <subfield code="2">PAV C2</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Bertoliana. Vicenza</subfield>
+    <subfield code="1">VI0096</subfield>
+    <subfield code="2">VIA BE</subfield>
+  </datafield>
+</record>
+</collection>

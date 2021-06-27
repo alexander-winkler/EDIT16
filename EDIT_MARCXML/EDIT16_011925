@@ -1,0 +1,109 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01774nam0a2200313 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\011925</controlfield>
+  <controlfield tag="005">20200701000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">s.s. i.s. s.o. rive (7) 1511 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1511        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Libellus cathecuminorum exacta diligentia jmpressum \!! cum additionibus quampluribus: Euangelijs de passione, sermonibus mortuorum et nuptiarum, quae in alijs non sunt impressa</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">\Brescia</subfield>
+    <subfield code="c">Giovanni Pietro Pezzoni!</subfield>
+    <subfield code="e">Impressum Brixiae</subfield>
+    <subfield code="g">per Joannem Petrum Pezonum</subfield>
+    <subfield code="e">Collibus impressum</subfield>
+    <subfield code="h">1511 die xiiij Augusti</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\8!, 28 c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Stampato a Collio da Maffeo Fracassini; cfr.: E. Sandal. La stampa a Brescia nel Cinquecento. Notizie storiche e annali tipografici (1501-1553), p. 69</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2="0">
+    <subfield code="3">IT\ICCU\CNCE\037225</subfield>
+    <subfield code="a">Rituale</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Brescia</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Chiesa cattolica</subfield>
+    <subfield code="3">6731</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Pezzoni, Giovanni Pietro</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000687</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Fracassini, Maffeo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000462</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pezonus, Ioannes Petrus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002507</subfield>
+    <subfield code="z">Pezzoni, Giovanni Pietro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pezoni, Giovanni Pietro</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005415</subfield>
+    <subfield code="z">Pezzoni, Giovanni Pietro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Fracacinus, Mapheus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003810</subfield>
+    <subfield code="z">Fracassini, Maffeo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Fracacinis, Mapheus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005696</subfield>
+    <subfield code="z">Fracassini, Maffeo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Fondazione Ugo da Como. Lonato</subfield>
+    <subfield code="1">BS0092</subfield>
+    <subfield code="2">LO1 18</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000841</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000841</subfield>
+    <subfield code="b">Aquila ad ali spiegate con gli artigli sul globo. Tra le zampe un nastro con le iniziali: Z P</subfield>
+    <subfield code="c">Z114</subfield>
+    <subfield code="d">Dimensioni: 4,8 x 5,6</subfield>
+    <subfield code="f">AQUILA</subfield>
+    <subfield code="f">GLOBO</subfield>
+    <subfield code="f">ZP</subfield>
+    <subfield code="g">1508-1520</subfield>
+  </datafield>
+</record>
+</collection>

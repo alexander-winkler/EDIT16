@@ -1,0 +1,112 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01601nam0a2200325 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\015257</controlfield>
+  <controlfield tag="005">19970101000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">ista anm&amp; a-er *cma (C) 1580 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1580        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Annibalis Cornacoei casulani ℗De legum laudibus oratio in gymnasio patauino habita</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Patauii</subfield>
+    <subfield code="c">apud Laurentium Pasquatum</subfield>
+    <subfield code="d">1580</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\8! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Padova</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Cornacchia,</subfield>
+    <subfield code="b">Annibale</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003825</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Pasquato, Lorenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000004</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Cornacoeus,</subfield>
+    <subfield code="b">Annibal</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013963</subfield>
+    <subfield code="z">Cornacchia, Annibale</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Paschatius, Laurentius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002466</subfield>
+    <subfield code="z">Pasquato, Lorenzo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pasqualius, Laurentius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004022</subfield>
+    <subfield code="z">Pasquato, Lorenzo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pasquale, Lorenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004023</subfield>
+    <subfield code="z">Pasquato, Lorenzo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pasquatus, Laurentius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005296</subfield>
+    <subfield code="z">Pasquato, Lorenzo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pasquatius, Laurentius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005297</subfield>
+    <subfield code="z">Pasquato, Lorenzo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pasquatto, Lorenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005298</subfield>
+    <subfield code="z">Pasquato, Lorenzo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pasquati, Lorenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005299</subfield>
+    <subfield code="z">Pasquato, Lorenzo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale dell&apos;Archiginnasio. Bologna</subfield>
+    <subfield code="1">BO0304</subfield>
+    <subfield code="2">UBO GA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario Vescovile della Facolt ̉Teologica del Triveneto dell&apos;Istituto Filosofico Aloisianum. Padova</subfield>
+    <subfield code="1">PD0073</subfield>
+    <subfield code="2">PUV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Classense. Ravenna</subfield>
+    <subfield code="1">RA0036</subfield>
+    <subfield code="2">RAV CL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca d&apos;arte del Museo civico Correr. Venezia</subfield>
+    <subfield code="1">VE0039</subfield>
+    <subfield code="2">VEA BC</subfield>
+  </datafield>
+</record>
+</collection>

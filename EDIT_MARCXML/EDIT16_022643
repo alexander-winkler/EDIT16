@@ -1,0 +1,433 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>06431nam0a2201081 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\022643</controlfield>
+  <controlfield tag="005">20110413000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">ata- iss- Sium liSi (3) 1575 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1575        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Heronis Alexandrini ℗Spiritalium liber. A Federico Commandino Vrbinate, ex Graeco nuper in Latinum conuersus</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Urbini</subfield>
+    <subfield code="d">1575</subfield>
+    <subfield code="e">Urbini</subfield>
+    <subfield code="h">1575</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\2!, 70 \i.e. 80! c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Stampata da Domenico Frisolino; per il tipografo cfr.: L. Moranti, L&apos;arte tipografica in Urbino (1493-1800), n. 5</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Urbino</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Hero</subfield>
+    <subfield code="c"> : Alexandrinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006483</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Commandino,</subfield>
+    <subfield code="b">Federico</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000220</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Frisolino, Domenico</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001911</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Erone</subfield>
+    <subfield code="c"> : di#Alessandria</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014189</subfield>
+    <subfield code="z">Hero : Alexandrinus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Herone</subfield>
+    <subfield code="c"> : Alessandrino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014364</subfield>
+    <subfield code="z">Hero : Alexandrinus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Herrone</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014365</subfield>
+    <subfield code="z">Hero : Alexandrinus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Heron</subfield>
+    <subfield code="c"> : Alexandrinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014371</subfield>
+    <subfield code="z">Hero : Alexandrinus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Commandini,</subfield>
+    <subfield code="b">Federico</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013347</subfield>
+    <subfield code="z">Commandino, Federico</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Commandinus,</subfield>
+    <subfield code="b">Federicus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013348</subfield>
+    <subfield code="z">Commandino, Federico</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Frisolini, Domenico</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005719</subfield>
+    <subfield code="z">Frisolino, Domenico</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Collezione digitale estera. </subfield>
+    <subfield code="1">AA0000</subfield>
+    <subfield code="2">ZAA 00</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Luciano Benincasa. Ancona</subfield>
+    <subfield code="1">AN0001</subfield>
+    <subfield code="2">URB BA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Francesco Cini. Osimo</subfield>
+    <subfield code="1">AN0054</subfield>
+    <subfield code="2">URB B2</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Romolo Spezioli. Fermo</subfield>
+    <subfield code="1">AP0012</subfield>
+    <subfield code="2">UMC FM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca citt ̉di Arezzo. Arezzo</subfield>
+    <subfield code="1">AR0070</subfield>
+    <subfield code="2">RT1 QA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale Scipione e Giulio Capone. Avellino</subfield>
+    <subfield code="1">AV0007</subfield>
+    <subfield code="2">NAP AV</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Imola</subfield>
+    <subfield code="1">BO0199</subfield>
+    <subfield code="2">UBO BC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale dell&apos;Archiginnasio. Bologna</subfield>
+    <subfield code="1">BO0304</subfield>
+    <subfield code="2">UBO GA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Cagliari</subfield>
+    <subfield code="1">CA0194</subfield>
+    <subfield code="2">CAG UC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale. Cremona</subfield>
+    <subfield code="1">CR0062</subfield>
+    <subfield code="2">LO1 28</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Civica Umberto Caldora. Castrovillari</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">CS0026</subfield>
+    <subfield code="2">RCA 30</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca regionale universitaria. Catania</subfield>
+    <subfield code="1">CT0062</subfield>
+    <subfield code="2">PAL BC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Alceste e Remigio Roccella. Piazza Armerina</subfield>
+    <subfield code="1">EN0018</subfield>
+    <subfield code="2">ZEN 04</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Malatestiana. Cesena</subfield>
+    <subfield code="1">FC0011</subfield>
+    <subfield code="2">RAV CS</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Ariostea. Ferrara</subfield>
+    <subfield code="1">FE0017</subfield>
+    <subfield code="2">UFE AR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Firenze</subfield>
+    <subfield code="1">FI0098</subfield>
+    <subfield code="2">CFI CF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Marucelliana. Firenze</subfield>
+    <subfield code="1">FI0101</subfield>
+    <subfield code="2">CFI MF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca umanistica. Sede di Lettere. Firenze</subfield>
+    <subfield code="1">FI0211</subfield>
+    <subfield code="2">UFI LT</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Genova</subfield>
+    <subfield code="1">GE0038</subfield>
+    <subfield code="2">LIG 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Labronica Francesco Domenico Guerrazzi. Livorno</subfield>
+    <subfield code="1">LI0011</subfield>
+    <subfield code="2">LIA FA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale. Lucca</subfield>
+    <subfield code="1">LU0022</subfield>
+    <subfield code="2">LUA BL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Ambrosiana. Milano</subfield>
+    <subfield code="1">MI0133</subfield>
+    <subfield code="2">VBA 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Braidense. Milano</subfield>
+    <subfield code="1">MI0185</subfield>
+    <subfield code="2">MIL NB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca e archivio. Civica raccolta delle stampe Achille Bertarelli. Milano</subfield>
+    <subfield code="1">MI0281</subfield>
+    <subfield code="2">LO1 81</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Osservatorio astronomico di Brera. Milano</subfield>
+    <subfield code="1">MI0293</subfield>
+    <subfield code="2">ZMI 39</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca e Archivio dell&apos;Istituto lombardo Accademia di scienze e lettere. Milano</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">MI0306</subfield>
+    <subfield code="2">ZMI 26</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Archivio storico civico e Biblioteca Trivulziana. Milano</subfield>
+    <subfield code="1">MI0327</subfield>
+    <subfield code="2">LO1 13</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Museo nazionale della scienza e della tecnologia Leonardo da Vinci. Milano</subfield>
+    <subfield code="1">MI0338</subfield>
+    <subfield code="2">ZMI 13</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Teresiana. Mantova</subfield>
+    <subfield code="1">MN0035</subfield>
+    <subfield code="2">LO1 12</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca musicale Opera pia Greggiati. Ostiglia</subfield>
+    <subfield code="1">MN0052</subfield>
+    <subfield code="2">ZMN 05</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Napoli</subfield>
+    <subfield code="1">NA0070</subfield>
+    <subfield code="2">NAP BU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Carlo Negroni. Novara</subfield>
+    <subfield code="1">NO0054</subfield>
+    <subfield code="2">TO0 08</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca centrale della Regione siciliana Alberto Bombace. Palermo</subfield>
+    <subfield code="1">PA0064</subfield>
+    <subfield code="2">PAL BP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Passerini Landi. Piacenza</subfield>
+    <subfield code="1">PC0030</subfield>
+    <subfield code="2">PIA PL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Padova</subfield>
+    <subfield code="1">PD0090</subfield>
+    <subfield code="2">PUV 55</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Padova</subfield>
+    <subfield code="1">PD0158</subfield>
+    <subfield code="2">PUV 00</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Assisi</subfield>
+    <subfield code="1">PG0001</subfield>
+    <subfield code="2">UM1 10</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Augusta. Perugia</subfield>
+    <subfield code="1">PG0109</subfield>
+    <subfield code="2">UM1 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Pisa</subfield>
+    <subfield code="1">PI0112</subfield>
+    <subfield code="2">PIS R1</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca capitolare Fabroniana. Pistoia</subfield>
+    <subfield code="1">PT0026</subfield>
+    <subfield code="2">RT1 LB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Oliveriana. Pesaro</subfield>
+    <subfield code="1">PU0061</subfield>
+    <subfield code="2">URB OL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca centrale dell&apos;Area umanistica dell&apos;Universit ̉degli studi di Urbino. Urbino</subfield>
+    <subfield code="1">PU0206</subfield>
+    <subfield code="2">URB AU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Pavia</subfield>
+    <subfield code="1">PV0291</subfield>
+    <subfield code="2">MIL UP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Fabrizio Trisi. Lugo</subfield>
+    <subfield code="1">RA0025</subfield>
+    <subfield code="2">RAV CE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Classense. Ravenna</subfield>
+    <subfield code="1">RA0036</subfield>
+    <subfield code="2">RAV CL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca  Panizzi. Reggio Emilia</subfield>
+    <subfield code="1">RE0052</subfield>
+    <subfield code="2">RE2 PA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Osservatorio astronomico di Roma. Sede di Roma. Roma</subfield>
+    <subfield code="1">RM0160</subfield>
+    <subfield code="2">RMS F6</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca romana Antonio Sarti. Roma</subfield>
+    <subfield code="1">RM0276</subfield>
+    <subfield code="2">ZRM 25</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria Alessandrina. Roma</subfield>
+    <subfield code="1">RM0280</subfield>
+    <subfield code="2">RML 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Angelica. Roma</subfield>
+    <subfield code="1">RM0290</subfield>
+    <subfield code="2">RML 06</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Casanatense. Roma</subfield>
+    <subfield code="1">RM0313</subfield>
+    <subfield code="2">RML 07</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Accademia nazionale dei Lincei e Corsiniana. Roma</subfield>
+    <subfield code="1">RM0418</subfield>
+    <subfield code="2">RML 10</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Dipartimento di matematica Guido Castelnuovo dell&apos;Universit ̉degli studi di Roma La Sapienza. Roma</subfield>
+    <subfield code="1">RM1186</subfield>
+    <subfield code="2">RMS 45</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Memoria. Roma</subfield>
+    <subfield code="1">RM1909</subfield>
+    <subfield code="2">IEI MM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Gambalunghiana. Rimini</subfield>
+    <subfield code="1">RN0013</subfield>
+    <subfield code="2">RAV RI</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Abbazia di Monte Oliveto Maggiore. Asciano</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">SI0003</subfield>
+    <subfield code="2">ZSI 04</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale degli Intronati. Siena</subfield>
+    <subfield code="1">SI0046</subfield>
+    <subfield code="2">RT1 QI</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica A. Hortis. Trieste</subfield>
+    <subfield code="1">TS0013</subfield>
+    <subfield code="2">TSA BC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Treviso</subfield>
+    <subfield code="1">TV0114</subfield>
+    <subfield code="2">VIA CT</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Arcivescovile. Udine</subfield>
+    <subfield code="1">UD0100</subfield>
+    <subfield code="2">ZUD 11</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">British Library. London</subfield>
+    <subfield code="1">UK0001</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Marciana. Venezia</subfield>
+    <subfield code="1">VE0049</subfield>
+    <subfield code="2">VEA BM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Verona</subfield>
+    <subfield code="1">VR0061</subfield>
+    <subfield code="2">PBE 83</subfield>
+  </datafield>
+</record>
+</collection>

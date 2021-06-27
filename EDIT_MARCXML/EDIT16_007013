@@ -1,0 +1,141 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02578nam0a2200349 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\007013</controlfield>
+  <controlfield tag="005">20091124000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">V.I. .oD. m*a. uobr (3) 1565 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1565        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Prosperi Boni ℗Tyrocinium nouiter correctum, et emendatum, variisque, et multis erroribus antea plenum, nunc illustratum. Huic nouiter additus est index copiosissimus nominum, &amp; verborum utriusque linguae, scilicet Italae, atque Latinae, ac nonnullae etiam addite in marginibus annotationes perutiles, &amp; necessariae. Auctore Marco Antonio Bellina</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud Io. Bapt.</subfield>
+    <subfield code="d">&amp; Melch. Sessam &amp; fratres</subfield>
+    <subfield code="e">In Venetia</subfield>
+    <subfield code="g">appresso Gio. Battista</subfield>
+    <subfield code="h">Marchio Sessa</subfield>
+    <subfield code="h">&amp; fratelli</subfield>
+    <subfield code="h">1565</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">407 p.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">A p. 285 con front. proprio: Compendio, et indice di quanto nel Tirocinio si contiene, raccolto dal reuerendo donno Marco Antonio Bellina da Campobasso; e posto per ordine d&apos;alfabeto a commune utilit ̉de&apos; principianti</subfield>
+  </datafield>
+  <datafield tag="423" ind1=" " ind2="0">
+    <subfield code="1">001IT\ICCU\CNCE\026387</subfield>
+    <subfield code="1">2001 </subfield>
+    <subfield code="a">Compendio, et indice di quanto nel Tirocinio si contiene, raccolto dal reuerendo donno Marco Antonio Bellina da Campobasso</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Bono,</subfield>
+    <subfield code="b">Prospero</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001881</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Bellina,</subfield>
+    <subfield code="b">Marcantonio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001215</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Sessa, Giovanni Battista &lt;2.&gt; &amp; Sessa, Melchiorre &lt;2.&gt; &amp; fratelli</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000497</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Rampazetto, Francesco</subfield>
+    <subfield code="c"> &lt;1.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000034</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Sessa, Melchiorre &lt;2.&gt; &amp; fratelli</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000498</subfield>
+    <subfield code="z">Sessa, Giovanni Battista &lt;2.&gt; &amp; Sessa, Melchiorre &lt;2.&gt; &amp; fratelli</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Rampazzetto Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005286</subfield>
+    <subfield code="z">Rampazetto, Francesco &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Rampazetus, Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005287</subfield>
+    <subfield code="z">Rampazetto, Francesco &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Marco Gatti. Manduria</subfield>
+    <subfield code="1">TA0008</subfield>
+    <subfield code="2">TA1 22</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Terni</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">TR0032</subfield>
+    <subfield code="2">UM1 09</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;ex Seminario vescovile. Amelia</subfield>
+    <subfield code="1">TR0037</subfield>
+    <subfield code="2">ZTR 06</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">nel front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000324</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front. a p. 285</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000163</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000324</subfield>
+    <subfield code="b">Pegaso in volo. Sullo sfondo una citt ̉e montagne. In cornice figurata</subfield>
+    <subfield code="c">A81</subfield>
+    <subfield code="c">T32</subfield>
+    <subfield code="c">Z940</subfield>
+    <subfield code="d">Dimensioni: 5,2 x 6</subfield>
+    <subfield code="f">CAVALLO</subfield>
+    <subfield code="f">CITTW1A0AM</subfield>
+    <subfield code="f">ONTAGNE</subfield>
+    <subfield code="f">PEGASO</subfield>
+    <subfield code="g">1558-1568</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000163</subfield>
+    <subfield code="b">Due putti alati sulle nuvole tengono in alto due corone d&apos;alloro. In cornice</subfield>
+    <subfield code="e">Et animo et corpori</subfield>
+    <subfield code="c">V439</subfield>
+    <subfield code="d">Dimensioni: 5,2 x 6,1</subfield>
+    <subfield code="f">ALLORO</subfield>
+    <subfield code="f">AMORINI</subfield>
+    <subfield code="f">CORONE</subfield>
+    <subfield code="f">ETANIMOETC</subfield>
+    <subfield code="f">NUVOLE</subfield>
+    <subfield code="g">1561-1591</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,108 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01526nam0a22003131i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\038163</controlfield>
+  <controlfield tag="005">20021120000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">l-la ,&amp;la ioo, rate (3) 1584 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19981027d1584        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Breue istruttione de&apos; confessori ... del ... p. Bartolomeo de Medina ... Tradotta dalla lingua spagnuola nella italiana. Con due ... tauole</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Bergamo</subfield>
+    <subfield code="c">appresso Comino Ventura</subfield>
+    <subfield code="d">1584</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\32!, 312 c.</subfield>
+    <subfield code="d">16ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">ANNULLATA !!!!!!   vedi  53408</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Bergamo</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Medina,</subfield>
+    <subfield code="b">Bartolom ̌: de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006770</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Ventura, Comino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000028</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Bartholomaeus</subfield>
+    <subfield code="c"> : a#Medina</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007425</subfield>
+    <subfield code="z">Medina, Bartolom ̌: de</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a"></subfield>
+    <subfield code="c"> : de#Medina</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007426</subfield>
+    <subfield code="z">Medina, Bartolom ̌: de</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Medina,</subfield>
+    <subfield code="b"></subfield>
+    <subfield code="3">IT\ICCU\CNCA\021139</subfield>
+    <subfield code="z">Medina, Bartolom ̌: de</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Medina,</subfield>
+    <subfield code="b">Bartolomeo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021141</subfield>
+    <subfield code="z">Medina, Bartolom ̌: de</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Sassoferrato</subfield>
+    <subfield code="1">AN0065</subfield>
+    <subfield code="2">URB SV</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Antonelliana. Senigallia</subfield>
+    <subfield code="1">AN0069</subfield>
+    <subfield code="2">URB BS</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca pubblica del Convento dei padri cappuccini. Leonforte</subfield>
+    <subfield code="1">EN0031</subfield>
+    <subfield code="2">ZEN 08</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca francescano-cappuccina provinciale. Milano</subfield>
+    <subfield code="1">MI0183</subfield>
+    <subfield code="2">ZMI 51</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Foligno</subfield>
+    <subfield code="1">PG0035</subfield>
+    <subfield code="2">UM1 04</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Ludovico Jacobilli del Seminario vescovile. Foligno</subfield>
+    <subfield code="1">PG0040</subfield>
+    <subfield code="2">UM1 39</subfield>
+  </datafield>
+</record>
+</collection>

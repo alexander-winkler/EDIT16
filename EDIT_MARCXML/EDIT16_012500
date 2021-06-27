@@ -1,0 +1,175 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02458nam0a2200457 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\012500</controlfield>
+  <controlfield tag="005">20181107000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">t.um r,i, dol- moga (3) 1591 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1591        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗M. Tullii Ciceronis ℗Epistolae ad Atticum ad Brutum ad Q. fratrem. Cum correctionibus Paulli Manutij</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Romae</subfield>
+    <subfield code="c">apud Iacobum Tornerium</subfield>
+    <subfield code="d">1591</subfield>
+    <subfield code="e">Romae</subfield>
+    <subfield code="g">apud Iacobum Ruffinellum</subfield>
+    <subfield code="h">1591</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">600, \34! p.</subfield>
+    <subfield code="d">16ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Roma</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Cicero,</subfield>
+    <subfield code="b">Marcus Tullius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002170</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Manuzio,</subfield>
+    <subfield code="b">Paolo</subfield>
+    <subfield code="c"> &lt;1512-1574&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000321</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Tornieri, Giacomo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000137</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Ruffinelli, Giacomo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000138</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Tullius Cicero,</subfield>
+    <subfield code="b">Marcus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020042</subfield>
+    <subfield code="z">Cicero, Marcus Tullius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Manutius,</subfield>
+    <subfield code="b">Paulus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019615</subfield>
+    <subfield code="z">Manuzio, Paolo &lt;1512-1574&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Manuce,</subfield>
+    <subfield code="b">Paul</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019616</subfield>
+    <subfield code="z">Manuzio, Paolo &lt;1512-1574&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Tornerius, Iacobus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004126</subfield>
+    <subfield code="z">Tornieri, Giacomo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Roffinello, Giacomo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002579</subfield>
+    <subfield code="z">Ruffinelli, Giacomo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ruffinello, Giacomo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005430</subfield>
+    <subfield code="z">Ruffinelli, Giacomo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ruffinellus, Iacobus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005433</subfield>
+    <subfield code="z">Ruffinelli, Giacomo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Giulio Gabrielli. Ascoli Piceno</subfield>
+    <subfield code="1">AP0006</subfield>
+    <subfield code="2">UMC AP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Malatestiana. Cesena</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">FC0011</subfield>
+    <subfield code="2">RAV CS</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca don Giovanni Verit ̉del Comune e dell&apos;Accademia degli Incamminati. Modigliana</subfield>
+    <subfield code="1">FC0038</subfield>
+    <subfield code="2">RAV MD</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Alessandro Manzoni. Merate</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">LC0044</subfield>
+    <subfield code="2">ZLC 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca S. Maria del Paradiso. Tocco da Casauria</subfield>
+    <subfield code="1">PE0052</subfield>
+    <subfield code="2">ZPE 03</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca cardinale Gaetano Cicognani. Faenza</subfield>
+    <subfield code="1">RA0017</subfield>
+    <subfield code="2">RAV SC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Civica Giuseppe Cultrera. Leonessa</subfield>
+    <subfield code="1">RI0070</subfield>
+    <subfield code="2">RL1 S7</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Pontificio Ateneo Antonianum. Roma</subfield>
+    <subfield code="1">RM0692</subfield>
+    <subfield code="2">ZRM 44</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Ezio Vanoni. Morbegno</subfield>
+    <subfield code="1">SO0061</subfield>
+    <subfield code="2">ZSO 06</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Terni</subfield>
+    <subfield code="1">TR0032</subfield>
+    <subfield code="2">UM1 09</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca diocesana  Beata Lucia Broccadelli. Narni</subfield>
+    <subfield code="1">TR0059</subfield>
+    <subfield code="2">UM1 77</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Verona</subfield>
+    <subfield code="1">VR0059</subfield>
+    <subfield code="2">ZVR 02</subfield>
+  </datafield>
+</record>
+</collection>

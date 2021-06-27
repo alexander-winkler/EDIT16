@@ -1,0 +1,193 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02799nam0a2200505 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\020011</controlfield>
+  <controlfield tag="005">20070212000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">ucta ner, ledo 59so (3) 1565 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1565        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Summa quae aurea armilla inscribitur Bartholomaei Fumi Placentini, Ordinis praedicatorum, ac haereticae prauitatis inquisitoris, breuiter strictimque omnia continens, quae in iure canonico apud theologos, et omnes summas circa animarum curam diffuse disperseque tractantur</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud Hieronymum Caualcalupum</subfield>
+    <subfield code="d">1565</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">476, \4! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Fumo,</subfield>
+    <subfield code="b">Bartolomeo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005611</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Cavalcalupo, Girolamo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000657</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Fumus,</subfield>
+    <subfield code="b">Bartholomaeus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019242</subfield>
+    <subfield code="z">Fumo, Bartolomeo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Fumi,</subfield>
+    <subfield code="b">Bartolommeo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019243</subfield>
+    <subfield code="z">Fumo, Bartolomeo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Cavalcalupus, Hieronymus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004551</subfield>
+    <subfield code="z">Cavalcalupo, Girolamo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Cavalcalovo, Geronimo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004552</subfield>
+    <subfield code="z">Cavalcalupo, Girolamo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Cupramontana</subfield>
+    <subfield code="1">AN0031</subfield>
+    <subfield code="2">URB C4</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale Salvatore Tommasi. Bazzano</subfield>
+    <subfield code="1">AQ0047</subfield>
+    <subfield code="2">ABR PR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Forl</subfield>
+    <subfield code="1">FC0021</subfield>
+    <subfield code="2">ZFC 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Istituto di beneficenza Prati. Forl</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">FC0090</subfield>
+    <subfield code="2">ZFC 08</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale Laurenziana. Napoli</subfield>
+    <subfield code="1">NA0074</subfield>
+    <subfield code="2">NAP 91</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Francesco Melosio. Citt ̉della Pieve</subfield>
+    <subfield code="1">PG0031</subfield>
+    <subfield code="2">UM1 14</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Foligno</subfield>
+    <subfield code="1">PG0035</subfield>
+    <subfield code="2">UM1 04</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Oasis. Perugia</subfield>
+    <subfield code="1">PG0149</subfield>
+    <subfield code="2">UM1 44</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca diocesana. Todi</subfield>
+    <subfield code="1">PG0173</subfield>
+    <subfield code="2">PBE 33</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Federiciana. Fano</subfield>
+    <subfield code="1">PU0018</subfield>
+    <subfield code="2">URB FN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Pavia</subfield>
+    <subfield code="1">PV0291</subfield>
+    <subfield code="2">MIL UP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Classense. Ravenna</subfield>
+    <subfield code="1">RA0036</subfield>
+    <subfield code="2">RAV CL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Gambalunghiana. Rimini</subfield>
+    <subfield code="1">RN0013</subfield>
+    <subfield code="2">RAV RI</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Antonio Baldini. Santarcangelo di Romagna</subfield>
+    <subfield code="1">RN0028</subfield>
+    <subfield code="2">RAV ST</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Adria</subfield>
+    <subfield code="1">RO0002</subfield>
+    <subfield code="2">ROV AD</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Rovigo</subfield>
+    <subfield code="1">RO0042</subfield>
+    <subfield code="2">ROV SV</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale. Salerno</subfield>
+    <subfield code="1">SA0063</subfield>
+    <subfield code="2">CAM PS</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Fardelliana. Trapani</subfield>
+    <subfield code="1">TP0022</subfield>
+    <subfield code="2">TPS BF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Treviso</subfield>
+    <subfield code="1">TV0114</subfield>
+    <subfield code="2">VIA CT</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca consorziale di Viterbo. Viterbo</subfield>
+    <subfield code="1">VT0116</subfield>
+    <subfield code="2">RMS B3</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000782</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000782</subfield>
+    <subfield code="b">Guerriero cavalca un lupo.</subfield>
+    <subfield code="c">Q37</subfield>
+    <subfield code="c">Z723</subfield>
+    <subfield code="d">Dimensioni: 5,2 x 4,7</subfield>
+    <subfield code="f">GUERRIERO</subfield>
+    <subfield code="f">LUPO</subfield>
+    <subfield code="g">1564-1565</subfield>
+  </datafield>
+</record>
+</collection>

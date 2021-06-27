@@ -1,0 +1,32 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00424na 0a22001211i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\068979</controlfield>
+  <controlfield tag="005">20170111000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20061205             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗I ℗cinque canti di Camillo Camilli aggiunti al Goffredo del sig. Torquato Tasso</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Camilli,</subfield>
+    <subfield code="b">Camillo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000372</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Cammilli,</subfield>
+    <subfield code="b">Cammillo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026251</subfield>
+    <subfield code="z">Camilli, Camillo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

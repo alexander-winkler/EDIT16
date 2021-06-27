@@ -1,0 +1,177 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02485nam0a22004691i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\031797</controlfield>
+  <controlfield tag="005">20160322000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">q-i- lein u-a- eslo (3) 1507 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971206d1507        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Quaestiones Ioannis de Gandauo super tres libros de anima Aristotelis</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Venetiis</subfield>
+    <subfield code="g">arte Simonis de Luere impensa vero Iuncte de Iunctis Florentini</subfield>
+    <subfield code="h">29 Ianuari 1507</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">98 c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Jean</subfield>
+    <subfield code="c"> : de#Jandun</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008140</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Aristoteles</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000006</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">Simone da Lovere</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000598</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Giunta, Giuntino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001219</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Joannes</subfield>
+    <subfield code="c"> : de#Janduno</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020344</subfield>
+    <subfield code="z">Jean : de#Jandun</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Johannes</subfield>
+    <subfield code="c"> : Gandavensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020345</subfield>
+    <subfield code="z">Jean : de#Jandun</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Jandun,</subfield>
+    <subfield code="b">Jean : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020346</subfield>
+    <subfield code="z">Jean : de#Jandun</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Jandonus,</subfield>
+    <subfield code="b">Joannes</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023073</subfield>
+    <subfield code="z">Jean : de#Jandun</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Aristotele</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018928</subfield>
+    <subfield code="z">Aristoteles</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Luere, Simon de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003152</subfield>
+    <subfield code="z">Simone da Lovere</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Simon Luerensis</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005673</subfield>
+    <subfield code="z">Simone da Lovere</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Lovere, Simone de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005674</subfield>
+    <subfield code="z">Simone da Lovere</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Iunctis, Iuncta de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003891</subfield>
+    <subfield code="z">Giunta, Giuntino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Gionta, Giontinus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004920</subfield>
+    <subfield code="z">Giunta, Giuntino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Giunti, Giuntino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004921</subfield>
+    <subfield code="z">Giunta, Giuntino</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Convento della Verna. Chiusi della Verna</subfield>
+    <subfield code="1">AR0029</subfield>
+    <subfield code="2">RT1 CB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Sagarriga Visconti-Volpi. Bari</subfield>
+    <subfield code="1">BA0018</subfield>
+    <subfield code="2">BA1 BA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Francesco Trinchera senior. Ostuni</subfield>
+    <subfield code="1">BR0015</subfield>
+    <subfield code="2">BRI PA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Pontificia Biblioteca Antoniana. Padova</subfield>
+    <subfield code="1">EX0020</subfield>
+    <subfield code="2">PUV 78</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei Cappuccini. Firenze</subfield>
+    <subfield code="1">FI0041</subfield>
+    <subfield code="2">RT1 PC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei Cappuccini liguri. Genova</subfield>
+    <subfield code="1">GE0039</subfield>
+    <subfield code="2">LIG 27</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca regionale universitaria. Messina</subfield>
+    <subfield code="1">ME0050</subfield>
+    <subfield code="2">PAL BM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Classense. Ravenna</subfield>
+    <subfield code="1">RA0036</subfield>
+    <subfield code="2">RAV CL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Leonardo Centonze. Castelvetrano</subfield>
+    <subfield code="1">TP0059</subfield>
+    <subfield code="2">TPS CV</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Marca in finis.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000876</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000876</subfield>
+    <subfield code="b">Torre. Ai lati iniziali Z.Z. o Z.F. In cornice</subfield>
+    <subfield code="c">Z1175</subfield>
+    <subfield code="c">Z1176</subfield>
+    <subfield code="d">Dimensione: 9,2 x 11,4. Con o senza iniziali</subfield>
+    <subfield code="f">TORRE</subfield>
+    <subfield code="g">1507-1510</subfield>
+  </datafield>
+</record>
+</collection>

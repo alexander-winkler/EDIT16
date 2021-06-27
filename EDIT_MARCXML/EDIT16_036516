@@ -1,0 +1,116 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01838nam0a2200313 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\036516</controlfield>
+  <controlfield tag="005">20121114000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">9492 ifam 16r. siAc (C) 1560 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19980514d1560        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Repertorium d. Iasonis de Maino iur. v. doc. clariss. summa diligentia, ac fide ex vetustiss. quibusque necnon recentioribus exemplaribus recognitum, parique labore nunc nuper iusto ordine ita expolitum, &amp; auctum, vt nihil amplius desiderari possit. Accessit index rubri. legum, et paragraphorum totius operis</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">\al segno del Mappamondo!</subfield>
+    <subfield code="d">1560</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\198! c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Del_Maino,</subfield>
+    <subfield code="b">Giasone</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001207</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">℗al segno del ℗Mappamondo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003537</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Dal_Maino,</subfield>
+    <subfield code="b">Giasone</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010187</subfield>
+    <subfield code="z">Del_Maino, Giasone</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Maino,</subfield>
+    <subfield code="b">Giasone : del</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014607</subfield>
+    <subfield code="z">Del_Maino, Giasone</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Maynus,</subfield>
+    <subfield code="b">Giasone : del</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018337</subfield>
+    <subfield code="z">Del_Maino, Giasone</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Maino,</subfield>
+    <subfield code="b">Jason</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018343</subfield>
+    <subfield code="z">Del_Maino, Giasone</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Mainus,</subfield>
+    <subfield code="b">Iason</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022699</subfield>
+    <subfield code="z">Del_Maino, Giasone</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Rubiconia Accademia dei Filopatridi. Savignano sul Rubicone</subfield>
+    <subfield code="1">FC0067</subfield>
+    <subfield code="2">RAV AF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario Vescovile della Facolt ̉Teologica del Triveneto dell&apos;Istituto Filosofico Aloisianum. Padova</subfield>
+    <subfield code="1">PD0073</subfield>
+    <subfield code="2">PUV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Porziuncola. Assisi</subfield>
+    <subfield code="1">PG0179</subfield>
+    <subfield code="2">UM1 36</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Senato della Repubblica Giovanni Spadolini. Roma</subfield>
+    <subfield code="1">RM0427</subfield>
+    <subfield code="2">ZRM 12</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000371</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000371</subfield>
+    <subfield code="b">Mappamondo sormontato da un compasso</subfield>
+    <subfield code="e">Non ultra.</subfield>
+    <subfield code="c">T39</subfield>
+    <subfield code="d">Dimensioni: 4,3 x 4,5</subfield>
+    <subfield code="f">COMPASSO</subfield>
+    <subfield code="f">MAPPAMONDO</subfield>
+    <subfield code="f">NONULTRA</subfield>
+    <subfield code="g">1560-1568</subfield>
+  </datafield>
+</record>
+</collection>

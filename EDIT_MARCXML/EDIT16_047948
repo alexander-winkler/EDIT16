@@ -1,0 +1,38 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00424na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\047948</controlfield>
+  <controlfield tag="005">20030919000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19990311             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Il ℗marito</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Dolce,</subfield>
+    <subfield code="b">Lodovico</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000014</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Dulcius,</subfield>
+    <subfield code="b">Ludovicus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018398</subfield>
+    <subfield code="z">Dolce, Lodovico</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Dolci,</subfield>
+    <subfield code="b">Lodovico</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018400</subfield>
+    <subfield code="z">Dolce, Lodovico</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

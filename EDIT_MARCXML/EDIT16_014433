@@ -1,0 +1,131 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01934nam0a2200373 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\014433</controlfield>
+  <controlfield tag="005">20121205000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">o-a- n-No u-i. este (3) 1575 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1575        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Cronica particolare delle cose fatte dalla citt ̉di Faenza cominciando dal DCC in circa, fin&apos;al MCCXXXVI</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Bologna</subfield>
+    <subfield code="c">per Alessandro Benacci</subfield>
+    <subfield code="d">1575</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">46 c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Traduzione volgare di Gregorio Zuccolo, il cui nome comapre a c. A2r, del Chronicon seu historia Faventinae civitatis di Tolosanus Faventinus, proseguita da un anonimo</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Bologna</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Zuccolo,</subfield>
+    <subfield code="b">Gregorio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009119</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Tolosanus</subfield>
+    <subfield code="c"> : Faventinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\029766</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Benacci, Alessandro</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000020</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Zuccoli,</subfield>
+    <subfield code="b">Gregorio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025529</subfield>
+    <subfield code="z">Zuccolo, Gregorio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Tolosano</subfield>
+    <subfield code="c"> &lt;canonico di Faenza&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\029767</subfield>
+    <subfield code="z">Tolosanus : Faventinus</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Benazzi, Alessandro</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003631</subfield>
+    <subfield code="z">Benacci, Alessandro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Benatius, Alexander</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003647</subfield>
+    <subfield code="z">Benacci, Alessandro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Benacio, Alessandro</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004322</subfield>
+    <subfield code="z">Benacci, Alessandro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Benacius, Alexander</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004323</subfield>
+    <subfield code="z">Benacci, Alessandro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Benaccius, Alexander</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004324</subfield>
+    <subfield code="z">Benacci, Alessandro</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale dell&apos;Archiginnasio. Bologna</subfield>
+    <subfield code="1">BO0304</subfield>
+    <subfield code="2">UBO GA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Braidense. Milano</subfield>
+    <subfield code="1">MI0185</subfield>
+    <subfield code="2">MIL NB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Palatina. Parma</subfield>
+    <subfield code="1">PR0072</subfield>
+    <subfield code="2">PAR PA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Manfrediana. Faenza</subfield>
+    <subfield code="1">RA0016</subfield>
+    <subfield code="2">RAV FA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Senato della Repubblica Giovanni Spadolini. Roma</subfield>
+    <subfield code="1">RM0427</subfield>
+    <subfield code="2">ZRM 12</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Marciana. Venezia</subfield>
+    <subfield code="1">VE0049</subfield>
+    <subfield code="2">VEA BM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca diocesana. Viterbo</subfield>
+    <subfield code="1">VT0125</subfield>
+    <subfield code="2">PBE 68</subfield>
+  </datafield>
+</record>
+</collection>

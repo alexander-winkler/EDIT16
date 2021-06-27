@@ -1,0 +1,110 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01545nam0a2200313 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\012477</controlfield>
+  <controlfield tag="005">19970101000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e.e- s.d- u-er cigi (3) 1585 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1585        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Rhetoricorum ad Herennium libri quatuor. Et M. T. Ciceronis De inuentione libri duo</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetijs</subfield>
+    <subfield code="c">apud Ioan. Gryphium</subfield>
+    <subfield code="d">1585</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">288 p.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Cicero,</subfield>
+    <subfield code="b">Marcus Tullius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002170</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Griffio, Giovanni</subfield>
+    <subfield code="c"> &lt;2.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000552</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Tullius Cicero,</subfield>
+    <subfield code="b">Marcus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020042</subfield>
+    <subfield code="z">Cicero, Marcus Tullius</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Gryphius, Ioannes</subfield>
+    <subfield code="c"> &lt;2.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003896</subfield>
+    <subfield code="z">Griffio, Giovanni &lt;2.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Grifi, Giovanni</subfield>
+    <subfield code="c"> &lt;2&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005188</subfield>
+    <subfield code="z">Griffio, Giovanni &lt;2.&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Ferentino</subfield>
+    <subfield code="1">FR0033</subfield>
+    <subfield code="2">RMS M1</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Labronica Francesco Domenico Guerrazzi. Livorno</subfield>
+    <subfield code="1">LI0011</subfield>
+    <subfield code="2">LIA FA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Mantova</subfield>
+    <subfield code="1">MN0041</subfield>
+    <subfield code="2">PBE 23</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario Vescovile della Facolt ̉Teologica del Triveneto dell&apos;Istituto Filosofico Aloisianum. Padova</subfield>
+    <subfield code="1">PD0073</subfield>
+    <subfield code="2">PUV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Padova</subfield>
+    <subfield code="1">PD0158</subfield>
+    <subfield code="2">PUV 00</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale Gabriele D&apos;Annunzio. Pescara</subfield>
+    <subfield code="1">PE0018</subfield>
+    <subfield code="2">ABR R7</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Trento</subfield>
+    <subfield code="1">TN0121</subfield>
+    <subfield code="2">ZTN 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Istituto salesiano Valsalice. Torino</subfield>
+    <subfield code="1">TO0873</subfield>
+    <subfield code="2">TO0 87</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,83 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01457nam0a2200253 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\079155</controlfield>
+  <controlfield tag="005">20160502000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">ilu- a-be n&apos;se dala (C) 1522 (Q)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">01A</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">ilu- a-be one&apos; dala (C) 1522 (Q)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">01B</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">senu ise- e-de elue (C) 1522 (Q)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">2</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20160420f1522        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Resposta alla inuectiua qui annexa di don Alphonso gia duca di Ferrara, publicata contra la sancta et gloriosa me. di Leone pp. X sotto pretexto de una littera scripta alla cesarea maesta. Translata di latino in uulgare</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="d">\1522!</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">2 pt.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Var. B: parzialmente ricomposto il fasc. C della pt. 1. - 2: Translato di latino in uulgare di una littera scripta dallo illustrissimo signore donno Alphonso da Este duca di Ferrara per sua iustificatione allo imperatore et mutatis mutandis a gli altri principi christiani, \1522! (Impressa in Roma) - La data si ricava alla fine della parte 1</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Roma</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Este,</subfield>
+    <subfield code="b">Alfonso : d&apos;</subfield>
+    <subfield code="c"> &lt;duca di Ferrara</subfield>
+    <subfield code="c"> ; 1.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005095</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">s.n.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000002</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Ariostea. Ferrara</subfield>
+    <subfield code="z">(Var. B) - MUTILO</subfield>
+    <subfield code="1">FE0017</subfield>
+    <subfield code="2">UFE AR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Archivio storico civico e Biblioteca Trivulziana. Milano</subfield>
+    <subfield code="z">(Var. A)</subfield>
+    <subfield code="1">MI0327</subfield>
+    <subfield code="2">LO1 13</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Augusta. Perugia</subfield>
+    <subfield code="z">(Var. A)</subfield>
+    <subfield code="1">PG0109</subfield>
+    <subfield code="2">UM1 01</subfield>
+  </datafield>
+</record>
+</collection>

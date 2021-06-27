@@ -1,0 +1,134 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01843nam0a2200373 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\014097</controlfield>
+  <controlfield tag="005">20070904000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">1010 .4.4 f.a. pipi (3) 1512 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">6465 e.io elra pu&amp;v (3) 1512 (Q)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">2</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">1534 o.c. r.i. *Ptr (3) 1512 (Q)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">3</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">1414 niar e-is node (3) 1512 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">4</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1512        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Sexti libri decretalium in Concilio Lugdunensi per Bonifacium octauum editi compilatio</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Venetijs</subfield>
+    <subfield code="g">per Baptistam de Tortis</subfield>
+    <subfield code="h">1512 die XXIII Decembris</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">4 v.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">2: Clementinarum constitutiones.  3: Extrauagantes XX Ioannis XXII.  4: Extrauagantes communes. Ogni volume  ̈ preceduto dal proprio indice</subfield>
+  </datafield>
+  <datafield tag="423" ind1=" " ind2="0">
+    <subfield code="1">001IT\ICCU\CNCE\048808</subfield>
+    <subfield code="1">2001 </subfield>
+    <subfield code="a">Clementinarum constitutiones</subfield>
+  </datafield>
+  <datafield tag="423" ind1=" " ind2="0">
+    <subfield code="1">001IT\ICCU\CNCE\048810</subfield>
+    <subfield code="1">2001 </subfield>
+    <subfield code="a">Extrauagantes XX Ioannis XXII</subfield>
+  </datafield>
+  <datafield tag="423" ind1=" " ind2="0">
+    <subfield code="1">001IT\ICCU\CNCE\048811</subfield>
+    <subfield code="1">2001 </subfield>
+    <subfield code="a">Extrauagantes communes</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2="1">
+    <subfield code="3">IT\ICCU\CNCE\013403</subfield>
+    <subfield code="a">Corpus iuris canonici. Liber sextus Bonifacii ^VIII=8.^</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Ioannes</subfield>
+    <subfield code="c"> &lt;papa</subfield>
+    <subfield code="c"> ; 22.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003122</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Clemens</subfield>
+    <subfield code="c"> &lt;papa</subfield>
+    <subfield code="c"> ; 5.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003123</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Torti, Battista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000101</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Duz̈e,</subfield>
+    <subfield code="b">Jacobus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015359</subfield>
+    <subfield code="z">Ioannes &lt;papa ; 22.&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Bentrand de Got</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013738</subfield>
+    <subfield code="z">Clemens &lt;papa ; 5.&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Got,</subfield>
+    <subfield code="b">Bertrand de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014237</subfield>
+    <subfield code="z">Clemens &lt;papa ; 5.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">De_Tortis, Baptista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004133</subfield>
+    <subfield code="z">Torti, Battista</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Tortis, Baptista de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005592</subfield>
+    <subfield code="z">Torti, Battista</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica A. Mai. Bergamo</subfield>
+    <subfield code="1">BG0026</subfield>
+    <subfield code="2">LO1 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca di S. Francesco. Bologna</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">BO0334</subfield>
+    <subfield code="2">ZBO 32</subfield>
+  </datafield>
+</record>
+</collection>

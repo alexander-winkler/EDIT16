@@ -1,0 +1,117 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01542nam0a2200325 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\013597</controlfield>
+  <controlfield tag="005">19990831000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">dera ton- i&apos;,&apos; &apos;q&apos;c (3) 1539 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1539        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Matthei Curtii ℗De vene sectione quum in aliis affectibus, tum vel maxime in pleuritide liber</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">per Melchiorem Sessam</subfield>
+    <subfield code="d">1539</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">251, \1! p.</subfield>
+    <subfield code="d">16ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Corti,</subfield>
+    <subfield code="b">Matteo</subfield>
+    <subfield code="c"> &lt;medico&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003531</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Sessa, Melchiorre</subfield>
+    <subfield code="c"> &lt;1.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000057</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Curtius,</subfield>
+    <subfield code="b">Matthaeus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013752</subfield>
+    <subfield code="z">Corti, Matteo &lt;medico&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Curzio,</subfield>
+    <subfield code="b">Matteo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026442</subfield>
+    <subfield code="z">Corti, Matteo &lt;medico&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Sessa, Marchio</subfield>
+    <subfield code="c"> &lt;1.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005661</subfield>
+    <subfield code="z">Sessa, Melchiorre &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale dell&apos;Archiginnasio. Bologna</subfield>
+    <subfield code="1">BO0304</subfield>
+    <subfield code="2">UBO GA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca regionale universitaria. Catania</subfield>
+    <subfield code="1">CT0062</subfield>
+    <subfield code="2">PAL BC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Istituto Calasanzio. Genova</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">GE0129</subfield>
+    <subfield code="2">ZGE 09</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Braidense. Milano</subfield>
+    <subfield code="1">MI0185</subfield>
+    <subfield code="2">MIL NB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Ospedale civile Sala Colonne. Piacenza</subfield>
+    <subfield code="1">PC0025</subfield>
+    <subfield code="2">PIA SC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Pisa</subfield>
+    <subfield code="1">PI0112</subfield>
+    <subfield code="2">PIS R1</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Oliveriana. Pesaro</subfield>
+    <subfield code="1">PU0061</subfield>
+    <subfield code="2">URB OL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Accademia dei Concordi. Rovigo</subfield>
+    <subfield code="1">RO0049</subfield>
+    <subfield code="2">ROV AC</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,25 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00297na 0a22001091i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\037216</controlfield>
+  <controlfield tag="005">20081007000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19980706             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Apollonius Tyrius</subfield>
+  </datafield>
+  <datafield tag="517" ind1="1" ind2=" ">
+    <subfield code="3">IT\ICCU\CNCE\070745</subfield>
+    <subfield code="a">Historia Apollonii regis Tyrii</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

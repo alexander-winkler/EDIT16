@@ -1,0 +1,66 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00898nam0a22002171i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\053066</controlfield>
+  <controlfield tag="005">20040616000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e.n. s-vt *.e. o.s. (S) 1582 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20020806d1582        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Tabula confessoriis, et poenitentibus vtilissima ad discutiendam conscientiam per decem praecepta, septemque peccata mortalia. P. Ioanne Tellier Societatis Iesu authore</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Maceratae</subfield>
+    <subfield code="c">apud Sebastianum Martellinum</subfield>
+    <subfield code="d">1582</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">1 foglio</subfield>
+    <subfield code="d">atl</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Macerata</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Tellier,</subfield>
+    <subfield code="b">Jean</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013324</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Martellini, Sebastiano</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000296</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Martellinus, Sebastianus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005040</subfield>
+    <subfield code="z">Martellini, Sebastiano</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Vallicelliana. Roma</subfield>
+    <subfield code="1">RM0281</subfield>
+    <subfield code="2">RML 08</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Angelica. Roma</subfield>
+    <subfield code="1">RM0290</subfield>
+    <subfield code="2">RML 06</subfield>
+  </datafield>
+</record>
+</collection>

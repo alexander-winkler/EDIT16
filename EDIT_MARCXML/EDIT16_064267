@@ -1,0 +1,37 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00467na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\064267</controlfield>
+  <controlfield tag="005">20080327000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20060311             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗La ℗gelosia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Grazzini,</subfield>
+    <subfield code="b">Antonfrancesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006276</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">℗Il ℗Lasca</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014467</subfield>
+    <subfield code="z">Grazzini, Antonfrancesco</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Niccodemo</subfield>
+    <subfield code="c"> : dalla#Pietra al Migliaio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014752</subfield>
+    <subfield code="z">Grazzini, Antonfrancesco</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

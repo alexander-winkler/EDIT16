@@ -1,0 +1,145 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02419nam0a2200361 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\004342</controlfield>
+  <controlfield tag="005">20090130000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">ispi ise- iide noca (3) 1510 (A)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">enr. seb. gali te&amp;s (3) 1510 (T)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">2</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1510        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Bartolus ℗Super prima \-secunda! digesti noui cum additionibus antea positis. Additis etiam apostillis Andree Barba. Siculi. et domini Andree de pomate de Basignana nouiter impressis. Necnon quamplurium aliorum excellentissimorum virorum</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Impressum Mediolani</subfield>
+    <subfield code="g">per Ioannem Angelum Scinzenzeler</subfield>
+    <subfield code="g">ad impensis nobilium mercatorum Mediolanensium Ioannis Iacobi et fratrum de Lignano</subfield>
+    <subfield code="h">1510 die XV Octobris</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">2 v.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">2: (Impressum Mediolani : per Ioannem Angelum Scinzenzeler : impensis nobilium Io. Iacobi et fratrum de Lignano, 1510 die XIX mensis Nouembris)</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Milano</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Bartolo</subfield>
+    <subfield code="c"> : da#Sassoferrato</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001419</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Barbazza,</subfield>
+    <subfield code="b">Andrea</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001033</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Poma,</subfield>
+    <subfield code="b">Andrea</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001034</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Scinzenzeler, Giovanni Angelo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000084</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Da_Legnano, Giovanni Giacomo &amp; fratelli</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001554</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Bartolus</subfield>
+    <subfield code="c"> : de#Saxoferrato</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012573</subfield>
+    <subfield code="z">Bartolo : da#Sassoferrato</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Alfani,</subfield>
+    <subfield code="b">Bartholus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020724</subfield>
+    <subfield code="z">Bartolo : da#Sassoferrato</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Barbatia,</subfield>
+    <subfield code="b">Andreas</subfield>
+    <subfield code="3">IT\ICCU\CNCA\027275</subfield>
+    <subfield code="z">Barbazza, Andrea</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Barbatius,</subfield>
+    <subfield code="b">Andreas</subfield>
+    <subfield code="3">IT\ICCU\CNCA\027276</subfield>
+    <subfield code="z">Barbazza, Andrea</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Pomatio,</subfield>
+    <subfield code="b">Andrea</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023101</subfield>
+    <subfield code="z">Poma, Andrea</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Pomate,</subfield>
+    <subfield code="b">Andreas : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023479</subfield>
+    <subfield code="z">Poma, Andrea</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Schinzenzeler, Giovanni Angelo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005621</subfield>
+    <subfield code="z">Scinzenzeler, Giovanni Angelo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001580</subfield>
+    <subfield code="b">Cerchio con croce doppia a bracci obliqui poggiante su tronco. All&apos;interno del cerchio: Io. An. S.</subfield>
+    <subfield code="c">U476</subfield>
+    <subfield code="d">Dimensioni: 5,5 x 7,9</subfield>
+    <subfield code="f">CERCHIO</subfield>
+    <subfield code="f">CROCE</subfield>
+    <subfield code="f">IOANS</subfield>
+    <subfield code="g">1510-1523</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000318</subfield>
+    <subfield code="b">Angelo sostiene tra le braccia l&apos;ostia raggiante con al centro il monogramma di Cristo e intorno al cerchio: Io. Iacomo e fratel De Legnano. In basso: IOL</subfield>
+    <subfield code="c">K79</subfield>
+    <subfield code="c">V108</subfield>
+    <subfield code="c">Z87</subfield>
+    <subfield code="d">Dimensioni 4,3 x 8,7</subfield>
+    <subfield code="f">ANGELO</subfield>
+    <subfield code="f">IOL</subfield>
+    <subfield code="f">MONOGRAMMA</subfield>
+    <subfield code="f">OSTIA</subfield>
+    <subfield code="g">1503-1516</subfield>
+  </datafield>
+</record>
+</collection>

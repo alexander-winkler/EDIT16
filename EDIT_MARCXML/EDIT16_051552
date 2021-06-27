@@ -1,0 +1,154 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02309nam0a2200397 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\051552</controlfield>
+  <controlfield tag="005">20200621000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">s.in i.iu i-ma muxi (3) 1534 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20010214d1534        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Questiones in octo libris De phisico auditu reueren. pa. fratis Chrisostomi Iauelli Canapicij ord. predi. &amp; philoso. sacreque theologie professoris, nuper edite &amp; impresse</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">\Venezia :Tommaso Ballarino! Venetijs</subfield>
+    <subfield code="c">per Thomam Ballarinum de Ternengo Vercellensem</subfield>
+    <subfield code="d">die 6 Martij 1534)</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">117, \7! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Javelli,</subfield>
+    <subfield code="b">Giovanni Crisostomo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006969</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Ballarino, Tommaso</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001145</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Iavellus,</subfield>
+    <subfield code="b">Chrysostomus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013134</subfield>
+    <subfield code="z">Javelli, Giovanni Crisostomo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Giavelli,</subfield>
+    <subfield code="b">Giovanni Crisostomo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014150</subfield>
+    <subfield code="z">Javelli, Giovanni Crisostomo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Iavelli,</subfield>
+    <subfield code="b">Crisostomo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020034</subfield>
+    <subfield code="z">Javelli, Giovanni Crisostomo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Thomaso de Ternengo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003464</subfield>
+    <subfield code="z">Ballarino, Tommaso</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ballarinus, Thomas</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004287</subfield>
+    <subfield code="z">Ballarino, Tommaso</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Luciano Benincasa. Ancona</subfield>
+    <subfield code="1">AN0001</subfield>
+    <subfield code="2">URB BA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Planettiana. Jesi</subfield>
+    <subfield code="1">AN0092</subfield>
+    <subfield code="2">URB BC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Giulio Gabrielli. Ascoli Piceno</subfield>
+    <subfield code="1">AP0006</subfield>
+    <subfield code="2">UMC AP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale del Monumento nazionale di Montecassino. Cassino</subfield>
+    <subfield code="1">FR0084</subfield>
+    <subfield code="2">RML 25</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Genova</subfield>
+    <subfield code="1">GE0038</subfield>
+    <subfield code="2">LIG 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca regionale universitaria. Messina</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">ME0050</subfield>
+    <subfield code="2">PAL BM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei cappuccini. Palermo</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">PA0092</subfield>
+    <subfield code="2">PAL 66</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Sperelliana. Gubbio</subfield>
+    <subfield code="1">PG0049</subfield>
+    <subfield code="2">UM1 11</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Terni</subfield>
+    <subfield code="1">TR0032</subfield>
+    <subfield code="2">UM1 09</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Nel coloph.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\002010</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\002492</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\002010</subfield>
+    <subfield code="b">Cerchio con croce doppia e iniziali T.B.T.V.</subfield>
+    <subfield code="c">U581</subfield>
+    <subfield code="d">Dimensioni: 3,8 x 5,1</subfield>
+    <subfield code="f">CERCHIO</subfield>
+    <subfield code="f">CROCE</subfield>
+    <subfield code="f">TBTV</subfield>
+    <subfield code="g">1534-1535</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\002492</subfield>
+    <subfield code="b">Girasole (grande fiore con due foglie) sorretto da coppia di satiri. In cornice.</subfield>
+    <subfield code="e">Ponge onge</subfield>
+    <subfield code="c">U1010</subfield>
+    <subfield code="f">GIRASOLE</subfield>
+    <subfield code="f">FIORE</subfield>
+    <subfield code="f">SATIRO</subfield>
+    <subfield code="g">1534-1535</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,108 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01838nam0a2200313 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\006974</controlfield>
+  <controlfield tag="005">20040311000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">V.t: i-o. ntda Inam (C) 1516 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1516        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Matthaei Bonfinis Asculani ad communem studiosorum adolescentium utilitatem et commodum ℗Donati libellus in meliorem formam redactus. Grammatices regulae breuissimae et non obscurae. Tractatus de arte metrica breuis et perspicuus. Opusculum de comparandoin scribendi usum stilo. In his autem omnibus profitetur se resecasse ex aliorum scriptis superflua adiecisse ab aliis praetermissa et emendasse: quae ab aliis falso sunt tradita: ut in sequentibus ad Sigismundum et caballum latius uideri potest</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Imprimebat Fani</subfield>
+    <subfield code="g">Hieronymus Soncinus</subfield>
+    <subfield code="h">1516 die uero XXV mensis Ianuarii</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\70! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Fano</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Bonfini,</subfield>
+    <subfield code="b">Matteo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001858</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Donatus,</subfield>
+    <subfield code="b">Aelius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000324</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Soncino, Girolamo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000277</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Bonfinis,</subfield>
+    <subfield code="b">Matthaeus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\027225</subfield>
+    <subfield code="z">Bonfini, Matteo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Dionisius,</subfield>
+    <subfield code="b">Appollonius Donatus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004906</subfield>
+    <subfield code="z">Donatus, Aelius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Aelius</subfield>
+    <subfield code="c"> : Donatus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009367</subfield>
+    <subfield code="z">Donatus, Aelius</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Soncino, Gershom ben Mosheh</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002888</subfield>
+    <subfield code="z">Soncino, Girolamo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Soncinus, Hieronymus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005713</subfield>
+    <subfield code="z">Soncino, Girolamo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Soncinas, Hieronymus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005714</subfield>
+    <subfield code="z">Soncino, Girolamo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Suncinus, Hieronymus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005715</subfield>
+    <subfield code="z">Soncino, Girolamo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Sonzino, Hieronymo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005716</subfield>
+    <subfield code="z">Soncino, Girolamo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Federiciana. Fano</subfield>
+    <subfield code="1">PU0018</subfield>
+    <subfield code="2">URB FN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">British Library. London</subfield>
+    <subfield code="1">UK0001</subfield>
+  </datafield>
+</record>
+</collection>

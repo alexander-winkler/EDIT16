@@ -1,0 +1,83 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01389nam0a22002531i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\020440</controlfield>
+  <controlfield tag="005">20110209000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e.me niic a.c. maes (3) 1516 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1516        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Aurea ac perutilis lectura clarissimi ac iuris interpretis consumatissimi d. Martini de Caratis Lau. in lucrosi et preceteris praticabili opere feudorum ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Impressa in oppido Tridini</subfield>
+    <subfield code="g">domini illustrissimi inuictissimi domini domini Guillielmi Marchionis Montisferrati</subfield>
+    <subfield code="g">impensis domini Ioannis de Ferrarijs alias de Iolitis ac Girardi de Zeijs</subfield>
+    <subfield code="h">1516 die X mensis Decembris</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">LVI c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Trino</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Garrati,</subfield>
+    <subfield code="b">Martino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001246</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Giolito De Ferrari, Giovanni &lt;1.&gt; &amp; Zeglio, Gerardo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000085</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Garatis,</subfield>
+    <subfield code="b">Martinus : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006393</subfield>
+    <subfield code="z">Garrati, Martino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Zeglio, Gerardo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000086</subfield>
+    <subfield code="z">Giolito De Ferrari, Giovanni &lt;1.&gt; &amp; Zeglio, Gerardo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Augusta. Perugia</subfield>
+    <subfield code="1">PG0109</subfield>
+    <subfield code="2">UM1 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Senato della Repubblica Giovanni Spadolini. Roma</subfield>
+    <subfield code="1">RM0427</subfield>
+    <subfield code="2">ZRM 12</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Girolamo Tartarotti. Rovereto</subfield>
+    <subfield code="1">TN0103</subfield>
+    <subfield code="2">ZTN 08</subfield>
+  </datafield>
+</record>
+</collection>

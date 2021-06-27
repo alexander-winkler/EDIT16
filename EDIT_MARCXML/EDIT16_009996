@@ -1,0 +1,176 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02509nam0a2200469 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\009996</controlfield>
+  <controlfield tag="005">20030610000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">9122 5604 taen feQu (3) 1562 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1562        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Hadrianus Tit. S. Grysogoni ℗De sermone Latino, et modis Latine loquendi ... Venatio ... Item, iter Iulij II</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetijs</subfield>
+    <subfield code="c">per Bernardinum Bindonum</subfield>
+    <subfield code="c">sumptu Melchioris Sessae</subfield>
+    <subfield code="d">1562</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\8!, 167, \1! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Castellesi,</subfield>
+    <subfield code="b">Adriano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002769</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Bindoni, Bernardino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000319</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Sessa, Melchiorre</subfield>
+    <subfield code="c"> &lt;1.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000057</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Adriano</subfield>
+    <subfield code="c"> : da#Corneto</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007540</subfield>
+    <subfield code="z">Castellesi, Adriano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Castellensis,</subfield>
+    <subfield code="b">Hadrianus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007918</subfield>
+    <subfield code="z">Castellesi, Adriano</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bindonis, Bernardinus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004380</subfield>
+    <subfield code="z">Bindoni, Bernardino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bendoni, Bernardin de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004381</subfield>
+    <subfield code="z">Bindoni, Bernardino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Sessa, Marchio</subfield>
+    <subfield code="c"> &lt;1.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005661</subfield>
+    <subfield code="z">Sessa, Melchiorre &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Giovanni Bovio. Trani</subfield>
+    <subfield code="1">BA0124</subfield>
+    <subfield code="2">BAT 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale dell&apos;Archiginnasio. Bologna</subfield>
+    <subfield code="1">BO0304</subfield>
+    <subfield code="2">UBO GA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Collegio Gallio dei Padri Somaschi. Como</subfield>
+    <subfield code="1">CO0058</subfield>
+    <subfield code="2">ZCO 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Malatestiana. Cesena</subfield>
+    <subfield code="1">FC0011</subfield>
+    <subfield code="2">RAV CS</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Aurelio Saffi. Forl</subfield>
+    <subfield code="1">FC0018</subfield>
+    <subfield code="2">RAV FO</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Rubiconia Accademia dei Filopatridi. Savignano sul Rubicone</subfield>
+    <subfield code="1">FC0067</subfield>
+    <subfield code="2">RAV AF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Egidiana. Tolentino</subfield>
+    <subfield code="1">MC0083</subfield>
+    <subfield code="2">UMC BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale Gabriele D&apos;Annunzio. Pescara</subfield>
+    <subfield code="1">PE0018</subfield>
+    <subfield code="2">ABR R7</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Montefalco</subfield>
+    <subfield code="1">PG0058</subfield>
+    <subfield code="2">UM1 17</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Augusta. Perugia</subfield>
+    <subfield code="1">PG0109</subfield>
+    <subfield code="2">UM1 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Fabrizio Trisi. Lugo</subfield>
+    <subfield code="1">RA0025</subfield>
+    <subfield code="2">RAV CE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Classense. Ravenna</subfield>
+    <subfield code="1">RA0036</subfield>
+    <subfield code="2">RAV CL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Pontificio Ateneo Antonianum. Roma</subfield>
+    <subfield code="1">RM0692</subfield>
+    <subfield code="2">ZRM 44</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Rovigo</subfield>
+    <subfield code="1">RO0042</subfield>
+    <subfield code="2">ROV SV</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Nuova biblioteca pubblica Luigi Fumi. Orvieto</subfield>
+    <subfield code="1">TR0022</subfield>
+    <subfield code="2">UM1 06</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Treviso</subfield>
+    <subfield code="1">TV0114</subfield>
+    <subfield code="2">VIA CT</subfield>
+  </datafield>
+</record>
+</collection>

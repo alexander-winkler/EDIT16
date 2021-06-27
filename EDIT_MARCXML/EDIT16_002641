@@ -1,0 +1,167 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02743nam0a2200421 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\002641</controlfield>
+  <controlfield tag="005">20090921000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">a:la o.o, a.sa DeHa (3) 1546 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">a,i- a.1. a.ra OuVa (C) 1546 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">2</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1546        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Orlando furioso ... Con alcune stanze del s. Aluigi Gonzaga ... et nel fine vna breve espositione</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Vinegia</subfield>
+    <subfield code="c">appresso Gabriel Giolito de Ferrari</subfield>
+    <subfield code="d">1546</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">2 v.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">2: Espositione di tutti i vocaboli et luoghi difficili, che nel libro si trouano ... Raccolte da m. Lodouico Dolce, e da lui stesse corrette et ampliate in questa quarta editione. - In Vinetia : appresso Gabriel Giolito di Ferrari, 1546 (In Vinegia : appresso Gabriel Giolito de Ferrari, 1546)</subfield>
+  </datafield>
+  <datafield tag="423" ind1=" " ind2="0">
+    <subfield code="1">001IT\ICCU\CNCE\060705</subfield>
+    <subfield code="1">2001 </subfield>
+    <subfield code="a">Espositione di tutti i vocaboli et luoghi difficili ...</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Ariosto,</subfield>
+    <subfield code="b">Ludovico</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000866</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Gonzaga,</subfield>
+    <subfield code="b">Luigi : detto Rodomonte</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000250</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Giolito De Ferrari, Gabriele</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000033</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Rodomonte</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015134</subfield>
+    <subfield code="z">Gonzaga, Luigi : detto Rodomonte</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Gonzaga,</subfield>
+    <subfield code="b">Aluigi</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020082</subfield>
+    <subfield code="z">Gonzaga, Luigi : detto Rodomonte</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Iolitus de Ferrariis, Gabriel</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003847</subfield>
+    <subfield code="z">Giolito De Ferrari, Gabriele</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Iolito de Ferrarii, Gabriel</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004885</subfield>
+    <subfield code="z">Giolito De Ferrari, Gabriele</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale. Cremona</subfield>
+    <subfield code="1">CR0062</subfield>
+    <subfield code="2">LO1 28</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Ariostea. Ferrara</subfield>
+    <subfield code="1">FE0017</subfield>
+    <subfield code="2">UFE AR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Carlo Negroni. Novara</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">NO0054</subfield>
+    <subfield code="2">TO0 08</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Palatina. Parma</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">PR0072</subfield>
+    <subfield code="2">PAR PA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Oliveriana. Pesaro</subfield>
+    <subfield code="1">PU0061</subfield>
+    <subfield code="2">URB OL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Carlo Bonetta. Pavia</subfield>
+    <subfield code="1">PV0071</subfield>
+    <subfield code="2">PAV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca  Panizzi. Reggio Emilia</subfield>
+    <subfield code="1">RE0052</subfield>
+    <subfield code="2">RE2 PA</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front. del v. 2</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000017</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul colophon</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001008</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000017</subfield>
+    <subfield code="b">Fenice su fiamme che si sprigionano da anfora recante le iniziali G.G.F. L&apos;anfora poggia su un basamento ai cui lati siedono due satiri.</subfield>
+    <subfield code="e">1) De la mia morte eterna vita i vivo. 2) Semper eadem</subfield>
+    <subfield code="c">A118</subfield>
+    <subfield code="c">Z538</subfield>
+    <subfield code="d">Dimensioni: 7 x 6,5</subfield>
+    <subfield code="f">ANFORA</subfield>
+    <subfield code="f">DELAMIAMOR</subfield>
+    <subfield code="f">FENICE</subfield>
+    <subfield code="f">GGF</subfield>
+    <subfield code="f">SEMPEREADE</subfield>
+    <subfield code="g">1545-1587</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001008</subfield>
+    <subfield code="b">Fenice, rivolta al sole, su fiamme che si sprigionano da globo alato recante  le iniziali G.G.F.</subfield>
+    <subfield code="e">Semper eadem</subfield>
+    <subfield code="c">U89</subfield>
+    <subfield code="d">Dimensioni: 6,3 x 7,7</subfield>
+    <subfield code="f">FENICE</subfield>
+    <subfield code="f">SEMPEREADE</subfield>
+    <subfield code="f">GGF</subfield>
+    <subfield code="g">1544-1588</subfield>
+  </datafield>
+</record>
+</collection>

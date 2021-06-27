@@ -1,0 +1,75 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01093nam0a2200229 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\006603</controlfield>
+  <controlfield tag="005">20180206000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">rere o,no sese diun (C) 1527 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1527        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Orlando inamorato di Mattheomaria Boiardo conte di Scandiano: tratto dal suo emendatissimo esemplare. Nouamente ristampato, &amp; corretto</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="d">1527</subfield>
+    <subfield code="e">Stampato nell&apos;inclita citta di Vinegia</subfield>
+    <subfield code="g">per Francesco di Alessandro Bindoni</subfield>
+    <subfield code="h">&amp; Mapheo Pasini</subfield>
+    <subfield code="h">compagni</subfield>
+    <subfield code="h">1527 adi XX di settembre</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\280! c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Boiardo,</subfield>
+    <subfield code="b">Matteo Maria</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000229</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Bindoni, Francesco &lt;1.&gt; &amp; Pasini, Maffeo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000060</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">℗al segno dell&apos;℗Angelo Raffaele</subfield>
+    <subfield code="c"> &lt;1531-1546&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002984</subfield>
+    <subfield code="z">Bindoni, Francesco &lt;1.&gt; &amp; Pasini, Maffeo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Braidense. Milano</subfield>
+    <subfield code="1">MI0185</subfield>
+    <subfield code="2">MIL NB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">British Library. London</subfield>
+    <subfield code="1">UK0001</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Marciana. Venezia</subfield>
+    <subfield code="1">VE0049</subfield>
+    <subfield code="2">VEA BM</subfield>
+  </datafield>
+</record>
+</collection>

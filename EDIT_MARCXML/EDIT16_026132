@@ -1,0 +1,83 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01182nam0a2200253 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\026132</controlfield>
+  <controlfield tag="005">20080318000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">o-it u-sc ustu u*o- (C) 1560 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971009d1560        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">De differentia inter demonstrationem propter quid et simpliciter adversus antiquos, et neotericos logicos. Quaesitum novum. Gometio Pagano Neapolitano Franciscano conuentuali authore</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Neapoli</subfield>
+    <subfield code="c">excudebat Raymundus Amatus</subfield>
+    <subfield code="d">1560</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\6! c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Napoli</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Pagano,</subfield>
+    <subfield code="b">Giovanni Gomezio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001013</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Amato, Raimondo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000523</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Paganus,</subfield>
+    <subfield code="b">Gometius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014626</subfield>
+    <subfield code="z">Pagano, Giovanni Gomezio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Pagano,</subfield>
+    <subfield code="b">Giovanni Gometio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021715</subfield>
+    <subfield code="z">Pagano, Giovanni Gomezio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Amatus, Raymundus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004240</subfield>
+    <subfield code="z">Amato, Raimondo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Pasquale Stanislao Mancini. Ariano Irpino</subfield>
+    <subfield code="1">AV0003</subfield>
+    <subfield code="2">NAP AR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale di Montevergine. Mercogliano</subfield>
+    <subfield code="1">AV0045</subfield>
+    <subfield code="2">NAP MV</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Berio. Genova</subfield>
+    <subfield code="1">GE0036</subfield>
+    <subfield code="2">SGE BE</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,107 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01520nam0a22003131i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\062939</controlfield>
+  <controlfield tag="005">20110210000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">m,ad atam tiet neru (3) 1597 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20051214d1597        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Constitutiones synodales augustae abbatiae Nonant. S. Sedi Apostolicae nullo medio subiectae, ab ill.mo et rmo d.d. Hieronymo cardinale Matthaeio, eiusdem abbatiae perpetuo administratore et reservatorio, reformatae et auctae</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Bononiae</subfield>
+    <subfield code="c">apud Victorium Benatium</subfield>
+    <subfield code="d">1597</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">96, \16! p.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Bologna</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Nonantola</subfield>
+    <subfield code="c"> &lt;Abbazia&gt;</subfield>
+    <subfield code="3">7597</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Mattei,</subfield>
+    <subfield code="b">Girolamo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007472</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Benacci, Vittorio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000021</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Abbatia nonantulana</subfield>
+    <subfield code="3">21789</subfield>
+    <subfield code="z">Nonantola &lt;Abbazia&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Matthaeius,</subfield>
+    <subfield code="b">Hieronymus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020834</subfield>
+    <subfield code="z">Mattei, Girolamo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Benatius, Victorius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003648</subfield>
+    <subfield code="z">Benacci, Vittorio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Benacius, Victorius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004325</subfield>
+    <subfield code="z">Benacci, Vittorio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Bologna</subfield>
+    <subfield code="1">BO0098</subfield>
+    <subfield code="2">UBO BU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Patriarcale S. Domenico. Bologna</subfield>
+    <subfield code="1">BO0333</subfield>
+    <subfield code="2">ZBO 05</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca abbaziale. Nonantola</subfield>
+    <subfield code="1">MO0096</subfield>
+    <subfield code="2">PBE 35</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile maggiore. Parma</subfield>
+    <subfield code="1">PR0043</subfield>
+    <subfield code="2">PBE 73</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Maldotti. Guastalla</subfield>
+    <subfield code="1">RE0036</subfield>
+    <subfield code="2">REA MA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Capitolo della Cattedrale. Reggio Emilia</subfield>
+    <subfield code="1">RE0046</subfield>
+    <subfield code="2">ZRE 01</subfield>
+  </datafield>
+</record>
+</collection>

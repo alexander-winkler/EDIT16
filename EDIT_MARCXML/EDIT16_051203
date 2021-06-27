@@ -1,0 +1,107 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01676nam0a2200301 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\051203</controlfield>
+  <controlfield tag="005">20080811000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">3.60 a-o- o.il blch (3) 1594 (A)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">7270 m-so e-,&amp; reDi (3) 1594 (A)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">2</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20001127d1594        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Compendio di tutte le gride, et ordini fatti et publicati nella citt,̉ &amp; ducato de Milano dal Tribunale di Prouisione di Milano, dell&apos;anno 1593 et 94</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Milano</subfield>
+    <subfield code="c">per Leonardo Pontio</subfield>
+    <subfield code="d"></subfield>
+    <subfield code="d"></subfield>
+    <subfield code="d">1594</subfield>
+    <subfield code="e">In Milano</subfield>
+    <subfield code="g">per Leonardo Pontio</subfield>
+    <subfield code="h"></subfield>
+    <subfield code="h"></subfield>
+    <subfield code="h">1594</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">2 pt.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">2: Il secondo compendio di tutte le gride, et ordini fatti, et publicati nella citt,̉ &amp; ducato de Milano dal Tribunale di Prouisione di Milano, dell&apos;anno 1594</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Milano</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Milano</subfield>
+    <subfield code="c"> &lt;Ducato&gt;</subfield>
+    <subfield code="3">6960</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Da_Ponte, Leonardo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000811</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pontius, Leonardus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003711</subfield>
+    <subfield code="z">Da_Ponte, Leonardo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ponte, Leonardo da</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003715</subfield>
+    <subfield code="z">Da_Ponte, Leonardo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pontio, Leonardo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004490</subfield>
+    <subfield code="z">Da_Ponte, Leonardo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ponzio, Leonardo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004491</subfield>
+    <subfield code="z">Da_Ponte, Leonardo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Societ ̉storica lombarda. Milano</subfield>
+    <subfield code="1">MI0255</subfield>
+    <subfield code="2">MIL ST</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca di Ateneo dell&apos;Universit ̉cattolica del Sacro Cuore. Milano</subfield>
+    <subfield code="1">MI0291</subfield>
+    <subfield code="2">ZMI 18</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Senato della Repubblica Giovanni Spadolini. Roma</subfield>
+    <subfield code="1">RM0427</subfield>
+    <subfield code="2">ZRM 12</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Memoria. Roma</subfield>
+    <subfield code="1">RM1909</subfield>
+    <subfield code="2">IEI MM</subfield>
+  </datafield>
+</record>
+</collection>

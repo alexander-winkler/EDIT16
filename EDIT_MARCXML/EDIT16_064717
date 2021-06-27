@@ -1,0 +1,38 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00475na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\064717</controlfield>
+  <controlfield tag="005">20081028000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20060614             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">De octo partium oartionis constructione libellus. Authore Lilio Anglo</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Lily,</subfield>
+    <subfield code="b">William</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006668</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Lilius</subfield>
+    <subfield code="c"> : Anglus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014562</subfield>
+    <subfield code="z">Lily, William</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Lilius,</subfield>
+    <subfield code="b">Guilielmus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020303</subfield>
+    <subfield code="z">Lily, William</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,242 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>03405nam0a2200613 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\008847</controlfield>
+  <controlfield tag="005">20150227000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">ioa- t.n- nei- prca (3) 1586 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">uso- r.em e.e- nogu (3) 1586 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">2</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1586        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">De arthritide liber vnus, de variolis alter. Ex Aemilii Campolongi ... explicationibus decerpti. Nunc primum in lucem editi. Opera atque industria Ricardi Valcheri</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud Paulum Meietum bibliopolam Patauinum</subfield>
+    <subfield code="d">1586</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">2 v.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Campolongo,</subfield>
+    <subfield code="b">Emilio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002488</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Valcherus,</subfield>
+    <subfield code="b">Ricardus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002188</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Meietti, Paolo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000300</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Valcher,</subfield>
+    <subfield code="b">Ricardus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024983</subfield>
+    <subfield code="z">Valcherus, Ricardus</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Megietti, Paolo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003998</subfield>
+    <subfield code="z">Meietti, Paolo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Miglietti, Paolo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003999</subfield>
+    <subfield code="z">Meietti, Paolo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Megietto, Paolo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005150</subfield>
+    <subfield code="z">Meietti, Paolo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Meietus, Paulus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005151</subfield>
+    <subfield code="z">Meietti, Paolo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Meietto, Paolo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005152</subfield>
+    <subfield code="z">Meietti, Paolo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Luciano Benincasa. Ancona</subfield>
+    <subfield code="1">AN0001</subfield>
+    <subfield code="2">URB BA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Bologna</subfield>
+    <subfield code="1">BO0098</subfield>
+    <subfield code="2">UBO BU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale dell&apos;Archiginnasio. Bologna</subfield>
+    <subfield code="1">BO0304</subfield>
+    <subfield code="2">UBO GA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Ariostea. Ferrara</subfield>
+    <subfield code="1">FE0017</subfield>
+    <subfield code="2">UFE AR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Firenze</subfield>
+    <subfield code="1">FI0098</subfield>
+    <subfield code="2">CFI CF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Berio. Genova</subfield>
+    <subfield code="1">GE0036</subfield>
+    <subfield code="2">SGE BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale. Lucca</subfield>
+    <subfield code="1">LU0022</subfield>
+    <subfield code="2">LUA BL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Braidense. Milano</subfield>
+    <subfield code="1">MI0185</subfield>
+    <subfield code="2">MIL NB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca e Archivio dell&apos;Istituto lombardo Accademia di scienze e lettere. Milano</subfield>
+    <subfield code="1">MI0306</subfield>
+    <subfield code="2">ZMI 26</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Teresiana. Mantova</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">MN0035</subfield>
+    <subfield code="2">LO1 12</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Padova</subfield>
+    <subfield code="1">PD0158</subfield>
+    <subfield code="2">PUV 00</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Foligno</subfield>
+    <subfield code="1">PG0035</subfield>
+    <subfield code="2">UM1 04</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Sperelliana. Gubbio</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">PG0049</subfield>
+    <subfield code="2">UM1 11</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Forteguerriana. Pistoia</subfield>
+    <subfield code="1">PT0025</subfield>
+    <subfield code="2">RT1 IE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Pavia</subfield>
+    <subfield code="1">PV0291</subfield>
+    <subfield code="2">MIL UP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Manfrediana. Faenza</subfield>
+    <subfield code="1">RA0016</subfield>
+    <subfield code="2">RAV FA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Lancisiana. Roma</subfield>
+    <subfield code="1">RM0260</subfield>
+    <subfield code="2">RMS H8</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria Alessandrina. Roma</subfield>
+    <subfield code="1">RM0280</subfield>
+    <subfield code="2">RML 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Vallicelliana. Roma</subfield>
+    <subfield code="1">RM0281</subfield>
+    <subfield code="2">RML 08</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Casanatense. Roma</subfield>
+    <subfield code="1">RM0313</subfield>
+    <subfield code="2">RML 07</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Gambalunghiana. Rimini</subfield>
+    <subfield code="1">RN0013</subfield>
+    <subfield code="2">RAV RI</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale degli Intronati. Siena</subfield>
+    <subfield code="1">SI0046</subfield>
+    <subfield code="2">RT1 QI</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale universitaria. Torino</subfield>
+    <subfield code="1">TO0265</subfield>
+    <subfield code="2">TO0 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Marciana. Venezia</subfield>
+    <subfield code="1">VE0049</subfield>
+    <subfield code="2">VEA BM</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sui front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000074</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000074</subfield>
+    <subfield code="b">Due galli, uno dei quali becca chicchi di miglio; al centro la pianta con le pannocchie. In cornice figurata.</subfield>
+    <subfield code="e">Non comedetis fruges mendacii.</subfield>
+    <subfield code="c">A146</subfield>
+    <subfield code="c">V145</subfield>
+    <subfield code="c">Z583</subfield>
+    <subfield code="d">Dimensioni: 5,1 x 6,6</subfield>
+    <subfield code="f">GALLI</subfield>
+    <subfield code="f">PANNOCCHIA</subfield>
+    <subfield code="f">NONCOMEDET</subfield>
+    <subfield code="g">1570-1598</subfield>
+  </datafield>
+</record>
+</collection>

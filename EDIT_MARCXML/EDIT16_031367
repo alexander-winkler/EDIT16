@@ -1,0 +1,106 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01887nam0a2200301 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\031367</controlfield>
+  <controlfield tag="005">20130118000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">i.85 9.at v.ta usim (3) 1519 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971203d1519        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Primum volumen repetitionum doctorum diuersorum in iure canonico videlicet super pluribus capitulis decretorum decretalium et clementinarum vna cum Repertorio seu tabula Hieronymi de Marliano Mediolanensis nuperrime edita</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">\Milano</subfield>
+    <subfield code="c">Giovanni Giacomo da Legnano e fratelli!</subfield>
+    <subfield code="d">1519</subfield>
+    <subfield code="e">Impressum Mediolani</subfield>
+    <subfield code="g">per Iohannem Angelum Scinzenzeler</subfield>
+    <subfield code="h">1519 die XX Aprilis</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\30!, CXCVI c</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Precede con proprio front.: Repertorium seu tabula do. Hieronymi de Marliano Mediolanensis super primo volumine repetitionum diuersorum doctorum in iure canonico ...</subfield>
+  </datafield>
+  <datafield tag="10" ind1="I" ind2="T">
+    <subfield code="I">CCU\CNCE\073094</subfield>
+    <subfield code="1">2001 </subfield>
+    <subfield code="a">Repetitiones diuersorum doctorum</subfield>
+  </datafield>
+  <datafield tag="423" ind1=" " ind2="0">
+    <subfield code="1">001IT\ICCU\CNCE\075111</subfield>
+    <subfield code="1">2001 </subfield>
+    <subfield code="a">Repertorium seu tabula do. Hieronymi de Marliano Mediolanensis super primo volumine repetitionum diuersorum in iure canonico ....</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Milano</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Marliani,</subfield>
+    <subfield code="b">Girolamo</subfield>
+    <subfield code="c"> &lt;milanese&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001009</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Scinzenzeler, Giovanni Angelo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000084</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Da_Legnano, Giovanni Giacomo &amp; fratelli</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001554</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Hieronymus</subfield>
+    <subfield code="c"> : de#Marliano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014384</subfield>
+    <subfield code="z">Marliani, Girolamo &lt;milanese&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Marliano,</subfield>
+    <subfield code="b"> Hieronymus : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\029296</subfield>
+    <subfield code="z">Marliani, Girolamo &lt;milanese&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Schinzenzeler, Giovanni Angelo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005621</subfield>
+    <subfield code="z">Scinzenzeler, Giovanni Angelo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Romolo Spezioli. Fermo</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">AP0012</subfield>
+    <subfield code="2">UMC FM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Casanatense. Roma</subfield>
+    <subfield code="1">RM0313</subfield>
+    <subfield code="2">RML 07</subfield>
+  </datafield>
+</record>
+</collection>

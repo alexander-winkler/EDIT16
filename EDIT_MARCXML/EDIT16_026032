@@ -1,0 +1,122 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01749nam0a22003371i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\026032</controlfield>
+  <controlfield tag="005">20080118000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">laro .9ti i-e. dipa (3) 1545 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971008d1545        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Monarchia del nostro Signor Iesu Christo, di messer Gioan&apos;Antonio Panthera parentino</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Vinegia</subfield>
+    <subfield code="c">appresso Gabriel Giolito de Ferrari</subfield>
+    <subfield code="d">1545</subfield>
+    <subfield code="e">In Vinegia</subfield>
+    <subfield code="g">Appresso Gabriel Giolito de Ferrari</subfield>
+    <subfield code="h">1545</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\20!, 327, \5! c.</subfield>
+    <subfield code="d">8</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Pantera,</subfield>
+    <subfield code="b">Giovanni Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007767</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Giolito De Ferrari, Gabriele</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000033</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Pantera,</subfield>
+    <subfield code="b">Giovanni Antonio : da</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022156</subfield>
+    <subfield code="z">Pantera, Giovanni Antonio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Panthera,</subfield>
+    <subfield code="b">Giovanni Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022157</subfield>
+    <subfield code="z">Pantera, Giovanni Antonio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Panthera,</subfield>
+    <subfield code="b">Gioan&apos; Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022159</subfield>
+    <subfield code="z">Pantera, Giovanni Antonio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Iolitus de Ferrariis, Gabriel</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003847</subfield>
+    <subfield code="z">Giolito De Ferrari, Gabriele</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Iolito de Ferrarii, Gabriel</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004885</subfield>
+    <subfield code="z">Giolito De Ferrari, Gabriele</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario Vescovile. Molfetta</subfield>
+    <subfield code="1">BA0103</subfield>
+    <subfield code="2">ZBA 18</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Marucelliana. Firenze</subfield>
+    <subfield code="1">FI0101</subfield>
+    <subfield code="2">CFI MF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca regionale universitaria. Messina</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">ME0050</subfield>
+    <subfield code="2">PAL BM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della collegiata S. Pietro Apostolo. Broni</subfield>
+    <subfield code="1">PV0012</subfield>
+    <subfield code="2">ZPV 05</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Fabrizio Trisi. Lugo</subfield>
+    <subfield code="1">RA0025</subfield>
+    <subfield code="2">RAV CE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica A. Hortis. Trieste</subfield>
+    <subfield code="1">TS0013</subfield>
+    <subfield code="2">TSA BC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">British Library. London</subfield>
+    <subfield code="1">UK0001</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,38 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00537na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\073961</controlfield>
+  <controlfield tag="005">20090506000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20090506             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">De moribus maiorum &amp; longa consuetudine ad l. more maiorum cum l. sequenti ff. de iurisd. om. iud</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Giovanetti,</subfield>
+    <subfield code="b">Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005682</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Zoannettus,</subfield>
+    <subfield code="b">Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014154</subfield>
+    <subfield code="z">Giovanetti, Francesco</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Ioannettus,</subfield>
+    <subfield code="b">Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025455</subfield>
+    <subfield code="z">Giovanetti, Francesco</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

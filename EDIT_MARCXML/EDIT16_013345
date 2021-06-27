@@ -1,0 +1,115 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01582nam0a2200325 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\013345</controlfield>
+  <controlfield tag="005">19990729000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">i.Et s.er cecu o.ia (3) 1521 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">enre u*a. i.c. tine (3) 1521 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">2</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">u.ut cere utue tein (3) 1521 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">3</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">lali atus umis emri (3) 1521 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">4</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1521        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Primum\-quartum! volumen consiliorum domini Petriphilippi Cornei de Perusia</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Tridini</subfield>
+    <subfield code="c">impensis Ioannis de Ferrarijs alias de Iolitis ac Girardi de Zeijs</subfield>
+    <subfield code="d">1521</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">4 v.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">In ogni volume  ̈presente con front.proprio: Tabula ... consiliorum</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Trino</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Corneo,</subfield>
+    <subfield code="b">Pier Filippo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003503</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Giolito De Ferrari, Giovanni &lt;1.&gt; &amp; Zeglio, Gerardo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000085</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Della_Corgna,</subfield>
+    <subfield code="b">Pier Filippo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010154</subfield>
+    <subfield code="z">Corneo, Pier Filippo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Corneus,</subfield>
+    <subfield code="b">Petrus Philippus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013985</subfield>
+    <subfield code="z">Corneo, Pier Filippo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Zeglio, Gerardo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000086</subfield>
+    <subfield code="z">Giolito De Ferrari, Giovanni &lt;1.&gt; &amp; Zeglio, Gerardo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Francesco Corradi. Sanremo</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">IM0034</subfield>
+    <subfield code="2">LI3 BC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Archivio di Stato di Perugia. Perugia</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">PG0103</subfield>
+    <subfield code="2">UM1 50</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Pavia</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">PV0074</subfield>
+    <subfield code="2">PAV R1</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Trento</subfield>
+    <subfield code="1">TN0121</subfield>
+    <subfield code="2">ZTN 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Treviso</subfield>
+    <subfield code="1">TV0114</subfield>
+    <subfield code="2">VIA CT</subfield>
+  </datafield>
+</record>
+</collection>

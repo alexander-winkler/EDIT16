@@ -1,0 +1,63 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00909na 0a22001811i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\050621</controlfield>
+  <controlfield tag="005">20050504000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20000211             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Prohemium. ... Dominici de Flandria ... In commentaria di Thomae de Aquino super libros posteriorum analecticorum Aristotelis</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Dominique</subfield>
+    <subfield code="c"> : de#Flandre</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004898</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Tommaso</subfield>
+    <subfield code="c"> : d&apos;Aquino</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000195</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Dominicus</subfield>
+    <subfield code="c"> : de#Flandria</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004899</subfield>
+    <subfield code="z">Dominique : de#Flandre</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Domenico</subfield>
+    <subfield code="c"> : di#Fiandra</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010220</subfield>
+    <subfield code="z">Dominique : de#Flandre</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Flandria,</subfield>
+    <subfield code="b">Dominicus : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018509</subfield>
+    <subfield code="z">Dominique : de#Flandre</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Dominicus</subfield>
+    <subfield code="c"> : Flandrensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022618</subfield>
+    <subfield code="z">Dominique : de#Flandre</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Thomas</subfield>
+    <subfield code="c"> : de#Aquino</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009350</subfield>
+    <subfield code="z">Tommaso : d&apos;Aquino &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

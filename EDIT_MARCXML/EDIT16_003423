@@ -1,0 +1,78 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00975nam0a2200241 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\003423</controlfield>
+  <controlfield tag="005">20040216000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">n-e- r.s. mius cooe (C) 1562 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1562        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Opus, sermones omnes, tum de tempore, tum de sanctis complectens</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="d">1562</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\498! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Augustinus,</subfield>
+    <subfield code="b">Aurelius</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004494</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">s.n.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000002</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Agostino Aurelio</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018777</subfield>
+    <subfield code="z">Augustinus, Aurelius &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Aurelius Augustinus</subfield>
+    <subfield code="c"> : Hipponensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018780</subfield>
+    <subfield code="z">Augustinus, Aurelius &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario Vescovile. Molfetta</subfield>
+    <subfield code="1">BA0103</subfield>
+    <subfield code="2">ZBA 18</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca diocesana di Brescia. Brescia</subfield>
+    <subfield code="1">BS0031</subfield>
+    <subfield code="2">ZBS 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca consorziale di Viterbo. Viterbo</subfield>
+    <subfield code="1">VT0116</subfield>
+    <subfield code="2">RMS B3</subfield>
+  </datafield>
+</record>
+</collection>

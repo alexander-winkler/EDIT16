@@ -1,0 +1,108 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01836nam0a2200301 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\009192</controlfield>
+  <controlfield tag="005">20021113000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">pon- 1.on teat 11co (3) 1586 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1586        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">De numero testium in testamentis requisito tam in foro fori ciuili, &amp; canonico, quam in foro poli, &amp; conscientiae, Petro Dominico Magdaleno Capiferreo, i.c. patricio Romano authore, tractatus, varijs quaestionibus ... ac duplici locupletissimo indice exornatus ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud Guerraeos fratres</subfield>
+    <subfield code="c">sumptibus Io. Andreae Celetani</subfield>
+    <subfield code="d">&amp; Caesaris Rasimi bibliopolarum Romae</subfield>
+    <subfield code="d">1586</subfield>
+    <subfield code="e">Venetijs</subfield>
+    <subfield code="g">ex typographia Guerrae</subfield>
+    <subfield code="h">1586</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\112!, 584 p.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Capoferro,</subfield>
+    <subfield code="b">Pietro Domenico Maddaleno</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002562</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Guerra, Domenico &amp; Guerra, Giovanni Battista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000155</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Celentano, Giovanni Andrea &amp; Rasini, Cesare</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001310</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Capiferreus,</subfield>
+    <subfield code="b">Petrus Dominicus Magdalenus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013123</subfield>
+    <subfield code="z">Capoferro, Pietro Domenico Maddaleno</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Guerraei fratres</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005074</subfield>
+    <subfield code="z">Guerra, Domenico &amp; Guerra, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Guerri</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005076</subfield>
+    <subfield code="z">Guerra, Domenico &amp; Guerra, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Rasini, Cesare</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001311</subfield>
+    <subfield code="z">Celentano, Giovanni Andrea &amp; Rasini, Cesare</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale S. Teresa dei Maschi - De Gemmis. Bari</subfield>
+    <subfield code="1">BA0136</subfield>
+    <subfield code="2">BA1 DG</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Pontificia universit ̉Urbaniana. Citt ̉del Vaticano</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">EX0003</subfield>
+    <subfield code="2">ZCV 04</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Augusta. Perugia</subfield>
+    <subfield code="1">PG0109</subfield>
+    <subfield code="2">UM1 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Pisa</subfield>
+    <subfield code="1">PI0112</subfield>
+    <subfield code="2">PIS R1</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Diocesana Vigilianum. Trento</subfield>
+    <subfield code="1">TN0132</subfield>
+    <subfield code="2">ZTN 10</subfield>
+  </datafield>
+</record>
+</collection>

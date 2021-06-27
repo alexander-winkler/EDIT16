@@ -1,0 +1,194 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02856nam0a2200505 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\007304</controlfield>
+  <controlfield tag="005">20141014000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">onm- a.ie e.es buch (3) 1600 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">,&amp;g- i-o- e.ta lehu (3) 1600 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">2</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">,ete mei- o-a, rePa (3) 1600 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">3</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">o-on a4n- leuo quPa (3) 1600 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">4</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1600        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Le ℗relationi vniuersali di Giouanni Botero benese, diuise in quattro parti ... con le figure in rame &amp; vna aggiunta della descrittione del mare</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Venetia</subfield>
+    <subfield code="c">appresso Giorgio Angelieri</subfield>
+    <subfield code="d">1600</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">4 v.</subfield>
+    <subfield code="c">c. geogr.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">A c. Q1r del v. 1 altro front.: Le relationi del mare</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Botero,</subfield>
+    <subfield code="b">Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001950</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Angelieri, Giorgio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000385</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Angelerius, Georgius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004246</subfield>
+    <subfield code="z">Angelieri, Giorgio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca estera - Bayerische StaatsBibliothek. Muenchen</subfield>
+    <subfield code="1">AA0008</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Giovanni Canna. Casale Monferrato</subfield>
+    <subfield code="1">AL0114</subfield>
+    <subfield code="2">TO0 49</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Eustachio Rogadeo. Bitonto</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">BA0078</subfield>
+    <subfield code="2">BA1 13</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca diocesana di Brescia. Brescia</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">BS0031</subfield>
+    <subfield code="2">ZBS 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale. Cremona</subfield>
+    <subfield code="1">CR0062</subfield>
+    <subfield code="2">LO1 28</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteche riunite Civica e A. Ursino Recupero. Catania</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">CT0063</subfield>
+    <subfield code="2">ZCT 03</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale. Lucca</subfield>
+    <subfield code="1">LU0022</subfield>
+    <subfield code="2">LUA BL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Valentiniana. Camerino</subfield>
+    <subfield code="1">MC0004</subfield>
+    <subfield code="2">UMC BV</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Istituto di geografia umana della Facolt ̉di lettere e filosofia dell&apos;Universit ̉degli studi di Milano. Milano</subfield>
+    <subfield code="1">MI1252</subfield>
+    <subfield code="2">USM N3</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Assisi</subfield>
+    <subfield code="1">PG0001</subfield>
+    <subfield code="2">UM1 10</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Augusta. Perugia</subfield>
+    <subfield code="1">PG0109</subfield>
+    <subfield code="2">UM1 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Cathariniana. Pisa</subfield>
+    <subfield code="1">PI0027</subfield>
+    <subfield code="2">RT1 QW</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Pisa</subfield>
+    <subfield code="1">PI0112</subfield>
+    <subfield code="2">PIS R1</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Classense. Ravenna</subfield>
+    <subfield code="1">RA0036</subfield>
+    <subfield code="2">RAV CL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca  Panizzi. Reggio Emilia</subfield>
+    <subfield code="1">RE0052</subfield>
+    <subfield code="2">RE2 PA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca centrale dei frati minori cappuccini. Roma</subfield>
+    <subfield code="1">RM0315</subfield>
+    <subfield code="2">ZRM 52</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Gambalunghiana. Rimini</subfield>
+    <subfield code="1">RN0013</subfield>
+    <subfield code="2">RAV RI</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Fondazione Biblioteca S. Bernardino. Trento</subfield>
+    <subfield code="1">TN0122</subfield>
+    <subfield code="2">ZTN 18</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Guarneriana. San Daniele del Friuli</subfield>
+    <subfield code="1">UD0075</subfield>
+    <subfield code="2">ZUD 05</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca P. Bertolla del Seminario arcivescovile. Udine</subfield>
+    <subfield code="1">UD0123</subfield>
+    <subfield code="2">ZUD 06</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sui front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000457</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000457</subfield>
+    <subfield code="b">Anfora inclinata da cui cadono gocce su una pianta. Sullo sfondo paesaggio e sole. In cornice figurata</subfield>
+    <subfield code="e">A poco a poco.</subfield>
+    <subfield code="c">Z76</subfield>
+    <subfield code="d">Dimensioni: 6 x 7,2</subfield>
+    <subfield code="f">ANFORA</subfield>
+    <subfield code="f">APOCOAPOCO</subfield>
+    <subfield code="f">PIANTA</subfield>
+    <subfield code="f">SOLE</subfield>
+    <subfield code="g">1574-1600</subfield>
+  </datafield>
+</record>
+</collection>

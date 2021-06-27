@@ -1,0 +1,31 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00492na 0a22001211i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\051087</controlfield>
+  <controlfield tag="005">20040813000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20000927             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Decreta, et hortationes a reuerendissimis visitatoribus apostolicis reuerendissimis Patriarchis qui pro tempore urbi Venetae praefuerint. ...</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Venezia</subfield>
+    <subfield code="c"> &lt;Patriarcato&gt;</subfield>
+    <subfield code="3">7978</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Patriarcalis ecclesia Venetiarum</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025458</subfield>
+    <subfield code="z">Venezia &lt;Patriarcato&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

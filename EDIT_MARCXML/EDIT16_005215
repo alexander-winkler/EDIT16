@@ -1,0 +1,62 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00863nam0a2200205 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\005215</controlfield>
+  <controlfield tag="005">20110329000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">28e. 315. *:ni demo (3) 1543 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1543        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Breuiarium monasticum secundum ritum et morem monachorum nigrorum Ordinis sancti Benedicti de obseruantia Casinensis Congregationis alias sancte Iustine ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetijs</subfield>
+    <subfield code="c">apud heredes Luceantonij Iunte Florentini</subfield>
+    <subfield code="d">1543 mense Ianuario</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\18!, 479 c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Benedettini</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001593</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Giunta, Lucantonio</subfield>
+    <subfield code="c"> &lt;1.&gt; - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000312</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Congregatio Casinensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\027320</subfield>
+    <subfield code="z">Benedettini</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+</record>
+</collection>

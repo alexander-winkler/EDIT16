@@ -1,0 +1,174 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02529nam0a2200445 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\010451</controlfield>
+  <controlfield tag="005">20060803000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">oni- 7574 7372 7170 (C) 1583 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1583        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Romanorum imperatorum effigies. Elogijs ex diuersis scriptoribus, per Thomam Treterum S. Mariae transtyberim canonicum collectis, illustratae. Opera et studio Io. Bap.tae de Cauallerijs aeneis tabulis incisae</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Romae</subfield>
+    <subfield code="d">1583</subfield>
+    <subfield code="e">Romae</subfield>
+    <subfield code="g">apud Vincentium Accoltum</subfield>
+    <subfield code="h">1583</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\160! c.</subfield>
+    <subfield code="c">157 ritr.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Roma</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Cavalieri,</subfield>
+    <subfield code="b">Giovanni Battista</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002852</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Treter,</subfield>
+    <subfield code="b">Tomasz</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002257</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Accolti, Vincenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000270</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Cavalleriis,</subfield>
+    <subfield code="b">Joannes Baptista : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013088</subfield>
+    <subfield code="z">Cavalieri, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Treterus,</subfield>
+    <subfield code="b">Thomas</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024800</subfield>
+    <subfield code="z">Treter, Tomasz</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Accoltus, Vincentius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004218</subfield>
+    <subfield code="z">Accolti, Vincenzo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">℗in aedibus ℗Accoltianis</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004273</subfield>
+    <subfield code="z">Accolti, Vincenzo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Bologna</subfield>
+    <subfield code="1">BO0098</subfield>
+    <subfield code="2">UBO BU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale. Cremona</subfield>
+    <subfield code="1">CR0062</subfield>
+    <subfield code="2">LO1 28</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Ariostea. Ferrara</subfield>
+    <subfield code="1">FE0017</subfield>
+    <subfield code="2">UFE AR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Firenze</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">FI0098</subfield>
+    <subfield code="2">CFI CF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Passerini Landi. Piacenza</subfield>
+    <subfield code="1">PC0030</subfield>
+    <subfield code="2">PIA PL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca vescovile. Assisi</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">PG0011</subfield>
+    <subfield code="2">PBE 59</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Ludovico Jacobilli del Seminario vescovile. Foligno</subfield>
+    <subfield code="1">PG0040</subfield>
+    <subfield code="2">UM1 39</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Carlo Bonetta. Pavia</subfield>
+    <subfield code="1">PV0071</subfield>
+    <subfield code="2">PAV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Senato della Repubblica Giovanni Spadolini. Roma</subfield>
+    <subfield code="1">RM0427</subfield>
+    <subfield code="2">ZRM 12</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Trento</subfield>
+    <subfield code="1">TN0121</subfield>
+    <subfield code="2">ZTN 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Vincenzo Joppi. Udine</subfield>
+    <subfield code="1">UD0106</subfield>
+    <subfield code="2">FVG 12</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Vercelli</subfield>
+    <subfield code="1">VC0073</subfield>
+    <subfield code="2">TO0 A2</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Nel colophon</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000269</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000269</subfield>
+    <subfield code="b">Aquila e aquilotto in volo fissano il sole. Sullo sfondo paesaggio, in alto un nastro con il motto, in basso stemma nobiliare.</subfield>
+    <subfield code="e">Sic crede</subfield>
+    <subfield code="c">V186</subfield>
+    <subfield code="c">Z144</subfield>
+    <subfield code="f">AQUILA</subfield>
+    <subfield code="f">SICCREDE</subfield>
+    <subfield code="f">SOLE</subfield>
+    <subfield code="f">STEMMA</subfield>
+    <subfield code="g">1570-1589</subfield>
+  </datafield>
+</record>
+</collection>

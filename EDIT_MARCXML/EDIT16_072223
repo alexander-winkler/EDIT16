@@ -1,0 +1,71 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01009nam0a22002291i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\072223</controlfield>
+  <controlfield tag="005">20140410000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">s.A. o.A. t.c- l.x. (S) 1588 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20071214d1588        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Meteororum omnium quae tum in sublimi tum in subterraneis locis ex duplici halitu generantur methodus universa collecta &amp; in ordinem digesta a Balthassare Pisanello, philosopho &amp; medico Bononiensi</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Romae</subfield>
+    <subfield code="c">apud Iacobum Ruffinellum</subfield>
+    <subfield code="d">1588</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">1 manifesto</subfield>
+    <subfield code="d">1/2</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Roma</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Pisanelli,</subfield>
+    <subfield code="b">Baldassarre</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003246</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Ruffinelli, Giacomo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000138</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Roffinello, Giacomo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002579</subfield>
+    <subfield code="z">Ruffinelli, Giacomo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ruffinello, Giacomo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005430</subfield>
+    <subfield code="z">Ruffinelli, Giacomo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ruffinellus, Iacobus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005433</subfield>
+    <subfield code="z">Ruffinelli, Giacomo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Angelica. Roma</subfield>
+    <subfield code="1">RM0290</subfield>
+    <subfield code="2">RML 06</subfield>
+  </datafield>
+</record>
+</collection>

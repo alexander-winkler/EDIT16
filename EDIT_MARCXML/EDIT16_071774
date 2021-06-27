@@ -1,0 +1,117 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01725nam0a22003251i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\071774</controlfield>
+  <controlfield tag="005">20090324000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">n-um i-n- r.is hoAB (3) 1588 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20070911d1588        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Pappi Alexandrini ℗Mathematicae collectiones, a Federico Commandino Vrbinate in latinum conuersae, &amp; commentarijs illustratae</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud Franciscum de Franciscis Senensem</subfield>
+    <subfield code="d">1588</subfield>
+    <subfield code="e">Pisauri</subfield>
+    <subfield code="g">apud Hieronymum Concordiam</subfield>
+    <subfield code="h">1588</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\4!, 334 \i.e. 332! c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Pappus</subfield>
+    <subfield code="c"> : Alexandrinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000218</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">De_Franceschi, Francesco</subfield>
+    <subfield code="c"> &lt;senese&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000366</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Concordia, Girolamo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000006</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Franceschi, Francesco de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003741</subfield>
+    <subfield code="z">De_Franceschi, Francesco &lt;senese&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Franciscus Senensis</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003742</subfield>
+    <subfield code="z">De_Franceschi, Francesco &lt;senese&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Francesco Senese</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003743</subfield>
+    <subfield code="z">De_Franceschi, Francesco &lt;senese&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Franciscius, Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003744</subfield>
+    <subfield code="z">De_Franceschi, Francesco &lt;senese&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Franciscis, Franciscus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003745</subfield>
+    <subfield code="z">De_Franceschi, Francesco &lt;senese&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Concordia, Hieronymus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004659</subfield>
+    <subfield code="z">Concordia, Girolamo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Concordia, Gieronimo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004660</subfield>
+    <subfield code="z">Concordia, Girolamo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Braidense. Milano</subfield>
+    <subfield code="1">MI0185</subfield>
+    <subfield code="2">MIL NB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Pisa</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">PI0112</subfield>
+    <subfield code="2">PIS R1</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale universitaria. Torino</subfield>
+    <subfield code="1">TO0265</subfield>
+    <subfield code="2">TO0 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Marciana. Venezia</subfield>
+    <subfield code="1">VE0049</subfield>
+    <subfield code="2">VEA BM</subfield>
+  </datafield>
+</record>
+</collection>

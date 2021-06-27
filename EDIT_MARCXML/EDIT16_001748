@@ -1,0 +1,113 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01752nam0a2200313 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\001748</controlfield>
+  <controlfield tag="005">20050913000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">a-o- u.la arme Prmo (3) 1600 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">i-i- e-o? loto mifo (3) 1600 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">2</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">a.io ore- e.o- mafa (3) 1600 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">3</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1600        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Opere spirituali, del r.p. Fuluio Androtio, della Compagnia di Giesu, diuise in tre parti. Nelle quali si tratta della meditatione della vita, et morte del nostro saluator Giesu Christo. Della frequenza della communione. Et dello stato lodeuole delle vedoue. Vtili a tutte le persone, che desiderano viuere spiritualmente. Nuouamente con diligenza corrette, et ristampate</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Venetia</subfield>
+    <subfield code="c">appresso Domenico Imberti</subfield>
+    <subfield code="d">1600</subfield>
+    <subfield code="e">In Venetia</subfield>
+    <subfield code="g">presso Domenico Imberti</subfield>
+    <subfield code="h">1600</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">3 v.</subfield>
+    <subfield code="d">12ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Androzzi,</subfield>
+    <subfield code="b">Fulvio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000707</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Imberti, Domenico</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000603</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Imbertis, Dominicus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004846</subfield>
+    <subfield code="z">Imberti, Domenico</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale dell&apos;Archiginnasio. Bologna</subfield>
+    <subfield code="1">BO0304</subfield>
+    <subfield code="2">UBO GA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dello studentato per le missioni. Bologna</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">BO0345</subfield>
+    <subfield code="2">PBE F2</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Firenze</subfield>
+    <subfield code="1">FI0098</subfield>
+    <subfield code="2">CFI CF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Archivio di Stato di Perugia. Perugia</subfield>
+    <subfield code="1">PG0103</subfield>
+    <subfield code="2">UM1 50</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Classense. Ravenna</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">RA0036</subfield>
+    <subfield code="2">RAV CL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria Alessandrina. Roma</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">RM0280</subfield>
+    <subfield code="2">RML 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Gambalunghiana. Rimini</subfield>
+    <subfield code="1">RN0013</subfield>
+    <subfield code="2">RAV RI</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca S. Alfonso. Pagani</subfield>
+    <subfield code="1">SA0042</subfield>
+    <subfield code="2">CAM AL</subfield>
+  </datafield>
+</record>
+</collection>

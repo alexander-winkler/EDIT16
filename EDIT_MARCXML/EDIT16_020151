@@ -1,0 +1,188 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>03080nam0a2200493 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\020151</controlfield>
+  <controlfield tag="005">20120806000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">poB; a,u- onem C*mu (3) 1525 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1525        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Galeni ℗De morbis &amp; symptomatis. Libri sex. De morborum differentia, liber unus. De morborum causis, liber unus. De symptomatum differentia, liber unus. De symptomatum causis, libri tres. Gulielmo Copo Basiliensi interprete. Hippocratis Choi praesagia. Eiusdem de ratione uictus in morbis acutis libri quatuor. Eodem Gulielmo Copo interprete. Eiusdem de natura humana, Antonio Brentio Patauino interprete. Eiusdem libellus de flatibus, Constantino Laschare aut ut nonnulli praeferunt Francisco Philelpho interprete</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="d">1525</subfield>
+    <subfield code="e">Venetiis</subfield>
+    <subfield code="g">per Benedictum &amp; Augustinum fratres de Bindonis summa diligentia impressus</subfield>
+    <subfield code="h">sumptibus uero ac impensis Ioannis Baptistae de Pederzanis Brixiensis</subfield>
+    <subfield code="h">1525 die uero XI mensis Octub.</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\4!, CVIII c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Galenus,</subfield>
+    <subfield code="b">Claudius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000093</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Hippocrates</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000096</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Filelfo,</subfield>
+    <subfield code="b">Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005377</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Cop,</subfield>
+    <subfield code="b">Guillaume</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005625</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Brentius,</subfield>
+    <subfield code="b">Antonius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005634</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Lascaris,</subfield>
+    <subfield code="b">Constantinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005635</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Bindoni, Benedetto &amp; Bindoni, Agostino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000426</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Pederzano, Giovanni Battista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000405</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Galeno,</subfield>
+    <subfield code="b">Claudio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014027</subfield>
+    <subfield code="z">Galenus, Claudius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Galeno</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025929</subfield>
+    <subfield code="z">Galenus, Claudius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Hippokrates</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005430</subfield>
+    <subfield code="z">Hippocrates</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Ippocrate</subfield>
+    <subfield code="c"> : di#Cos</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014391</subfield>
+    <subfield code="z">Hippocrates</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Philelphus,</subfield>
+    <subfield code="b">Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005378</subfield>
+    <subfield code="z">Filelfo, Francesco</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Copus,</subfield>
+    <subfield code="b">Guilielmus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013861</subfield>
+    <subfield code="z">Cop, Guillaume</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Copus,</subfield>
+    <subfield code="b">Gulielmus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\028192</subfield>
+    <subfield code="z">Cop, Guillaume</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Lascaris,</subfield>
+    <subfield code="b">Costantino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019915</subfield>
+    <subfield code="z">Lascaris, Constantinus</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pedrezano, Giovanni Battista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002471</subfield>
+    <subfield code="z">Pederzano, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pederzanis, Ioannes Baptista de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005333</subfield>
+    <subfield code="z">Pederzano, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pederzanus, Ioannes Baptista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005335</subfield>
+    <subfield code="z">Pederzano, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pederzani, Baptista de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005336</subfield>
+    <subfield code="z">Pederzano, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Aurelio Saffi. Forl</subfield>
+    <subfield code="1">FC0018</subfield>
+    <subfield code="2">RAV FO</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Firenze</subfield>
+    <subfield code="1">FI0098</subfield>
+    <subfield code="2">CFI CF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale. Lucca</subfield>
+    <subfield code="1">LU0022</subfield>
+    <subfield code="2">LUA BL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Valentiniana. Camerino</subfield>
+    <subfield code="1">MC0004</subfield>
+    <subfield code="2">UMC BV</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Teresiana. Mantova</subfield>
+    <subfield code="1">MN0035</subfield>
+    <subfield code="2">LO1 12</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Passerini Landi. Piacenza</subfield>
+    <subfield code="1">PC0030</subfield>
+    <subfield code="2">PIA PL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Assisi</subfield>
+    <subfield code="1">PG0001</subfield>
+    <subfield code="2">UM1 10</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Nuova biblioteca pubblica Luigi Fumi. Orvieto</subfield>
+    <subfield code="1">TR0022</subfield>
+    <subfield code="2">UM1 06</subfield>
+  </datafield>
+</record>
+</collection>

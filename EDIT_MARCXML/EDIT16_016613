@@ -1,0 +1,111 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01728nam0a2200313 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\016613</controlfield>
+  <controlfield tag="005">20120411000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">l-e- 9.a- isia vbmi (3) 1579 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1579        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Consiliorum seu mauis responsorum Rolandi a Valle iuris cum ciuilis, tum pontificii consultissimi patricii Casalensis, equitis ac in senatu Montisferrati praesidis dignissimi. Liber tertius, nunc mendis in eo existentibus nouiter emendatus. Non absque summarijs, et indice locupletissimo</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Augustae Taurinorum</subfield>
+    <subfield code="c">sumptibus Io. Dominici Tarini</subfield>
+    <subfield code="d">1579</subfield>
+    <subfield code="e">Taurini</subfield>
+    <subfield code="g">apud haeredes Nicolai Beuilaquae</subfield>
+    <subfield code="h">1579</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\32!, 175, \1! c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Torino</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Della_Valle,</subfield>
+    <subfield code="b">Rolando</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004729</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Tarino, Giovanni Domenico</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000675</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Bevilacqua, Niccol ̣- eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000513</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Valle,</subfield>
+    <subfield code="b">Rolandus : a</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013411</subfield>
+    <subfield code="z">Della_Valle, Rolando</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Rolandus</subfield>
+    <subfield code="c"> : a#Valle</subfield>
+    <subfield code="3">IT\ICCU\CNCA\028442</subfield>
+    <subfield code="z">Della_Valle, Rolando</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Tarinus, Ioannes Dominicus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005573</subfield>
+    <subfield code="z">Tarino, Giovanni Domenico</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Casale Monferrato</subfield>
+    <subfield code="1">AL0024</subfield>
+    <subfield code="2">TO0 L2</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Giovanni Canna. Casale Monferrato</subfield>
+    <subfield code="1">AL0114</subfield>
+    <subfield code="2">TO0 49</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Imola</subfield>
+    <subfield code="1">BO0199</subfield>
+    <subfield code="2">UBO BC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Pontremoli</subfield>
+    <subfield code="1">MS0019</subfield>
+    <subfield code="2">RT1 PP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Passerini Landi. Piacenza</subfield>
+    <subfield code="1">PC0030</subfield>
+    <subfield code="2">PIA PL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca diocesana. Todi</subfield>
+    <subfield code="1">PG0173</subfield>
+    <subfield code="2">PBE 33</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca agnesiana e diocesana. Vercelli</subfield>
+    <subfield code="1">VC0072</subfield>
+    <subfield code="2">TO0 C4</subfield>
+  </datafield>
+</record>
+</collection>

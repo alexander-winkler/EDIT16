@@ -1,0 +1,107 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01454nam0a22003131i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\055946</controlfield>
+  <controlfield tag="005">20171129000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">u-ob e.ma l-tu i-li (C) 1509 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20040301d1509        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Oratio Nigroni iureconsulti habita Genue dum Panthaleonem Siluaticum vtriusque iuris ornaret insignibus</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Impressum Papie</subfield>
+    <subfield code="g">per magistrum Jacob de Burgofrancho</subfield>
+    <subfield code="h">1509</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\8! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Pavia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Negroni,</subfield>
+    <subfield code="b">Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCA\017310</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Pocatela, Giacomo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000347</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Nigronus,</subfield>
+    <subfield code="b">Joannes</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021853</subfield>
+    <subfield code="z">Negroni, Giovanni</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Burgofrancho, Iacob de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002277</subfield>
+    <subfield code="z">Pocatela, Giacomo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Paucisdrapis, Iacob de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002278</subfield>
+    <subfield code="z">Pocatela, Giacomo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pulchridrapensis, Iacob</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002279</subfield>
+    <subfield code="z">Pocatela, Giacomo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Paucidrapensis, Iacob</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005452</subfield>
+    <subfield code="z">Pocatela, Giacomo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Paucisdrapius, Iacob</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005454</subfield>
+    <subfield code="z">Pocatela, Giacomo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Riccardiana. Firenze</subfield>
+    <subfield code="1">FI0094</subfield>
+    <subfield code="2">CFI RF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Archivio storico civico e Biblioteca Trivulziana. Milano</subfield>
+    <subfield code="1">MI0327</subfield>
+    <subfield code="2">LO1 13</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Augusta. Perugia</subfield>
+    <subfield code="1">PG0109</subfield>
+    <subfield code="2">UM1 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Treviso</subfield>
+    <subfield code="1">TV0114</subfield>
+    <subfield code="2">VIA CT</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Marciana. Venezia</subfield>
+    <subfield code="1">VE0049</subfield>
+    <subfield code="2">VEA BM</subfield>
+  </datafield>
+</record>
+</collection>

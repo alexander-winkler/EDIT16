@@ -1,0 +1,146 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02291nam0a2200385 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\035670</controlfield>
+  <controlfield tag="005">20150220000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">umis a-s. i-id Scbr (3) 1597 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19980113d1597        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Ioannis Rauisii Textoris Niuernensis ℗Epithetorum opus absolutissimum. Post varias editiones, ipsiusque auctoris recognitionem, et doctissimorum virorum emendationes locupletatum, et innumeris mendis repurgatum. Accesserunt De prosodia lib.IV quos Epitheroum praeposuimus operi. Item, De carminibus ad veterum imitationem artificios ̈componendis praecepta, collecta  ̉Georgio Sabino</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud Paulum Vgolinum</subfield>
+    <subfield code="d">1597</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">48 c., 768 p.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Tixier,</subfield>
+    <subfield code="b">Jean</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006995</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Sabinus,</subfield>
+    <subfield code="b">Georgius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001032</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Ugolino, Paolo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000360</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Ravisius Textor,</subfield>
+    <subfield code="b">Ioannes</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013593</subfield>
+    <subfield code="z">Tixier, Jean</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Textor,</subfield>
+    <subfield code="b">Jean Ravisius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\017073</subfield>
+    <subfield code="z">Tixier, Jean</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Tixier de Ravisi,</subfield>
+    <subfield code="b">Jean</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023980</subfield>
+    <subfield code="z">Tixier, Jean</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Ravisius,</subfield>
+    <subfield code="b">Joannes</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023981</subfield>
+    <subfield code="z">Tixier, Jean</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Schler,</subfield>
+    <subfield code="b">Georg</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014708</subfield>
+    <subfield code="z">Sabinus, Georgius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Georgius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023876</subfield>
+    <subfield code="z">Sabinus, Georgius</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ugolinus, Paulus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005615</subfield>
+    <subfield code="z">Ugolino, Paolo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ugolini, Paolo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005616</subfield>
+    <subfield code="z">Ugolino, Paolo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale di Montevergine. Mercogliano</subfield>
+    <subfield code="1">AV0045</subfield>
+    <subfield code="2">NAP MV</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Bologna</subfield>
+    <subfield code="1">BO0098</subfield>
+    <subfield code="2">UBO BU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Zelantea. Acireale</subfield>
+    <subfield code="1">CT0260</subfield>
+    <subfield code="2">CAT ZE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Lancia di Brolo. Polizzi Generosa</subfield>
+    <subfield code="1">PA0178</subfield>
+    <subfield code="2">PAL 57</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Giosu ̈Carducci. Spoleto</subfield>
+    <subfield code="1">PG0168</subfield>
+    <subfield code="2">UM1 08</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001308</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001308</subfield>
+    <subfield code="b">David in atto di uccidere Golia con la spada. Sullo sfondo tende di accampamento e guerrieri. Iniziali P.V. nell&apos;ovale in basso. In cornice figurata.</subfield>
+    <subfield code="e">Ita Deo favente omnia foeliciter</subfield>
+    <subfield code="c">U284</subfield>
+    <subfield code="d">Dimensioni: 8,1 x 6,2</subfield>
+    <subfield code="f">DAVID</subfield>
+    <subfield code="f">ITADEOFAVE</subfield>
+    <subfield code="f">PV</subfield>
+    <subfield code="g">1597-1599</subfield>
+  </datafield>
+</record>
+</collection>

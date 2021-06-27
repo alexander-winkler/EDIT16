@@ -1,0 +1,38 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00549na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\046326</controlfield>
+  <controlfield tag="005">19991108000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19990201             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Annotationes in quatuor &amp; viginti Pandectarum libros ... Auctae &amp; recognitae, &amp; accuratius nitidiusque ab Iodoco Bodio Ascensio impressae</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Bud,̌</subfield>
+    <subfield code="b">Guillaume</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000088</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Budaeus,</subfield>
+    <subfield code="b">Gulielmus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\027263</subfield>
+    <subfield code="z">Bud,̌ Guillaume</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Budeo,</subfield>
+    <subfield code="b">Guglielmo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\027264</subfield>
+    <subfield code="z">Bud,̌ Guillaume</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

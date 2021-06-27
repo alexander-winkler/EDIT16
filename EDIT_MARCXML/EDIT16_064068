@@ -1,0 +1,132 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01948nam0a22003611i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\064068</controlfield>
+  <controlfield tag="005">20060928000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">      </subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">INR</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20060209f1562        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Regola delli cinque ordini d&apos;architettura di m. Iacomo Barozzio da Vignola</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="d">\1562!</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">XXXII c. di tav.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Per la data cfr.: Cataneo, Pietro Giacomo Barozzi da Vignola Trattati con l&apos;aggiunta degli scritti di architettura ... p. 532. - Var. B: aggiunta di una postilla finale nell&apos;epistola ai lettori e delle nomenclature in alcune tavole</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">℗Il ℗Vignola</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006592</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">s.n.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000002</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Barozzi,</subfield>
+    <subfield code="b">Iacopo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007710</subfield>
+    <subfield code="z">℗Il ℗Vignola</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca estera - Biblioteca Nacional de Espaą. Madrid</subfield>
+    <subfield code="1">AA0001</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale dell&apos;Archiginnasio. Bologna</subfield>
+    <subfield code="z">(Var. A, B)</subfield>
+    <subfield code="1">BO0304</subfield>
+    <subfield code="2">UBO GA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="z">(Var. B)</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Malatestiana. Cesena</subfield>
+    <subfield code="1">FC0011</subfield>
+    <subfield code="2">RAV CS</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Ariostea. Ferrara</subfield>
+    <subfield code="1">FE0017</subfield>
+    <subfield code="2">UFE AR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Firenze</subfield>
+    <subfield code="z">(Var. A)</subfield>
+    <subfield code="1">FI0098</subfield>
+    <subfield code="2">CFI CF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca regionale universitaria. Messina</subfield>
+    <subfield code="z">(Var. B)</subfield>
+    <subfield code="1">ME0050</subfield>
+    <subfield code="2">PAL BM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Ambrosiana. Milano</subfield>
+    <subfield code="z">(VAR. B)</subfield>
+    <subfield code="1">MI0133</subfield>
+    <subfield code="2">VBA 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Accademia nazionale di scienze, lettere ed arti. Modena</subfield>
+    <subfield code="1">MO0052</subfield>
+    <subfield code="2">MOD AC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Padova</subfield>
+    <subfield code="z">(Var.A) - MUTILO</subfield>
+    <subfield code="1">PD0090</subfield>
+    <subfield code="2">PUV 55</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Oliveriana. Pesaro</subfield>
+    <subfield code="1">PU0061</subfield>
+    <subfield code="2">URB OL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Hertziana. Roma</subfield>
+    <subfield code="z">(VAR. B)</subfield>
+    <subfield code="1">RM0724</subfield>
+    <subfield code="2">ZRM 16</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Bertoliana. Vicenza</subfield>
+    <subfield code="z">(Var. B)</subfield>
+    <subfield code="1">VI0096</subfield>
+    <subfield code="2">VIA BE</subfield>
+  </datafield>
+</record>
+</collection>

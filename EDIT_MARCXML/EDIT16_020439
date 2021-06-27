@@ -1,0 +1,120 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02305nam0a2200325 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\020439</controlfield>
+  <controlfield tag="005">20080206000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">taau noca u.la *S*E (C) 1508 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1508        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Tractatus d. Martini Laudensis. Tractatus de principibus. Tractatus de cardinalibus. Tractatus de consciliarijs principum. Tractatus de legatis maxime principum. Tractatus de officialibus dominorum. Tractatus de milite. Tractatus de castellanis &amp; castris. Tracctatus de confederatione pace &amp; conventionibus principum. Tractatus de bello. Tractatus de crimine lese maiestatis. Tractatus de priuilegio &amp; rescripto. Tractatus de dignitate. Tractatus de fisco. Alius tractatus de cardinalibus. Tractatus de primogenitura. Solemnis repetitio super rubrica ff. de rei vendicatione. Tractatus de legitimatione</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">\Pavia</subfield>
+    <subfield code="c">Giovanni Giolito De Ferrari il vecchio!</subfield>
+    <subfield code="e">Impressum Papie</subfield>
+    <subfield code="g">per magistrum Bernardinum de Garaldis</subfield>
+    <subfield code="h">die VIII Iunij 1508</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\42! c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Pavia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Garrati,</subfield>
+    <subfield code="b">Martino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001246</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Giolito De Ferrari, Giovanni</subfield>
+    <subfield code="c"> &lt;1.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000472</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Garaldi, Bernardino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000275</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Garatis,</subfield>
+    <subfield code="b">Martinus : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006393</subfield>
+    <subfield code="z">Garrati, Martino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Iolitus, Ioannes</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003848</subfield>
+    <subfield code="z">Giolito De Ferrari, Giovanni &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Giolitto, Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004887</subfield>
+    <subfield code="z">Giolito De Ferrari, Giovanni &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Giolitus, Ioannes alias Ferrarius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004888</subfield>
+    <subfield code="z">Giolito De Ferrari, Giovanni &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Garaldis, Bernardinus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004828</subfield>
+    <subfield code="z">Garaldi, Bernardino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Garaldus, Bernardinus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004830</subfield>
+    <subfield code="z">Garaldi, Bernardino</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Passerini Landi. Piacenza</subfield>
+    <subfield code="1">PC0030</subfield>
+    <subfield code="2">PIA PL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Forteguerriana. Pistoia</subfield>
+    <subfield code="1">PT0025</subfield>
+    <subfield code="2">RT1 IE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Trento</subfield>
+    <subfield code="1">TN0121</subfield>
+    <subfield code="2">ZTN 01</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000315</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000315</subfield>
+    <subfield code="b">Guerriero armato di spada, con la mano appoggiata su uno scudo. Nello scudo le iniziali IGS e doppia croce. Sopra lo scudo una sorta di caduceo.</subfield>
+    <subfield code="c">K126</subfield>
+    <subfield code="c">Z839</subfield>
+    <subfield code="f">CADUCEO</subfield>
+    <subfield code="f">GUERRIERO</subfield>
+    <subfield code="f">IGS</subfield>
+    <subfield code="f">SCUDO</subfield>
+    <subfield code="g">1504-1520</subfield>
+  </datafield>
+</record>
+</collection>

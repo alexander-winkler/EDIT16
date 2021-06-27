@@ -1,0 +1,215 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>03717nam0a2200541 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\013390</controlfield>
+  <controlfield tag="005">19990730000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">s.iu a.na u-ma adtu (3) 1566 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1566        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Decretales Gregorii noni pont. max. cum epitomis, diuisionibus, et glossis ordinariis ... Cum additionibus tam ueterum quam recentium iurisconsultorum</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">\Francesco De Franceschi</subfield>
+    <subfield code="d">Gaspare Bindoni il vecchio</subfield>
+    <subfield code="d">Niccol ̣Bevilacqua</subfield>
+    <subfield code="d">Damiano Zenaro!</subfield>
+    <subfield code="d">1566</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\68!, 1151 p.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Sul front. insegna  di F. De Franceschi, G.Bindoni il vecchio, N. Bevilacqua e D. Zenaro</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2="1">
+    <subfield code="3">IT\ICCU\CNCE\013385</subfield>
+    <subfield code="a">Corpus iuris canonici. Decretales Gregorii ^IX=9.^</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Gregorius</subfield>
+    <subfield code="c"> &lt;papa</subfield>
+    <subfield code="c"> ; 9.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003120</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">De_Franceschi, Francesco &lt;senese&gt; &amp; Bindoni, Gaspare &lt;1.&gt; &amp; Bevilacqua, Niccol ̣&amp; Zenaro, Damiano</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000866</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei Cappuccini di Puglia. Bari</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">BA0017</subfield>
+    <subfield code="2">BA1 21</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca diocesana di Altamura - Gravina - Acquaviva delle Fonti. Gravina di Puglia</subfield>
+    <subfield code="1">BA0142</subfield>
+    <subfield code="2">BA1 16</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei Frati minori dell&apos;Emilia. Sezione Biblioteca dell&apos;Osservanza. Bologna</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">BO0336</subfield>
+    <subfield code="2">ZBO 41</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei frati minori cappuccini. Bologna</subfield>
+    <subfield code="1">BO0342</subfield>
+    <subfield code="2">PBE 94</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Parrocchia di S. Maria Assunta. Palazzolo dell&apos;Oglio</subfield>
+    <subfield code="1">BS0385</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca padre Dionisio Piccirilli. Campobasso</subfield>
+    <subfield code="1">CB0101</subfield>
+    <subfield code="2">MOL C2</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca e archivio storico arcivescovile. Capua</subfield>
+    <subfield code="1">CE0009</subfield>
+    <subfield code="2">NAP CM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile Santa Maria della Pace. Cremona</subfield>
+    <subfield code="1">CR0061</subfield>
+    <subfield code="2">PBE 48</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Emanuele Taranto. Caltagirone</subfield>
+    <subfield code="1">CT0018</subfield>
+    <subfield code="2">ZCT 05</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca monsignor Luigi Roba. Genova</subfield>
+    <subfield code="1">GE0139</subfield>
+    <subfield code="2">PBE 10</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale Isontina. Gorizia</subfield>
+    <subfield code="1">GO0025</subfield>
+    <subfield code="2">TSA BI</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Diocesana Mons. Giuliano Agresti. Lucca</subfield>
+    <subfield code="1">LU0023</subfield>
+    <subfield code="2">PBE 86</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca centrale della Facolt ̉di lettere e filosofia dell&apos;Universit ̉degli studi di Macerata. Macerata</subfield>
+    <subfield code="1">MC0170</subfield>
+    <subfield code="2">UMC BL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Braidense. Milano</subfield>
+    <subfield code="1">MI0185</subfield>
+    <subfield code="2">MIL NB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Convento di S. Antonio. Afragola</subfield>
+    <subfield code="1">NA0001</subfield>
+    <subfield code="2">NAP 72</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Pisa</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">PI0112</subfield>
+    <subfield code="2">PIS R1</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Almo collegio teologico. Parma</subfield>
+    <subfield code="1">PR0041</subfield>
+    <subfield code="2">ZPR 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Convitto nazionale Maria Luigia. Parma</subfield>
+    <subfield code="1">PR0046</subfield>
+    <subfield code="2">ZPR 16</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Federiciana. Fano</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">PU0018</subfield>
+    <subfield code="2">URB FN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca centrale dell&apos;Area umanistica dell&apos;Universit ̉degli studi di Urbino. Urbino</subfield>
+    <subfield code="1">PU0206</subfield>
+    <subfield code="2">URB AU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca centrale dei frati minori cappuccini. Roma</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">RM0315</subfield>
+    <subfield code="2">ZRM 52</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Pio Rajna. Sondrio</subfield>
+    <subfield code="1">SO0040</subfield>
+    <subfield code="2">ZSO 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Paolo e Paola Maria Arcari. Tirano</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">SO0047</subfield>
+    <subfield code="2">ZSO 03</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Dipartimento di scienze giuridiche dell&apos;Universit ̉degli studi di Sassari. Sassari</subfield>
+    <subfield code="1">SS0080</subfield>
+    <subfield code="2">ZSS 05</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;ex Seminario vescovile. Amelia</subfield>
+    <subfield code="1">TR0037</subfield>
+    <subfield code="2">ZTR 06</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Marciana. Venezia</subfield>
+    <subfield code="1">VE0049</subfield>
+    <subfield code="2">VEA BM</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000394</subfield>
+    <subfield code="b">Marca composita con i simboli degli editori costituenti la societ ̉(Pace, Occhio, Pazienza, Salamandra). In basso le iniziali: FS, GB, NB, DZ.</subfield>
+    <subfield code="c">T46</subfield>
+    <subfield code="c">Z1214</subfield>
+    <subfield code="d">Dimensioni: 8,7 x 10</subfield>
+    <subfield code="f">FGGBNBDZ</subfield>
+    <subfield code="f">OCCHIO</subfield>
+    <subfield code="f">PACE</subfield>
+    <subfield code="f">PAZIENZA</subfield>
+    <subfield code="f">SALAMANDRA</subfield>
+    <subfield code="g">1566-1576</subfield>
+  </datafield>
+</record>
+</collection>

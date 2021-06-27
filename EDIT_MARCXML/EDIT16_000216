@@ -1,0 +1,145 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02403nam0a2200385 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\000216</controlfield>
+  <controlfield tag="005">20080326000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">m.ad l-u- n-u- prma (C) 1521 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1521        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Alexander Achillinus ℗De humani corporis anatomia</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">\Venezia</subfield>
+    <subfield code="c">Niccol ̣dal Ges ̮&amp; Domenico dal Ges!̮</subfield>
+    <subfield code="e">Venetiis</subfield>
+    <subfield code="g">per Io. Antonium &amp; fratres de Sabio</subfield>
+    <subfield code="h">1521 mense Ianuario</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\32! c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Achillini,</subfield>
+    <subfield code="b">Alessandro</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000443</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Nicolini da Sabbio, Giovanni Antonio &amp; fratelli</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000133</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a"></subfield>
+    <subfield code="3">IT\ICCU\CNCT\000491</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a"></subfield>
+    <subfield code="3">IT\ICCU\CNCT\000492</subfield>
+    <subfield code="z"></subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ges,̮ Niccol ̣dal &amp; Ges,̮ Domenico dal</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002231</subfield>
+    <subfield code="z"></subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Nicholo &amp; Domenego  fratelli</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002422</subfield>
+    <subfield code="z"></subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Iesus, Nicolo del &amp; Iesus, Domenego del</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002423</subfield>
+    <subfield code="z"></subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Del_Ges,̮ Niccol ̣&amp; Del_Ges,̮ Domenico</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004007</subfield>
+    <subfield code="z"></subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Padova</subfield>
+    <subfield code="1">PD0158</subfield>
+    <subfield code="2">PUV 00</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca centrale dell&apos;Area umanistica dell&apos;Universit ̉degli studi di Urbino. Urbino</subfield>
+    <subfield code="1">PU0206</subfield>
+    <subfield code="2">URB AU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Carlo Venturini. Massa Lombarda</subfield>
+    <subfield code="1">RA0026</subfield>
+    <subfield code="2">RAV ML</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">British Library. London</subfield>
+    <subfield code="1">UK0001</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Marciana. Venezia</subfield>
+    <subfield code="1">VE0049</subfield>
+    <subfield code="2">VEA BM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteche della Fondazione Giorgio Cini onlus. Venezia</subfield>
+    <subfield code="1">VE0239</subfield>
+    <subfield code="2">VEA FC</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Nel coloph.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000224</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001621</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000224</subfield>
+    <subfield code="b">Cavolo con un drago attorcigliato al gambo. Ai lati i nomi: Io. Ant. et fres de Sabio. In basso la scritta: brasica</subfield>
+    <subfield code="c">K276</subfield>
+    <subfield code="d">Dimensioni: 4,5 x 6,2; Inserita o no in un rettangolo come cornice</subfield>
+    <subfield code="f">BRASICA</subfield>
+    <subfield code="f">CAVOLO</subfield>
+    <subfield code="f">SERPENTE</subfield>
+    <subfield code="g">1521-1567</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001621</subfield>
+    <subfield code="b">Monogramma di Cristo (iniziali I.H.S. sormontate da una croce su fondo nero). In cornice</subfield>
+    <subfield code="c">K236</subfield>
+    <subfield code="d">Dimensioni: 9,6 x 9,6</subfield>
+    <subfield code="f">MONOGRAMM</subfield>
+    <subfield code="f">IHS</subfield>
+    <subfield code="g">1521-1527</subfield>
+  </datafield>
+</record>
+</collection>

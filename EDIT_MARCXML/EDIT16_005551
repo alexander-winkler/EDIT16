@@ -1,0 +1,141 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02014nam0a22003611i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\005551</controlfield>
+  <controlfield tag="005">20060323000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">9792 e.a, o.a, FeEc (3) 1555 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1555        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Il ℗secondo libro dell&apos;opere burlesche di m. Francesco Berni, del Molza, di m. Bino, di m. Lodouico Martelli, di Mattio Franzesi, dell&apos;Aretino, e di diuersi autori.Ricorretto, e con diligenza ristampato</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Firenze</subfield>
+    <subfield code="c">\eredi di Bernardo Giunta il vecchio!</subfield>
+    <subfield code="d">1555</subfield>
+    <subfield code="e">Stampato in Firenze</subfield>
+    <subfield code="g">appresso Bernardo Giunta</subfield>
+    <subfield code="h">1555</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\10!, 332 p.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Firenze</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Berni,</subfield>
+    <subfield code="b">Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001661</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Martelli,</subfield>
+    <subfield code="b">Lodovico</subfield>
+    <subfield code="c"> &lt;1499-1527&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007008</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Franzesi,</subfield>
+    <subfield code="b">Matteo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018507</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Aretino,</subfield>
+    <subfield code="b">Pietro</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000846</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Molza,</subfield>
+    <subfield code="b">Francesco Maria</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001104</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Bini,</subfield>
+    <subfield code="b">Giovanni Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001105</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Giunta, Bernardo</subfield>
+    <subfield code="c"> &lt;1.&gt; - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000170</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Gelasino</subfield>
+    <subfield code="c"> : da#Fiesoli</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012739</subfield>
+    <subfield code="z">Berni, Francesco</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Pietropaulo</subfield>
+    <subfield code="c"> : da#San Chierico</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012740</subfield>
+    <subfield code="z">Berni, Francesco</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Martellus,</subfield>
+    <subfield code="b">Ludovicus</subfield>
+    <subfield code="c"> &lt;1499-1527&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021098</subfield>
+    <subfield code="z">Martelli, Lodovico &lt;1499-1527&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Francesi,</subfield>
+    <subfield code="b">Matteo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018525</subfield>
+    <subfield code="z">Franzesi, Matteo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Partenio Etiro</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022629</subfield>
+    <subfield code="z">Aretino, Pietro</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Padre Siceo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014870</subfield>
+    <subfield code="z">Molza, Francesco Maria</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Bino,</subfield>
+    <subfield code="b">Gianfrancesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022168</subfield>
+    <subfield code="z">Bini, Giovanni Francesco</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Bibliotheca Iunctia</subfield>
+    <subfield code="3">IT\ICCU\CNCT\006345</subfield>
+    <subfield code="z">Giunta, Bernardo &lt;1.&gt; - eredi</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000776</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000776</subfield>
+    <subfield code="b">Serpente attorcigliato a una pianta di giglio che lascia cadere a terra la vecchia pelle</subfield>
+    <subfield code="e">Nouus exorior.</subfield>
+    <subfield code="c">V68</subfield>
+    <subfield code="d">Dimensioni: 4,7 x 6,7</subfield>
+    <subfield code="f">SERPENTE</subfield>
+    <subfield code="f">GIGLIO</subfield>
+    <subfield code="g">1548-1570</subfield>
+  </datafield>
+</record>
+</collection>

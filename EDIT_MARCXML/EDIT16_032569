@@ -1,0 +1,246 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>04196nam0a22006251i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\032569</controlfield>
+  <controlfield tag="005">20190703000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">x.na C.ue n-a- qstu (C) 1516 (Q)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971213f1516        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Abbas Ioachim magnus propheta. Hec subieta in hoc continentur libello. Expositio magni prophete Ioachim: in librum beati Cirilli de magnis tribulationibus &amp; statu sancte matris Ecclesie: ab hiis nostris temporibus vsque ad finem seculi:  vna cum compilatione ex diuersis prophetis Noui ac Veteris Testamenti Theolosphori de Cusentia: presbyteri &amp; heremite. Item Explanatio figurata &amp; pulchra in Apochalypsim de residuo statu Ecclesie ... Item Tractatus de antichristo magistri Ioannis Parisiensis Ordinis predicatorum. Item Tractatus de septem statibus Ecclesie deuoti doctoris fratris Vbertini de Casali Ordinis minorum. Item Tabula alphabetica principalium materiarum. Item vita magni prophete abbatis Ioachim</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="d">\1516?!</subfield>
+    <subfield code="e">Venetijs</subfield>
+    <subfield code="g">per Bernardinum Benalium</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">LXXVIII  \i.e. 80! c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Stampata probabilmente nel 1516 a spese di Lazzaro Soardi; cfr.: D.E. Rhodes, Annali tipografici di Lazzaro De&apos; Soardi, p. 76 n. 111. - L&apos; &quot;Expositio in librum beati Cirilli De magnis tribulationibus et statu sancte matris Ecclesie&quot;  ̈un apocrifo di Gioacchino da Fiore</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Ioachim</subfield>
+    <subfield code="c"> &lt;abbas Florensis&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006621</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Ubertino</subfield>
+    <subfield code="c"> : da#Casale</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007084</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Jean</subfield>
+    <subfield code="c"> : de#Paris</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016316</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Telesforo</subfield>
+    <subfield code="c"> : da#Cosenza</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016319</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Benali, Bernardino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000212</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Soardi, Lazzaro</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000387</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Gioacchino</subfield>
+    <subfield code="c"> : da#Fiore</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018770</subfield>
+    <subfield code="z">Ioachim &lt;abbas Florensis&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Fiore,</subfield>
+    <subfield code="b">Gioacchino : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020118</subfield>
+    <subfield code="z">Ioachim &lt;abbas Florensis&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Ubertinus</subfield>
+    <subfield code="c"> : de#Ilia</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014437</subfield>
+    <subfield code="z">Ubertino : da#Casale</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Ioannes</subfield>
+    <subfield code="c"> : Parisiensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016317</subfield>
+    <subfield code="z">Jean : de#Paris</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Giovanni</subfield>
+    <subfield code="c"> : di#Parigi</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019452</subfield>
+    <subfield code="z">Jean : de#Paris</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Quidort,</subfield>
+    <subfield code="b">Jean</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019523</subfield>
+    <subfield code="z">Jean : de#Paris</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Le_Sourd,</subfield>
+    <subfield code="b">Jean</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019524</subfield>
+    <subfield code="z">Jean : de#Paris</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Johannes</subfield>
+    <subfield code="c"> : Parisiensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019525</subfield>
+    <subfield code="z">Jean : de#Paris</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Teolosphorus</subfield>
+    <subfield code="c"> : de#Cusentia</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016323</subfield>
+    <subfield code="z">Telesforo : da#Cosenza</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Benagli, Bernardino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003632</subfield>
+    <subfield code="z">Benali, Bernardino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Benalius, Bernardinus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004326</subfield>
+    <subfield code="z">Benali, Bernardino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Benaleis, Bernardinus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004327</subfield>
+    <subfield code="z">Benali, Bernardino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Suardi, Lazzaro</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002884</subfield>
+    <subfield code="z">Soardi, Lazzaro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Soardus, Lazarus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005682</subfield>
+    <subfield code="z">Soardi, Lazzaro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Soardis, Lazarus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005684</subfield>
+    <subfield code="z">Soardi, Lazzaro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Soardo, Lazaro</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005685</subfield>
+    <subfield code="z">Soardi, Lazzaro</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Sagarriga Visconti-Volpi. Bari</subfield>
+    <subfield code="1">BA0018</subfield>
+    <subfield code="2">BA1 BA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica A. Mai. Bergamo</subfield>
+    <subfield code="1">BG0026</subfield>
+    <subfield code="2">LO1 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale. Cremona</subfield>
+    <subfield code="1">CR0062</subfield>
+    <subfield code="2">LO1 28</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Ariostea. Ferrara</subfield>
+    <subfield code="1">FE0017</subfield>
+    <subfield code="2">UFE AR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Napoli</subfield>
+    <subfield code="1">NA0070</subfield>
+    <subfield code="2">NAP BU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Augusta. Perugia</subfield>
+    <subfield code="1">PG0109</subfield>
+    <subfield code="2">UM1 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Giosu ̈Carducci. Spoleto</subfield>
+    <subfield code="1">PG0168</subfield>
+    <subfield code="2">UM1 08</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Oliveriana. Pesaro</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">PU0061</subfield>
+    <subfield code="2">URB OL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Pavia</subfield>
+    <subfield code="1">PV0291</subfield>
+    <subfield code="2">MIL UP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria Alessandrina. Roma</subfield>
+    <subfield code="1">RM0280</subfield>
+    <subfield code="2">RML 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Casanatense. Roma</subfield>
+    <subfield code="1">RM0313</subfield>
+    <subfield code="2">RML 07</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Senato della Repubblica Giovanni Spadolini. Roma</subfield>
+    <subfield code="1">RM0427</subfield>
+    <subfield code="2">ZRM 12</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica A. Hortis. Trieste</subfield>
+    <subfield code="1">TS0013</subfield>
+    <subfield code="2">TSA BC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteche della Fondazione Giorgio Cini onlus. Venezia</subfield>
+    <subfield code="1">VE0239</subfield>
+    <subfield code="2">VEA FC</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,127 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01783nam0a2200361 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\004069</controlfield>
+  <controlfield tag="005">19970101000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">ume- u,er o.e, niti (3) 1593 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1593        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">De immunitatibus a magistratu Diui Georgii concessis liber</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Genuae</subfield>
+    <subfield code="c">ex typ. haer. Hieronymi Bartoli</subfield>
+    <subfield code="d">1593</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\8!, 130 p.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Genova</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Banco di San Giorgio</subfield>
+    <subfield code="c"> &lt;Genova&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001349</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Bartoli, Girolamo - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000018</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Casa e banco di S. Giorgio</subfield>
+    <subfield code="c"> &lt;Genova&gt;</subfield>
+    <subfield code="3">28800</subfield>
+    <subfield code="z">Banco di San Giorgio &lt;Genova&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Berio. Genova</subfield>
+    <subfield code="1">GE0036</subfield>
+    <subfield code="2">SGE BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Genova</subfield>
+    <subfield code="1">GE0038</subfield>
+    <subfield code="2">LIG 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Durazzo. Genova</subfield>
+    <subfield code="1">GE0047</subfield>
+    <subfield code="2">ZGE 24</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Societ ̉ligure di storia patria. Genova</subfield>
+    <subfield code="1">GE0050</subfield>
+    <subfield code="2">SGE 47</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Settore musei del Comune di Genova. Genova</subfield>
+    <subfield code="1">GE0058</subfield>
+    <subfield code="2">SGE BS</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Dipartimento di diritto privato e storia del diritto dell&apos;Universit ̉degli studi di Milano. Milano</subfield>
+    <subfield code="1">MI1334</subfield>
+    <subfield code="2">USM L1</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Camera dei deputati. Roma</subfield>
+    <subfield code="1">RM0175</subfield>
+    <subfield code="2">ZRM 77</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Senato della Repubblica Giovanni Spadolini. Roma</subfield>
+    <subfield code="1">RM0427</subfield>
+    <subfield code="2">ZRM 12</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Consiglio di Stato. Roma</subfield>
+    <subfield code="1">RM0575</subfield>
+    <subfield code="2">RMG CS</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Bolano</subfield>
+    <subfield code="1">SP0078</subfield>
+    <subfield code="2">LIG 42</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Reale. Torino</subfield>
+    <subfield code="1">TO0263</subfield>
+    <subfield code="2">TO0 07</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca agnesiana e diocesana. Vercelli</subfield>
+    <subfield code="1">VC0072</subfield>
+    <subfield code="2">TO0 C4</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Vercelli</subfield>
+    <subfield code="1">VC0073</subfield>
+    <subfield code="2">TO0 A2</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,50 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00717na 0a22001571i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\072205</controlfield>
+  <controlfield tag="005">20071212000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20071212             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Ritus Magnae Curiae Vicariae regni Neapolis</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Napoli</subfield>
+    <subfield code="c"> &lt;Regno&gt;</subfield>
+    <subfield code="b"> : Gran Corte della Vicaria</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022947</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Perrinis,</subfield>
+    <subfield code="b">Cesare : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018676</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Gran Corte della Vicaria</subfield>
+    <subfield code="c"> &lt;Napoli, Regno&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022961</subfield>
+    <subfield code="z">Napoli &lt;Regno&gt; : Gran Corte della Vicaria</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Magna Curia Vicariae</subfield>
+    <subfield code="c"> &lt;Napoli, Regno&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022963</subfield>
+    <subfield code="z">Napoli &lt;Regno&gt; : Gran Corte della Vicaria</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Perrini,</subfield>
+    <subfield code="b">Cesare</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019982</subfield>
+    <subfield code="z">Perrinis, Cesare : de</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

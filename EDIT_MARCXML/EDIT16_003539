@@ -1,0 +1,126 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01657nam0a2200349 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\003539</controlfield>
+  <controlfield tag="005">19970101000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">i-e- :qi- amex ause (C) 1511 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1511        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Expositiones suo loco cum textu Auicenne alligate Gentilis Fulginei atque Thadei Florentini in secundam fen de criticisquarti canonis</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Neapoli</subfield>
+    <subfield code="c">per Sigismundum Mair</subfield>
+    <subfield code="d">1511</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\44! c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Napoli</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Avicenna</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000237</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Gentile</subfield>
+    <subfield code="c"> : da#Foligno</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000362</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Alderotti,</subfield>
+    <subfield code="b">Taddeo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000363</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Mayr, Sigismondo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000066</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Abu &apos;Ali al-Husain ibn &apos;Abd Allah ibn Sina</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012315</subfield>
+    <subfield code="z">Avicenna</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Ibn Sina,</subfield>
+    <subfield code="b">Abu Ali</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014502</subfield>
+    <subfield code="z">Avicenna</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Gentili,</subfield>
+    <subfield code="b">Gentile</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018711</subfield>
+    <subfield code="z">Gentile : da#Foligno</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Gentilis</subfield>
+    <subfield code="c"> : Fulginas</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018713</subfield>
+    <subfield code="z">Gentile : da#Foligno</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Gentilibus,</subfield>
+    <subfield code="b">Gentilis : de#Fulgineo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022158</subfield>
+    <subfield code="z">Gentile : da#Foligno</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Thaddeus</subfield>
+    <subfield code="c"> : Florentinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012292</subfield>
+    <subfield code="z">Alderotti, Taddeo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Taddeo</subfield>
+    <subfield code="c"> : Fiorentino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014956</subfield>
+    <subfield code="z">Alderotti, Taddeo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Mayr, Sigmund</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005129</subfield>
+    <subfield code="z">Mayr, Sigismondo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Berio. Genova</subfield>
+    <subfield code="1">GE0036</subfield>
+    <subfield code="2">SGE BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Padova</subfield>
+    <subfield code="1">PD0158</subfield>
+    <subfield code="2">PUV 00</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Foligno</subfield>
+    <subfield code="1">PG0035</subfield>
+    <subfield code="2">UM1 04</subfield>
+  </datafield>
+</record>
+</collection>

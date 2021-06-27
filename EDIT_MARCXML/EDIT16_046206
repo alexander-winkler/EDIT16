@@ -1,0 +1,50 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00626na 0a22001691i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\046206</controlfield>
+  <controlfield tag="005">19990128000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19990128             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Constitutiones fratrum serv. B.M.V. ...</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Servi di Maria</subfield>
+    <subfield code="3">7314</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Congregatio Fratrum Servorum Beatae Mariae</subfield>
+    <subfield code="3">15556</subfield>
+    <subfield code="z">Servi di Maria</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Ordo fratrum beatae Mariae servorum</subfield>
+    <subfield code="3">15572</subfield>
+    <subfield code="z">Servi di Maria</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Serviti</subfield>
+    <subfield code="3">15573</subfield>
+    <subfield code="z">Servi di Maria</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Compagnia de&apos; Servi di Santa Maria</subfield>
+    <subfield code="3">24514</subfield>
+    <subfield code="z">Servi di Maria</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Ordo Servorum Mariae</subfield>
+    <subfield code="3">24515</subfield>
+    <subfield code="z">Servi di Maria</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

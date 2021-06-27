@@ -1,0 +1,119 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01637nam0a2200337 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\033439</controlfield>
+  <controlfield tag="005">20041018000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e-m- a-oc e-s, teta (3) 1596 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971218d1596        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">De admirabili nouoq. mysterio b. Mariae Vici a Monteregali, dialogus Philippo Maria Rofredo ... auctore. ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Taurini</subfield>
+    <subfield code="c">apud Io. Baptistam Beuilaquam</subfield>
+    <subfield code="d">1596</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\12!, 175, \9! p.</subfield>
+    <subfield code="c">ill., 1 ritr.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Torino</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Roffredi,</subfield>
+    <subfield code="b">Filippo Maria</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009654</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Bevilacqua, Giovanni Battista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001147</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Roffredo,</subfield>
+    <subfield code="b">Filippo Maria</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023766</subfield>
+    <subfield code="z">Roffredi, Filippo Maria</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica A. Mai. Bergamo</subfield>
+    <subfield code="1">BG0026</subfield>
+    <subfield code="2">LO1 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Bologna</subfield>
+    <subfield code="1">BO0098</subfield>
+    <subfield code="2">UBO BU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Cagliari</subfield>
+    <subfield code="1">CA0194</subfield>
+    <subfield code="2">CAG UC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Giovanni Battista Adriani. Cherasco</subfield>
+    <subfield code="1">CN0030</subfield>
+    <subfield code="2">TO0 47</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica di Mondov. Mondov</subfield>
+    <subfield code="1">CN0065</subfield>
+    <subfield code="2">TO0 55</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Valentiniana. Camerino</subfield>
+    <subfield code="1">MC0004</subfield>
+    <subfield code="2">UMC BV</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Augusta. Perugia</subfield>
+    <subfield code="1">PG0109</subfield>
+    <subfield code="2">UM1 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Istituto culturale e di documentazione Lazzerini. Prato</subfield>
+    <subfield code="1">PO0002</subfield>
+    <subfield code="2">RT1 DA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Vallicelliana. Roma</subfield>
+    <subfield code="1">RM0281</subfield>
+    <subfield code="2">RML 08</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca storica della Provincia di Torino. Torino</subfield>
+    <subfield code="1">TO0277</subfield>
+    <subfield code="2">TO0 06</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Marciana. Venezia</subfield>
+    <subfield code="1">VE0049</subfield>
+    <subfield code="2">VEA BM</subfield>
+  </datafield>
+</record>
+</collection>

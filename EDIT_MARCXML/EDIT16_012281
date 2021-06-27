@@ -1,0 +1,114 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01453nam0a2200313 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\012281</controlfield>
+  <controlfield tag="005">19970101000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">umum sa,&amp; umue gaci (3) 1548 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">ods. et3. r.e, mira (C) 1548 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">2</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1548        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗M. Tullii Ciceronis ℗Epistolae familiares. Pauli Manutii scholia</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud Aldi filios</subfield>
+    <subfield code="d">1548</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">2 v.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Cicero,</subfield>
+    <subfield code="b">Marcus Tullius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002170</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Manuzio,</subfield>
+    <subfield code="b">Paolo</subfield>
+    <subfield code="c"> &lt;1512-1574&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000321</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Manuzio, Aldo</subfield>
+    <subfield code="c"> &lt;1.&gt; - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000896</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Tullius Cicero,</subfield>
+    <subfield code="b">Marcus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020042</subfield>
+    <subfield code="z">Cicero, Marcus Tullius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Manutius,</subfield>
+    <subfield code="b">Paulus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019615</subfield>
+    <subfield code="z">Manuzio, Paolo &lt;1512-1574&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Manuce,</subfield>
+    <subfield code="b">Paul</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019616</subfield>
+    <subfield code="z">Manuzio, Paolo &lt;1512-1574&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Aldi filii</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003958</subfield>
+    <subfield code="z">Manuzio, Aldo &lt;1.&gt; - eredi</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Firenze</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">FI0098</subfield>
+    <subfield code="2">CFI CF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca centrale della Regione siciliana Alberto Bombace. Palermo</subfield>
+    <subfield code="1">PA0064</subfield>
+    <subfield code="2">PAL BP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale degli Intronati. Siena</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">SI0046</subfield>
+    <subfield code="2">RT1 QI</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Marciana. Venezia</subfield>
+    <subfield code="1">VE0049</subfield>
+    <subfield code="2">VEA BM</subfield>
+  </datafield>
+</record>
+</collection>

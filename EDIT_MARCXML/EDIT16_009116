@@ -1,0 +1,100 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01436nam0a2200289 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\009116</controlfield>
+  <controlfield tag="005">19970101000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">i-a, rea- e,el dogr (3) 1598 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1598        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Meditationi sopra gli Euangelii delle feste principali de&apos; santi composte dal reuer. Andrea Capiglia . Parte terza. Nuouamente tradotta dalla lingua spagnuola dal r. monsig. Gratia Maria Gratij</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Brescia</subfield>
+    <subfield code="c">presso la Compagnia Bresciana</subfield>
+    <subfield code="d">1598</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">428, \2! p.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">12ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Brescia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Capilla,</subfield>
+    <subfield code="b">Andrš</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002551</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Grazi,</subfield>
+    <subfield code="b">Grazio Maria</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002196</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">Compagnia Bresciana</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000578</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Capiglia,</subfield>
+    <subfield code="b">Andrea</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013124</subfield>
+    <subfield code="z">Capilla, Andrš</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Capella,</subfield>
+    <subfield code="b">Andrea</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013126</subfield>
+    <subfield code="z">Capilla, Andrš</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Gratii,</subfield>
+    <subfield code="b">Gratia Maria</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019750</subfield>
+    <subfield code="z">Grazi, Grazio Maria</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Societas Brixiensis</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003695</subfield>
+    <subfield code="z">Compagnia Bresciana</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Societas Brixiana</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004652</subfield>
+    <subfield code="z">Compagnia Bresciana</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Francesco Antolisei. San Severino Marche</subfield>
+    <subfield code="1">MC0075</subfield>
+    <subfield code="2">UMC FA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Collegio cardinale Giulio Alberoni. Piacenza</subfield>
+    <subfield code="1">PC0032</subfield>
+    <subfield code="2">PIA AB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Abbazia di Monte Oliveto Maggiore. Asciano</subfield>
+    <subfield code="1">SI0003</subfield>
+    <subfield code="2">ZSI 04</subfield>
+  </datafield>
+</record>
+</collection>

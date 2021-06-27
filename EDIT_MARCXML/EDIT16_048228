@@ -1,0 +1,121 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02060nam0a2200325 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\048228</controlfield>
+  <controlfield tag="005">20101213000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">iodu o-de i-da pape (3) 1535 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19990319d1535        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Itinerario de Ludouico de Varthema bolognese nello Egitto, nella Soria, nella Arabia deserta &amp; felice, nella Persia, nella India &amp; nela Ethyopia. Le fede, el viuere &amp; costumi delle prefate prouincie. Et al presente agiontoui alcune isole nouamente ritrouate</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Stampato in Vinegia</subfield>
+    <subfield code="g">per Francesco di Alessandro Bindone &amp; Mapheo Pasini compani</subfield>
+    <subfield code="h">a santo Moyse al segno de langelo Raphael</subfield>
+    <subfield code="h">1535 del mese d&apos;aprile</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">100, \4! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Varthema,</subfield>
+    <subfield code="b">Lodovico : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007403</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Bindoni, Francesco &lt;1.&gt; &amp; Pasini, Maffeo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000060</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Bartema,</subfield>
+    <subfield code="b">Lodovico</subfield>
+    <subfield code="3">IT\ICCU\CNCA\017054</subfield>
+    <subfield code="z">Varthema, Lodovico : de</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Vartema,</subfield>
+    <subfield code="b">Lodovico</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024630</subfield>
+    <subfield code="z">Varthema, Lodovico : de</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">℗al segno dell&apos;℗Angelo Raffaele</subfield>
+    <subfield code="c"> &lt;1531-1546&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002984</subfield>
+    <subfield code="z">Bindoni, Francesco &lt;1.&gt; &amp; Pasini, Maffeo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale dell&apos;Archiginnasio. Bologna</subfield>
+    <subfield code="1">BO0304</subfield>
+    <subfield code="2">UBO GA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Cagliari</subfield>
+    <subfield code="1">CA0194</subfield>
+    <subfield code="2">CAG UC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Labronica Francesco Domenico Guerrazzi. Livorno</subfield>
+    <subfield code="1">LI0011</subfield>
+    <subfield code="2">LIA FA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Augusta. Perugia</subfield>
+    <subfield code="1">PG0109</subfield>
+    <subfield code="2">UM1 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale degli Intronati. Siena</subfield>
+    <subfield code="1">SI0046</subfield>
+    <subfield code="2">RT1 QI</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Collezione privata Casagrande. San Don ̉di Piave</subfield>
+    <subfield code="1">VE0259</subfield>
+    <subfield code="2">ZVE 20</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Nel coloph.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000627</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000627</subfield>
+    <subfield code="b">Arcangelo Raffaele e Tobiolo (angelo che tiene per mano un bambino con un pesce). A destra un cane. Sopra le figure le scritte: Arcangelus Raphael, Tobiolo.</subfield>
+    <subfield code="c">Z96</subfield>
+    <subfield code="d">Dimensioni: 7,3 x 6,8</subfield>
+    <subfield code="f">ANGELO</subfield>
+    <subfield code="f">ARCANGELUS</subfield>
+    <subfield code="f">CANE</subfield>
+    <subfield code="f">PESCE</subfield>
+    <subfield code="f">TOBIOLO</subfield>
+    <subfield code="g">1531-1547</subfield>
+  </datafield>
+</record>
+</collection>

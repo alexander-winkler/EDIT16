@@ -1,0 +1,38 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00485na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\055031</controlfield>
+  <controlfield tag="005">20060620000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20031211             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Il ℗secondo libro delle prediche del reverendissimo mons. Cornelio Musso</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Musso,</subfield>
+    <subfield code="b">Cornelio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001160</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Mussi,</subfield>
+    <subfield code="b">Cornelio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007262</subfield>
+    <subfield code="z">Musso, Cornelio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Mussus,</subfield>
+    <subfield code="b">Cornelius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021133</subfield>
+    <subfield code="z">Musso, Cornelio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

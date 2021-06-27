@@ -1,0 +1,44 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00809na 0a22001451i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\072001</controlfield>
+  <controlfield tag="005">20071212000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20071109             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Index verborum, rerum, ac sententiarum maximae \!! insignium, in decisiones Neapolitanas d. Matthaei de Afflict. Parthenopaei, viri utriusque iuris citra controuersiam peritissimi</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Napoli</subfield>
+    <subfield code="c"> &lt;Regno&gt;</subfield>
+    <subfield code="b"> : Sacro Regio Consiglio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021612</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Sacro Regio Consiglio</subfield>
+    <subfield code="c"> &lt;Napoli, Regno&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021613</subfield>
+    <subfield code="z">Napoli &lt;Regno&gt; : Sacro Regio Consiglio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Consiglio di Santa Chiara</subfield>
+    <subfield code="c"> &lt;Napoli, Regno&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021822</subfield>
+    <subfield code="z">Napoli &lt;Regno&gt; : Sacro Regio Consiglio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Sacrum Regium Consilium Neapolitanum</subfield>
+    <subfield code="3">23095</subfield>
+    <subfield code="z">Napoli &lt;Regno&gt; : Sacro Regio Consiglio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

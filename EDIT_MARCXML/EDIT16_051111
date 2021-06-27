@@ -1,0 +1,64 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00947na 0a22001931i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\051111</controlfield>
+  <controlfield tag="005">20001031000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20001019             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Opusculum preclarissimum Ioannis Scoti conclusiones numero CCCLXXVIII complectens quas ex libris Metaphisice Aristotelis edidit</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2="1">
+    <subfield code="3">IT\ICCU\CNCE\051148</subfield>
+    <subfield code="a">Conclusiones ex libris  Metaphysicorum Aristotelis</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Duns Scotus,</subfield>
+    <subfield code="b">Ioannes</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000005</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Gonsalvus</subfield>
+    <subfield code="c"> : Hispanus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016035</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Scotus,</subfield>
+    <subfield code="b">Joannes</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012390</subfield>
+    <subfield code="z">Duns Scotus, Ioannes</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Scotus,</subfield>
+    <subfield code="b">Duns</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015217</subfield>
+    <subfield code="z">Duns Scotus, Ioannes</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Doctor Subtilis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021575</subfield>
+    <subfield code="z">Duns Scotus, Ioannes</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Vallebona,</subfield>
+    <subfield code="b">Gonzalo : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020402</subfield>
+    <subfield code="z">Gonsalvus : Hispanus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Balboa y Varcarcel,</subfield>
+    <subfield code="b">Gonzalo : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020403</subfield>
+    <subfield code="z">Gonsalvus : Hispanus</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

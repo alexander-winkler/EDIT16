@@ -1,0 +1,119 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01978nam0a2200325 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\015950</controlfield>
+  <controlfield tag="005">20130522000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">ton- u-ma lier stde (3) 1598 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1598        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Discorso generale sopra la regolatione dell&apos;Adige fatto per il sig. Teodor da Monte auanti gl&apos;illustrissimi sig. Giouanni Nani, &amp; sig. Andrea Bragadino Rettori degnissimi di Verona. Et auanti gl&apos;illustrissimi sig. Gio. Battista Bernardo, et sig. Siluan Capello sopraintendenti deputati dall&apos;illustriss. &amp; excellentiss. Senato sopra la regolation dell&apos;Adige &amp; sue debite prouisioni</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Verona</subfield>
+    <subfield code="c">appresso Girolamo Discepolo</subfield>
+    <subfield code="d">1598</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">48 p., 1 c. di tav.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Var. B: 70, \2! p. Le pag 49-70 contengono una relazione dell&apos;autore su un contenzioso riguardante l&apos;uso della campagna comunale</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Verona</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Da_Monte,</subfield>
+    <subfield code="b">Teodoro</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004595</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Discepolo, Girolamo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000153</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Monte,</subfield>
+    <subfield code="b">Teodoro : da</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014677</subfield>
+    <subfield code="z">Da_Monte, Teodoro</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Teodoro</subfield>
+    <subfield code="c"> : da#Monte</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015232</subfield>
+    <subfield code="z">Da_Monte, Teodoro</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Theodoro</subfield>
+    <subfield code="c"> : di#Monte</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015233</subfield>
+    <subfield code="z">Da_Monte, Teodoro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Discipulus, Hieronymus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004702</subfield>
+    <subfield code="z">Discepolo, Girolamo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Discepoli, Gieronimo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004703</subfield>
+    <subfield code="z">Discepolo, Girolamo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Padova</subfield>
+    <subfield code="z">(Var.B)</subfield>
+    <subfield code="1">PD0158</subfield>
+    <subfield code="2">PUV 00</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Ministero delle politiche agricole e forestali. Roma</subfield>
+    <subfield code="1">RM0730</subfield>
+    <subfield code="2">RML 21</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Treviso</subfield>
+    <subfield code="1">TV0114</subfield>
+    <subfield code="2">VIA CT</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Verona</subfield>
+    <subfield code="1">VR0059</subfield>
+    <subfield code="2">ZVR 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Accademia di agricoltura scienze e lettere di Verona. Verona</subfield>
+    <subfield code="z">(Var.A)</subfield>
+    <subfield code="1">VR0072</subfield>
+    <subfield code="2">VIA AA</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000877</subfield>
+    <subfield code="b">Livella</subfield>
+    <subfield code="e">Moderata Passio</subfield>
+    <subfield code="c">Z819</subfield>
+    <subfield code="d">Dimensioni: 9 x 6</subfield>
+    <subfield code="f">MODERATAPA</subfield>
+    <subfield code="f">LIVELLA</subfield>
+    <subfield code="g">1594-1598</subfield>
+  </datafield>
+</record>
+</collection>

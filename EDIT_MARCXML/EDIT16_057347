@@ -1,0 +1,82 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01081nam0a2200253 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\057347</controlfield>
+  <controlfield tag="005">20070323000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">t.is teti o.e. PrTE (3) 1585 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20040410d1585        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Capitoli et ordini del sacro Monte di piet ̉di Verona</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Verona</subfield>
+    <subfield code="c">appresso Sebastiano dalle Donne</subfield>
+    <subfield code="d">1585</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">39, \1! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Verona</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a"></subfield>
+    <subfield code="c"> &lt;Verona&gt;</subfield>
+    <subfield code="3">9492</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Dalle_Donne, Sebastiano</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000563</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Donnis, Sebastianus a</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003704</subfield>
+    <subfield code="z">Dalle_Donne, Sebastiano</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Donne, Sebastiano dalle</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004480</subfield>
+    <subfield code="z">Dalle_Donne, Sebastiano</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Donne, Bastiano dalle</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004481</subfield>
+    <subfield code="z">Dalle_Donne, Sebastiano</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei frati minori francescani. Firenze</subfield>
+    <subfield code="1">FI0095</subfield>
+    <subfield code="2">RT1 BF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Senato della Repubblica Giovanni Spadolini. Roma</subfield>
+    <subfield code="1">RM0427</subfield>
+    <subfield code="2">ZRM 12</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Verona</subfield>
+    <subfield code="1">VR0059</subfield>
+    <subfield code="2">ZVR 02</subfield>
+  </datafield>
+</record>
+</collection>

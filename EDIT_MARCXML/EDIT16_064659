@@ -1,0 +1,120 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02219nam0a22003251i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\064659</controlfield>
+  <controlfield tag="005">20110711000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20060605d1584        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Meditationi di diuersi dottori di santa Chiesa. Nouamente tradotte, e corrette dal r.p.f. Nicol ̣Aurifico Buonfigli senese carmelitano. Di nuouo poste in luce. Et questo  ̈il primo grado della scala spirituale</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Venetia</subfield>
+    <subfield code="c">appresso i Gioliti</subfield>
+    <subfield code="d">1584</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">3 v.</subfield>
+    <subfield code="d">12ʻ</subfield>
+  </datafield>
+  <datafield tag="423" ind1=" " ind2="0">
+    <subfield code="1">001IT\ICCU\CNCE\064678</subfield>
+    <subfield code="1">2001 </subfield>
+    <subfield code="a">Seconda parte delle meditationi di diuersi dottori di santa Chiesa. Nouamente tradotte, e corrette dal r.p.f. NicolAo Aurifico Buonfigli senese carmelitano. Di nuouo poste in luce. Et questo Ae il secondo grado della scala spirituale</subfield>
+  </datafield>
+  <datafield tag="423" ind1=" " ind2="0">
+    <subfield code="1">001IT\ICCU\CNCE\064679</subfield>
+    <subfield code="1">2001 </subfield>
+    <subfield code="a">Terza parte delle meditationi di diuersi dottori di santa Chiesa. Nouamente tradotte, e corrette dal r.p.f. NicolAo Aurifico Buonfigli senese carmelitano. Di nuouo poste in luce. Et questo Ae il terzo grado della scala spirituale.</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Bonfigli,</subfield>
+    <subfield code="b"></subfield>
+    <subfield code="3">IT\ICCU\CNCA\001857</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Giolito De Ferrari, Giovanni &lt;2.&gt; &amp; Giolito De Ferrari, Giovanni Paolo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002436</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Buonfigli,</subfield>
+    <subfield code="b"></subfield>
+    <subfield code="3">IT\ICCU\CNCA\005741</subfield>
+    <subfield code="z"></subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Aurifico,</subfield>
+    <subfield code="b"></subfield>
+    <subfield code="3">IT\ICCU\CNCA\008105</subfield>
+    <subfield code="z"></subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Nicolaus Aurificus,</subfield>
+    <subfield code="b">Bonfilius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014767</subfield>
+    <subfield code="z"></subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Nicolaus</subfield>
+    <subfield code="c"> : Aurificus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014768</subfield>
+    <subfield code="z"></subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Nicolaus</subfield>
+    <subfield code="c"> : de#Bonfilis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014769</subfield>
+    <subfield code="z"></subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Giolito De Ferrari, Giovanni Paolo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000849</subfield>
+    <subfield code="z">Giolito De Ferrari, Giovanni &lt;2.&gt; &amp; Giolito De Ferrari, Giovanni Paolo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Istituto Leone XIII. Milano</subfield>
+    <subfield code="1">MI0307</subfield>
+    <subfield code="2">LO1 32</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Padova</subfield>
+    <subfield code="1">PD0090</subfield>
+    <subfield code="2">PUV 55</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Padova</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">PD0158</subfield>
+    <subfield code="2">PUV 00</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale Gabriele D&apos;Annunzio. Pescara</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">PE0018</subfield>
+    <subfield code="2">ABR R7</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale Frati minori cappuccini. Torino</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">TO0264</subfield>
+    <subfield code="2">TO0 84</subfield>
+  </datafield>
+</record>
+</collection>

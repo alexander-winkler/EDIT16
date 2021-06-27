@@ -1,0 +1,202 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>03402nam0a2200517 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\020041</controlfield>
+  <controlfield tag="005">20071113000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">i-At r.m. a.,&amp; dese (3) 1596 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1596        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Summa aurea armilla nuncupata, casus omnes ad animarum curam attinentes, breuiter complectens. A reuerend. p.f. Bartholomaeo Fumo Villauren. Placentino. Ord. praedic. ac haereticae prauit. inquisitore, edita. Nunc demum summarijs, singulis titulis praefixis, aucta decisionibusque sacros. Conc. Trid. in marginibus annotatis, nunquam antea impressis, illustrata. Omnia haec postrema editione castigatiora reddita</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud Nicolaum Morettum</subfield>
+    <subfield code="d">1596</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\48!, 1188, \4! p.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Fumo,</subfield>
+    <subfield code="b">Bartolomeo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005611</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a"></subfield>
+    <subfield code="3">IT\ICCU\CNCT\000008</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Fumus,</subfield>
+    <subfield code="b">Bartholomaeus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019242</subfield>
+    <subfield code="z">Fumo, Bartolomeo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Fumi,</subfield>
+    <subfield code="b">Bartolommeo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019243</subfield>
+    <subfield code="z">Fumo, Bartolomeo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Moretus, Nicolaus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002383</subfield>
+    <subfield code="z"></subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Morettus, Nicolaus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005222</subfield>
+    <subfield code="z"></subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Tommaso Fazello. Sciacca</subfield>
+    <subfield code="1">AG0042</subfield>
+    <subfield code="2">AGR 23</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Planettiana. Jesi</subfield>
+    <subfield code="1">AN0092</subfield>
+    <subfield code="2">URB BC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca vescovile Aurelio Marena. Bitonto</subfield>
+    <subfield code="1">BA0079</subfield>
+    <subfield code="2">PBE 43</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Patriarcale S. Domenico. Bologna</subfield>
+    <subfield code="1">BO0333</subfield>
+    <subfield code="2">ZBO 05</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca e archivio storico arcivescovile. Capua</subfield>
+    <subfield code="1">CE0009</subfield>
+    <subfield code="2">NAP CM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca regionale universitaria. Catania</subfield>
+    <subfield code="1">CT0062</subfield>
+    <subfield code="2">PAL BC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale L. Marineo. Vizzini</subfield>
+    <subfield code="1">CT0113</subfield>
+    <subfield code="2">ZCT 06</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Rubiconia Accademia dei Filopatridi. Savignano sul Rubicone</subfield>
+    <subfield code="1">FC0067</subfield>
+    <subfield code="2">RAV AF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei cappuccini. Foggia</subfield>
+    <subfield code="1">FG0045</subfield>
+    <subfield code="2">ZFG 09</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei frati minori cappuccini Madonna di Pompei. Messina</subfield>
+    <subfield code="1">ME0179</subfield>
+    <subfield code="2">MES FC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca francescano-cappuccina provinciale. Milano</subfield>
+    <subfield code="1">MI0183</subfield>
+    <subfield code="2">ZMI 51</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei cappuccini. Palermo</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">PA0092</subfield>
+    <subfield code="2">PAL 66</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca capitolare Fabroniana. Pistoia</subfield>
+    <subfield code="1">PT0026</subfield>
+    <subfield code="2">RT1 LB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Reggio Emilia</subfield>
+    <subfield code="1">RE0049</subfield>
+    <subfield code="2">PBE 05</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei frati minori Cappuccini (in deposito presso la Biblioteca provinciale dei frati minori Cappuccini di Bologna). Reggio Emilia</subfield>
+    <subfield code="1">RE0051</subfield>
+    <subfield code="2">PBE 07</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Casanatense. Roma</subfield>
+    <subfield code="1">RM0313</subfield>
+    <subfield code="2">RML 07</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Convento dei Cappuccini di S. Felice. Cava dei Tirreni</subfield>
+    <subfield code="1">SA0090</subfield>
+    <subfield code="2">ZSA 03</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Sassari</subfield>
+    <subfield code="1">SS0073</subfield>
+    <subfield code="2">CAG US</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Fondazione Biblioteca S. Bernardino. Trento</subfield>
+    <subfield code="1">TN0122</subfield>
+    <subfield code="2">ZTN 18</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica glemonese don Valentino Baldissera. Gemona del Friuli</subfield>
+    <subfield code="1">UD0026</subfield>
+    <subfield code="2">ZUD 09</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Verona</subfield>
+    <subfield code="1">VR0059</subfield>
+    <subfield code="2">ZVR 02</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000279</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000279</subfield>
+    <subfield code="b">Fortuna (donna in mare con vela al vento). Nell&apos;ovale in basso un leone rampante. In cornice figurata</subfield>
+    <subfield code="e">Non bis</subfield>
+    <subfield code="c">V406</subfield>
+    <subfield code="c">Z571</subfield>
+    <subfield code="d">Dimensioni: 3,7 x 3</subfield>
+    <subfield code="f">BRACCIO</subfield>
+    <subfield code="f">FORTUNA</subfield>
+    <subfield code="f">NONBIS</subfield>
+    <subfield code="f">NUVOLE</subfield>
+    <subfield code="f">VELA</subfield>
+    <subfield code="g">1574-1598</subfield>
+  </datafield>
+</record>
+</collection>

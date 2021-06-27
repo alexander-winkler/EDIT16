@@ -1,0 +1,147 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02377ncm0a22004091i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\044668</controlfield>
+  <controlfield tag="005">19990326000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19990115d1567        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Ioannis Petri Aloysii Praenestini ℗missarum liber secundus</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Roma</subfield>
+    <subfield code="c">eredi di Valerio e Luigi Dorico</subfield>
+    <subfield code="d">1567</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\97! c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Roma</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Palestrina,</subfield>
+    <subfield code="b">Giovanni Pierluigi : da</subfield>
+    <subfield code="3">IT\ICCU\CNCA\011746</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Dorico, Valerio - eredi &amp; Dorico, Luigi - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001695</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Praenestinus,</subfield>
+    <subfield code="b">Ioannes Petrus Aloysius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021937</subfield>
+    <subfield code="z">Palestrina, Giovanni Pierluigi : da</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Giannetto</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021938</subfield>
+    <subfield code="z">Palestrina, Giovanni Pierluigi : da</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Praenestinus,</subfield>
+    <subfield code="b">Ioannes Petraloysius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021939</subfield>
+    <subfield code="z">Palestrina, Giovanni Pierluigi : da</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Praenestinus,</subfield>
+    <subfield code="b">Joannes Petrus Aloysius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021940</subfield>
+    <subfield code="z">Palestrina, Giovanni Pierluigi : da</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca-Archivio storico della Santa Casa. Loreto</subfield>
+    <subfield code="1">AN0084</subfield>
+    <subfield code="2">PBE B2</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Museo Internazionale e Biblioteca della Musica. Bologna</subfield>
+    <subfield code="1">BO0310</subfield>
+    <subfield code="2">UBO BM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Archivio musicale della Basilica di S. Giovanni in Laterano. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0004</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Conservatorio statale di musica Luigi Cherubini. Firenze</subfield>
+    <subfield code="1">FI0035</subfield>
+    <subfield code="2">CFI FC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Conservatorio statale di musica Giuseppe Verdi. Milano</subfield>
+    <subfield code="1">MI0344</subfield>
+    <subfield code="2">LO1 09</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Facolt ̉Teologica di Sicilia Mons. Cataldo Naro. Palermo</subfield>
+    <subfield code="1">PA0257</subfield>
+    <subfield code="2">ZPA 03</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca capitolare. Padova</subfield>
+    <subfield code="1">PD0093</subfield>
+    <subfield code="2">PUV 74</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Assisi</subfield>
+    <subfield code="1">PG0001</subfield>
+    <subfield code="2">UM1 10</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca vescovile Fonti e archivio diocesano. Gubbio</subfield>
+    <subfield code="1">PG0199</subfield>
+    <subfield code="2">UM1 79</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Archivio capitolare del Duomo. Citt ̉di Castello</subfield>
+    <subfield code="1">PG0404</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Archivio capitolare della Basilica di S. Prospero. Reggio Emilia</subfield>
+    <subfield code="1">RE0105</subfield>
+    <subfield code="2">ZRE 13</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca musicale governativa del Conservatorio di musica S. Cecilia. Roma</subfield>
+    <subfield code="1">RM0266</subfield>
+    <subfield code="2">RMR SC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Istituto musicale pareggiato G. Briccialdi. Terni</subfield>
+    <subfield code="1">TR0049</subfield>
+    <subfield code="2">UM1 91</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca capitolare della Cattedrale. Treviso</subfield>
+    <subfield code="1">TV0111</subfield>
+    <subfield code="2">PBE 60</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">British Library. London</subfield>
+    <subfield code="1">UK0001</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,44 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00693na 0a22001451i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\066042</controlfield>
+  <controlfield tag="005">20060807000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20060807             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Tomus secundus. In quo de restitutione et contractibus accuratissime agitur ut aequus quiuis lector facile perspecturus sit, neque eruditione neque perspicuitate hunc secundum tomum priori vllatenus concedere</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Medina,</subfield>
+    <subfield code="b">Juan : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008354</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Medina,</subfield>
+    <subfield code="b">Ioannes</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021250</subfield>
+    <subfield code="z">Medina, Juan : de</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Medina,</subfield>
+    <subfield code="b">Johannes</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021252</subfield>
+    <subfield code="z">Medina, Juan : de</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Medina,</subfield>
+    <subfield code="b">Jean</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021253</subfield>
+    <subfield code="z">Medina, Juan : de</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

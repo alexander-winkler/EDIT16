@@ -1,0 +1,74 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01074nam0a2200241 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\020666</controlfield>
+  <controlfield tag="005">20090901000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">s.q- s.m- t.s- s.m- (C) 1526 (Q)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101f1526        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Ad serenissimum ac inuictissimum Carolum quintum Caesarem semper augustum</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="d">\1526?!</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\8! c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">L&apos;autore si ricava dall&apos;explicit. - Il titolo si ricava da c. a1v. A c. a1r stemma di Carlo V. - Stampata a Palermo da Antonio Mayda, per il tipografo e la data cfr.: Bibliografia delle edizioni palermitane antiche, v. I, n. 181</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Palermo</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Gentile,</subfield>
+    <subfield code="b">Bernardo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005950</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Mayda, Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000163</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Gentilis,</subfield>
+    <subfield code="b">Bernardus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\017542</subfield>
+    <subfield code="z">Gentile, Bernardo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Maida, Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003978</subfield>
+    <subfield code="z">Mayda, Antonio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Palermo</subfield>
+    <subfield code="1">PA0063</subfield>
+    <subfield code="2">PA1 CP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca  Panizzi. Reggio Emilia</subfield>
+    <subfield code="1">RE0052</subfield>
+    <subfield code="2">RE2 PA</subfield>
+  </datafield>
+</record>
+</collection>

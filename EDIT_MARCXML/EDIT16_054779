@@ -1,0 +1,78 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01363nam0a22002291i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\054779</controlfield>
+  <controlfield tag="005">20070807000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20031117d1521        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Consilia famosissimi iuris utriusque monarche ac veridici iuris consulti domini Laurentii Calcanei Brisiani equitis meritissimi nouiter impressa ac correcta cum alphabetico repertorio nouiter fabricato numero cartarum et consiliorum continente feliciter incipiunt</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="d">1521</subfield>
+    <subfield code="e">Impressa Mediolani</subfield>
+    <subfield code="g">per dominum Io. Angelum Scinzenzeler</subfield>
+    <subfield code="g">impensis d. Ioannis Iacobi et fratrum de Lignano mercatorum ac ciuium Mediolanensium</subfield>
+    <subfield code="h">1521 die XX Septembris</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\I!, II-CLXXXII</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Milano</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Calcagno,</subfield>
+    <subfield code="b">Lorenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002366</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Scinzenzeler, Giovanni Angelo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000084</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Da_Legnano, Giovanni Giacomo &amp; fratelli</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001554</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Calcaneus,</subfield>
+    <subfield code="b">Laurentius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012992</subfield>
+    <subfield code="z">Calcagno, Lorenzo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Schinzenzeler, Giovanni Angelo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005621</subfield>
+    <subfield code="z">Scinzenzeler, Giovanni Angelo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">nel colophon</subfield>
+    <subfield code="9">IT\ICCU\CNCM\002186</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\002186</subfield>
+    <subfield code="b">Cerchio con croce doppia a bracci obliqui poggiante su tronco. All&apos;interno del cerchio: Io. Ang. S.</subfield>
+    <subfield code="c">U722</subfield>
+    <subfield code="f">CERCHIO</subfield>
+    <subfield code="f">CROCE</subfield>
+    <subfield code="f">IOANGS</subfield>
+    <subfield code="g">1523-1525</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,164 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02602nam0a22004211i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\059858</controlfield>
+  <controlfield tag="005">20051205000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">iari mata e.nt Itdu (3) 1529 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20041220d1529        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">P. Vergilius Maro cum magnete suo Seruio Mario grammatico: interprete ... cui etiam adduntur Iuuenalia opuscula ... Haec insuper lector amice ad Seruianam expositionem ex multis grammaticis conscripta sunt: quae poetae sensa tibi aperient ... Lodouici Coelii castigationes. Iacobi Constantii Fanensis collectaneorum ex Hecatosti. ... Quae hoc in uolumine continentur: si perlegeris: et diligenter pensitaueris: ad Vergilianam doctrinam percipiendam: nullum extra appositos: interpretem: desiderabis</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Taurini</subfield>
+    <subfield code="g">Antonius Ranotus calcographum solertissimus cudebat</subfield>
+    <subfield code="h">Ioannes Bremius diligenter castigabat</subfield>
+    <subfield code="h">1529. Die xvii Augusti</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">VIII, CLXXXV c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Torino</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Vergilius Maro,</subfield>
+    <subfield code="b">Publius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001093</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Costanzi,</subfield>
+    <subfield code="b">Giacomo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003134</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Ricchieri,</subfield>
+    <subfield code="b">Lodovico</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013437</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Servius,</subfield>
+    <subfield code="b">Maurus Honoratus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000325</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Ranoto, Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000382</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Virgilio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015017</subfield>
+    <subfield code="z">Vergilius Maro, Publius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Constantius,</subfield>
+    <subfield code="b">Iacobus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013705</subfield>
+    <subfield code="z">Costanzi, Giacomo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Jacopo</subfield>
+    <subfield code="c"> : da#Fano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013799</subfield>
+    <subfield code="z">Costanzi, Giacomo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Iacobus</subfield>
+    <subfield code="c"> : Phanensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022696</subfield>
+    <subfield code="z">Costanzi, Giacomo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Caelius,</subfield>
+    <subfield code="b">Lodovicus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010503</subfield>
+    <subfield code="z">Ricchieri, Lodovico</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Caelius</subfield>
+    <subfield code="c"> : Rhodiginus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012956</subfield>
+    <subfield code="z">Ricchieri, Lodovico</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Celio</subfield>
+    <subfield code="c"> : Rodigino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013128</subfield>
+    <subfield code="z">Ricchieri, Lodovico</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Rhodiginus,</subfield>
+    <subfield code="b">Ludovicus Coelius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014908</subfield>
+    <subfield code="z">Ricchieri, Lodovico</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Apuleius,</subfield>
+    <subfield code="b">Lucius Caecilius Minutianus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023558</subfield>
+    <subfield code="z">Ricchieri, Lodovico</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Ricchieri,</subfield>
+    <subfield code="b">Ludovico</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023559</subfield>
+    <subfield code="z">Ricchieri, Lodovico</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Servius Honoratus,</subfield>
+    <subfield code="b">Maurus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015348</subfield>
+    <subfield code="z">Servius, Maurus Honoratus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Servius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020791</subfield>
+    <subfield code="z">Servius, Maurus Honoratus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Servius,</subfield>
+    <subfield code="b">Marius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020792</subfield>
+    <subfield code="z">Servius, Maurus Honoratus</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ranotus, Antonius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005306</subfield>
+    <subfield code="z">Ranoto, Antonio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario Maggiore. Aosta</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">AO0001</subfield>
+    <subfield code="2">TO0 90</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Trento</subfield>
+    <subfield code="1">TN0121</subfield>
+    <subfield code="2">ZTN 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Reale. Torino</subfield>
+    <subfield code="1">TO0263</subfield>
+    <subfield code="2">TO0 07</subfield>
+  </datafield>
+</record>
+</collection>

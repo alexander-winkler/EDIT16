@@ -1,0 +1,127 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01805nam0a22003491i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\023527</controlfield>
+  <controlfield tag="005">20140108000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">uagi ret. seis inli (3) 1587 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">A</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">uagi geu- seis inli (3) 1587 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">B</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970708d1587        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Praetermissorum liber vnicus autore Iulio Caesare Imbriano Capuano in studiosorum gratiam nunc primum in lucem editus. Superiorum permissu</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Neapoli</subfield>
+    <subfield code="c">apud Iosephus Cacchius</subfield>
+    <subfield code="d">1587</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\8!, 128 p.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Var. B: \12!, 128 p.: segue il primo fascicolo *4 un fascicolo ʹ2 contenente una lettera dell&apos;autore ai lettori</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Napoli</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Imbriani,</subfield>
+    <subfield code="b">Giulio Cesare</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006757</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Cacchi, Giuseppe</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000064</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Imbrianus,</subfield>
+    <subfield code="b">Iulius Caesar</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020076</subfield>
+    <subfield code="z">Imbriani, Giulio Cesare</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Imbriano,</subfield>
+    <subfield code="b">Giulio Cesare</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022977</subfield>
+    <subfield code="z">Imbriani, Giulio Cesare</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Cacchius, Iosephus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004389</subfield>
+    <subfield code="z">Cacchi, Giuseppe</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Cacchio, Giuseppe</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004390</subfield>
+    <subfield code="z">Cacchi, Giuseppe</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Museo provinciale campano. Capua</subfield>
+    <subfield code="z">(var. A)</subfield>
+    <subfield code="1">CE0010</subfield>
+    <subfield code="2">CAM MC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Napoli</subfield>
+    <subfield code="1">NA0070</subfield>
+    <subfield code="2">NAP BU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Passerini Landi. Piacenza</subfield>
+    <subfield code="z">(Var. A)</subfield>
+    <subfield code="1">PC0030</subfield>
+    <subfield code="2">PIA PL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Pisa</subfield>
+    <subfield code="z">(Var. B)</subfield>
+    <subfield code="1">PI0112</subfield>
+    <subfield code="2">PIS R1</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Trento</subfield>
+    <subfield code="z">(Var. A)</subfield>
+    <subfield code="1">TN0121</subfield>
+    <subfield code="2">ZTN 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Treviso</subfield>
+    <subfield code="z">(Var. A)</subfield>
+    <subfield code="1">TV0113</subfield>
+    <subfield code="2">VIA TS</subfield>
+  </datafield>
+</record>
+</collection>

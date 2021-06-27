@@ -1,0 +1,189 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>03191nam0a2200481 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\016945</controlfield>
+  <controlfield tag="005">20091001000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">o-e, n-*- s&amp;o. case (3) 1531 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1531        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Opuscula, questiones et quolibeta omnia Thome de Vio Caietani cardinalis Sancti Xisti in quattuor tomos distincta, &amp; nunc recens ab authore multis tractatibus ac questionibus locupletata. In quibus agitur. De authoritate pape &amp; concilij. De primatu Romane  Ecclesie. De sacramentis. De indulgentiis. De conceptione b. Virginis. De eucharistia. De precepto elemosyne. De monte pietatis. De cambijs. De voto. De vsura. De simonia. De vi cultus diuini. De vnione Verbi. De causa mali ... Addita est insuper responsio acuta quidem ad nonnulla illi proposita dubia, cum aliis compluribus que facile candide lector sequenti pagina uidere poteris</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">\Venezia</subfield>
+    <subfield code="c">Lucantonio Giunta il vecchio! 1531</subfield>
+    <subfield code="e">Venetjis</subfield>
+    <subfield code="g">in edibus Lucaeantonij Iunte Florentini</subfield>
+    <subfield code="h">die 22 mensis Iunii 1531</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">164 c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">De_Vio,</subfield>
+    <subfield code="b">Tommaso</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001139</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Giunta, Lucantonio</subfield>
+    <subfield code="c"> &lt;1.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002111</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Vio,</subfield>
+    <subfield code="b">Thomas : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006584</subfield>
+    <subfield code="z">De_Vio, Tommaso</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Caietanus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007739</subfield>
+    <subfield code="z">De_Vio, Tommaso</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Zontis, Lucas Antonius de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003892</subfield>
+    <subfield code="z">Giunta, Lucantonio &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Giunti, Lucantonio</subfield>
+    <subfield code="c"> &lt;1&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004926</subfield>
+    <subfield code="z">Giunta, Lucantonio &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Gionta, Lucantonio de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004928</subfield>
+    <subfield code="z">Giunta, Lucantonio &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Giuntis, Lucas Antonius de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004929</subfield>
+    <subfield code="z">Giunta, Lucantonio &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Zonta, Lucantonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004930</subfield>
+    <subfield code="z">Giunta, Lucantonio &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Fabriano</subfield>
+    <subfield code="1">AN0033</subfield>
+    <subfield code="2">URB BF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale Salvatore Tommasi. Bazzano</subfield>
+    <subfield code="1">AQ0047</subfield>
+    <subfield code="2">ABR PR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca francescana Le Grazie. Benevento</subfield>
+    <subfield code="1">BN0052</subfield>
+    <subfield code="2">NAP MG</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Forl</subfield>
+    <subfield code="1">FC0021</subfield>
+    <subfield code="2">ZFC 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Bandiniana. Fiesole</subfield>
+    <subfield code="1">FI0015</subfield>
+    <subfield code="2">ZFI 38</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Pietro Siciliani. Galatina</subfield>
+    <subfield code="1">LE0209</subfield>
+    <subfield code="2">LEK SF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale. Lucca</subfield>
+    <subfield code="1">LU0022</subfield>
+    <subfield code="2">LUA BL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Passerini Landi. Piacenza</subfield>
+    <subfield code="1">PC0030</subfield>
+    <subfield code="2">PIA PL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Convento dei frati minori. Penne</subfield>
+    <subfield code="1">PE0016</subfield>
+    <subfield code="2">ZPE 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Giosu ̈Carducci. Spoleto</subfield>
+    <subfield code="1">PG0168</subfield>
+    <subfield code="2">UM1 08</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Guarnacci. Volterra</subfield>
+    <subfield code="1">PI0176</subfield>
+    <subfield code="2">RT1 QV</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Salvatore Quasimodo. Modica</subfield>
+    <subfield code="1">RG0007</subfield>
+    <subfield code="2">ZRG 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Fondazione Biblioteca S. Bernardino. Trento</subfield>
+    <subfield code="1">TN0122</subfield>
+    <subfield code="2">ZTN 18</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000146</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Nel colophon</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000313</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000146</subfield>
+    <subfield code="b">Giglio fiorentino e iniziali L.A.</subfield>
+    <subfield code="c">K222</subfield>
+    <subfield code="c">Z624</subfield>
+    <subfield code="d">Dimensioni: 5,8 x 8,3</subfield>
+    <subfield code="f">GIGLIO</subfield>
+    <subfield code="f">LA</subfield>
+    <subfield code="g">1523-1553</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000313</subfield>
+    <subfield code="b">Giglio fiorentino e iniziali L.A.</subfield>
+    <subfield code="c">K223</subfield>
+    <subfield code="c">Z623</subfield>
+    <subfield code="d">Dimensioni: 3.5 x 4,5</subfield>
+    <subfield code="f">GIGLIO</subfield>
+    <subfield code="f">LA</subfield>
+    <subfield code="g">1521-1558</subfield>
+  </datafield>
+</record>
+</collection>

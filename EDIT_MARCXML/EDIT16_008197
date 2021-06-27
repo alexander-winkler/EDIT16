@@ -1,0 +1,200 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02842nam0a2200517 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\008197</controlfield>
+  <controlfield tag="005">20061109000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e:ni u.s, edi- ipma (3) 1597 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1597        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗C. Iulii Caesaris ℗Commentarij ab Aldo Manutio Paulli f. emendati Aldi n. et scholiis illustrati</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud Matthaeum Valentinum</subfield>
+    <subfield code="d">1597</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\188!, 608, \272! p.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Caesar,</subfield>
+    <subfield code="b">Gaius Iulius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002169</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Manuzio,</subfield>
+    <subfield code="b">Aldo</subfield>
+    <subfield code="c"> &lt;il giovane&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000150</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Valentini, Matteo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000540</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Manucci,</subfield>
+    <subfield code="b">Aldo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016427</subfield>
+    <subfield code="z">Manuzio, Aldo &lt;il giovane&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Manutius,</subfield>
+    <subfield code="b">Aldus</subfield>
+    <subfield code="c"> &lt;il giovane&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020915</subfield>
+    <subfield code="z">Manuzio, Aldo &lt;il giovane&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Valentinus, Matthias</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005725</subfield>
+    <subfield code="z">Valentini, Matteo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Valentino, Mattio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005726</subfield>
+    <subfield code="z">Valentini, Matteo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Planettiana. Jesi</subfield>
+    <subfield code="1">AN0092</subfield>
+    <subfield code="2">URB BC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Deputazione di storia patria negli Abruzzi Anton Ludovico Antinori. L&apos;Aquila</subfield>
+    <subfield code="1">AQ0050</subfield>
+    <subfield code="2">ABR DS</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca pubblica arcivescovile Francesco Pacca. Benevento</subfield>
+    <subfield code="1">BN0008</subfield>
+    <subfield code="2">PBE 84</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale Antonio Mellusi. Benevento</subfield>
+    <subfield code="1">BN0015</subfield>
+    <subfield code="2">NAP PB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca francescana Le Grazie. Benevento</subfield>
+    <subfield code="1">BN0052</subfield>
+    <subfield code="2">NAP MG</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale dell&apos;Archiginnasio. Bologna</subfield>
+    <subfield code="1">BO0304</subfield>
+    <subfield code="2">UBO GA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei cappuccini. Foggia</subfield>
+    <subfield code="1">FG0045</subfield>
+    <subfield code="2">ZFG 09</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca monsignor Luigi Roba. Genova</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">GE0139</subfield>
+    <subfield code="2">PBE 10</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca francescano-cappuccina provinciale. Milano</subfield>
+    <subfield code="1">MI0183</subfield>
+    <subfield code="2">ZMI 51</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca D&apos;Arco. Mantova</subfield>
+    <subfield code="1">MN0034</subfield>
+    <subfield code="2">LO1 9A</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Teresiana. Mantova</subfield>
+    <subfield code="1">MN0035</subfield>
+    <subfield code="2">LO1 12</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Sperelliana. Gubbio</subfield>
+    <subfield code="1">PG0049</subfield>
+    <subfield code="2">UM1 11</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Colorno</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">PR0156</subfield>
+    <subfield code="2">PAR CN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Carlo Bonetta. Pavia</subfield>
+    <subfield code="1">PV0071</subfield>
+    <subfield code="2">PAV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Pavia</subfield>
+    <subfield code="1">PV0074</subfield>
+    <subfield code="2">PAV R1</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Manfrediana. Faenza</subfield>
+    <subfield code="1">RA0016</subfield>
+    <subfield code="2">RAV FA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Fondazione Biblioteca S. Bernardino. Trento</subfield>
+    <subfield code="1">TN0122</subfield>
+    <subfield code="2">ZTN 18</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario arcivescovile. Torino</subfield>
+    <subfield code="1">TO0326</subfield>
+    <subfield code="2">TO0 97</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Istituto salesiano Valsalice. Torino</subfield>
+    <subfield code="1">TO0873</subfield>
+    <subfield code="2">TO0 87</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Fardelliana. Trapani</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">TP0022</subfield>
+    <subfield code="2">TPS BF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca diocesana  Beata Lucia Broccadelli. Narni</subfield>
+    <subfield code="1">TR0059</subfield>
+    <subfield code="2">UM1 77</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Guarneriana. San Daniele del Friuli</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">UD0075</subfield>
+    <subfield code="2">ZUD 05</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca diocesana. Tropea</subfield>
+    <subfield code="1">VV0028</subfield>
+    <subfield code="2">RCA DT</subfield>
+  </datafield>
+</record>
+</collection>

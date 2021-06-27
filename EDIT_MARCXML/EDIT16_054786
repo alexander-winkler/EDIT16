@@ -1,0 +1,38 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00613na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\054786</controlfield>
+  <controlfield tag="005">20031118000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20031118             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Tabula seu repertorium consiliorum ac questionum et allegationum vtriusque iuris monarche domini Signoroli de Homodeis de Mediolano equitis ac comitis meritissimi nouiter impressa ac reuisa.</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Cucalon,</subfield>
+    <subfield code="b">Jeronimo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004378</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Chucalon,</subfield>
+    <subfield code="b">Hieronymus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013235</subfield>
+    <subfield code="z">Cucalon, Jeronimo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Cucalon,</subfield>
+    <subfield code="b">Hieronymus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018599</subfield>
+    <subfield code="z">Cucalon, Jeronimo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

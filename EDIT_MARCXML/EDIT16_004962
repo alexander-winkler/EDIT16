@@ -1,0 +1,74 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01283nam0a2200229 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\004962</controlfield>
+  <controlfield tag="005">20020812000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">s,di eris u-o- deid (3) 1548 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1548        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Collectanea presbyteri Bernardini Belmondi Deimontentis omnium regularum doctissimi Seruij Mauri honorati grammatici, quae in toto opere Virgiliano disperse erant, hoc in libello summa cura ac diligentia concluse cum appendicibus eiusdem belmondi annotantur, et primo feriatim ex bucolicis ceterisque Virgilij libris, omnibus citatis carminibus quibus desumpta sunt iuxta ordinem, &amp; diuisionem librorum</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Taurini</subfield>
+    <subfield code="c">excussum apud Martinum Crauotum</subfield>
+    <subfield code="d">1548</subfield>
+    <subfield code="e">Impressum Taurini</subfield>
+    <subfield code="g">apud Martinum Crauotum</subfield>
+    <subfield code="h">1548 die 24 Martij</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">99, \1! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Torino</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Belmondo,</subfield>
+    <subfield code="b">Bernardino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001553</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Cravotto, Martino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000705</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Cravotus, Martinus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004681</subfield>
+    <subfield code="z">Cravotto, Martino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Cravoto, Martino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004682</subfield>
+    <subfield code="z">Cravotto, Martino</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica di Mondov. Mondov</subfield>
+    <subfield code="1">CN0065</subfield>
+    <subfield code="2">TO0 55</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Convento francescano. Dongo</subfield>
+    <subfield code="1">CO0075</subfield>
+    <subfield code="2">ZCO 04</subfield>
+  </datafield>
+</record>
+</collection>

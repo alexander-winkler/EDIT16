@@ -1,0 +1,132 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01928nam0a2200373 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\012488</controlfield>
+  <controlfield tag="005">19970101000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e.r* isd- u-er cigi (3) 1587 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1587        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Rhetoricorum ad Herennium libri quatuor et M.T. Ciceronis De inuentione libri duo</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud Ioan. Baptistam Bonfadinum</subfield>
+    <subfield code="d">1587</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">288 p.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Cicero,</subfield>
+    <subfield code="b">Marcus Tullius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002170</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Bonfadino, Giovanni Battista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000573</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Tullius Cicero,</subfield>
+    <subfield code="b">Marcus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020042</subfield>
+    <subfield code="z">Cicero, Marcus Tullius</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bonfadius, Ioannes Baptista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004727</subfield>
+    <subfield code="z">Bonfadino, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bonfadinus, Ioannes Baptista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004728</subfield>
+    <subfield code="z">Bonfadino, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bonfadini, Giovanni Battista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004730</subfield>
+    <subfield code="z">Bonfadino, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale dell&apos;Archiginnasio. Bologna</subfield>
+    <subfield code="1">BO0304</subfield>
+    <subfield code="2">UBO GA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Gaetano Scovazzo. Aidone</subfield>
+    <subfield code="1">EN0004</subfield>
+    <subfield code="2">ZEN 06</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Lelio Pasolini. Longiano</subfield>
+    <subfield code="1">FC0032</subfield>
+    <subfield code="2">RAV LP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Alessandro Manzoni. Merate</subfield>
+    <subfield code="1">LC0044</subfield>
+    <subfield code="2">ZLC 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica popolare Luigi Ricca. Codogno</subfield>
+    <subfield code="1">LO0014</subfield>
+    <subfield code="2">ZLO 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca e Archivio del Capitolo metropolitano. Milano</subfield>
+    <subfield code="1">MI0489</subfield>
+    <subfield code="2">PBE C0</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Sperelliana. Gubbio</subfield>
+    <subfield code="1">PG0049</subfield>
+    <subfield code="2">UM1 11</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Porziuncola. Assisi</subfield>
+    <subfield code="1">PG0179</subfield>
+    <subfield code="2">UM1 36</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Scuola normale superiore. Pisa</subfield>
+    <subfield code="1">PI0266</subfield>
+    <subfield code="2">RT1 QN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Benedetto Passionei. Fossombrone</subfield>
+    <subfield code="1">PU0027</subfield>
+    <subfield code="2">URB FS</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Accademia dei Concordi. Rovigo</subfield>
+    <subfield code="1">RO0049</subfield>
+    <subfield code="2">ROV AC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Farinone-Centa. Varallo Sesia</subfield>
+    <subfield code="1">VC0086</subfield>
+    <subfield code="2">TO0 A5</subfield>
+  </datafield>
+</record>
+</collection>

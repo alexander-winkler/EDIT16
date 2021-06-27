@@ -1,0 +1,197 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>03230nam0a2200493 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\023942</controlfield>
+  <controlfield tag="005">20101104000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">usit i.us r:u- cadi (3) 1522 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970722d1522        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Valerius Maximus nouiter recognitus cum commentario historico uidelicet ac litterato Oliuerii Arzignanensis, &amp; familiari admodum ac succincto Iodoci Badii Ascensii, qui quattuor &amp; uiginti exempla Aldino auspicio nuper inuenta simili commentatione declarauit, &amp; totum opus gemina tabella, altera titulorum, altera litterarum ordine illustrauit. Additis Theophili lucubrationibus. Necnon pene viuis imaginibus, qu ̆priscorum gesta referre videntur</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">\Milano!</subfield>
+    <subfield code="c">venundantur apud Gorgonzolam</subfield>
+    <subfield code="e">Impressum Mediolani</subfield>
+    <subfield code="g">per Augustinum de Vicomercato</subfield>
+    <subfield code="g">ad instantiam domini Nicolai Gorgonzolae</subfield>
+    <subfield code="h">1522</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\10!, CCLXXI, \1! c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Milano</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Valerius Maximus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001232</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Oliviero</subfield>
+    <subfield code="c"> : d&apos;Arzignano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\011562</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Chalcondylas,</subfield>
+    <subfield code="b">Theophilus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013408</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Manuzio,</subfield>
+    <subfield code="b">Aldo</subfield>
+    <subfield code="c"> &lt;il vecchio&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000081</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Bade,</subfield>
+    <subfield code="b">Josse</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001185</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">Agostino da Vimercate</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000877</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a"></subfield>
+    <subfield code="3">IT\ICCU\CNCT\000205</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Valerio Massimo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024512</subfield>
+    <subfield code="z">Valerius Maximus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Oliverius</subfield>
+    <subfield code="c"> : Arzignanensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\017030</subfield>
+    <subfield code="z">Oliviero : d&apos;Arzignano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Arzignano,</subfield>
+    <subfield code="b">Oliviero : d&apos;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022613</subfield>
+    <subfield code="z">Oliviero : d&apos;Arzignano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Theophilus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021095</subfield>
+    <subfield code="z">Chalcondylas, Theophilus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Calcondila,</subfield>
+    <subfield code="b">Teofilo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023564</subfield>
+    <subfield code="z">Chalcondylas, Theophilus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Manutius,</subfield>
+    <subfield code="b">Aldus</subfield>
+    <subfield code="c"> &lt;il vecchio&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014566</subfield>
+    <subfield code="z">Manuzio, Aldo &lt;il vecchio&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Manutius,</subfield>
+    <subfield code="b">Aldus Pius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020961</subfield>
+    <subfield code="z">Manuzio, Aldo &lt;il vecchio&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Badius Ascensius Jodocus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003294</subfield>
+    <subfield code="z">Bade, Josse</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Ascensius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026332</subfield>
+    <subfield code="z">Bade, Josse</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Vimercate, Agostino da</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002967</subfield>
+    <subfield code="z">Agostino da Vimercate</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Vicomercato, Augustinus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003616</subfield>
+    <subfield code="z">Agostino da Vimercate</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Nicolo da Gorgonzola</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004950</subfield>
+    <subfield code="z"></subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Fondazione Ettore Pomarici Santomasi. Gravina di Puglia</subfield>
+    <subfield code="1">BA0143</subfield>
+    <subfield code="2">BA1 25</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca francescano-cappuccina provinciale. Milano</subfield>
+    <subfield code="1">MI0183</subfield>
+    <subfield code="2">ZMI 51</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Braidense. Milano</subfield>
+    <subfield code="1">MI0185</subfield>
+    <subfield code="2">MIL NB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Archivio storico civico e Biblioteca Trivulziana. Milano</subfield>
+    <subfield code="1">MI0327</subfield>
+    <subfield code="2">LO1 13</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Napoli</subfield>
+    <subfield code="1">NA0070</subfield>
+    <subfield code="2">NAP BU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale di filosofia San Tommaso d&apos;Aquino. Torino</subfield>
+    <subfield code="1">TO0071</subfield>
+    <subfield code="2">TO0 D8</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000436</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000436</subfield>
+    <subfield code="b">Nastro con nome di Nicolaus Gorgonzola avvolge uno scettro che ha alla base una P e all&apos;apice una stella. Intorno ornamenti floreali.</subfield>
+    <subfield code="c">K70</subfield>
+    <subfield code="c">Z913</subfield>
+    <subfield code="f">GORGONZOLA</subfield>
+    <subfield code="f">LETTERAP</subfield>
+    <subfield code="f">NASTRO</subfield>
+    <subfield code="f">NICOLAUS</subfield>
+    <subfield code="f">STELLA</subfield>
+    <subfield code="g">1509-1523</subfield>
+  </datafield>
+</record>
+</collection>

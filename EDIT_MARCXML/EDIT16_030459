@@ -1,0 +1,158 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02387nam0a22003971i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\030459</controlfield>
+  <controlfield tag="005">20151221000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">nti- o-a- odon inre (3) 1582 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971127d1582        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Postillae maiores, seu enarrationes in Epistolas, et Euangelia totius anni. Ex Nicolao de Lyra ... His accessere f. Antonij Betontini Quaestiones, tm̮ d. Ioannis Verdellay Annotationes, tm̮ etiam Pauli ad Senecam, &amp; Senecae ad Paulum, Epistolae. Cum gemino indice, priore epistolarum, et euangeliorum , posteriore ver ̣rerum, et verborum, magna ex parte locupletata. Omnia denu ̣exactione diligentia, quam antehac excusa</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud haeredes Melchioris Sessae</subfield>
+    <subfield code="d">1582</subfield>
+    <subfield code="e">Venetiis</subfield>
+    <subfield code="g">apud haeredes Bartholomaei Rubini</subfield>
+    <subfield code="h">1582</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\32!, 646, \2! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Nicolas</subfield>
+    <subfield code="c"> : de#Lyre</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001119</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Seneca,</subfield>
+    <subfield code="b">Lucius Annaeus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004486</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Paulus</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016798</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Antonio</subfield>
+    <subfield code="c"> : da#Bitonto</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018142</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Deverdellay,</subfield>
+    <subfield code="b">Jean</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018292</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Sessa, Melchiorre</subfield>
+    <subfield code="c"> &lt;1.&gt; - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000242</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Rubini, Bartolomeo - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000660</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a"></subfield>
+    <subfield code="c"> : di#Lira</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014753</subfield>
+    <subfield code="z">Nicolas : de#Lyre</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Nicolaus</subfield>
+    <subfield code="c"> : de#Lyra</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014770</subfield>
+    <subfield code="z">Nicolas : de#Lyre</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Nicolaus</subfield>
+    <subfield code="c"> : Lyranus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022374</subfield>
+    <subfield code="z">Nicolas : de#Lyre</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Antonius</subfield>
+    <subfield code="c"> : de#Bitonto</subfield>
+    <subfield code="3">IT\ICCU\CNCA\028051</subfield>
+    <subfield code="z">Antonio : da#Bitonto</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Verdellay,</subfield>
+    <subfield code="b">Ioannes</subfield>
+    <subfield code="3">IT\ICCU\CNCA\028519</subfield>
+    <subfield code="z">Deverdellay, Jean</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca diocesana di Tricarico. Tricarico</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">MT0069</subfield>
+    <subfield code="2">PBE58</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Tranquillo Graziani. Cascia</subfield>
+    <subfield code="1">PG0023</subfield>
+    <subfield code="2">UM1 13</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Sperelliana. Gubbio</subfield>
+    <subfield code="1">PG0049</subfield>
+    <subfield code="2">UM1 11</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Porziuncola. Assisi</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">PG0179</subfield>
+    <subfield code="2">UM1 36</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Forteguerriana. Pistoia</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">PT0025</subfield>
+    <subfield code="2">RT1 IE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca  Panizzi. Reggio Emilia</subfield>
+    <subfield code="1">RE0052</subfield>
+    <subfield code="2">RE2 PA</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001210</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001210</subfield>
+    <subfield code="b">Gatto con topo in bocca. In cornice figurata</subfield>
+    <subfield code="e">Dissimilium infida sotietas</subfield>
+    <subfield code="c">U218</subfield>
+    <subfield code="d">Dimensioni: 4 x 4,5</subfield>
+    <subfield code="f">DISSIMILIU</subfield>
+    <subfield code="f">GATTO</subfield>
+    <subfield code="f">TOPO</subfield>
+    <subfield code="g">1579-1584</subfield>
+  </datafield>
+</record>
+</collection>

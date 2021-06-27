@@ -1,0 +1,98 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01329nam0a2200289 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\015757</controlfield>
+  <controlfield tag="005">19990901000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">ciri inn- n.r. poqu (3) 1568 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1568        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Regulae peccatum. De regul. iur. lib. VI. Relectio Didaco Couarruuias a Leyua ... authore</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud Iacobum Simbenum</subfield>
+    <subfield code="c">ad instantiam Francisci Zileti</subfield>
+    <subfield code="d">1568</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\29!, 285 p.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Covarrubias y Leiva,</subfield>
+    <subfield code="b">Diego</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003554</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Simbeni, Giacomo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001106</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Ziletti, Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000247</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Covarruvias a Leyva,</subfield>
+    <subfield code="b">Didacus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013819</subfield>
+    <subfield code="z">Covarrubias y Leiva, Diego</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Simbenus, Iacobus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005668</subfield>
+    <subfield code="z">Simbeni, Giacomo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Simbenius, Iacobus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005669</subfield>
+    <subfield code="z">Simbeni, Giacomo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Symbaenus, Iacobus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005670</subfield>
+    <subfield code="z">Simbeni, Giacomo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ziletus, Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004189</subfield>
+    <subfield code="z">Ziletti, Francesco</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Zilettus, Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005830</subfield>
+    <subfield code="z">Ziletti, Francesco</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Bruno Emmert. Arco</subfield>
+    <subfield code="1">TN0008</subfield>
+    <subfield code="2">ZTN 11</subfield>
+  </datafield>
+</record>
+</collection>

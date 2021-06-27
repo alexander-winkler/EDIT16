@@ -1,0 +1,106 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01580nam0a22003131i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\034984</controlfield>
+  <controlfield tag="005">20101109000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">m-fe a,m- eona sulo (3) 1579 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19980108d1579        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Valerii Maximi ℗Dictorum factorumque memorabilium libri nouem, a Sebastiano Corrado emendati, &amp; illustrati. Quibus adiecimus fragmenta quaedam epitomes decimi libri, et per C. Titum Probum; ac vitam eiusdem Valerii Maximi. Index rerum, ac verborum</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Augustae Taurinorum</subfield>
+    <subfield code="c">sumptibus Dominici Tarini</subfield>
+    <subfield code="d">1579</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">238, \6! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Torino</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Valerius Maximus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001232</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Corradi,</subfield>
+    <subfield code="b">Sebastiano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003053</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Probus,</subfield>
+    <subfield code="b">Caius Titus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016902</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Tarino, Domenico</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000629</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Valerio Massimo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024512</subfield>
+    <subfield code="z">Valerius Maximus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Corradus,</subfield>
+    <subfield code="b">Sebastianus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013992</subfield>
+    <subfield code="z">Corradi, Sebastiano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Fedele Accademico Acceso</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013993</subfield>
+    <subfield code="z">Corradi, Sebastiano</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Tarinus, Dominicus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005572</subfield>
+    <subfield code="z">Tarino, Domenico</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile Santa Maria della Pace. Cremona</subfield>
+    <subfield code="1">CR0061</subfield>
+    <subfield code="2">PBE 48</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Genova</subfield>
+    <subfield code="1">GE0038</subfield>
+    <subfield code="2">LIG 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Istituto culturale e di documentazione Lazzerini. Prato</subfield>
+    <subfield code="1">PO0002</subfield>
+    <subfield code="2">RT1 DA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Ricottiana. Voghera</subfield>
+    <subfield code="1">PV0190</subfield>
+    <subfield code="2">LO1 33</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Reale. Torino</subfield>
+    <subfield code="1">TO0263</subfield>
+    <subfield code="2">TO0 07</subfield>
+  </datafield>
+</record>
+</collection>

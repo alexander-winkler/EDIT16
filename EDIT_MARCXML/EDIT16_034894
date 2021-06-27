@@ -1,0 +1,145 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02031nam0a22003971i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\034894</controlfield>
+  <controlfield tag="005">20111109000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">laj. onsi ony- lime (3) 1538 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19980108d1538        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Libro intitulato Stimulo de amore. Composto per il seraphico doctore sancto Bonauentura</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">In Venetia</subfield>
+    <subfield code="g">per Alouyse de Tortis</subfield>
+    <subfield code="h">1538</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">159, \1! c.</subfield>
+    <subfield code="d">16ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Opera di incerto autore, attribuita sia a Bonaventura da Bagnorea, sia Giacomo da Milano, sia a Henri de Baume</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2="1">
+    <subfield code="3">IT\ICCU\CNCE\024070</subfield>
+    <subfield code="a">Stimulus amoris</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Bonaventura</subfield>
+    <subfield code="c"> : da#Bagnorea</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001077</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Giacomo</subfield>
+    <subfield code="c"> : da#Milano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\028434</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Henri</subfield>
+    <subfield code="c"> : de#Baume</subfield>
+    <subfield code="3">IT\ICCU\CNCA\028443</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Torti, Luigi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000102</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Bonaventura</subfield>
+    <subfield code="c"> : da#Bagnoregio</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012695</subfield>
+    <subfield code="z">Bonaventura : da#Bagnorea &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Eutichio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018565</subfield>
+    <subfield code="z">Bonaventura : da#Bagnorea &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Giovanni Pietro</subfield>
+    <subfield code="c"> : di#Fidenza</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018566</subfield>
+    <subfield code="z">Bonaventura : da#Bagnorea &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Jacobus</subfield>
+    <subfield code="c"> : Mediolanensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\028435</subfield>
+    <subfield code="z">Giacomo : da#Milano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Henricus</subfield>
+    <subfield code="c"> : de#Balma</subfield>
+    <subfield code="3">IT\ICCU\CNCA\028445</subfield>
+    <subfield code="z">Henri : de#Baume</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Baume,</subfield>
+    <subfield code="b">Henri : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\028446</subfield>
+    <subfield code="z">Henri : de#Baume</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">De_Tortis, Alvise</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004134</subfield>
+    <subfield code="z">Torti, Luigi</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Torto, Alvise</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005593</subfield>
+    <subfield code="z">Torti, Luigi</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Tortis, Aluvixio de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005594</subfield>
+    <subfield code="z">Torti, Luigi</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dei Domenicani di S. Maria di Castello. Genova</subfield>
+    <subfield code="1">GE0030</subfield>
+    <subfield code="2">ZGE 03</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Tranquillo Graziani. Cascia</subfield>
+    <subfield code="1">PG0023</subfield>
+    <subfield code="2">UM1 13</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca diocesana. Todi</subfield>
+    <subfield code="1">PG0173</subfield>
+    <subfield code="2">PBE 33</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca centrale dei frati minori cappuccini. Roma</subfield>
+    <subfield code="1">RM0315</subfield>
+    <subfield code="2">ZRM 52</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Sassari</subfield>
+    <subfield code="1">SS0073</subfield>
+    <subfield code="2">CAG US</subfield>
+  </datafield>
+</record>
+</collection>

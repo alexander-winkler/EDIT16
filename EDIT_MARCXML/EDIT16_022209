@@ -1,0 +1,152 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02412nam0a2200409 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\022209</controlfield>
+  <controlfield tag="005">20140724000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">raue I.EI oei- Ildi (3) 1558 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1558        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Oratorio de i religiosi et esercitio de i virtuosi. Composto dall&apos;illust. signor d. Antonio di Gueuara, frate dell&apos;Ordine regolare di san Francesco, vescouo di Mondogneto. Tradotto per m. Pietro Lauro, di spagnuolo in italiano</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Vinegia</subfield>
+    <subfield code="c">appresso Gabriel Giolito de&apos; Ferrari</subfield>
+    <subfield code="d">1558</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\40!, 486, \2! p.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Var. B: (In Vinegia : appresso Gabriel Giolito de&apos; Ferrari, 1557)</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Guevara,</subfield>
+    <subfield code="b">Antonio : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006353</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Lauro,</subfield>
+    <subfield code="b">Pietro</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000309</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Giolito De Ferrari, Gabriele</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000033</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Iolitus de Ferrariis, Gabriel</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003847</subfield>
+    <subfield code="z">Giolito De Ferrari, Gabriele</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Iolito de Ferrarii, Gabriel</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004885</subfield>
+    <subfield code="z">Giolito De Ferrari, Gabriele</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Planettiana. Jesi</subfield>
+    <subfield code="1">AN0092</subfield>
+    <subfield code="2">URB BC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca S. Maria Orientale. Tagliacozzo</subfield>
+    <subfield code="1">AQ0149</subfield>
+    <subfield code="2">ZAQ 09</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Asti</subfield>
+    <subfield code="1">AT0005</subfield>
+    <subfield code="2">TO0 45</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale. Lucca</subfield>
+    <subfield code="1">LU0022</subfield>
+    <subfield code="2">LUA BL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Matelica</subfield>
+    <subfield code="z">(Var.B)</subfield>
+    <subfield code="1">MC0053</subfield>
+    <subfield code="2">UMC MA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca centrale della Regione siciliana Alberto Bombace. Palermo</subfield>
+    <subfield code="1">PA0064</subfield>
+    <subfield code="2">PAL BP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Padova</subfield>
+    <subfield code="1">PD0090</subfield>
+    <subfield code="2">PUV 55</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Oasis. Perugia</subfield>
+    <subfield code="1">PG0149</subfield>
+    <subfield code="2">UM1 44</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del venerabile Eremo di Fonte Avellana. Serra Sant&apos; Abbondio</subfield>
+    <subfield code="1">PU0086</subfield>
+    <subfield code="2">URB EA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Maldotti. Guastalla</subfield>
+    <subfield code="1">RE0036</subfield>
+    <subfield code="2">REA MA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale. Salerno</subfield>
+    <subfield code="1">SA0063</subfield>
+    <subfield code="2">CAM PS</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Trento</subfield>
+    <subfield code="1">TN0121</subfield>
+    <subfield code="2">ZTN 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Fondazione Luigi Firpo. Centro di studi sul pensiero politico. Torino</subfield>
+    <subfield code="1">TO0469</subfield>
+    <subfield code="2">TO0 18</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">nel front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000026</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000026</subfield>
+    <subfield code="b">Fenice su fiamme che si sprigionano da anfora recante le iniziali G.G.F. L&apos;anfora  ̈sorretta da due satiri alati.</subfield>
+    <subfield code="e">De la mia morte eterna vita i vivo. - Semper eadem.</subfield>
+    <subfield code="c">Z535</subfield>
+    <subfield code="d">Dimensioni: 4 x 5</subfield>
+    <subfield code="f">DELAMIAMOR</subfield>
+    <subfield code="f">FENICE</subfield>
+    <subfield code="f">FIAMME</subfield>
+    <subfield code="f">GGF</subfield>
+    <subfield code="f">SEMPEREADE</subfield>
+    <subfield code="g">1546-1578</subfield>
+  </datafield>
+</record>
+</collection>

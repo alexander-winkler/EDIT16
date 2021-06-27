@@ -1,0 +1,116 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01689nam0a2200325 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\018955</controlfield>
+  <controlfield tag="005">20071108000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">i.re tare ia.E siDi (3) 1521 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1521        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Opera deuotissima de la uita christiana del venerando patre fratre Simone de Cassia de lordine \!! di frati heremitani de sancto Augustino</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">\Milano!</subfield>
+    <subfield code="c">se uendano al segno de sancto Domenico</subfield>
+    <subfield code="e">Impresso in Milano</subfield>
+    <subfield code="g">per magistro Augustino de Vicomercato</subfield>
+    <subfield code="g">ad instantia de Francisco Landriano librario</subfield>
+    <subfield code="h">1521 adi XXIX de zenaro</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">XLVII, \1! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Milano</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Fidati,</subfield>
+    <subfield code="b">Simone</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005367</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Landriano, Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001945</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">Agostino da Vimercate</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000877</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Simone</subfield>
+    <subfield code="c"> : de#Cassia</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014905</subfield>
+    <subfield code="z">Fidati, Simone</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Fidato,</subfield>
+    <subfield code="b">Simone</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026061</subfield>
+    <subfield code="z">Fidati, Simone</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Simone Fidati</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026143</subfield>
+    <subfield code="z">Fidati, Simone</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">℗Al segno di ℗San Domenico</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001946</subfield>
+    <subfield code="z">Landriano, Francesco</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Landriani, Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004906</subfield>
+    <subfield code="z">Landriano, Francesco</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Vimercate, Agostino da</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002967</subfield>
+    <subfield code="z">Agostino da Vimercate</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Vicomercato, Augustinus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003616</subfield>
+    <subfield code="z">Agostino da Vimercate</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Fondazione Ugo da Como. Lonato</subfield>
+    <subfield code="1">BS0092</subfield>
+    <subfield code="2">LO1 18</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Vallicelliana. Roma</subfield>
+    <subfield code="1">RM0281</subfield>
+    <subfield code="2">RML 08</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Marciana. Venezia</subfield>
+    <subfield code="1">VE0049</subfield>
+    <subfield code="2">VEA BM</subfield>
+  </datafield>
+</record>
+</collection>

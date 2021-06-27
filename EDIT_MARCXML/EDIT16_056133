@@ -1,0 +1,44 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00581na 0a22001451i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\056133</controlfield>
+  <controlfield tag="005">20080930000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20040308             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗La ℗creatione del mondo descritta da Mos,̈ dichiarata da Filone hebreo ...</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Philo</subfield>
+    <subfield code="c"> : Alexandrinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005143</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Philo</subfield>
+    <subfield code="c"> : Hebraeus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010168</subfield>
+    <subfield code="z">Philo : Alexandrinus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Philo</subfield>
+    <subfield code="c"> : Iudaeus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014814</subfield>
+    <subfield code="z">Philo : Alexandrinus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Filone</subfield>
+    <subfield code="c"> : Hebreo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\017233</subfield>
+    <subfield code="z">Philo : Alexandrinus</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

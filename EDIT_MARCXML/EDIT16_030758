@@ -1,0 +1,120 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02011nam0a2200337 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\030758</controlfield>
+  <controlfield tag="005">20160122000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">o-eo ums. t.m- mumu (3) 1600 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971129d1600        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Commentariorum ac disputationum in primam partem summae theologiae sancti Thomae Aquinatis, tomus primus. Complectens viginti sex quaestiones priores. auctore r. p. Gabriele Vasquez Bellemontano theologo societatis Iesu. Cum triplici indice. Primo disputationum, et capitum; altero Sacrae Scripturae locorum: tertio vero rerum ac materiarum, amplissimo, atque locupletissimo. Summa recenter cura, prae cunctis alijs hucusque impressis, a mendis omnibus expurgatus</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud Baretium Baretium</subfield>
+    <subfield code="d">&amp; socios</subfield>
+    <subfield code="d">1600</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\8!, 816, \64! p.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Vz̀quez,</subfield>
+    <subfield code="b">Gabriel</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009112</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Tommaso</subfield>
+    <subfield code="c"> : d&apos;Aquino</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000195</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Barezzi, Barezzo &amp; C.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002850</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Vasquez,</subfield>
+    <subfield code="b">Gabriel</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024516</subfield>
+    <subfield code="z">Vz̀quez, Gabriel</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Thomas</subfield>
+    <subfield code="c"> : de#Aquino</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009350</subfield>
+    <subfield code="z">Tommaso : d&apos;Aquino &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca estera - Bayerische StaatsBibliothek. Muenchen</subfield>
+    <subfield code="1">AA0008</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Pasquale Stanislao Mancini. Ariano Irpino</subfield>
+    <subfield code="1">AV0003</subfield>
+    <subfield code="2">NAP AR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale di Montevergine. Mercogliano</subfield>
+    <subfield code="1">AV0045</subfield>
+    <subfield code="2">NAP MV</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale. Cremona</subfield>
+    <subfield code="1">CR0062</subfield>
+    <subfield code="2">LO1 28</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale del Monumento nazionale di Trisulti. </subfield>
+    <subfield code="1">FR0028</subfield>
+    <subfield code="2">BVE TR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Foligno</subfield>
+    <subfield code="1">PG0035</subfield>
+    <subfield code="2">UM1 04</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale del Monumento nazionale S. Scolastica. Subiaco</subfield>
+    <subfield code="1">RM0602</subfield>
+    <subfield code="2">BVE SU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Sassari</subfield>
+    <subfield code="1">SS0073</subfield>
+    <subfield code="2">CAG US</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Marco Gatti. Manduria</subfield>
+    <subfield code="1">TA0008</subfield>
+    <subfield code="2">TA1 22</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Centro teologico. Torino</subfield>
+    <subfield code="1">TO0249</subfield>
+    <subfield code="2">TO0 48</subfield>
+  </datafield>
+</record>
+</collection>

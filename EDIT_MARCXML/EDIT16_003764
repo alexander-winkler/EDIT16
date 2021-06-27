@@ -1,0 +1,189 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02814nam0a2200493 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\003764</controlfield>
+  <controlfield tag="005">20090914000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e-u- s,u- e.e, sise (3) 1592 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1592        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Compendium manualis Nauarri, ad commodiorem usum, tum confessariorum, tum poenitentium compilatum. Petro Alagona ex Societate Iesu teologo auctore. Et ab eodem auctum, atque recognitum. Adiecto etiam nunc primum Compendio  tractati de usuris, ac brevi elencho totius operis</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetijs</subfield>
+    <subfield code="c">apud Nicolaum Misserinum</subfield>
+    <subfield code="d">1592</subfield>
+    <subfield code="e">Venetiis</subfield>
+    <subfield code="g">apud Nicolaum Misserinum</subfield>
+    <subfield code="h">1592</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">470, \46! p.</subfield>
+    <subfield code="d">24ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Azpilcueta,</subfield>
+    <subfield code="b">Martin : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000998</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Alagona,</subfield>
+    <subfield code="b">Pietro</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000379</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a"></subfield>
+    <subfield code="3">IT\ICCU\CNCT\000761</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Martinus Azpliqueta</subfield>
+    <subfield code="c"> : Navarro</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014102</subfield>
+    <subfield code="z">Azpilcueta, Martin : de</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Navarro,</subfield>
+    <subfield code="b">Martin : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014747</subfield>
+    <subfield code="z">Azpilcueta, Martin : de</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Giuvara,</subfield>
+    <subfield code="b">Pietro</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000380</subfield>
+    <subfield code="z">Alagona, Pietro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a"></subfield>
+    <subfield code="3">IT\ICCU\CNCT\005207</subfield>
+    <subfield code="z"></subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Misserinus, Nicolaus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005208</subfield>
+    <subfield code="z"></subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a"></subfield>
+    <subfield code="3">IT\ICCU\CNCT\005209</subfield>
+    <subfield code="z"></subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Fabriano</subfield>
+    <subfield code="1">AN0033</subfield>
+    <subfield code="2">URB BF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Convento di S. Giovanni da Capestrano. Capestrano</subfield>
+    <subfield code="1">AQ0017</subfield>
+    <subfield code="2">ZAQ 06</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Bologna</subfield>
+    <subfield code="1">BO0098</subfield>
+    <subfield code="2">UBO BU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale dell&apos;Archiginnasio. Bologna</subfield>
+    <subfield code="1">BO0304</subfield>
+    <subfield code="2">UBO GA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica di Mondov. Mondov</subfield>
+    <subfield code="1">CN0065</subfield>
+    <subfield code="2">TO0 55</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Enna</subfield>
+    <subfield code="1">EN0025</subfield>
+    <subfield code="2">ZEN 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Ariostea. Ferrara</subfield>
+    <subfield code="1">FE0017</subfield>
+    <subfield code="2">UFE AR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Marucelliana. Firenze</subfield>
+    <subfield code="1">FI0101</subfield>
+    <subfield code="2">CFI MF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a"></subfield>
+    <subfield code="1">LE0132</subfield>
+    <subfield code="2">LEK L9</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Scipione Gentili. San Ginesio</subfield>
+    <subfield code="1">MC0073</subfield>
+    <subfield code="2">UMC CS</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Francesco Melosio. Citt ̉della Pieve</subfield>
+    <subfield code="1">PG0031</subfield>
+    <subfield code="2">UM1 14</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Augusta. Perugia</subfield>
+    <subfield code="1">PG0109</subfield>
+    <subfield code="2">UM1 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Palatina. Parma</subfield>
+    <subfield code="1">PR0072</subfield>
+    <subfield code="2">PAR PA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale del Monumento nazionale di Farfa. Fara Sabina</subfield>
+    <subfield code="1">RI0158</subfield>
+    <subfield code="2">ZRI 03</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Ubaldo Mazzini. Fondi antichi. La Spezia</subfield>
+    <subfield code="1">SP0110</subfield>
+    <subfield code="2">LI2 L8</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Nel colophon</subfield>
+    <subfield code="9">IT\ICCU\CNCM\002376</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\002376</subfield>
+    <subfield code="b">Vite con grappoli d&apos;uva. In cornice figurata.</subfield>
+    <subfield code="c">U906</subfield>
+    <subfield code="f">VITE</subfield>
+    <subfield code="f">UVA</subfield>
+    <subfield code="g">1592-1596</subfield>
+  </datafield>
+</record>
+</collection>

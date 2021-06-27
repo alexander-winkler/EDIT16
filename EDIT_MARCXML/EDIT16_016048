@@ -1,0 +1,122 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01934nam0a2200337 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\016048</controlfield>
+  <controlfield tag="005">20120526000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">o-re s.r- e-3. EgRe (C) 1574 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1574        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Augustini Dati Senensis ℗Elegantiae  in suam veram formam restitutae. Eiusdemque  de nouem verbis, nec non et flosculorum libellus. Addito insuper opusculo de conficiendis epistolis clarissimi oratoris Laurentij Valensis. Quibus insertae sunt omnes Graece dictiones, quae prius deerant, et apprime desiderabantur. Omnia accuratiori cura, quam vnquam ante hac excussa</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud Antonium de Gambaris</subfield>
+    <subfield code="d">1574</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\48! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Dati,</subfield>
+    <subfield code="b">Agostino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004624</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Valla,</subfield>
+    <subfield code="b">Lorenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000045</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">De_Gambaris, Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001730</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Dathus,</subfield>
+    <subfield code="b">Augustinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015270</subfield>
+    <subfield code="z">Dati, Agostino</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Datus,</subfield>
+    <subfield code="b">Augustinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022219</subfield>
+    <subfield code="z">Dati, Agostino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Gambaris, Antonius de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003542</subfield>
+    <subfield code="z">De_Gambaris, Antonio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Gambara, Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003543</subfield>
+    <subfield code="z">De_Gambaris, Antonio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Forl</subfield>
+    <subfield code="1">FC0021</subfield>
+    <subfield code="2">ZFC 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Berio. Genova</subfield>
+    <subfield code="1">GE0036</subfield>
+    <subfield code="2">SGE BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Teresiana. Mantova</subfield>
+    <subfield code="1">MN0035</subfield>
+    <subfield code="2">LO1 12</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Augusta. Perugia</subfield>
+    <subfield code="1">PG0109</subfield>
+    <subfield code="2">UM1 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Ugo Nomi Venerosi-Pesciolini. San Gimignano</subfield>
+    <subfield code="1">SI0037</subfield>
+    <subfield code="2">RT1 PN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Collezione privata Tiezzi Mazzoni Della Stella Maestri. Torrita di Siena</subfield>
+    <subfield code="1">SI0161</subfield>
+    <subfield code="2">ZSI 14</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001102</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001102</subfield>
+    <subfield code="b">Tronco da cui germogliano ramoscelli frondosi.</subfield>
+    <subfield code="e">Deiecta munitior exurgam</subfield>
+    <subfield code="c">U144</subfield>
+    <subfield code="d">Dimensioni: 3,5 x 4</subfield>
+    <subfield code="f">DEIECTAMUN</subfield>
+    <subfield code="f">TRONCO</subfield>
+    <subfield code="g">1574-1588</subfield>
+  </datafield>
+</record>
+</collection>

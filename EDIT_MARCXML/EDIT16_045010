@@ -1,0 +1,85 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01271nam0a22002531i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\045010</controlfield>
+  <controlfield tag="005">20140905000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">r,vt eso: t.r. NoEt (3) 1599 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19990120d1599        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Q. Horatii Flacci ℗Opera. Ad castigatissimi cuiusque exemplaris fidem quam accuratissime restituta, atque obscoenitate sublata. Ad vsum Gymnasiorum Soc. Iesu</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Romae</subfield>
+    <subfield code="c">sumtibus\!! Io. Angeli Ruffinelli</subfield>
+    <subfield code="d">&amp; Ioannulfi Pamphili</subfield>
+    <subfield code="c">ex typographia Scipionis Mancini</subfield>
+    <subfield code="d">&amp; soc.</subfield>
+    <subfield code="d">1599</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">286, \2! p.</subfield>
+    <subfield code="d">16ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Roma</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Horatius Flaccus,</subfield>
+    <subfield code="b">Quintus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001212</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Mancini, Scipione &amp; C.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003396</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Ruffinelli, Giovanni Angelo &amp; Pamphilus, Ioannulfus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003397</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Orazio Flacco,</subfield>
+    <subfield code="b">Quinto</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014413</subfield>
+    <subfield code="z">Horatius Flaccus, Quintus</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Mancinus, Scipio &amp; C.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004999</subfield>
+    <subfield code="z">Mancini, Scipione &amp; C.</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Castiglion Fiorentino</subfield>
+    <subfield code="1">AR0023</subfield>
+    <subfield code="2">RT1 QC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Collezione privata Tiezzi Mazzoni Della Stella Maestri. Torrita di Siena</subfield>
+    <subfield code="1">SI0161</subfield>
+    <subfield code="2">ZSI 14</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,101 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01404nam0a22002891i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\051870</controlfield>
+  <controlfield tag="005">20140107000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">4242 e.r- ++++ ++++ (3) 1542 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20010404d1542        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Legendario vulgare doue si contiene la Uita de tutti i Santi nuouamente stampate: ... con le sue figure ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Stampate in Venetia</subfield>
+    <subfield code="c">per Bernardin de Bedoni Milanese</subfield>
+    <subfield code="d">de l&apos;Isola del Lago Maggiore</subfield>
+    <subfield code="d">1542</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\2!, 222 p.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Iacopo</subfield>
+    <subfield code="c"> : da#Varazze</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006564</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Bindoni, Bernardino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000319</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Iacopo</subfield>
+    <subfield code="c"> : da#Varagine</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012025</subfield>
+    <subfield code="z">Iacopo : da#Varazze</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Jacobus</subfield>
+    <subfield code="c"> : de#Voragine</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016071</subfield>
+    <subfield code="z">Iacopo : da#Varazze</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Giacomo</subfield>
+    <subfield code="c"> : da#Varazze</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018588</subfield>
+    <subfield code="z">Iacopo : da#Varazze</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bindonis, Bernardinus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004380</subfield>
+    <subfield code="z">Bindoni, Bernardino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bendoni, Bernardin de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004381</subfield>
+    <subfield code="z">Bindoni, Bernardino</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Ostra</subfield>
+    <subfield code="1">AN0058</subfield>
+    <subfield code="2">URB OS</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Aurelio Saffi. Forl</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">FC0018</subfield>
+    <subfield code="2">RAV FO</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Ludovico Jacobilli del Seminario vescovile. Foligno</subfield>
+    <subfield code="1">PG0040</subfield>
+    <subfield code="2">UM1 39</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale Melchiorre Delfico. Teramo</subfield>
+    <subfield code="1">TE0024</subfield>
+    <subfield code="2">ABR R1</subfield>
+  </datafield>
+</record>
+</collection>

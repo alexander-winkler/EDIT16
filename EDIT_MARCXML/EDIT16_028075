@@ -1,0 +1,226 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>03519nam0a22005531i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\028075</controlfield>
+  <controlfield tag="005">20080430000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e.ne s.no itia sapo (3) 1588 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971103d1588        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Perillustrium doctorum tam veterum, qum̉ recentiorum, in lib. Decretalium aurei commentarii videlicet Abbatis Antiqui, cum additionibus Sebastiani Medices ... Bernardi Compostellani cum additionibus Antonij de Creuant ... Guidonis Papae, cum additionibusIoannis Thierri ... Ioannis a Capistrano, ... Omnes, praesertim Guido Papae, qui omni ex parte corruptissimus circumferebatur, summa diligentia ab innumeris erroribus expurgati. Cum summariis, et indice locupletissimis. Tomus primus</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud Iuntas</subfield>
+    <subfield code="d">1588</subfield>
+    <subfield code="e">Venetiis</subfield>
+    <subfield code="g">apud Iuntas</subfield>
+    <subfield code="h">1588</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\2!, 382, \46! c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Non sembra siano stati pubblicati altri vol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Thierry,</subfield>
+    <subfield code="b">Jean</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001110</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Medici,</subfield>
+    <subfield code="b">Sebastiano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003435</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Bernardus</subfield>
+    <subfield code="c"> : Compostellanus</subfield>
+    <subfield code="c"> &lt;il giovane&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005188</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Giovanni</subfield>
+    <subfield code="c"> : da#Capistrano</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006084</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Abbas Antiquus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008504</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Pape,</subfield>
+    <subfield code="b">Guy</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009255</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Crevant,</subfield>
+    <subfield code="b">Antoine : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021272</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Giunta, Lucantonio</subfield>
+    <subfield code="c"> &lt;2.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000089</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Medices,</subfield>
+    <subfield code="b">Sebastianus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\017888</subfield>
+    <subfield code="z">Medici, Sebastiano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Medici,</subfield>
+    <subfield code="b">Sebastiano : de&apos;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021063</subfield>
+    <subfield code="z">Medici, Sebastiano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Bernardus</subfield>
+    <subfield code="c"> : Brigantius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\028158</subfield>
+    <subfield code="z">Bernardus : Compostellanus &lt;il giovane&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Johannes</subfield>
+    <subfield code="c"> : de#Capistrano</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016239</subfield>
+    <subfield code="z">Giovanni : da#Capistrano &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Capistrano,</subfield>
+    <subfield code="b">Giovanni : da</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020241</subfield>
+    <subfield code="z">Giovanni : da#Capistrano &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Ioannes</subfield>
+    <subfield code="c"> : a#Capistrano</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022320</subfield>
+    <subfield code="z">Giovanni : da#Capistrano &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Bernardus</subfield>
+    <subfield code="c"> : de#Montemirato</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012741</subfield>
+    <subfield code="z">Abbas Antiquus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">La_Pape,</subfield>
+    <subfield code="b">Guy : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018038</subfield>
+    <subfield code="z">Pape, Guy</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Iunta, Lucas Antonius</subfield>
+    <subfield code="c"> &lt;2.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003893</subfield>
+    <subfield code="z">Giunta, Lucantonio &lt;2.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Giunti, Lucantonio</subfield>
+    <subfield code="c"> &lt;2.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004932</subfield>
+    <subfield code="z">Giunta, Lucantonio &lt;2.&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale di Montevergine. Mercogliano</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">AV0045</subfield>
+    <subfield code="2">NAP MV</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Pio IX della Pontificia Universit ̉Lateranense. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0006</subfield>
+    <subfield code="2">ZCV 03</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Braidense. Milano</subfield>
+    <subfield code="1">MI0185</subfield>
+    <subfield code="2">MIL NB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Archivio di Stato di Perugia. Perugia</subfield>
+    <subfield code="1">PG0103</subfield>
+    <subfield code="2">UM1 50</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Cathariniana. Pisa</subfield>
+    <subfield code="1">PI0027</subfield>
+    <subfield code="2">RT1 QW</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Pisa</subfield>
+    <subfield code="1">PI0112</subfield>
+    <subfield code="2">PIS R1</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca  Panizzi. Reggio Emilia</subfield>
+    <subfield code="1">RE0052</subfield>
+    <subfield code="2">RE2 PA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Accademia Alfonsiana. Roma</subfield>
+    <subfield code="1">RM0271</subfield>
+    <subfield code="2">ZRM 03</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Pontificio Ateneo Antonianum. Roma</subfield>
+    <subfield code="1">RM0692</subfield>
+    <subfield code="2">ZRM 44</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Gambalunghiana. Rimini</subfield>
+    <subfield code="1">RN0013</subfield>
+    <subfield code="2">RAV RI</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001337</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001337</subfield>
+    <subfield code="b">Giglio fiorentino e iniziali L.A. In cornice figurata.</subfield>
+    <subfield code="c">U295</subfield>
+    <subfield code="d">Dimensioni: 15 x 19,5. Con o senza cornice</subfield>
+    <subfield code="f">GIGLIO</subfield>
+    <subfield code="f">LA</subfield>
+    <subfield code="g">1582-1599</subfield>
+  </datafield>
+</record>
+</collection>

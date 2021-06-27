@@ -1,0 +1,129 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01886nam0a2200349 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\014714</controlfield>
+  <controlfield tag="005">20070515000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">1314 37i. t.I. SpDe (3) 1574 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1574        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Concilium Tridentinum</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetijs</subfield>
+    <subfield code="c">in aedibus Aegidij Regazolae</subfield>
+    <subfield code="d">1574</subfield>
+    <subfield code="e">Venetijs</subfield>
+    <subfield code="g">apud Aegidium Regazolam</subfield>
+    <subfield code="h">1564</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\36!, 246 \i.e. 346! p.</subfield>
+    <subfield code="d">12ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="710" ind1="1" ind2="2">
+    <subfield code="a">Concilio di Trento</subfield>
+    <subfield code="c"> &lt;1545-1563&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003434</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Regazzola, Egidio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000620</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Concilium Tridentinum</subfield>
+    <subfield code="c"> &lt;1545-1563&gt;</subfield>
+    <subfield code="3">8382</subfield>
+    <subfield code="z">Concilio di Trento &lt;1545-1563&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ragazzola, Egidio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002304</subfield>
+    <subfield code="z">Regazzola, Egidio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Regazola, Aegidius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005339</subfield>
+    <subfield code="z">Regazzola, Egidio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca centrale dei frati cappuccini delle Marche. Ancona</subfield>
+    <subfield code="1">AN0007</subfield>
+    <subfield code="2">ZAN 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale dell&apos;Archiginnasio. Bologna</subfield>
+    <subfield code="1">BO0304</subfield>
+    <subfield code="2">UBO GA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei Frati minori dell&apos;Emilia. Sezione Biblioteca dell&apos;Osservanza. Bologna</subfield>
+    <subfield code="1">BO0336</subfield>
+    <subfield code="2">ZBO 41</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Giuseppe Dossetti - Fondazione per le scienze religiose Giovanni XXIII. Bologna</subfield>
+    <subfield code="1">BO0397</subfield>
+    <subfield code="2">UBO DO</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Franzoniana. Genova</subfield>
+    <subfield code="1">GE0045</subfield>
+    <subfield code="2">ZGE 11</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Passerini Landi. Piacenza</subfield>
+    <subfield code="1">PC0030</subfield>
+    <subfield code="2">PIA PL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Foligno</subfield>
+    <subfield code="1">PG0035</subfield>
+    <subfield code="2">UM1 04</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca monastica dei padri Benedettini di S. Giovanni Evangelista. Parma</subfield>
+    <subfield code="1">PR0073</subfield>
+    <subfield code="2">ZPR 05</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca P. Bertolla del Seminario arcivescovile. Udine</subfield>
+    <subfield code="1">UD0123</subfield>
+    <subfield code="2">ZUD 06</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001365</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001365</subfield>
+    <subfield code="b">Pavone apre la coda a ruota. In cornice figurata</subfield>
+    <subfield code="e">Ingenuus omnia</subfield>
+    <subfield code="c">U23</subfield>
+    <subfield code="d">Dimensioni: 3,3 x 3,8</subfield>
+    <subfield code="f">INGENUUSOM</subfield>
+    <subfield code="f">PAVONE</subfield>
+    <subfield code="g">1564-1578</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,94 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01270nam0a22002771i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\031659</controlfield>
+  <controlfield tag="005">19990329000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e-t, t-im urr, BiBa (3) 1547 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971204d1547        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">De originibus rerum libellus authore Gulielmo Pastregico ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Venetijs</subfield>
+    <subfield code="g">per Nicolaum de Bascarinis</subfield>
+    <subfield code="h">1547</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">131, \1! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Guglielmo</subfield>
+    <subfield code="c"> : da#Pastrengo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006359</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a"></subfield>
+    <subfield code="3">IT\ICCU\CNCT\000262</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Pastregicus,</subfield>
+    <subfield code="b">Gulielmus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007768</subfield>
+    <subfield code="z">Guglielmo : da#Pastrengo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Pastrengo,</subfield>
+    <subfield code="b">Guglielmo : da</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013569</subfield>
+    <subfield code="z">Guglielmo : da#Pastrengo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Pastrengicus,</subfield>
+    <subfield code="b">Guillelmus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022040</subfield>
+    <subfield code="z">Guglielmo : da#Pastrengo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bascarinis, Nicolaus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004305</subfield>
+    <subfield code="z"></subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bascarinus, Nicolaus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004306</subfield>
+    <subfield code="z"></subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Centro di documentazione francescana. Assisi</subfield>
+    <subfield code="1">PG0213</subfield>
+    <subfield code="2">UM1 37</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Nuova biblioteca pubblica Luigi Fumi. Orvieto</subfield>
+    <subfield code="1">TR0022</subfield>
+    <subfield code="2">UM1 06</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Guarneriana. San Daniele del Friuli</subfield>
+    <subfield code="1">UD0075</subfield>
+    <subfield code="2">ZUD 05</subfield>
+  </datafield>
+</record>
+</collection>

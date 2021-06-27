@@ -1,0 +1,111 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01434nam0a2200313 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\008426</controlfield>
+  <controlfield tag="005">20070321000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">t,r- e-et t.i- momo (3) 1537 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1537        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+    <subfield code="a">GRC</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Dictionarium Ambrosii Calepini latinae linguae ... Adiunctis de nouo omnibus dictionibus graecis ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="d">1537</subfield>
+    <subfield code="e">Venetiis</subfield>
+    <subfield code="g">in officina Aurelii Pincii</subfield>
+    <subfield code="h">1537</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\4!, CCCLXXIIII c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Calepino,</subfield>
+    <subfield code="b">Ambrogio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002388</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Pinzi, Aurelio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000792</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Calepio,</subfield>
+    <subfield code="b">Ambrogio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007747</subfield>
+    <subfield code="z">Calepino, Ambrogio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pintius, Aurelius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002521</subfield>
+    <subfield code="z">Pinzi, Aurelio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pincius, Aurelius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004045</subfield>
+    <subfield code="z">Pinzi, Aurelio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pincio, Aurelio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005434</subfield>
+    <subfield code="z">Pinzi, Aurelio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca centrale dei frati cappuccini delle Marche. Ancona</subfield>
+    <subfield code="1">AN0007</subfield>
+    <subfield code="2">ZAN 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Sperelliana. Gubbio</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">PG0049</subfield>
+    <subfield code="2">UM1 11</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Guarnacci. Volterra</subfield>
+    <subfield code="1">PI0176</subfield>
+    <subfield code="2">RT1 QV</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca capitolare Fabroniana. Pistoia</subfield>
+    <subfield code="1">PT0026</subfield>
+    <subfield code="2">RT1 LB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Oliveriana. Pesaro</subfield>
+    <subfield code="1">PU0061</subfield>
+    <subfield code="2">URB OL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca  Panizzi. Reggio Emilia</subfield>
+    <subfield code="1">RE0052</subfield>
+    <subfield code="2">RE2 PA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Lancisiana. Roma</subfield>
+    <subfield code="1">RM0260</subfield>
+    <subfield code="2">RMS H8</subfield>
+  </datafield>
+</record>
+</collection>

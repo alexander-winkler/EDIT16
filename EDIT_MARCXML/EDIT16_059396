@@ -1,0 +1,36 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00450na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\059396</controlfield>
+  <controlfield tag="005">20070626000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20041011             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Titi Liuii Patauini ℗Decadum XIIII epitomae / Lucius Florus</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Florus,</subfield>
+    <subfield code="b">Lucius Annaeus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005445</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Livius,</subfield>
+    <subfield code="b">Titus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007254</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Tito Livio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018617</subfield>
+    <subfield code="z">Livius, Titus</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,66 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00885nam0a22002171i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\033317</controlfield>
+  <controlfield tag="005">20150930000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">u.m, isa- q.u- in*S (3) 1529 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971218d1529        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Pandectae reformatae et de nouo factae circa solutionem iurium officialium Regni Siciliae</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Messanae in freto Siculo</subfield>
+    <subfield code="g">impressit Petrutius Spira</subfield>
+    <subfield code="h">1529 mense martii die 10</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\2!, XXXX c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Messina</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Sicilia</subfield>
+    <subfield code="c"> &lt;Regno&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006798</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Spira, Petruccio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000485</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca regionale universitaria. Messina</subfield>
+    <subfield code="1">ME0050</subfield>
+    <subfield code="2">PAL BM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca centrale della Regione siciliana Alberto Bombace. Palermo</subfield>
+    <subfield code="1">PA0064</subfield>
+    <subfield code="2">PAL BP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Alagoniana. Siracusa</subfield>
+    <subfield code="1">SR0052</subfield>
+    <subfield code="2">SBS AL</subfield>
+  </datafield>
+</record>
+</collection>

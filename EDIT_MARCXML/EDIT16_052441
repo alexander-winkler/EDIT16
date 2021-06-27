@@ -1,0 +1,38 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00557na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\052441</controlfield>
+  <controlfield tag="005">20020513000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20011022             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗La ℗sfera di Proclo, nuouamente tradotta dal greco essemplare in idioma italiano, da Tito Giouanni Scandianese</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Scandianese,</subfield>
+    <subfield code="b">Tito Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007962</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Ganzarini,</subfield>
+    <subfield code="b">Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008047</subfield>
+    <subfield code="z">Scandianese, Tito Giovanni</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Giovanni,</subfield>
+    <subfield code="b">Tito</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023812</subfield>
+    <subfield code="z">Scandianese, Tito Giovanni</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

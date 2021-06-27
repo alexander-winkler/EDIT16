@@ -1,0 +1,85 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01148nam0a22002651i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\019595</controlfield>
+  <controlfield tag="005">19991119000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">6.3. a.s, i,u- tite (3) 1559 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1559        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Donatio Constantini magni imp. erga Ro. Sedem iuris ciuilis auctoritate comprobata ... Per Tiresiam Foscararium</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Bononiae</subfield>
+    <subfield code="c">per Bartholomeum Bonardum</subfield>
+    <subfield code="d">1559</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">LXVII c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">E&apos; LA 19594, CON DATA PARZIALMENTE ERASA</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Bologna</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Foscarari,</subfield>
+    <subfield code="b">Tiresio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005519</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Bonardo, Bartolomeo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000635</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Foscherari,</subfield>
+    <subfield code="b">Tiresio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022792</subfield>
+    <subfield code="z">Foscarari, Tiresio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bonardus, Bartholomeus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004423</subfield>
+    <subfield code="z">Bonardo, Bartolomeo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Bartolomeo da Parma</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004424</subfield>
+    <subfield code="z">Bonardo, Bartolomeo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Palermo</subfield>
+    <subfield code="1">PA0063</subfield>
+    <subfield code="2">PA1 CP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Ludovico Jacobilli del Seminario vescovile. Foligno</subfield>
+    <subfield code="1">PG0040</subfield>
+    <subfield code="2">UM1 39</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+</record>
+</collection>

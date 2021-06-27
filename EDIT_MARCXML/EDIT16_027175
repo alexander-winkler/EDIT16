@@ -1,0 +1,105 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01637nam0a22003131i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\027175</controlfield>
+  <controlfield tag="005">20080218000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e.i- 0302 *-** **** (3) 1552 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971027d1552        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">GRC</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Aristotelis ℗Problemata cum Alex. Aphrodis. probl. et mechanica, et metaphysices disciplinam continens tomus IIII</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">1552</subfield>
+    <subfield code="e">Venetiis</subfield>
+    <subfield code="g">apud Aldi filios. Expensis uero nobilis uiri domini Federici de Turrisanis eorum auunculi</subfield>
+    <subfield code="h">1552</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\16!, 607, \1! p.</subfield>
+    <subfield code="d">32ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Precede titolo in greco. - Opera falsamente attribuita ad Aristotele</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2="1">
+    <subfield code="3">IT\ICCU\CNCE\023275</subfield>
+    <subfield code="a">Problemata Aristotelis</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Aristoteles</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000006</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Manuzio, Aldo</subfield>
+    <subfield code="c"> &lt;1.&gt; - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000896</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Aristotele</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018928</subfield>
+    <subfield code="z">Aristoteles</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Aldi filii</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003958</subfield>
+    <subfield code="z">Manuzio, Aldo &lt;1.&gt; - eredi</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Casale Monferrato</subfield>
+    <subfield code="1">AL0024</subfield>
+    <subfield code="2">TO0 L2</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale dell&apos;Archiginnasio. Bologna</subfield>
+    <subfield code="1">BO0304</subfield>
+    <subfield code="2">UBO GA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Genova</subfield>
+    <subfield code="1">GE0038</subfield>
+    <subfield code="2">LIG 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario Vescovile della Facolt ̉Teologica del Triveneto dell&apos;Istituto Filosofico Aloisianum. Padova</subfield>
+    <subfield code="1">PD0073</subfield>
+    <subfield code="2">PUV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Palatina. Parma</subfield>
+    <subfield code="1">PR0072</subfield>
+    <subfield code="2">PAR PA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale del Monumento nazionale di Grottaferrata. Grottaferrata</subfield>
+    <subfield code="1">RM0039</subfield>
+    <subfield code="2">BVE GR</subfield>
+  </datafield>
+</record>
+</collection>

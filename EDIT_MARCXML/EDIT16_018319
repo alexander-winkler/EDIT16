@@ -1,0 +1,100 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01565nam0a2200289 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\018319</controlfield>
+  <controlfield tag="005">20071016000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">emui i.i- s:a- nogr (C) 1520 (Q)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1520        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Tractatus in defensionem ecclesiasticae immunitatis &amp; libertatis, specialiter contra grauantes ecclesias ecclesiasticasque personas in imponendo &amp; exigendo ab eisdem onera &amp; grauamina ... per uenerabilem patrem fratrem Gasparem Stephanum Ordinis praedicatorum Barchionensem theologorum minimum editus ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">In alma Vrbe</subfield>
+    <subfield code="g">per magistrum Marcellum Silber alias Franck</subfield>
+    <subfield code="h">apud Campum flore vbi venundatur VII Martii 1520</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\70! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Roma</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Esteban,</subfield>
+    <subfield code="b">Gaspar</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005096</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Silber, Marcello</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000107</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Estevan,</subfield>
+    <subfield code="b">Gaspar</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014204</subfield>
+    <subfield code="z">Esteban, Gaspar</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Stephanus</subfield>
+    <subfield code="c"> : Catalanus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014205</subfield>
+    <subfield code="z">Esteban, Gaspar</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Stephanus,</subfield>
+    <subfield code="b">Gaspar</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014932</subfield>
+    <subfield code="z">Esteban, Gaspar</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Franck, Marcellus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002877</subfield>
+    <subfield code="z">Silber, Marcello</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Argenteus, Marcellus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003186</subfield>
+    <subfield code="z">Silber, Marcello</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Magister Marcellus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005664</subfield>
+    <subfield code="z">Silber, Marcello</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca centrale della Regione siciliana Alberto Bombace. Palermo</subfield>
+    <subfield code="1">PA0064</subfield>
+    <subfield code="2">PAL BP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Augusta. Perugia</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">PG0109</subfield>
+    <subfield code="2">UM1 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Pisa</subfield>
+    <subfield code="1">PI0112</subfield>
+    <subfield code="2">PIS R1</subfield>
+  </datafield>
+</record>
+</collection>

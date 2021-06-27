@@ -1,0 +1,104 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01454nam0a22002891i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\078599</controlfield>
+  <controlfield tag="005">20170713000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">r.s. 01c. i-p. tebo (3) 1512 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20140618d1512        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Missale secundum chorum alme Ecclesie Strigoniensis</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Venetijs</subfield>
+    <subfield code="g">accuratissime impressum in edibus Petri Liechtenstein Coloniensis Germani</subfield>
+    <subfield code="g">impensis vero Urbani Keym librarij Budensis</subfield>
+    <subfield code="h">1512 die 3 Augusti</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\20!, 292 c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Esztergom</subfield>
+    <subfield code="c"> &lt;Arcidiocesi&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005100</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Liechtenstein, Peter</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000403</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Kaym, Urban</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001908</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Ecclesia Strigoniensis</subfield>
+    <subfield code="3">15516</subfield>
+    <subfield code="z">Esztergom &lt;Arcidiocesi&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Strigonia</subfield>
+    <subfield code="3">15522</subfield>
+    <subfield code="z">Esztergom &lt;Arcidiocesi&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Gran</subfield>
+    <subfield code="c"> &lt;Arcidiocesi&gt;</subfield>
+    <subfield code="3">19417</subfield>
+    <subfield code="z">Esztergom &lt;Arcidiocesi&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Lucidus Lapis, Petrus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004962</subfield>
+    <subfield code="z">Liechtenstein, Peter</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Keym, Urban</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003613</subfield>
+    <subfield code="z">Kaym, Urban</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">British Library. London</subfield>
+    <subfield code="1">UK0001</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">In fine</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000117</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000117</subfield>
+    <subfield code="b">Due sfere armillari in scudo sovrastato da elmo che ha per cimiero un&apos;altra sfera armillare. In alto: Petrus Liechtenstein</subfield>
+    <subfield code="c">K242</subfield>
+    <subfield code="c">V386</subfield>
+    <subfield code="c">Z1064</subfield>
+    <subfield code="d">Dimensioni: 11,2 x 15. Con o senza la scritta in alto</subfield>
+    <subfield code="f">LIECHTENST</subfield>
+    <subfield code="f">SCUDO</subfield>
+    <subfield code="f">SFERE</subfield>
+    <subfield code="g">1503-1568</subfield>
+  </datafield>
+</record>
+</collection>

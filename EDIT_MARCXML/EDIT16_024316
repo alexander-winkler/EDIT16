@@ -1,0 +1,61 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00849nam0a22002051i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\024316</controlfield>
+  <controlfield tag="005">20081021000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970820d1561        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Constitutiones et decreta in prouinciali synodo Mediolanensi, sub illustrissimo et reuerendissimo d.d. Carolo Borrhomaeo ... archiepiscopo Mediolani</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Mediolani</subfield>
+    <subfield code="c">apud Io. Baptistam</subfield>
+    <subfield code="d">et Pontios fratres</subfield>
+    <subfield code="d">1561</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\24!, 268, \116! p.</subfield>
+    <subfield code="d">12ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">NON ESISTE BI01 ha edizione del 1566</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Milano</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Milano</subfield>
+    <subfield code="c"> &lt;Provincia ecclesiastica&gt;</subfield>
+    <subfield code="3">7102</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Da_Ponte, Giovanni Battista &amp; fratelli</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000659</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Provincia Mediolanensis</subfield>
+    <subfield code="3">26357</subfield>
+    <subfield code="z">Milano &lt;Provincia ecclesiastica&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Biella</subfield>
+    <subfield code="1">BI0025</subfield>
+    <subfield code="2">BIA BC</subfield>
+  </datafield>
+</record>
+</collection>

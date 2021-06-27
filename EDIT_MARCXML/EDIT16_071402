@@ -1,0 +1,125 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01751nam0a2200361 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\071402</controlfield>
+  <controlfield tag="005">20090324000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">x.x. t.u- s?ul cuVi (3) 1502 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20070720d1502        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Nonius Marcellus. Festus Pompeius. Varro</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Impressum Venetiis</subfield>
+    <subfield code="g">per Christophorum de Pensis</subfield>
+    <subfield code="h">1502 die decimo quinto Setembris</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\4!, LII, XXIIII, XX, \2! c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Nonius Marcellus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016900</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Festus,</subfield>
+    <subfield code="b">Sextus Pompeius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005360</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Varro,</subfield>
+    <subfield code="b"> Marcus Terentius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009657</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Pensi, Cristoforo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001080</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Varrone,</subfield>
+    <subfield code="b">Marco Terenzio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024638</subfield>
+    <subfield code="z">Varro,  Marcus Terentius</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pensis, Christophorus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002480</subfield>
+    <subfield code="z">Pensi, Cristoforo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pensa, Christophoro di</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002481</subfield>
+    <subfield code="z">Pensi, Cristoforo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca estera - Biblioteca Universidad Complutense de Madrid. Madrid</subfield>
+    <subfield code="1">AA0002</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Collegio italo-albanese S. Adriano. San Demetrio Corone</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">CS0096</subfield>
+    <subfield code="2">ZCS 12</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Firenze</subfield>
+    <subfield code="1">FI0098</subfield>
+    <subfield code="2">CFI CF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Archivio storico civico e Biblioteca Trivulziana. Milano</subfield>
+    <subfield code="1">MI0327</subfield>
+    <subfield code="2">LO1 13</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Teresiana. Mantova</subfield>
+    <subfield code="1">MN0035</subfield>
+    <subfield code="2">LO1 12</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Liceo ginnasio L. Torricelli. Faenza</subfield>
+    <subfield code="1">RA0057</subfield>
+    <subfield code="2">ZRA 10</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Angelica. Roma</subfield>
+    <subfield code="1">RM0290</subfield>
+    <subfield code="2">RML 06</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Fondazione Biblioteca S. Bernardino. Trento</subfield>
+    <subfield code="1">TN0122</subfield>
+    <subfield code="2">ZTN 18</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">British Library. London</subfield>
+    <subfield code="1">UK0001</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Verona</subfield>
+    <subfield code="1">VR0059</subfield>
+    <subfield code="2">ZVR 02</subfield>
+  </datafield>
+</record>
+</collection>

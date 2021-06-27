@@ -1,0 +1,50 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00648na 0a22001571i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\073878</controlfield>
+  <controlfield tag="005">20090401000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20090401             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Commentaria ... in secundam Digesti ueteris partem</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Tartagni,</subfield>
+    <subfield code="b">Alessandro</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001036</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Alessandro</subfield>
+    <subfield code="c"> : d&apos;Imola</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007562</subfield>
+    <subfield code="z">Tartagni, Alessandro</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Tartagna,</subfield>
+    <subfield code="b">Alessandro</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014966</subfield>
+    <subfield code="z">Tartagni, Alessandro</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Alexander</subfield>
+    <subfield code="c"> : Imolensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014967</subfield>
+    <subfield code="z">Tartagni, Alessandro</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Tartagnus,</subfield>
+    <subfield code="b">Alexander</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020820</subfield>
+    <subfield code="z">Tartagni, Alessandro</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,51 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00659ncm0a22001811i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\045588</controlfield>
+  <controlfield tag="005">19990414000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19990125d1598        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Sacrarum cantionum octo et novem vocibus liber primus, cum tribus aliis canticis vocum et instrumentorum alternatim decantandis</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Milano</subfield>
+    <subfield code="c">Agostino Tradate</subfield>
+    <subfield code="d">1598</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">RISM : 8, S 3820</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Milano</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Soderini,</subfield>
+    <subfield code="b">Agostino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\011951</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Tradate, Agostino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000865</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Tradatus, Augustinus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005598</subfield>
+    <subfield code="z">Tradate, Agostino</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,75 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00969na 0a22002171i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\029358</controlfield>
+  <controlfield tag="005">20080514000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971119             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Regimen sanitatis Salernitanum</subfield>
+  </datafield>
+  <datafield tag="517" ind1="1" ind2=" ">
+    <subfield code="3">IT\ICCU\CNCE\049065</subfield>
+    <subfield code="a">Flos medicinae</subfield>
+  </datafield>
+  <datafield tag="517" ind1="1" ind2=" ">
+    <subfield code="3">IT\ICCU\CNCE\049123</subfield>
+    <subfield code="a">Medicina Salernitana</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Arnaldus</subfield>
+    <subfield code="c"> : de#Villanova</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000885</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Mayneri,</subfield>
+    <subfield code="b">Mayno : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025554</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Arnaldo</subfield>
+    <subfield code="c"> : de#Vilanova</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012263</subfield>
+    <subfield code="z">Arnaldus : de#Villanova</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Arnoldus</subfield>
+    <subfield code="c"> : Novicomensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012265</subfield>
+    <subfield code="z">Arnaldus : de#Villanova</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Soler Pla,</subfield>
+    <subfield code="b">Juan</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012266</subfield>
+    <subfield code="z">Arnaldus : de#Villanova</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Vilanova,</subfield>
+    <subfield code="b">Arnau : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012267</subfield>
+    <subfield code="z">Arnaldus : de#Villanova</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Maineri,</subfield>
+    <subfield code="b">Maino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\028572</subfield>
+    <subfield code="z">Mayneri, Mayno : de</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Magninus</subfield>
+    <subfield code="c"> : Mediolanensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\028573</subfield>
+    <subfield code="z">Mayneri, Mayno : de</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,87 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01383nam0a22002531i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\035585</controlfield>
+  <controlfield tag="005">20080410000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">esdo asca e-m. moEt (3) 1517 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19980112d1517        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Breuiarium horarum canonicarum secundum veram rubricam archiepiscopatus Pragensis: cum quotationibus in margine Psalmorum Hymnorum: antiphonarum: responsoriorum: ac etiam capitulorum hystoriarum quovidelicet libro Biblie et quotto capitulo singula inueniantur nouiter quam castigatissime impressum</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetijs</subfield>
+    <subfield code="c">ex officina Petri Liechtensten \!!</subfield>
+    <subfield code="d">1517</subfield>
+    <subfield code="e">Venetijs</subfield>
+    <subfield code="g">in edibus Petri Liechtenstein</subfield>
+    <subfield code="h">1517 die 17 Nouembris</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\12!, 510, \6! c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Praga</subfield>
+    <subfield code="c"> &lt;Arcidiocesi&gt;</subfield>
+    <subfield code="3">10012</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Liechtenstein, Peter</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000403</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Archiepiscopatus Pragensis</subfield>
+    <subfield code="3">23229</subfield>
+    <subfield code="z">Praga &lt;Arcidiocesi&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Lucidus Lapis, Petrus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004962</subfield>
+    <subfield code="z">Liechtenstein, Peter</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale. Cremona</subfield>
+    <subfield code="1">CR0062</subfield>
+    <subfield code="2">LO1 28</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Braidense. Milano</subfield>
+    <subfield code="1">MI0185</subfield>
+    <subfield code="2">MIL NB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Castello del Buonconsiglio. Fondo Laurence Feininger. Trento</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">TN0212</subfield>
+    <subfield code="2">ZTN 13</subfield>
+  </datafield>
+</record>
+</collection>

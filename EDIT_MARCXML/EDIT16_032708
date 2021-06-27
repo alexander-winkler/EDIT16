@@ -1,0 +1,37 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00401na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\032708</controlfield>
+  <controlfield tag="005">20020409000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971215             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Decisiones canonicae</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Santa Sede</subfield>
+    <subfield code="3">6940</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Santa Sede Apostolica</subfield>
+    <subfield code="3">25197</subfield>
+    <subfield code="z">Santa Sede</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Sedes Apostolica</subfield>
+    <subfield code="3">25198</subfield>
+    <subfield code="z">Santa Sede</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Sede Romana</subfield>
+    <subfield code="3">25199</subfield>
+    <subfield code="z">Santa Sede</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

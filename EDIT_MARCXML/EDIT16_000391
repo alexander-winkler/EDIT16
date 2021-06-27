@@ -1,0 +1,87 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01069nam0a2200265 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\000391</controlfield>
+  <controlfield tag="005">20050503000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">o.io t.di emno EtEt (C) 1566 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1566        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Le ℗fabule latine et volgare</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Venetia</subfield>
+    <subfield code="c">per Francesco de Leno</subfield>
+    <subfield code="d">1566</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\80! c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Aesopus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000326</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Di_Leno, Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002847</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Francesco di Leno</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000241</subfield>
+    <subfield code="z">Di_Leno, Francesco</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Leno, Francesco de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002848</subfield>
+    <subfield code="z">Di_Leno, Francesco</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Leniis, Franciscus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004698</subfield>
+    <subfield code="z">Di_Leno, Francesco</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Lenus, Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004699</subfield>
+    <subfield code="z">Di_Leno, Francesco</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Aleni, Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCT\006388</subfield>
+    <subfield code="z">Di_Leno, Francesco</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Ambrosiana. Milano</subfield>
+    <subfield code="1">MI0133</subfield>
+    <subfield code="2">VBA 01</subfield>
+  </datafield>
+</record>
+</collection>

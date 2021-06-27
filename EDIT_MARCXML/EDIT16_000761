@@ -1,0 +1,111 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01460nam0a2200301 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\000761</controlfield>
+  <controlfield tag="005">20150515000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">tei- noli tia- d&apos;co (3) 1576 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1576        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Rosario della gloriosa Vergine Maria</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Venetia</subfield>
+    <subfield code="c">appresso Piero de&apos; Franceschi &amp; nepoti</subfield>
+    <subfield code="d">1576</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">260, \4! c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">12ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Alberto</subfield>
+    <subfield code="c"> : da#Castello</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000550</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">De_Franceschi, Pietro &amp; nipoti</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000377</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Castellano,</subfield>
+    <subfield code="b">Alberto</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007917</subfield>
+    <subfield code="z">Alberto : da#Castello</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Castello,</subfield>
+    <subfield code="b">Alberto : da</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007920</subfield>
+    <subfield code="z">Alberto : da#Castello</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Castellani,</subfield>
+    <subfield code="b">Alberto</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022474</subfield>
+    <subfield code="z">Alberto : da#Castello</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Alberto</subfield>
+    <subfield code="c"> : di#Castello</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022475</subfield>
+    <subfield code="z">Alberto : da#Castello</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Ludovico Jacobilli del Seminario vescovile. Foligno</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">PG0040</subfield>
+    <subfield code="2">UM1 39</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Porziuncola. Assisi</subfield>
+    <subfield code="1">PG0179</subfield>
+    <subfield code="2">UM1 36</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Palatina. Parma</subfield>
+    <subfield code="1">PR0072</subfield>
+    <subfield code="2">PAR PA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Oliveriana. Pesaro</subfield>
+    <subfield code="1">PU0061</subfield>
+    <subfield code="2">URB OL</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">In fine</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001342</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001342</subfield>
+    <subfield code="b">Virt ̮(donna coronata con lo scettro in una mano e nell&apos;altra un libro). In cornice figurata</subfield>
+    <subfield code="e">Regina virtus.</subfield>
+    <subfield code="c">U299</subfield>
+    <subfield code="d">Dimensioni: 5 x 6,3</subfield>
+    <subfield code="f">REGINAVIRT</subfield>
+    <subfield code="f">VIRTU</subfield>
+    <subfield code="g">1566-1576</subfield>
+  </datafield>
+</record>
+</collection>

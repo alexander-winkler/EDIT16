@@ -1,0 +1,38 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00586na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\060977</controlfield>
+  <controlfield tag="005">20060726000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20050823             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Marci Antonii Marsilii Columnae ℗De vita et gestis beati Matthaei apostoli et euangelistae, ... Libellus</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Marsili Colonna,</subfield>
+    <subfield code="b">Marcantonio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008073</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Colonna Marsili,</subfield>
+    <subfield code="b">Marcantonio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008330</subfield>
+    <subfield code="z">Marsili Colonna, Marcantonio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Marsilius Columna,</subfield>
+    <subfield code="b">Marcus Antonius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021109</subfield>
+    <subfield code="z">Marsili Colonna, Marcantonio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

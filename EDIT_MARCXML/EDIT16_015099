@@ -1,0 +1,107 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01492nam0a2200313 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\015099</controlfield>
+  <controlfield tag="005">19970101000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">iar- t.a. raS. s.es (C) 1544 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1544        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Constitutiones reuerendiss. patris et domini magistri Bonauenture Costacciarij totius Ordinis min. con. generalis ab omnibus fratribus suis inuiolabiliter obseruande</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Spoleti</subfield>
+    <subfield code="c">Lucas Bini excudebat</subfield>
+    <subfield code="d">1544</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\6! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Spoleto</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Conventuali</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003474</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Bonaventura Pio</subfield>
+    <subfield code="c"> : da#Costacciaro</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003215</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Bini, Luca</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000429</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Ordo fratrum minorum conventualium</subfield>
+    <subfield code="3">15501</subfield>
+    <subfield code="z">Conventuali</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Fratres s. Francisci conventuales</subfield>
+    <subfield code="3">15502</subfield>
+    <subfield code="z">Conventuali</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Frati minori conventuali</subfield>
+    <subfield code="3">26310</subfield>
+    <subfield code="z">Conventuali</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Bonauentura</subfield>
+    <subfield code="c"> : Costacciarius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012677</subfield>
+    <subfield code="z">Bonaventura Pio : da#Costacciaro</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Pio Bonaventura</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012679</subfield>
+    <subfield code="z">Bonaventura Pio : da#Costacciaro</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Fauni,</subfield>
+    <subfield code="b">Bonaventura</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012680</subfield>
+    <subfield code="z">Bonaventura Pio : da#Costacciaro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Binus, Lucas</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004394</subfield>
+    <subfield code="z">Bini, Luca</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Augusta. Perugia</subfield>
+    <subfield code="1">PG0109</subfield>
+    <subfield code="2">UM1 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Classense. Ravenna</subfield>
+    <subfield code="1">RA0036</subfield>
+    <subfield code="2">RAV CL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca francescana dei SS. Apostoli. Roma</subfield>
+    <subfield code="1">RM1364</subfield>
+    <subfield code="2">ZRM 66</subfield>
+  </datafield>
+</record>
+</collection>

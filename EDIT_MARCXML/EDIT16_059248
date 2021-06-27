@@ -1,0 +1,138 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02270nam0a22003851i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\059248</controlfield>
+  <controlfield tag="005">20160427000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">umo&amp; e-ex t.a. nabi (7) 1514 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20040927d1514        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Quae in hoc perutili opusculo continentur. Francisci Nigri viri diligentissimi De grammatica libri decem in quibus ab ipsis elementis puerum ad poeticum officium et ad scribendi dicendique ornatum perducit. Georgii Valle De orthographia opusculum consumatissimum. Libanii sophistae De componendis epistolis praeceptiones utilissimae per Philelphum traductae et aliae per Ponticum</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Impressum Mediolani</subfield>
+    <subfield code="g">per Gotardum de Ponte</subfield>
+    <subfield code="h">1514 die V. mensis Aprilis</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">108, \20! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Il colophon si ricava da c. P4v. - Altro colophon a c. 2A6: (Impressum Mediolani : per magistrum Gotardum de Ponte, 1513, die XXIII Decembris)</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Milano</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Negri,</subfield>
+    <subfield code="b">Francesco</subfield>
+    <subfield code="c"> &lt;ca.1450-1510&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006678</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Valla,</subfield>
+    <subfield code="b">Giorgio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000102</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Libanius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004420</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Filelfo,</subfield>
+    <subfield code="b">Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005377</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Da_Ponte, Gottardo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001661</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Niger,</subfield>
+    <subfield code="b">Franciscus</subfield>
+    <subfield code="c"> &lt;1450?-1510&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\017368</subfield>
+    <subfield code="z">Negri, Francesco &lt;ca.1450-1510&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Negro,</subfield>
+    <subfield code="b">Pescennio Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018136</subfield>
+    <subfield code="z">Negri, Francesco &lt;ca.1450-1510&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Valla,</subfield>
+    <subfield code="b">Georgius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024507</subfield>
+    <subfield code="z">Valla, Giorgio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Philelphus,</subfield>
+    <subfield code="b">Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005378</subfield>
+    <subfield code="z">Filelfo, Francesco</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ponticus, Gotardus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003707</subfield>
+    <subfield code="z">Da_Ponte, Gottardo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pontius, Gotardus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003708</subfield>
+    <subfield code="z">Da_Ponte, Gottardo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pontanus, Gotardus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003709</subfield>
+    <subfield code="z">Da_Ponte, Gottardo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ponte, Gottardo da</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003710</subfield>
+    <subfield code="z">Da_Ponte, Gottardo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ponzio, Gottardo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004488</subfield>
+    <subfield code="z">Da_Ponte, Gottardo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica A. Mai. Bergamo</subfield>
+    <subfield code="1">BG0026</subfield>
+    <subfield code="2">LO1 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Archivio storico civico e Biblioteca Trivulziana. Milano</subfield>
+    <subfield code="1">MI0327</subfield>
+    <subfield code="2">LO1 13</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Passerini Landi. Piacenza</subfield>
+    <subfield code="1">PC0030</subfield>
+    <subfield code="2">PIA PL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">British Library. London</subfield>
+    <subfield code="1">UK0001</subfield>
+  </datafield>
+</record>
+</collection>

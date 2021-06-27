@@ -1,0 +1,138 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02242nam0a2200373 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\020114</controlfield>
+  <controlfield tag="005">20130524000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">naau usre luut utsi (C) 1509 (Q)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101f1509        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Tractatus reueren. d. Francisci episcopi Scyllacensis contra hereticos vbi subtilissime excutitur vniuersa herescos materia. Item Isidori contra Iudeos : in quo eorum ipsorum testimonio fides confirmat christiana</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">\Milano</subfield>
+    <subfield code="c">Giovanni Giacomo Da Legnano e fratelli</subfield>
+    <subfield code="d">1509!</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">12 c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Per la data e per il nome del tipografo Alessandro Minuziano cfr.: Editori e tipografi a Milano nel Cinquecento. A cura di Ennio Sandal, III, p. 115, n. 192/1</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Milano</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Gaeta,</subfield>
+    <subfield code="b">Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005781</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Isidorus</subfield>
+    <subfield code="c"> : Hispalensis</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005620</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Da_Legnano, Giovanni Giacomo &amp; fratelli</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001554</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Minuziano, Alessandro</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000404</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Franciscus</subfield>
+    <subfield code="c"> : Scyllacensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005782</subfield>
+    <subfield code="z">Gaeta, Francesco</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Gaetani,</subfield>
+    <subfield code="b">Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019206</subfield>
+    <subfield code="z">Gaeta, Francesco</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Franciscus</subfield>
+    <subfield code="c"> : Cajetani</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019207</subfield>
+    <subfield code="z">Gaeta, Francesco</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Isidoro</subfield>
+    <subfield code="c"> : di#Siviglia</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014540</subfield>
+    <subfield code="z">Isidorus : Hispalensis &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Sevilla,</subfield>
+    <subfield code="b">Isidoro : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020145</subfield>
+    <subfield code="z">Isidorus : Hispalensis &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Minutianus, Alexander</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004001</subfield>
+    <subfield code="z">Minuziano, Alessandro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Officina Minutiana</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005200</subfield>
+    <subfield code="z">Minuziano, Alessandro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Libraria Minutiana</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005201</subfield>
+    <subfield code="z">Minuziano, Alessandro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Minutiano, Alessandro</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005202</subfield>
+    <subfield code="z">Minuziano, Alessandro</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Braidense. Milano</subfield>
+    <subfield code="1">MI0185</subfield>
+    <subfield code="2">MIL NB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Trento</subfield>
+    <subfield code="1">TN0121</subfield>
+    <subfield code="2">ZTN 01</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000956</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000956</subfield>
+    <subfield code="b">Angelo sostiene tra le braccia l&apos;ostia raggiante con al centro il monogramma di Cristo e intorno al cerchio: Io. Iacomo e fratelli de Legnano. In basso: IOL</subfield>
+    <subfield code="c">K84</subfield>
+    <subfield code="d">Dimensioni: 3,3 x 5</subfield>
+    <subfield code="f">ANGELO</subfield>
+    <subfield code="g">1505-1525</subfield>
+  </datafield>
+</record>
+</collection>

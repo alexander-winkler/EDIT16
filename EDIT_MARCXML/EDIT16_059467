@@ -1,0 +1,201 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02939nam0a2200505 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\059467</controlfield>
+  <controlfield tag="005">20071105000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e.i- u-23 i,nu nasu (3) 1574 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20041020d1574        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Henrici de Segusio cardinalis Hostiensis ℗Summa aurea, ad vetustissimos codices summa fide diligentiaque nunc primum collata, atque ab innumeris erroribus, quibus scatebat hactenus, repurgata. Cum antiquis Nic. Superantii, atque eruditis recens ex Summa f. Martini abbatis, i.v.d. celeberrimi Azonis &amp; Accursii (vt ferunt) coaetanei adiectis annotationibus. Accessit rerum, &amp; verborum toto opere memorabilium locupletissimus index</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">\Giovanni Varisco!</subfield>
+    <subfield code="d">1574</subfield>
+    <subfield code="e">Venetiis</subfield>
+    <subfield code="g">apud Iacobum Vitalem</subfield>
+    <subfield code="h">1574</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\14! c., 1950 col., \1! p.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Enrico</subfield>
+    <subfield code="c"> : da#Susa</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005071</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Martino del Cassero</subfield>
+    <subfield code="c"> : da#Fano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009901</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Soranzo,</subfield>
+    <subfield code="b"></subfield>
+    <subfield code="3">IT\ICCU\CNCA\000010</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Azzone</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001002</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Accursio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003158</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Varisco, Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000284</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Vidali, Giacomo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000533</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Bartholomaeis,</subfield>
+    <subfield code="b">Henricus : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007712</subfield>
+    <subfield code="z">Enrico : da#Susa</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Bartolomei,</subfield>
+    <subfield code="b">Enrico</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007732</subfield>
+    <subfield code="z">Enrico : da#Susa</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Ostiense</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014126</subfield>
+    <subfield code="z">Enrico : da#Susa</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Henricus</subfield>
+    <subfield code="c"> : de#Segusio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014338</subfield>
+    <subfield code="z">Enrico : da#Susa</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Hostiensis,</subfield>
+    <subfield code="b">Henricus : de#Segusia</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014430</subfield>
+    <subfield code="z">Enrico : da#Susa</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Martino</subfield>
+    <subfield code="c"> : da#Fano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020638</subfield>
+    <subfield code="z">Martino del Cassero : da#Fano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Sillaniano,</subfield>
+    <subfield code="b">Martino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020639</subfield>
+    <subfield code="z">Martino del Cassero : da#Fano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Superantius,</subfield>
+    <subfield code="b">Nicolaus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005072</subfield>
+    <subfield code="z"></subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Azo,</subfield>
+    <subfield code="b">Portius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023408</subfield>
+    <subfield code="z">Azzone</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Azone</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023410</subfield>
+    <subfield code="z">Azzone</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Azo,</subfield>
+    <subfield code="b">Dominicus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023411</subfield>
+    <subfield code="z">Azzone</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Azo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023412</subfield>
+    <subfield code="z">Azzone</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Accursius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012271</subfield>
+    <subfield code="z">Accursio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Accorso</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012272</subfield>
+    <subfield code="z">Accursio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Guariscus, Ioannes</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002934</subfield>
+    <subfield code="z">Varisco, Giovanni</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Variscus, Ioannes</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005853</subfield>
+    <subfield code="z">Varisco, Giovanni</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Officina Varisciana</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005854</subfield>
+    <subfield code="z">Varisco, Giovanni</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Vitalis, Iacobus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002944</subfield>
+    <subfield code="z">Vidali, Giacomo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Vitalibus, Iacobus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005882</subfield>
+    <subfield code="z">Vidali, Giacomo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Pio Rajna. Sondrio</subfield>
+    <subfield code="1">SO0040</subfield>
+    <subfield code="2">ZSO 01</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000303</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000303</subfield>
+    <subfield code="b">Sirena coronata, bicaudata, che tiene le due code alzate con le mani. In cornice figurata</subfield>
+    <subfield code="c">Z1096</subfield>
+    <subfield code="d">Dimensioni: 6,2 x 7,2</subfield>
+    <subfield code="f">CODE</subfield>
+    <subfield code="f">CORNICE</subfield>
+    <subfield code="f">CORONA</subfield>
+    <subfield code="f">SIRENA</subfield>
+    <subfield code="g">1558-1595</subfield>
+  </datafield>
+</record>
+</collection>

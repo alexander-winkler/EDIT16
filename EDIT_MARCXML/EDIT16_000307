@@ -1,0 +1,164 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02485nam0a2200433 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\000307</controlfield>
+  <controlfield tag="005">20090910000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">i.m. S.i. oss- abom (C) 1507 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1507        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Constitutiones Marchiae Anconitanae nouiter emendatae: cum additionibus nouissimis usque in presentem diem ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Foroliuii</subfield>
+    <subfield code="g">impensis Pauli Guarini ciuis Foroliuiensis &amp; Ioannis Iacobi de Benedictis Bononiensis</subfield>
+    <subfield code="h">1507 quarto Idus Decembris</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\124! c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2="1">
+    <subfield code="3">IT\ICCU\CNCE\000306</subfield>
+    <subfield code="a">Constitutiones Aegidianae</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Forl</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Albornoz,</subfield>
+    <subfield code="b">Gil : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000030</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Guarini, Paolo &amp; Benedetti, Giovanni Giacomo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000180</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Alvarez Carrillo de Albornoz,</subfield>
+    <subfield code="b">Gil</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007576</subfield>
+    <subfield code="z">Albornoz, Gil : de</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Carrillo de Albornoz,</subfield>
+    <subfield code="b">Gil Alvarez</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007905</subfield>
+    <subfield code="z">Albornoz, Gil : de</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Guarinus, Paulus &amp; Benedictis, Ioannes Iacobus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005058</subfield>
+    <subfield code="z">Guarini, Paolo &amp; Benedetti, Giovanni Giacomo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Luciano Benincasa. Ancona</subfield>
+    <subfield code="1">AN0001</subfield>
+    <subfield code="2">URB BA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Giulio Gabrielli. Ascoli Piceno</subfield>
+    <subfield code="1">AP0006</subfield>
+    <subfield code="2">UMC AP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale dell&apos;Archiginnasio. Bologna</subfield>
+    <subfield code="1">BO0304</subfield>
+    <subfield code="2">UBO GA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Aurelio Saffi. Forl</subfield>
+    <subfield code="1">FC0018</subfield>
+    <subfield code="2">RAV FO</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Valentiniana. Camerino</subfield>
+    <subfield code="1">MC0004</subfield>
+    <subfield code="2">UMC BV</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca padre Clemente Benedettucci. Recanati</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">MC0065</subfield>
+    <subfield code="2">PBE 87</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Federiciana. Fano</subfield>
+    <subfield code="1">PU0018</subfield>
+    <subfield code="2">URB FN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Camera dei deputati. Roma</subfield>
+    <subfield code="1">RM0175</subfield>
+    <subfield code="2">ZRM 77</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Angelica. Roma</subfield>
+    <subfield code="1">RM0290</subfield>
+    <subfield code="2">RML 06</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Casanatense. Roma</subfield>
+    <subfield code="1">RM0313</subfield>
+    <subfield code="2">RML 07</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Senato della Repubblica Giovanni Spadolini. Roma</subfield>
+    <subfield code="1">RM0427</subfield>
+    <subfield code="2">ZRM 12</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Archivio di Stato di Roma. Roma</subfield>
+    <subfield code="1">RM0459</subfield>
+    <subfield code="2">RML 12</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca diocesana  Beata Lucia Broccadelli. Narni</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">TR0059</subfield>
+    <subfield code="2">UM1 77</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">In fine</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001986</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001986</subfield>
+    <subfield code="b">Labirinto sormontato da croce doppia. In alto iniziali P.G. e Io.I., in basso iniziali C.O.</subfield>
+    <subfield code="c">V82</subfield>
+    <subfield code="f">LABIRINTO</subfield>
+    <subfield code="f">CROCE</subfield>
+    <subfield code="f">PG</subfield>
+    <subfield code="f">IOI</subfield>
+    <subfield code="f">CO</subfield>
+    <subfield code="g">1507</subfield>
+  </datafield>
+</record>
+</collection>

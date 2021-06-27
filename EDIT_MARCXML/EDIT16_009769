@@ -1,0 +1,102 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01510nam0a2200277 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\009769</controlfield>
+  <controlfield tag="005">20180615000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">lado onet laia ueda (3) 1575 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1575        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Predica fatta nel primo giorno di Quaresima dal r.p. fra Francesco Caruso da Bisaccia, theologo, dell&apos;Ordine minore conuentuale</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Napoli</subfield>
+    <subfield code="c">appresso Gioseppe Cacchio</subfield>
+    <subfield code="d">1575</subfield>
+    <subfield code="e">Impressum Neap.</subfield>
+    <subfield code="g">apud Iosephum Cacchium</subfield>
+    <subfield code="h">1575</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\4!, 26 c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Napoli</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Caruso,</subfield>
+    <subfield code="b">Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002701</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Cacchi, Giuseppe</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000064</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Bisaccio,</subfield>
+    <subfield code="b">Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007982</subfield>
+    <subfield code="z">Caruso, Francesco</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Cacchius, Iosephus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004389</subfield>
+    <subfield code="z">Cacchi, Giuseppe</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Cacchio, Giuseppe</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004390</subfield>
+    <subfield code="z">Cacchi, Giuseppe</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Francesco Antolisei. San Severino Marche</subfield>
+    <subfield code="1">MC0075</subfield>
+    <subfield code="2">UMC FA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000131</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000131</subfield>
+    <subfield code="b">Orfeo, seduto sotto un albero, suona la viola (lira da braccio). In basso un cervo. Ai lati della cornice due satiri suonano uno la siringa l&apos;altro il flauto.</subfield>
+    <subfield code="e">Suavis vox ex eius ore et indefessa fluit</subfield>
+    <subfield code="c">V188</subfield>
+    <subfield code="c">Z908</subfield>
+    <subfield code="f">SUAVITVOXE</subfield>
+    <subfield code="f">ORFEO</subfield>
+    <subfield code="f">ALBERO</subfield>
+    <subfield code="f">VIOLA</subfield>
+    <subfield code="f">CERVO</subfield>
+    <subfield code="g">1555-1580</subfield>
+  </datafield>
+</record>
+</collection>

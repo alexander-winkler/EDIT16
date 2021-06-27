@@ -1,0 +1,145 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02297nam0a2200373 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\047773</controlfield>
+  <controlfield tag="005">20191122000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">squs 2606 r-n- foad (3) 1535 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19990303d1535        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Ioannis Scoppae Parthenopaei: grammaticorum omnium facile principis, oratoris, ac poetae clarissimi, ℗Grammatices institutiones et in calce epitome cum metrorum arte, pro pueris erudiendis. Reuisae &amp; multis mendis castigatae per presbyterum Antonium Crauerium de Sinfredo ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Habentur &amp; veneunt Tridini in aedibus Ioannis Gioliti</subfield>
+    <subfield code="d">alias Ferrarii Tridinatis</subfield>
+    <subfield code="d">de Monteferrato</subfield>
+    <subfield code="d">necnon Taurini</subfield>
+    <subfield code="c">in bibliotheca egregii Iacobini Dulci alias Cunei ...</subfield>
+    <subfield code="c">\Martino Cravotto &amp; C.!</subfield>
+    <subfield code="d">1535</subfield>
+    <subfield code="e">Imprimebant autem haec Taurini</subfield>
+    <subfield code="g">Martinus Crauoti &amp;socii</subfield>
+    <subfield code="g">expensis nobilis Ioannis Gioliti alias Ferrarii de Tridino</subfield>
+    <subfield code="h">1535 die 29 mensis Maii</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\48!, 352, \8! p.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Torino</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Scoppa,</subfield>
+    <subfield code="b">Lucio Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003172</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Craveri,</subfield>
+    <subfield code="b">Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013002</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Cravotto, Martino &amp; C.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003514</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Dolce, Giacomino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000742</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Giolito De Ferrari, Giovanni</subfield>
+    <subfield code="c"> &lt;1.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000472</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Scoppa,</subfield>
+    <subfield code="b">Lucius Johannes</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015211</subfield>
+    <subfield code="z">Scoppa, Lucio Giovanni</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Craverius,</subfield>
+    <subfield code="b">Antonius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\028075</subfield>
+    <subfield code="z">Craveri, Antonio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Dulcis, Iacobinus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003775</subfield>
+    <subfield code="z">Dolce, Giacomino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Dulci, Iacobino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004706</subfield>
+    <subfield code="z">Dolce, Giacomino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Iolitus, Ioannes</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003848</subfield>
+    <subfield code="z">Giolito De Ferrari, Giovanni &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Giolitto, Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004887</subfield>
+    <subfield code="z">Giolito De Ferrari, Giovanni &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Giolitus, Ioannes alias Ferrarius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004888</subfield>
+    <subfield code="z">Giolito De Ferrari, Giovanni &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Fossano</subfield>
+    <subfield code="1">CN0049</subfield>
+    <subfield code="2">TO0 52</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Savigliano</subfield>
+    <subfield code="1">CN0103</subfield>
+    <subfield code="2">TO0 60</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Firenze</subfield>
+    <subfield code="1">FI0098</subfield>
+    <subfield code="2">CFI CF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Reale. Torino</subfield>
+    <subfield code="1">TO0263</subfield>
+    <subfield code="2">TO0 07</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001883</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001883</subfield>
+    <subfield code="b">Nativit ̉e adorazione dei Magi.</subfield>
+    <subfield code="c">V249</subfield>
+    <subfield code="c">Z885</subfield>
+    <subfield code="f">NATIVITA&apos;</subfield>
+    <subfield code="f">MAGI</subfield>
+    <subfield code="g">1535</subfield>
+  </datafield>
+</record>
+</collection>

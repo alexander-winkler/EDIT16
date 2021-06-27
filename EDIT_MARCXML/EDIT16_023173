@@ -1,0 +1,82 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01151nam0a2200253 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\023173</controlfield>
+  <controlfield tag="005">20180702000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">rera meon teia rivo (3) 1543 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970626d1543        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Transito vita miracoli et morte del glorioso santo Hieronimo. Nuouamente stampati, &amp; da infiniti errori emendati</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Stampato in Venetia</subfield>
+    <subfield code="g">per Bernardino de Bindoni milanese</subfield>
+    <subfield code="h">1543 a di XVI mazo</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">102, \2! c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Bindoni, Bernardino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000319</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bindonis, Bernardinus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004380</subfield>
+    <subfield code="z">Bindoni, Bernardino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bendoni, Bernardin de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004381</subfield>
+    <subfield code="z">Bindoni, Bernardino</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Braidense. Milano</subfield>
+    <subfield code="1">MI0185</subfield>
+    <subfield code="2">MIL NB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Convento dei frati Cappuccini. Padova</subfield>
+    <subfield code="1">PD0087</subfield>
+    <subfield code="2">ZPD 03</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Angelica. Roma</subfield>
+    <subfield code="1">RM0290</subfield>
+    <subfield code="2">RML 06</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteche della Fondazione Giorgio Cini onlus. Venezia</subfield>
+    <subfield code="1">VE0239</subfield>
+    <subfield code="2">VEA FC</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,44 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00614na 0a22001451i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\044730</controlfield>
+  <controlfield tag="005">20080327000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19990118             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Compendium commentarii de usuris doctoris Navarri. Auct. ... Hieronymo Ioannino</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Giovannini,</subfield>
+    <subfield code="b">Girolamo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000381</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Girolamo</subfield>
+    <subfield code="c"> : da#Capugnano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006127</subfield>
+    <subfield code="z">Giovannini, Girolamo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Capugnano,</subfield>
+    <subfield code="b">Girolamo : da</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007867</subfield>
+    <subfield code="z">Giovannini, Girolamo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Giovannini da Capugnano,</subfield>
+    <subfield code="b">Girolamo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022161</subfield>
+    <subfield code="z">Giovannini, Girolamo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

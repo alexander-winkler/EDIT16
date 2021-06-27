@@ -1,0 +1,218 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>03623nam0a2200553 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\037719</controlfield>
+  <controlfield tag="005">20130316000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">o:re 50ex i.i. tadi (3) 1531 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19981021d1531        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Valerii Maximi ℗Moralium exemplorum libri nouem, recens nunc summa diligentia castigati, ac felicissimis eruditissimorum virorum Oliuierij, scillicet Arzignanensis, Iodicique Ascensij Badij commentarijs enarrati, quibus addita sunt quatuor &amp; viginti exempla, nuper Aldi Manutij industria inuenta, eiusdem Ascensij commentarijs sex ornatis, cum duplice indice, altero quidem capitum, altero vero eorum quae toto opere notatu digna visa sunt. Insunt preterea Theophili viri eruditissimi  perutiles locubrationes, quae tibi non mediocri erunt (si huius auctoris virtutes optime nosse volueris) adiumento. Vale eme &amp; fruere</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="d">1531</subfield>
+    <subfield code="e">Venetiis</subfield>
+    <subfield code="g">per Guilielmum de Fontaneto Montisferrati</subfield>
+    <subfield code="g">sumptibus uero nobilis uiri domini Lucae Antonii Iuntae Florentini</subfield>
+    <subfield code="h">1531 Kalen. Aprilis</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\12!, CCLXIIII c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Valerius Maximus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001232</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Oliviero</subfield>
+    <subfield code="c"> : d&apos;Arzignano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\011562</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Chalcondylas,</subfield>
+    <subfield code="b">Theophilus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013408</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Manuzio,</subfield>
+    <subfield code="b">Aldo</subfield>
+    <subfield code="c"> &lt;il vecchio&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000081</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Bade,</subfield>
+    <subfield code="b">Josse</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001185</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">Guglielmo da Fontaneto</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000318</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Giunta, Lucantonio</subfield>
+    <subfield code="c"> &lt;1.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002111</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Valerio Massimo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024512</subfield>
+    <subfield code="z">Valerius Maximus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Oliverius</subfield>
+    <subfield code="c"> : Arzignanensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\017030</subfield>
+    <subfield code="z">Oliviero : d&apos;Arzignano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Arzignano,</subfield>
+    <subfield code="b">Oliviero : d&apos;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022613</subfield>
+    <subfield code="z">Oliviero : d&apos;Arzignano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Theophilus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021095</subfield>
+    <subfield code="z">Chalcondylas, Theophilus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Calcondila,</subfield>
+    <subfield code="b">Teofilo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023564</subfield>
+    <subfield code="z">Chalcondylas, Theophilus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Manutius,</subfield>
+    <subfield code="b">Aldus</subfield>
+    <subfield code="c"> &lt;il vecchio&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014566</subfield>
+    <subfield code="z">Manuzio, Aldo &lt;il vecchio&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Manutius,</subfield>
+    <subfield code="b">Aldus Pius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020961</subfield>
+    <subfield code="z">Manuzio, Aldo &lt;il vecchio&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Badius Ascensius Jodocus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003294</subfield>
+    <subfield code="z">Bade, Josse</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Ascensius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026332</subfield>
+    <subfield code="z">Bade, Josse</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Fontaneto, Guglielmo da</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003159</subfield>
+    <subfield code="z">Guglielmo da Fontaneto</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Guglielmo da Monferrato</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003625</subfield>
+    <subfield code="z">Guglielmo da Fontaneto</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Gulielmus de Monteferrato</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005083</subfield>
+    <subfield code="z">Guglielmo da Fontaneto</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Guilielmus Fontanetensis</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005084</subfield>
+    <subfield code="z">Guglielmo da Fontaneto</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Zontis, Lucas Antonius de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003892</subfield>
+    <subfield code="z">Giunta, Lucantonio &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Giunti, Lucantonio</subfield>
+    <subfield code="c"> &lt;1&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004926</subfield>
+    <subfield code="z">Giunta, Lucantonio &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Gionta, Lucantonio de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004928</subfield>
+    <subfield code="z">Giunta, Lucantonio &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Giuntis, Lucas Antonius de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004929</subfield>
+    <subfield code="z">Giunta, Lucantonio &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Zonta, Lucantonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004930</subfield>
+    <subfield code="z">Giunta, Lucantonio &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica A. Mai. Bergamo</subfield>
+    <subfield code="1">BG0026</subfield>
+    <subfield code="2">LO1 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Feltre</subfield>
+    <subfield code="1">BL0026</subfield>
+    <subfield code="2">ZBL 04</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Queriniana. Brescia</subfield>
+    <subfield code="1">BS0026</subfield>
+    <subfield code="2">ZBS 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Zelantea. Acireale</subfield>
+    <subfield code="1">CT0260</subfield>
+    <subfield code="2">CAT ZE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Pontificia Biblioteca Antoniana. Padova</subfield>
+    <subfield code="1">EX0020</subfield>
+    <subfield code="2">PUV 78</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei cappuccini. Palermo</subfield>
+    <subfield code="1">PA0092</subfield>
+    <subfield code="2">PAL 66</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Oliveriana. Pesaro</subfield>
+    <subfield code="1">PU0061</subfield>
+    <subfield code="2">URB OL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Trento</subfield>
+    <subfield code="1">TN0121</subfield>
+    <subfield code="2">ZTN 01</subfield>
+  </datafield>
+</record>
+</collection>

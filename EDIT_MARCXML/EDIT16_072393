@@ -1,0 +1,44 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00554na 0a22001451i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\072393</controlfield>
+  <controlfield tag="005">20080930000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20080129             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">In primam atque secundam Infortiati partem commentaria</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Pontano,</subfield>
+    <subfield code="b">Ludovico</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009718</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">De_Ponte,</subfield>
+    <subfield code="b">Ludovicus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010453</subfield>
+    <subfield code="z">Pontano, Ludovico</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Ludovicus</subfield>
+    <subfield code="c"> : Romanus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022886</subfield>
+    <subfield code="z">Pontano, Ludovico</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Pontanus,</subfield>
+    <subfield code="b">Ludovicus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022887</subfield>
+    <subfield code="z">Pontano, Ludovico</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

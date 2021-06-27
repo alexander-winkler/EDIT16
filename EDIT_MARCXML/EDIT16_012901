@@ -1,0 +1,63 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01070nam0a22002051i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\012901</controlfield>
+  <controlfield tag="005">19970101000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1590        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Compendio delli privilegi, esentioni et indulgenze concesse da diversi pontefici all&apos;Archihospetale di S. Spirito in Sassia di Roma, e alla Confraternita di S. Spirito posta nella chiesa di S. Bartolomeo nel borgo di S. Gaudentio di Novara, suo membro</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Novara</subfield>
+    <subfield code="c">appresso Giovan Battista e fratelli Sesalli</subfield>
+    <subfield code="d">1590</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">26 c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Novara</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">Ospedale di S. Spirito in Sassia</subfield>
+    <subfield code="c"> &lt;Roma&gt;</subfield>
+    <subfield code="3">3269</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">Confraternita di S. Spirito in S. Bartolomeo</subfield>
+    <subfield code="c"> &lt;Novara&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004280</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Sesalli, Giovanni Battista &amp; fratelli</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001529</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Arcispedale di S. Spirito in Sassia</subfield>
+    <subfield code="c"> &lt;Roma&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003098</subfield>
+    <subfield code="z">Ospedale di S. Spirito in Sassia &lt;Roma&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario arcivescovile di Milano. Venegono Inferiore</subfield>
+    <subfield code="1">VA0122</subfield>
+    <subfield code="2">ZVA 04</subfield>
+  </datafield>
+</record>
+</collection>

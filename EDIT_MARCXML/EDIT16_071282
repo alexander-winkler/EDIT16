@@ -1,0 +1,31 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00441na 0a22001211i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\071282</controlfield>
+  <controlfield tag="005">20070702000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20070702             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Opera nobilissima composta per lo excelente maistro Agogo Mago re de tute le passion viena a falconi astori e sparaveri</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Agogo Mago</subfield>
+    <subfield code="3">IT\ICCU\CNCA\027604</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Mago,</subfield>
+    <subfield code="b">Agogo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\028544</subfield>
+    <subfield code="z">Agogo Mago</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,162 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02565nam0a2200445 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\033312</controlfield>
+  <controlfield tag="005">20160927000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">52se e-es o.m. diri (3) 1526 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971218d1526        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Regni Sicilie Capitula. Nouiter magna diligentia impressa ac correcta</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Impressa in nobili ciuitate Messana</subfield>
+    <subfield code="g">et in lucem aedita per magistrum Georgium &amp; Petrucium Spira patrem &amp; filium</subfield>
+    <subfield code="g">ad expensas &amp; instantiam Ioannis de Gydelis de Brexia &amp; Pelegrini de Andrea consocii</subfield>
+    <subfield code="h">1526 die</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\31!, 255 c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">L&apos;indice ha front. proprio</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Messina</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Sicilia</subfield>
+    <subfield code="c"> &lt;Regno&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006798</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Spira, Giorgio &amp; Spira, Petruccio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002026</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Ghidelli, Giovanni &amp; D&apos; Andrea, Pellegrino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002691</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Spera, Giorgio &amp; Spera, Petruccio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004103</subfield>
+    <subfield code="z">Spira, Giorgio &amp; Spira, Petruccio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ghydelis, Ioannes de &amp; Andrea, Pellegrinus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003835</subfield>
+    <subfield code="z">Ghidelli, Giovanni &amp; D&apos; Andrea, Pellegrino</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Lucchesiana. Agrigento</subfield>
+    <subfield code="1">AG0085</subfield>
+    <subfield code="2">AGR 28</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca regionale universitaria. Catania</subfield>
+    <subfield code="1">CT0062</subfield>
+    <subfield code="2">PAL BC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteche riunite Civica e A. Ursino Recupero. Catania</subfield>
+    <subfield code="1">CT0063</subfield>
+    <subfield code="2">ZCT 03</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca regionale universitaria. Messina</subfield>
+    <subfield code="1">ME0050</subfield>
+    <subfield code="2">PAL BM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Palermo</subfield>
+    <subfield code="1">PA0063</subfield>
+    <subfield code="2">PA1 CP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca centrale della Regione siciliana Alberto Bombace. Palermo</subfield>
+    <subfield code="1">PA0064</subfield>
+    <subfield code="2">PAL BP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca interna dell&apos;Archivio di Stato. Palermo</subfield>
+    <subfield code="1">PA0083</subfield>
+    <subfield code="2">ZPA 26</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Pietro De Nava. Reggio Calabria</subfield>
+    <subfield code="1">RC0058</subfield>
+    <subfield code="2">RCA RN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Salvatore Quasimodo. Modica</subfield>
+    <subfield code="1">RG0007</subfield>
+    <subfield code="2">ZRG 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Casanatense. Roma</subfield>
+    <subfield code="1">RM0313</subfield>
+    <subfield code="2">RML 07</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Accademia nazionale dei Lincei e Corsiniana. Roma</subfield>
+    <subfield code="1">RM0418</subfield>
+    <subfield code="2">RML 10</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Senato della Repubblica Giovanni Spadolini. Roma</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">RM0427</subfield>
+    <subfield code="2">ZRM 12</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Alagoniana. Siracusa</subfield>
+    <subfield code="1">SR0052</subfield>
+    <subfield code="2">SBS AL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Fardelliana. Trapani</subfield>
+    <subfield code="1">TP0022</subfield>
+    <subfield code="2">TPS BF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Leonardo Centonze. Castelvetrano</subfield>
+    <subfield code="1">TP0059</subfield>
+    <subfield code="2">TPS CV</subfield>
+  </datafield>
+</record>
+</collection>

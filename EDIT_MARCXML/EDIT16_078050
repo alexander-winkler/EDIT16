@@ -1,0 +1,37 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00523na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\078050</controlfield>
+  <controlfield tag="005">20130409000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20130409             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Bulla facultatis deputandi notarios Tribunalis Rotae in ciuitate Maceratae</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Stato Pontificio</subfield>
+    <subfield code="b"> : Rota</subfield>
+    <subfield code="c"> &lt;Macerata&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021216</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Rota Provinciae Marchiae</subfield>
+    <subfield code="3">21261</subfield>
+    <subfield code="z">Stato Pontificio : Rota &lt;Macerata&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Rota Maceratensis</subfield>
+    <subfield code="3">21267</subfield>
+    <subfield code="z">Stato Pontificio : Rota &lt;Macerata&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

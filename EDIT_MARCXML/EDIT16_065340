@@ -1,0 +1,83 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01372nam0a22002531i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\065340</controlfield>
+  <controlfield tag="005">20060906000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">*.er etde r.m. qupr (3) 1572 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20060721d1572        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Quintiliani Mandosii Romani iurisconsulti clarissimi, ℗In regulas iudiciales Cancellariae Apostolicae lucubratissimi commentarij. In quibus ne dum ea sunt, quae ad veram ipsarum regularum explanationem pertinent, sed multa etiam habentur ac varia, tum cognitione dignissima, tum indicibus, causarumque patronis vtilissima. Cum gemino indice titulorum, &amp; sententiarum insignium copiosissimo</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Romae</subfield>
+    <subfield code="c">apud haeredes Antonij Bladi</subfield>
+    <subfield code="d">1572</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\2!, 224 \i.e. 222!, \26! c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Roma</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Mandosio,</subfield>
+    <subfield code="b">Orazio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008630</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Blado, Antonio - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000148</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Mandosius,</subfield>
+    <subfield code="b">Horatius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020600</subfield>
+    <subfield code="z">Mandosio, Orazio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Mandosi,</subfield>
+    <subfield code="b">Orazio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025836</subfield>
+    <subfield code="z">Mandosio, Orazio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Luciano Benincasa. Ancona</subfield>
+    <subfield code="1">AN0001</subfield>
+    <subfield code="2">URB BA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Genova</subfield>
+    <subfield code="1">GE0038</subfield>
+    <subfield code="2">LIG 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Augusta. Perugia</subfield>
+    <subfield code="1">PG0109</subfield>
+    <subfield code="2">UM1 01</subfield>
+  </datafield>
+</record>
+</collection>

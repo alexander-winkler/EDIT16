@@ -1,0 +1,116 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01487nam0a2200325 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\002336</controlfield>
+  <controlfield tag="005">20150224000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">iaa- iaad aput inEt (3) 1506 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1506        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Expositio in primam fen quarti canonis Auicenne</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">per Gregorium de Gregoriis</subfield>
+    <subfield code="d">1506</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">147 \i.e. 149!, \1! c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Arcolano,</subfield>
+    <subfield code="b">Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000838</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Avicenna</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000237</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">De_Gregori, Gregorio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000087</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Ercolani,</subfield>
+    <subfield code="b">Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014181</subfield>
+    <subfield code="z">Arcolano, Giovanni</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Herculanus,</subfield>
+    <subfield code="b">Ioannes</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014347</subfield>
+    <subfield code="z">Arcolano, Giovanni</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Abu &apos;Ali al-Husain ibn &apos;Abd Allah ibn Sina</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012315</subfield>
+    <subfield code="z">Avicenna</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Ibn Sina,</subfield>
+    <subfield code="b">Abu Ali</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014502</subfield>
+    <subfield code="z">Avicenna</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Gregoriis, Gregorius de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003749</subfield>
+    <subfield code="z">De_Gregori, Gregorio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Gregori, Gregorio de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004572</subfield>
+    <subfield code="z">De_Gregori, Gregorio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Grigorii, Gregorio de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004573</subfield>
+    <subfield code="z">De_Gregori, Gregorio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">In fine</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001540</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001540</subfield>
+    <subfield code="b">Croce doppia e iniziali Z.G.</subfield>
+    <subfield code="c">U442</subfield>
+    <subfield code="d">Dimensioni: 4,5 x 7,5</subfield>
+    <subfield code="f">CROCE</subfield>
+    <subfield code="f">ZG</subfield>
+    <subfield code="g">1501-1509</subfield>
+  </datafield>
+</record>
+</collection>

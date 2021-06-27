@@ -1,0 +1,116 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01601nam0a22003371i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\031265</controlfield>
+  <controlfield tag="005">20080214000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">n-oe etru laia titi (C) 1518 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971202d1518        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">De numero atomorum totius vniuersi contra vsurarios</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Impressum Romae</subfield>
+    <subfield code="g">in Campo Florae per Marcellum Silber alias Franck artis impressoriae magistrum</subfield>
+    <subfield code="h">15. Kl. Maii 1518</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\88! c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Il nome dell&apos;autore si ricava dalla dedica</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Roma</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Paulus</subfield>
+    <subfield code="c"> : van#Middelburg</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009238</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Silber, Marcello</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000107</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Paulus</subfield>
+    <subfield code="c"> : de#Middelburgo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021944</subfield>
+    <subfield code="z">Paulus : van#Middelburg</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Paulus</subfield>
+    <subfield code="c"> : de#Fossombrone</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025331</subfield>
+    <subfield code="z">Paulus : van#Middelburg</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Franck, Marcellus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002877</subfield>
+    <subfield code="z">Silber, Marcello</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Argenteus, Marcellus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003186</subfield>
+    <subfield code="z">Silber, Marcello</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Magister Marcellus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005664</subfield>
+    <subfield code="z">Silber, Marcello</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei frati minori francescani. Firenze</subfield>
+    <subfield code="1">FI0095</subfield>
+    <subfield code="2">RT1 BF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Augusta. Perugia</subfield>
+    <subfield code="1">PG0109</subfield>
+    <subfield code="2">UM1 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Angelica. Roma</subfield>
+    <subfield code="1">RM0290</subfield>
+    <subfield code="2">RML 06</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Casanatense. Roma</subfield>
+    <subfield code="1">RM0313</subfield>
+    <subfield code="2">RML 07</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Accademia nazionale dei Lincei e Corsiniana. Roma</subfield>
+    <subfield code="1">RM0418</subfield>
+    <subfield code="2">RML 10</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">British Library. London</subfield>
+    <subfield code="1">UK0001</subfield>
+  </datafield>
+</record>
+</collection>

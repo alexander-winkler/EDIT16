@@ -1,0 +1,131 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01819nam0a2200361 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\024450</controlfield>
+  <controlfield tag="005">20050128000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">tas- o.am o-r- peVi (3) 1582 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970826d1582        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Mariae Virginis purissimae Dei matris vita Hercule Vincemala Iulii filio Mediolanen. collegii iuriscon. auctore</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Mediolani</subfield>
+    <subfield code="c">apud Paulum Gottardum Pontium</subfield>
+    <subfield code="d">1582</subfield>
+    <subfield code="e">Mediolani</subfield>
+    <subfield code="g">apud Paulum Gottardum Pontium</subfield>
+    <subfield code="h">1582</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\12!, 175, \17! p.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Milano</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Vismara,</subfield>
+    <subfield code="b">Ercole</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007145</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Da_Ponte, Paolo Gottardo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001755</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Vincemala,</subfield>
+    <subfield code="b">Hercules</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015882</subfield>
+    <subfield code="z">Vismara, Ercole</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pontius, Paulus Gottardus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003718</subfield>
+    <subfield code="z">Da_Ponte, Paolo Gottardo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ponte, Paolo Gottardo da</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003719</subfield>
+    <subfield code="z">Da_Ponte, Paolo Gottardo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pontio, Paolo Gottardo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004498</subfield>
+    <subfield code="z">Da_Ponte, Paolo Gottardo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ponzio, Paolo Gottardo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004500</subfield>
+    <subfield code="z">Da_Ponte, Paolo Gottardo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Poncio, Pablo Gotardo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004501</subfield>
+    <subfield code="z">Da_Ponte, Paolo Gottardo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Fondazione Biblioteca Morcelli. Chiari</subfield>
+    <subfield code="1">BS0060</subfield>
+    <subfield code="2">LO1 6B</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Convento francescano. Dongo</subfield>
+    <subfield code="1">CO0075</subfield>
+    <subfield code="2">ZCO 04</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale. Cremona</subfield>
+    <subfield code="1">CR0062</subfield>
+    <subfield code="2">LO1 28</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Lodi</subfield>
+    <subfield code="1">LO0023</subfield>
+    <subfield code="2">PBE 28</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Braidense. Milano</subfield>
+    <subfield code="1">MI0185</subfield>
+    <subfield code="2">MIL NB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Palatina. Parma</subfield>
+    <subfield code="1">PR0072</subfield>
+    <subfield code="2">PAR PA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Accademia Alfonsiana. Roma</subfield>
+    <subfield code="1">RM0271</subfield>
+    <subfield code="2">ZRM 03</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Verona</subfield>
+    <subfield code="1">VR0059</subfield>
+    <subfield code="2">ZVR 02</subfield>
+  </datafield>
+</record>
+</collection>

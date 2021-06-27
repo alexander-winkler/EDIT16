@@ -1,0 +1,41 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00510na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\047505</controlfield>
+  <controlfield tag="005">20051227000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19990223             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Practica medicinalis</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Vittori,</subfield>
+    <subfield code="b">Leonello</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007347</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Leonellus</subfield>
+    <subfield code="c"> : Faventinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018036</subfield>
+    <subfield code="z">Vittori, Leonello</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Victorius,</subfield>
+    <subfield code="b">Leonellus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025531</subfield>
+    <subfield code="z">Vittori, Leonello</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Victoriis,</subfield>
+    <subfield code="b">Leonellus : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025532</subfield>
+    <subfield code="z">Vittori, Leonello</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,57 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00638nam0a22001931i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\049108</controlfield>
+  <controlfield tag="005">20060612000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19991006d1510        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Epigrammata</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="d">1510</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Annullata. Cfr. ID. 34895</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Martialis,</subfield>
+    <subfield code="b">Marcus Valerius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007686</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">s.n.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000002</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Marziale,</subfield>
+    <subfield code="b">Marco Valerio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\017880</subfield>
+    <subfield code="z">Martialis, Marcus Valerius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Valerius Martialis,</subfield>
+    <subfield code="b">Marcus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020472</subfield>
+    <subfield code="z">Martialis, Marcus Valerius</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

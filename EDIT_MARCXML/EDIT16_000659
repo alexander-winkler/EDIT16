@@ -1,0 +1,177 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>03136nam0a2200445 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\000659</controlfield>
+  <controlfield tag="005">20181127000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">uea- c.i. eli. vtin (C) 1572 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1572        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Dictionarium iuris tam ciuilis quam canonici. Quod equidem post omnes omnium editiones diligentissime emendatum, ac praeter additiones ad hanc usque diem impressas, quibus authorum suorum nomina in fine singularum sunt descripta, plus mille &amp; octingentisadditionibus nunquam antea in lucem emissis, auctum &amp; locupletatum est per  excellentissimum I.V.D. Io. Franciscum Decianum , ex variis tum antiquorum, tum iuniorum commentariis, nec non consiliis excerptis ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud Guerreos fratres</subfield>
+    <subfield code="d">&amp; socios</subfield>
+    <subfield code="d">1572</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\444! c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Alberico</subfield>
+    <subfield code="c"> : da#Rosate</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000532</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Deciani,</subfield>
+    <subfield code="b">Gianfrancesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000078</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Guerra, Domenico &amp; Guerra, Giovanni Battista &amp; C.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002864</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Guerra, Domenico &amp; Guerra, Giovanni Battista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000155</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Deciano,</subfield>
+    <subfield code="b">Gianfrancesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016398</subfield>
+    <subfield code="z">Deciani, Gianfrancesco</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Decianus,</subfield>
+    <subfield code="b">Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018436</subfield>
+    <subfield code="z">Deciani, Gianfrancesco</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Guerra, Giovanni Battista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000156</subfield>
+    <subfield code="z">Guerra, Domenico &amp; Guerra, Giovanni Battista &amp; C.</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Guerraei fratres</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005074</subfield>
+    <subfield code="z">Guerra, Domenico &amp; Guerra, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Guerri</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005076</subfield>
+    <subfield code="z">Guerra, Domenico &amp; Guerra, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca estera - Bayerische StaatsBibliothek. Muenchen</subfield>
+    <subfield code="1">AA0008</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca diocesana cardinale Petrucci. Jesi</subfield>
+    <subfield code="1">AN0045</subfield>
+    <subfield code="2">URB DP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Giovanni Bovio. Trani</subfield>
+    <subfield code="1">BA0124</subfield>
+    <subfield code="2">BAT 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Bologna</subfield>
+    <subfield code="1">BO0098</subfield>
+    <subfield code="2">UBO BU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca don Giovanni Verit ̉del Comune e dell&apos;Accademia degli Incamminati. Modigliana</subfield>
+    <subfield code="1">FC0038</subfield>
+    <subfield code="2">RAV MD</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca delle Oblate. Firenze</subfield>
+    <subfield code="1">FI0104</subfield>
+    <subfield code="2">RT1 AA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Istituto tecnico commerciale F. Carrara. Lucca</subfield>
+    <subfield code="1">LU0101</subfield>
+    <subfield code="2">ZLU 10</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Convento dei Cappuccini di S. Felice. Cava dei Tirreni</subfield>
+    <subfield code="1">SA0090</subfield>
+    <subfield code="2">ZSA 03</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Verona</subfield>
+    <subfield code="1">VR0059</subfield>
+    <subfield code="2">ZVR 02</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001372</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">A c. A2r</subfield>
+    <subfield code="9">IT\ICCU\CNCM\002045</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">In fine</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000198</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001372</subfield>
+    <subfield code="b">Scoglio nel mare in tempesta, il vento soffia dalle nubi. In cornice figurata</subfield>
+    <subfield code="e">Virtus deridet impetus</subfield>
+    <subfield code="c">U322</subfield>
+    <subfield code="d">Dimensioni: 10,5 x 13,5</subfield>
+    <subfield code="f">VIRTUSDERI</subfield>
+    <subfield code="f">SCOGLIO</subfield>
+    <subfield code="g">1572-1588</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\002045</subfield>
+    <subfield code="b">Aquila vola verso il sole e perde le penne. In fregio con putti alati.</subfield>
+    <subfield code="c">U611</subfield>
+    <subfield code="d">Dimensioni dell&apos;ovale interno: 2,8 x 3,5;Dimensioni del fregio: 15 x 4,5</subfield>
+    <subfield code="f">AQUILA</subfield>
+    <subfield code="f">SOLE</subfield>
+    <subfield code="f">PENNE</subfield>
+    <subfield code="g">1569-1572</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000198</subfield>
+    <subfield code="b">Aquila vola verso il sole e perde le penne. In cornice figurata</subfield>
+    <subfield code="e">Renovata iuventus</subfield>
+    <subfield code="c">Z133</subfield>
+    <subfield code="d">Dimensioni: 8 x 9,8</subfield>
+    <subfield code="f">AQUILA</subfield>
+    <subfield code="f">IUVENTUSRE</subfield>
+    <subfield code="f">PENNE</subfield>
+    <subfield code="f">SOLE</subfield>
+    <subfield code="g">1565-1595</subfield>
+  </datafield>
+</record>
+</collection>

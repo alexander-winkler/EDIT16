@@ -1,0 +1,117 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01640nam0a22003371i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\027774</controlfield>
+  <controlfield tag="005">20110314000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">o-ea e,o- o-n- ieue (C) 1588 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971030d1588        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Orazione funerale di Francesco Marchi recitata nell&apos;esequie di Benedetto Mori. Celebrate alli 18. di marzo 1588. nella Compagnia di San Marco</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Firenze</subfield>
+    <subfield code="c">appresso Antonio Padouanio</subfield>
+    <subfield code="d">1588</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\8! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Firenze</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Marchi,</subfield>
+    <subfield code="b">Francesco</subfield>
+    <subfield code="c"> &lt;fl. 1577-1588&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023184</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Padovani, Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001132</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Patavinius, Antonius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002265</subfield>
+    <subfield code="z">Padovani, Antonio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Paduanius, Antonius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004016</subfield>
+    <subfield code="z">Padovani, Antonio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Padovanio, Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005235</subfield>
+    <subfield code="z">Padovani, Antonio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Padovano, Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005236</subfield>
+    <subfield code="z">Padovani, Antonio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Padovanius,  Antonius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005238</subfield>
+    <subfield code="z">Padovani, Antonio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Rilliana. Poppi</subfield>
+    <subfield code="1">AR0050</subfield>
+    <subfield code="2">RT1 QR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Accademia della Crusca. Firenze</subfield>
+    <subfield code="1">FI0054</subfield>
+    <subfield code="2">UFI AC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Riccardiana. Firenze</subfield>
+    <subfield code="1">FI0094</subfield>
+    <subfield code="2">CFI RF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Firenze</subfield>
+    <subfield code="1">FI0098</subfield>
+    <subfield code="2">CFI CF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Medicea Laurenziana. Firenze</subfield>
+    <subfield code="1">FI0100</subfield>
+    <subfield code="2">CFI ML</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Marucelliana. Firenze</subfield>
+    <subfield code="1">FI0101</subfield>
+    <subfield code="2">CFI MF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Senato della Repubblica Giovanni Spadolini. Roma</subfield>
+    <subfield code="1">RM0427</subfield>
+    <subfield code="2">ZRM 12</subfield>
+  </datafield>
+</record>
+</collection>

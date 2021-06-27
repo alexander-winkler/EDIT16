@@ -1,0 +1,133 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02072nam0a2200373 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\014570</controlfield>
+  <controlfield tag="005">20160623000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">s:ro e-ut umno stbe (3) 1506 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1506        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Orationes M. Tullii Ciceronis per Philippum Beroaldum recognitae ac diligenter correctae. Addita in calce oratione aduersus Valerium qu ̆hactenus incognita fuit</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Venetiis</subfield>
+    <subfield code="g">per Christophorum de Pensis</subfield>
+    <subfield code="h">1506 die XV mensis Zenarii</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">CXXIIII, XXXXVIIII, \1! c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Le note tipografiche si ricavano dal coloph. a c. H7v. A c. CXXIIIIr altro coloph.: Venetiis : per Christoforum de Pensis, die XX mensis Decembris 1505.  Manca l&apos;Oratio adversus Valerium</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Cicero,</subfield>
+    <subfield code="b">Marcus Tullius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002170</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Beroaldo,</subfield>
+    <subfield code="b">Filippo</subfield>
+    <subfield code="c"> &lt;il vecchio&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000228</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Pensi, Cristoforo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001080</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Tullius Cicero,</subfield>
+    <subfield code="b">Marcus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020042</subfield>
+    <subfield code="z">Cicero, Marcus Tullius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Beroaldus,</subfield>
+    <subfield code="b">Philippus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026331</subfield>
+    <subfield code="z">Beroaldo, Filippo &lt;il vecchio&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pensis, Christophorus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002480</subfield>
+    <subfield code="z">Pensi, Cristoforo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pensa, Christophoro di</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002481</subfield>
+    <subfield code="z">Pensi, Cristoforo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Feltre</subfield>
+    <subfield code="1">BL0026</subfield>
+    <subfield code="2">ZBL 04</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Accademia nazionale di scienze, lettere ed arti. Modena</subfield>
+    <subfield code="1">MO0052</subfield>
+    <subfield code="2">MOD AC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria Alessandrina. Roma</subfield>
+    <subfield code="1">RM0280</subfield>
+    <subfield code="2">RML 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Angelica. Roma</subfield>
+    <subfield code="1">RM0290</subfield>
+    <subfield code="2">RML 06</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Gambalunghiana. Rimini</subfield>
+    <subfield code="1">RN0013</subfield>
+    <subfield code="2">RAV RI</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Bruno Emmert. Arco</subfield>
+    <subfield code="1">TN0008</subfield>
+    <subfield code="2">ZTN 11</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Trento</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">TN0121</subfield>
+    <subfield code="2">ZTN 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Fardelliana. Trapani</subfield>
+    <subfield code="1">TP0022</subfield>
+    <subfield code="2">TPS BF</subfield>
+  </datafield>
+</record>
+</collection>

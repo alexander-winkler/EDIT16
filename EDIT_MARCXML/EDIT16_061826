@@ -1,0 +1,95 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01291ncm0a22002771i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\061826</controlfield>
+  <controlfield tag="005">20090918000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20051011d1591        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Madrigali a cinque voci di Bartolomeo Roy, da Pietro Paulo Quartieri romano raccolti, &amp; dati in luce, al serenissimo duca di Mantova. Libro primo</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Roma</subfield>
+    <subfield code="c">ad istanza di Ascanio</subfield>
+    <subfield code="d">et Gierolamo Donangeli</subfield>
+    <subfield code="c">appresso Francesco Coattini</subfield>
+    <subfield code="d">1591</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">5 fasc</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">C, A, T, B, V</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Roma</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Le_Roy,</subfield>
+    <subfield code="b">Bartolomeo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\011764</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Quartieri,</subfield>
+    <subfield code="b">Pietro Paolo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\011861</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Donangeli, Ascanio &amp; Donangeli, Girolamo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000158</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Coattino, Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000859</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Roy,</subfield>
+    <subfield code="b">Bartolomeo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021314</subfield>
+    <subfield code="z">Le_Roy, Bartolomeo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Lo_Roi,</subfield>
+    <subfield code="b">Bartholomeo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024196</subfield>
+    <subfield code="z">Le_Roy, Bartolomeo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Quartiero,</subfield>
+    <subfield code="b">Pietro Paolo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025818</subfield>
+    <subfield code="z">Quartieri, Pietro Paolo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Coattinus, Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004622</subfield>
+    <subfield code="z">Coattino, Francesco</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Coattini, Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004623</subfield>
+    <subfield code="z">Coattino, Francesco</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Fabriano</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">AN0033</subfield>
+    <subfield code="2">URB BF</subfield>
+  </datafield>
+</record>
+</collection>

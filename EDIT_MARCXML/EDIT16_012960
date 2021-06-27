@@ -1,0 +1,97 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01807nam0a2200289 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\012960</controlfield>
+  <controlfield tag="005">20071025000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">eme, i.a. s.s. s.s. (C) 1563 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1563        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Bulla indictionis sacri oecumenici Concilii. Breue Pii papa IIII super ordine sedendi in concilio. Declaratio facta per illustriss. d.d. legatos super decreto sanctissimi d.n. Pij papae IIII Decretum primum publicatum in prima sessione Sacri Concilij Tridentini, sub PioIIII pont. max. die XVIII Ianuarij MDLXII. Primum decretum publicatum in secunda sessione sacri concilij, et fides publica seu saluus conductus, die XXVI Februarij MDLXII. Decretum publicatum in sessione tertia sacri concilij, die XIIII Maij MDLXII. Vna cum decreto publicato in sessione quarta sacri concilij, die IIII Iunij MDLXII</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Patauii</subfield>
+    <subfield code="c">apud Christophorum Gryphium</subfield>
+    <subfield code="d">1563</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\8! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Padova</subfield>
+  </datafield>
+  <datafield tag="710" ind1="1" ind2="2">
+    <subfield code="a">Concilio di Trento</subfield>
+    <subfield code="c"> &lt;1545-1563&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003434</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Griffio, Cristoforo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000878</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Concilium Tridentinum</subfield>
+    <subfield code="c"> &lt;1545-1563&gt;</subfield>
+    <subfield code="3">8382</subfield>
+    <subfield code="z">Concilio di Trento &lt;1545-1563&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Gryphius, Christophorus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003895</subfield>
+    <subfield code="z">Griffio, Cristoforo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Grifi, Cristoforo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005050</subfield>
+    <subfield code="z">Griffio, Cristoforo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Grifo, Cristoforo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005051</subfield>
+    <subfield code="z">Griffio, Cristoforo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Bologna</subfield>
+    <subfield code="1">BO0098</subfield>
+    <subfield code="2">UBO BU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Teresiana. Mantova</subfield>
+    <subfield code="1">MN0035</subfield>
+    <subfield code="2">LO1 12</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Trento</subfield>
+    <subfield code="1">TN0121</subfield>
+    <subfield code="2">ZTN 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Marciana. Venezia</subfield>
+    <subfield code="1">VE0049</subfield>
+    <subfield code="2">VEA BM</subfield>
+  </datafield>
+</record>
+</collection>

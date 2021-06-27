@@ -1,0 +1,120 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01940nam0a2200313 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\071572</controlfield>
+  <controlfield tag="005">20160404000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">umis ulmo a-se raiu (3) 1596 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20070803d1596        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Dn. Nicasii de Voerda Macliniensis, iureconsulti clarissimi ℗Enarrationes in quatuor libros institutionum imperialium, iam recens fidelius ac exactius, quam vsquam antea castigatae. Per excellentiss. d. Borgarutium a Borgarutijs. Accesserunt et his nunc primum summaria impensa desiderata. Indice itidem adiecto</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud Iacobum Antonium Somaschum</subfield>
+    <subfield code="d">1596</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">479, \57! c., \1! c. di tav. ripieg.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Voerda,</subfield>
+    <subfield code="b">Nicasius : von</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009717</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Borgarucci,</subfield>
+    <subfield code="b">Borgaruccio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000148</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Somasco, Giacomo Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001318</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Voerda,</subfield>
+    <subfield code="b">Nicasius : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025421</subfield>
+    <subfield code="z">Voerda, Nicasius : von</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Borgarutius</subfield>
+    <subfield code="c"> : a#Borgarutiis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018556</subfield>
+    <subfield code="z">Borgarucci, Borgaruccio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Somaschus, Iacobus Antonius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005694</subfield>
+    <subfield code="z">Somasco, Giacomo Antonio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Somascho, Iacomo Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005695</subfield>
+    <subfield code="z">Somasco, Giacomo Antonio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca delle Collezioni d&apos;arte e di storia San Giorgio in Poggiale. Bologna</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">BO0376</subfield>
+    <subfield code="2">UBO PG</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Angelica. Roma</subfield>
+    <subfield code="1">RM0290</subfield>
+    <subfield code="2">RML 06</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Sassari</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">SS0073</subfield>
+    <subfield code="2">CAG US</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000023</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000023</subfield>
+    <subfield code="b">Centauro con arco nella mano sinistra, faretra a tracolla e serpente attorno al braccio destro.</subfield>
+    <subfield code="e">Viribus iungenda sapientia.</subfield>
+    <subfield code="c">Q62</subfield>
+    <subfield code="c">V481</subfield>
+    <subfield code="c">Z227</subfield>
+    <subfield code="d">Dimensioni: 5 x 4,5</subfield>
+    <subfield code="f">ARCO</subfield>
+    <subfield code="f">CENTAURO</subfield>
+    <subfield code="f">FARETRA</subfield>
+    <subfield code="f">SERPENTE</subfield>
+    <subfield code="f">VIRIBUSIUN</subfield>
+    <subfield code="g">1563-1600</subfield>
+  </datafield>
+</record>
+</collection>

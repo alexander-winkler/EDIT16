@@ -1,0 +1,38 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00503na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\055537</controlfield>
+  <controlfield tag="005">20070717000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20040206             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Oratio in funere serenissimi Gulielmi ducis Mantuae, Flaminii Evoli ... habita secunda die</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Evoli,</subfield>
+    <subfield code="b">Flaminio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005122</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Evolus,</subfield>
+    <subfield code="b">Flaminius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019397</subfield>
+    <subfield code="z">Evoli, Flaminio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Aevolus,</subfield>
+    <subfield code="b">Flaminius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022574</subfield>
+    <subfield code="z">Evoli, Flaminio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,134 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02121nam0a22003611i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\026480</controlfield>
+  <controlfield tag="005">20090821000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">hole o.ta i-on rato (3) 1566 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971016d1566        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Prediche del reuerendiss. mons. Cornelio Musso da Piacenza, vescouo di Bitonto, con due tauole, l&apos;vna delle prediche, l&apos;altra delle cose piu notabili, e con le postille in margine, e le autorit ̉delle scritture sacre, dal proprio autor riuedute, e con molta diligenza corrette</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Vinegia</subfield>
+    <subfield code="c">appresso Gabriel Giolito de&apos; Ferrari</subfield>
+    <subfield code="d">1566</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\36!, 442, \2! p. </subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Musso,</subfield>
+    <subfield code="b">Cornelio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001160</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Giolito De Ferrari, Gabriele</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000033</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Mussi,</subfield>
+    <subfield code="b">Cornelio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007262</subfield>
+    <subfield code="z">Musso, Cornelio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Mussus,</subfield>
+    <subfield code="b">Cornelius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021133</subfield>
+    <subfield code="z">Musso, Cornelio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Iolitus de Ferrariis, Gabriel</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003847</subfield>
+    <subfield code="z">Giolito De Ferrari, Gabriele</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Iolito de Ferrarii, Gabriel</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004885</subfield>
+    <subfield code="z">Giolito De Ferrari, Gabriele</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Belluno</subfield>
+    <subfield code="1">BL0006</subfield>
+    <subfield code="2">VIA CB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile Santa Maria della Pace. Cremona</subfield>
+    <subfield code="1">CR0061</subfield>
+    <subfield code="2">PBE 48</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Carlo Negroni. Novara</subfield>
+    <subfield code="1">NO0054</subfield>
+    <subfield code="2">TO0 08</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca vescovile. Assisi</subfield>
+    <subfield code="1">PG0011</subfield>
+    <subfield code="2">PBE 59</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale Frati minori cappuccini. Torino</subfield>
+    <subfield code="1">TO0264</subfield>
+    <subfield code="2">TO0 84</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Istituto veneto di scienze, lettere ed arti. Venezia</subfield>
+    <subfield code="1">VE0237</subfield>
+    <subfield code="2">VEA IV</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dei cappuccini. Verona</subfield>
+    <subfield code="1">VR0178</subfield>
+    <subfield code="2">ZVR 10</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Bagnoregio</subfield>
+    <subfield code="1">VT0005</subfield>
+    <subfield code="2">ZVT 03</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">In fine</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001008</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001008</subfield>
+    <subfield code="b">Fenice, rivolta al sole, su fiamme che si sprigionano da globo alato recante  le iniziali G.G.F.</subfield>
+    <subfield code="e">Semper eadem</subfield>
+    <subfield code="c">U89</subfield>
+    <subfield code="d">Dimensioni: 6,3 x 7,7</subfield>
+    <subfield code="f">FENICE</subfield>
+    <subfield code="f">SEMPEREADE</subfield>
+    <subfield code="f">GGF</subfield>
+    <subfield code="g">1544-1588</subfield>
+  </datafield>
+</record>
+</collection>

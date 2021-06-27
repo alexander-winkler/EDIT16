@@ -1,0 +1,73 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00996nam0a2200229 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\015382</controlfield>
+  <controlfield tag="005">19990720000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">06i- sucq dim. &amp;nip (3) 1563 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1563        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Libro da Compagnia ... Aggiuntoui di nuouo alcuni diuoti sermoni, hinni, &amp; diuotioni spirituali. A stanza di Stefano Guiducci, nel Garbo</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Fiorenza</subfield>
+    <subfield code="c">appresso L. Torrentino</subfield>
+    <subfield code="d">1563</subfield>
+    <subfield code="e">Florentiae</subfield>
+    <subfield code="h">apud Laurentium Torrentinum</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\8!, CCIIII, \2! p.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Firenze</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Confraternita dei Battuti</subfield>
+    <subfield code="3">3843</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Guiducci,</subfield>
+    <subfield code="b">Stefano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003257</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Torrentino, Lorenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000169</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Compagnia dei Battuti</subfield>
+    <subfield code="3">15421</subfield>
+    <subfield code="z">Confraternita dei Battuti</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Torrentinus, Laurentius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005585</subfield>
+    <subfield code="z">Torrentino, Lorenzo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+</record>
+</collection>

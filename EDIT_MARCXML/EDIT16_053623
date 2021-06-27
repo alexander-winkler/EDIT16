@@ -1,0 +1,123 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01988nam0a2200349 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\053623</controlfield>
+  <controlfield tag="005">20160318000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">doel V.da i.ii chne (3) 1557 (Q)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">n-a. ioa. a-a. l&apos;Fr (C) 1557 (Q)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">2</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20021203f1557        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Annotationi nella prima, et seconda parte dell&apos;Istorie del Giouio, dell&apos;Infortunio</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="d">\1557?!</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">2 pt.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">2: Tavola delle provincie, citt,̉ castella, popoli, monti ...Stampata a Venezia da Plinio Pietrasanta, la cui marca figura sul front. della pt. 2, e da Domenico Farri. Per il tipografo e la data cfr.: Short-title catalogue of books printed in Italy andof Italian books printed in other countries, p. 304</subfield>
+  </datafield>
+  <datafield tag="423" ind1=" " ind2="0">
+    <subfield code="1">001IT\ICCU\CNCE\055183</subfield>
+    <subfield code="1">2001 </subfield>
+    <subfield code="a">Tavola delle provincie, cittAa, castella, popoli, monti ...</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Passi,</subfield>
+    <subfield code="b">Carlo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000192</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Pietrasanta, Plinio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000748</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Farri, Domenico</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000035</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">℗L&apos;℗Infortunio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014516</subfield>
+    <subfield code="z">Passi, Carlo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Petrasancta, Plinius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002514</subfield>
+    <subfield code="z">Pietrasanta, Plinio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Farris, Dominicus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005455</subfield>
+    <subfield code="z">Farri, Domenico</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Farreus, Dominicus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005459</subfield>
+    <subfield code="z">Farri, Domenico</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Farris, Domingo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005462</subfield>
+    <subfield code="z">Farri, Domenico</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Fondazione Luigi Firpo. Centro di studi sul pensiero politico. Torino</subfield>
+    <subfield code="1">TO0469</subfield>
+    <subfield code="2">TO0 18</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">British Library. London</subfield>
+    <subfield code="1">UK0001</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Marciana. Venezia</subfield>
+    <subfield code="1">VE0049</subfield>
+    <subfield code="2">VEA BM</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front. della pt. 2</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000588</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000588</subfield>
+    <subfield code="b">Virt ̮(donna con una palma e una corona in mano).</subfield>
+    <subfield code="e">Virtus Dei donum; Questa in ciel ci conduce, e&apos;n terra honora</subfield>
+    <subfield code="c">V430</subfield>
+    <subfield code="c">Z1201</subfield>
+    <subfield code="d">Dimensioni: 4,6 x 5,2</subfield>
+    <subfield code="f">CORONA</subfield>
+    <subfield code="f">PALMA</subfield>
+    <subfield code="f">VIRTU&apos;</subfield>
+    <subfield code="g">1554-1600</subfield>
+  </datafield>
+</record>
+</collection>

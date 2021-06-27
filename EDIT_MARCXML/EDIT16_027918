@@ -1,0 +1,155 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02302nam0a22003971i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\027918</controlfield>
+  <controlfield tag="005">20131105000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">reer I.in n-g- zafu (3) 1542 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971031d1542        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Le ℗deuotissime meditationi di santo Bernardo Abbate, con le meditationi di s. Anselmo. Nuouamente dal latino ne la volgar lingua tradotte</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Venetia</subfield>
+    <subfield code="c">all&apos;insegna di S. Hieronimo</subfield>
+    <subfield code="d">1542</subfield>
+    <subfield code="e">In Venetia</subfield>
+    <subfield code="g">per Giouanni de Farri et fratelli</subfield>
+    <subfield code="g">ad instantia di Giouanni dalla Chiesa Pauese</subfield>
+    <subfield code="h">1542</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">266, \6! c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">12ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Opera di incerto autore, attribuita sia a Bernardo di Chiaravalle sia a Hugo di s. Vittore</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2="1">
+    <subfield code="3">IT\ICCU\CNCE\023497</subfield>
+    <subfield code="a">Meditationes de cognitione humanae conditionis</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Hugo</subfield>
+    <subfield code="c"> : de#Sancto Victore</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000059</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Bernardus</subfield>
+    <subfield code="c"> : Claraevallensis</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000345</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Anselmus</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000767</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Dalla_Chiesa, Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000114</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Farri, Giovanni &amp; fratelli</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001827</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Hugues</subfield>
+    <subfield code="c"> : de#Saint-Victor</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014444</subfield>
+    <subfield code="z">Hugo : de#Sancto Victore</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Ugo</subfield>
+    <subfield code="c"> : di#San_Vittore</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015074</subfield>
+    <subfield code="z">Hugo : de#Sancto Victore</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Ugone</subfield>
+    <subfield code="c"> : de#Sancto_Victore</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020386</subfield>
+    <subfield code="z">Hugo : de#Sancto Victore</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Bernardo</subfield>
+    <subfield code="c"> : di#Chiaravalle</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012733</subfield>
+    <subfield code="z">Bernardus : Claraevallensis &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Bernardus</subfield>
+    <subfield code="c"> : Abbas</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012738</subfield>
+    <subfield code="z">Bernardus : Claraevallensis &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Anselmo</subfield>
+    <subfield code="c"> : d&apos;#Aosta</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012462</subfield>
+    <subfield code="z">Anselmus &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Anselmus</subfield>
+    <subfield code="c"> : Cantuariensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012465</subfield>
+    <subfield code="z">Anselmus &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Chiesa, Giovanni della</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002282</subfield>
+    <subfield code="z">Dalla_Chiesa, Giovanni</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ecclesia, Ioannes ab</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003235</subfield>
+    <subfield code="z">Dalla_Chiesa, Giovanni</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca citt ̉di Arezzo. Arezzo</subfield>
+    <subfield code="1">AR0070</subfield>
+    <subfield code="2">RT1 QA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Eremo di Camaldoli. Camaldoli - Poppi</subfield>
+    <subfield code="1">AR0101</subfield>
+    <subfield code="2">CFI EC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Marucelliana. Firenze</subfield>
+    <subfield code="1">FI0101</subfield>
+    <subfield code="2">CFI MF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Facolt ̉valdese di teologia. Roma</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">RM0205</subfield>
+    <subfield code="2">RMS FV</subfield>
+  </datafield>
+</record>
+</collection>

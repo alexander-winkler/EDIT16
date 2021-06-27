@@ -1,0 +1,32 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00412na 0a22001211i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\071948</controlfield>
+  <controlfield tag="005">20100324000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20071031             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">De arte dicendi libri duo ... auctore Ludouico Carbone a Costaciaro</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Carboni,</subfield>
+    <subfield code="b">Ludovico</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002621</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Carbonus,</subfield>
+    <subfield code="b">Ludovicus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013164</subfield>
+    <subfield code="z">Carboni, Ludovico</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

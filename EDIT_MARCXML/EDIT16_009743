@@ -1,0 +1,149 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02404nam0a2200397 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\009743</controlfield>
+  <controlfield tag="005">20161004000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e-t. t.m, r-i- drpi (7) 1587 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1587        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Ioannis Ludouici Cartarii Bonon. medici, ac philosophi clarissimi, et in celeberrima Academia Bononiensi philosophiam ordin. vespertinam profitentis, ℗De immortalitate, atque pluralitate animae secundum Aristotelem. Eo accedunt nonnullae aliae quaestiones ad idem pertinentes</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Bononiae</subfield>
+    <subfield code="c">apud Faustum Bonardum</subfield>
+    <subfield code="d">1587</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\12!, 124, \12! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Bologna</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Cartari,</subfield>
+    <subfield code="b">Giovanni Lodovico</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002698</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Bonardo, Fausto</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000359</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Chartarius,</subfield>
+    <subfield code="b">Ioannes Ludovicus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\027786</subfield>
+    <subfield code="z">Cartari, Giovanni Lodovico</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Cartario,</subfield>
+    <subfield code="b">Gian Lodovico</subfield>
+    <subfield code="3">IT\ICCU\CNCA\027787</subfield>
+    <subfield code="z">Cartari, Giovanni Lodovico</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bonardus, Faustus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004425</subfield>
+    <subfield code="z">Bonardo, Fausto</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bonardi, Fausto</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004432</subfield>
+    <subfield code="z">Bonardo, Fausto</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Arcivescovile. Bologna</subfield>
+    <subfield code="1">BO0639</subfield>
+    <subfield code="2">PBE G5</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Aurelio Saffi. Forl</subfield>
+    <subfield code="1">FC0018</subfield>
+    <subfield code="2">RAV FO</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Teresiana. Mantova</subfield>
+    <subfield code="1">MN0035</subfield>
+    <subfield code="2">LO1 12</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Santa Maria La Nuova. Monreale</subfield>
+    <subfield code="1">PA0057</subfield>
+    <subfield code="2">PAL 55</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Passerini Landi. Piacenza</subfield>
+    <subfield code="1">PC0030</subfield>
+    <subfield code="2">PIA PL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario Vescovile della Facolt ̉Teologica del Triveneto dell&apos;Istituto Filosofico Aloisianum. Padova</subfield>
+    <subfield code="1">PD0073</subfield>
+    <subfield code="2">PUV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Padova</subfield>
+    <subfield code="1">PD0158</subfield>
+    <subfield code="2">PUV 00</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Tranquillo Graziani. Cascia</subfield>
+    <subfield code="1">PG0023</subfield>
+    <subfield code="2">UM1 13</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Oliveriana. Pesaro</subfield>
+    <subfield code="1">PU0061</subfield>
+    <subfield code="2">URB OL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria Alessandrina. Roma</subfield>
+    <subfield code="1">RM0280</subfield>
+    <subfield code="2">RML 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale del Monumento nazionale. Cava dei Tirreni</subfield>
+    <subfield code="1">SA0088</subfield>
+    <subfield code="2">NAP 95</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000736</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000736</subfield>
+    <subfield code="b">Ercole con la clava uccide l&apos;idra di Lerna. In cornice formata da un ramo di palma ed uno di olivo</subfield>
+    <subfield code="e">1) Perpetuo non ferro; 2) Hinc orta monstra cadunt</subfield>
+    <subfield code="c">Z498</subfield>
+    <subfield code="d">Con o senza motto</subfield>
+    <subfield code="f">CLAVA</subfield>
+    <subfield code="f">ERCOLE</subfield>
+    <subfield code="f">IDRA</subfield>
+    <subfield code="f">PERPETUONO</subfield>
+    <subfield code="g">1553-1599</subfield>
+  </datafield>
+</record>
+</collection>

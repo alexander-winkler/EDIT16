@@ -1,0 +1,48 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00597na 0a22001571i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\072315</controlfield>
+  <controlfield tag="005">20080108000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20080108             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Consolatio ad Apollonium</subfield>
+  </datafield>
+  <datafield tag="517" ind1="1" ind2=" ">
+    <subfield code="3">IT\ICCU\CNCE\072317</subfield>
+    <subfield code="a">Paramythetikos pros Apollonion</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Plutarchus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000103</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Plutarco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018845</subfield>
+    <subfield code="z">Plutarchus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Plutarchus</subfield>
+    <subfield code="c"> : Chaeroneus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018846</subfield>
+    <subfield code="z">Plutarchus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Plutarco</subfield>
+    <subfield code="c"> : Cheroneo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022661</subfield>
+    <subfield code="z">Plutarchus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Ploutarchos</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022664</subfield>
+    <subfield code="z">Plutarchus</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

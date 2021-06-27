@@ -1,0 +1,84 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01130nam0a2200253 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\006457</controlfield>
+  <controlfield tag="005">19970101000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">*-si u*o- reas SeSe (C) 1534 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1534        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Grammatica Pyladis</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">in aedibus Francisci Bindoni ac Maphei Pasini</subfield>
+    <subfield code="d">1534</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\60! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Boccardo,</subfield>
+    <subfield code="b">Giovanni Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000125</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Bindoni, Francesco &lt;1.&gt; &amp; Pasini, Maffeo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000060</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Pylades</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002350</subfield>
+    <subfield code="z">Boccardo, Giovanni Francesco</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Pilade</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012800</subfield>
+    <subfield code="z">Boccardo, Giovanni Francesco</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Buccardus,</subfield>
+    <subfield code="b">Joannes Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012801</subfield>
+    <subfield code="z">Boccardo, Giovanni Francesco</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Pilade,</subfield>
+    <subfield code="b">Giovanni Francesco Boccardo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\027218</subfield>
+    <subfield code="z">Boccardo, Giovanni Francesco</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">℗al segno dell&apos;℗Angelo Raffaele</subfield>
+    <subfield code="c"> &lt;1531-1546&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002984</subfield>
+    <subfield code="z">Bindoni, Francesco &lt;1.&gt; &amp; Pasini, Maffeo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Padova</subfield>
+    <subfield code="1">PD0158</subfield>
+    <subfield code="2">PUV 00</subfield>
+  </datafield>
+</record>
+</collection>

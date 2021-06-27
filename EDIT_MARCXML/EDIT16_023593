@@ -1,0 +1,36 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00433na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\023593</controlfield>
+  <controlfield tag="005">20060413000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970709             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">GRC</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Quaestiones ad Antiochum</subfield>
+  </datafield>
+  <datafield tag="517" ind1="1" ind2=" ">
+    <subfield code="3">IT\ICCU\CNCE\064450</subfield>
+    <subfield code="a">Pros Antiochon archonta</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Athanasius</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000944</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Atanasio</subfield>
+    <subfield code="c"> &lt;293-373&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026384</subfield>
+    <subfield code="z">Athanasius &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

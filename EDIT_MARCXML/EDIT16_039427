@@ -1,0 +1,202 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>03681nam0a2200517 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\039427</controlfield>
+  <controlfield tag="005">20150116000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">inl- ite- raco patr (3) 1596 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">n.12 i-i, .4r, ApVE (C) 1596 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">2</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19981031d1596        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Clementis papae septimi, extrauagans constitutio contra clericos non incedentes in habitu, &amp; tonsura : vna cum mirifico apparatu, et nouissimis ac vtilissimis additionibus, tam in clementina, quam in materia spoliorum, &amp; renuntiatione beneficiorum, &amp; alijs, vt in opere apparet. Excellentissimi domini Ioannis Antonii De Nigris, de ciuitate Campaniae, j.v.d. Ac cum Repertorio, &amp; indice apte situato per magnificum dominum Aloysium Tronulum eiusdem ciuitatis Campaniae iuris vtriusque professorem peritissimum. Nouissime per magnificum Berlengerium Bernaliam eiusdem ciuitatis v.i. interpretem, cum magis vberrimo, et foecundissimo indice reformato nouiter in lucem edita</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud haeredes Ioannis Varisci</subfield>
+    <subfield code="d">1596</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">2 pt.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">2: Repertorium mirifici apparatus. (Venetiis : apud haeredes Ioannis Varisci, 1596)</subfield>
+  </datafield>
+  <datafield tag="423" ind1=" " ind2="0">
+    <subfield code="1">001IT\ICCU\CNCE\050963</subfield>
+    <subfield code="1">2001 </subfield>
+    <subfield code="a">Repertorium mirifici apparatus</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">De_Nigris,</subfield>
+    <subfield code="b">Giovanni Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004752</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Tronolo,</subfield>
+    <subfield code="b">Luigi</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010933</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Bernalla,</subfield>
+    <subfield code="b">Berlingiero</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016572</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Clemens</subfield>
+    <subfield code="c"> &lt;papa</subfield>
+    <subfield code="c"> ; 7.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003274</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Varisco, Giovanni - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000253</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Nigris,</subfield>
+    <subfield code="b">Giovanni Antonio : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014785</subfield>
+    <subfield code="z">De_Nigris, Giovanni Antonio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Tronolus,</subfield>
+    <subfield code="b">Aloisius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018640</subfield>
+    <subfield code="z">Tronolo, Luigi</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Bernalia,</subfield>
+    <subfield code="b">Berlengerius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016613</subfield>
+    <subfield code="z">Bernalla, Berlingiero</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Medici,</subfield>
+    <subfield code="b">Giulio : de&apos;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014649</subfield>
+    <subfield code="z">Clemens &lt;papa ; 7.&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Clemente</subfield>
+    <subfield code="c"> &lt;papa</subfield>
+    <subfield code="c"> ; 7.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023280</subfield>
+    <subfield code="z">Clemens &lt;papa ; 7.&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale Salvatore Tommasi. Bazzano</subfield>
+    <subfield code="1">AQ0047</subfield>
+    <subfield code="2">ABR PR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Fondazione Ettore Pomarici Santomasi. Gravina di Puglia</subfield>
+    <subfield code="1">BA0143</subfield>
+    <subfield code="2">BA1 25</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Giuridica Antonio Cicu - Alma Mater Studiorum - Universit ̉di Bologna. Bologna</subfield>
+    <subfield code="1">BO0036</subfield>
+    <subfield code="2">UBO IG</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale dell&apos;Archiginnasio. Bologna</subfield>
+    <subfield code="1">BO0304</subfield>
+    <subfield code="2">UBO GA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Francesco Piccinno. Maglie</subfield>
+    <subfield code="1">LE0108</subfield>
+    <subfield code="2">LEK S5</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Dipartimento di diritto privato e storia del diritto dell&apos;Universit ̉degli studi di Milano. Milano</subfield>
+    <subfield code="1">MI1334</subfield>
+    <subfield code="2">USM L1</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Pavia</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">PV0074</subfield>
+    <subfield code="2">PAV R1</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Casanatense. Roma</subfield>
+    <subfield code="1">RM0313</subfield>
+    <subfield code="2">RML 07</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Senato della Repubblica Giovanni Spadolini. Roma</subfield>
+    <subfield code="1">RM0427</subfield>
+    <subfield code="2">ZRM 12</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Archivio di Stato di Roma. Roma</subfield>
+    <subfield code="1">RM0459</subfield>
+    <subfield code="2">RML 12</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Pio Rajna. Sondrio</subfield>
+    <subfield code="1">SO0040</subfield>
+    <subfield code="2">ZSO 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Facolt ̉di giurisprudenza dell&apos;Universit ̉degli Studi di Teramo. Teramo</subfield>
+    <subfield code="1">TE0045</subfield>
+    <subfield code="2">ABR R3</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">sul coloph.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001161</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">sui front</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001160</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001161</subfield>
+    <subfield code="b">Sirena coronata, bicaudata, che tiene le due code alzate con le mani</subfield>
+    <subfield code="c">U180</subfield>
+    <subfield code="d">Dimensioni: 6,5 x 6,5</subfield>
+    <subfield code="f">SIRENA</subfield>
+    <subfield code="g">1594-1596</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001160</subfield>
+    <subfield code="b">Sirena coronata, bicaudata, che tiene le due code alzate con le mani. In cornice figurata</subfield>
+    <subfield code="c">U179</subfield>
+    <subfield code="d">Dimensioni: 7 x 7,5</subfield>
+    <subfield code="f">SIRENA</subfield>
+    <subfield code="g">[non prima del 1591]-1598</subfield>
+  </datafield>
+</record>
+</collection>

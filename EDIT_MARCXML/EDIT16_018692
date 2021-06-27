@@ -1,0 +1,83 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01391nam0a2200253 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\018692</controlfield>
+  <controlfield tag="005">20061124000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">roe- poti ,eui tail (3) 1544 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1544        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Dialogo del dolce morire di Giesu Christo sopra le sei visioni di m. Francesco Petrarca. Composto dal reuerendo padre frate Feliciano Vmbruno da Ciuitella, dell&apos;Ordine de frati minori de osseruanza. Nouamente posto in luce, e castigato</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">In Vinegia</subfield>
+    <subfield code="g">per Giouann&apos;Antonio</subfield>
+    <subfield code="h">&amp; Pietro fratelli de Nicolini da Sabbio</subfield>
+    <subfield code="h">1544 del mese d&apos;aprile</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">68 c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Feliciano</subfield>
+    <subfield code="c"> : da#Civitella del Tronto</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005298</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Nicolini da Sabbio, Giovanni Antonio &amp; Nicolini da Sabbio, Pietro</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000058</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Umbruno,</subfield>
+    <subfield code="b">Feliciano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\017107</subfield>
+    <subfield code="z">Feliciano : da#Civitella del Tronto</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Sabio, Ioannes Antonius de &amp; Sabio, Petrus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002431</subfield>
+    <subfield code="z">Nicolini da Sabbio, Giovanni Antonio &amp; Nicolini da Sabbio, Pietro</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Augusta. Perugia</subfield>
+    <subfield code="1">PG0109</subfield>
+    <subfield code="2">UM1 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Guarnacci. Volterra</subfield>
+    <subfield code="1">PI0176</subfield>
+    <subfield code="2">RT1 QV</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria Alessandrina. Roma</subfield>
+    <subfield code="1">RM0280</subfield>
+    <subfield code="2">RML 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica A. Hortis. Trieste</subfield>
+    <subfield code="1">TS0013</subfield>
+    <subfield code="2">TSA BC</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,155 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02628nam0a2200409 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\014715</controlfield>
+  <controlfield tag="005">20150310000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">i-p- e-ra u-n- noli (3) 1578 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1578        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Canones et decreta sacrosancti oecumenici et generalis Concilii Tridentini, sub Paolo III., Iulio III., et Pio IIII. pontificibus max. Cum citationibus ex vtroque Testamento, iuris pontificij constitutionibus, aliisque concilijs ... collectis; denuoque ex eisdem &amp; Catechismo Romano ampliatis ab Horatio Lutio Calliensi ... Additis Pij IIII. &amp; V. ac Gregorii XIII. max. pont. bullis aliquot, super obseruatione, &amp; declaratione decretorum quorundam eiusdem concilij, emanatis; quadruplici indice, ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Calari</subfield>
+    <subfield code="c">excudebat Franciscus Guarnerius</subfield>
+    <subfield code="d">typographus admodum illustris. ac reuerendiss. d.d. Nicolai Canelles</subfield>
+    <subfield code="d">1578</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\132!, 404 p.</subfield>
+    <subfield code="d">12ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Cagliari</subfield>
+  </datafield>
+  <datafield tag="710" ind1="1" ind2="2">
+    <subfield code="a">Concilio di Trento</subfield>
+    <subfield code="c"> &lt;1545-1563&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003434</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Guarnerio, Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000609</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a"></subfield>
+    <subfield code="3">IT\ICCU\CNCT\000480</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Concilium Tridentinum</subfield>
+    <subfield code="c"> &lt;1545-1563&gt;</subfield>
+    <subfield code="3">8382</subfield>
+    <subfield code="z">Concilio di Trento &lt;1545-1563&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Guarnerius, Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005062</subfield>
+    <subfield code="z">Guarnerio, Francesco</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Guarner, Francisco</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005063</subfield>
+    <subfield code="z">Guarnerio, Francesco</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Guarneriu, Franciscu</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005064</subfield>
+    <subfield code="z">Guarnerio, Francesco</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Canyellas, Nicolaus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003133</subfield>
+    <subfield code="z"></subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Cannyelles, Nicolaus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003134</subfield>
+    <subfield code="z"></subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Canellas, Nicolau</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004434</subfield>
+    <subfield code="z"></subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Casale Monferrato</subfield>
+    <subfield code="1">AL0024</subfield>
+    <subfield code="2">TO0 L2</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca citt ̉di Arezzo. Arezzo</subfield>
+    <subfield code="1">AR0070</subfield>
+    <subfield code="2">RT1 QA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale di studi sardi. Cagliari</subfield>
+    <subfield code="1">CA0010</subfield>
+    <subfield code="2">CAG SS</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Cagliari</subfield>
+    <subfield code="1">CA0194</subfield>
+    <subfield code="2">CAG UC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario arcivescovile. Oristano</subfield>
+    <subfield code="1">OR0035</subfield>
+    <subfield code="2">PBE 91</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Oristano</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">OR0037</subfield>
+    <subfield code="2">CAG CO</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Sassari</subfield>
+    <subfield code="1">SS0073</subfield>
+    <subfield code="2">CAG US</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000551</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000551</subfield>
+    <subfield code="b">Ape posata su un fiore. In cornice figurata.</subfield>
+    <subfield code="e">Pasco ut prosim; Cm forti vigilo</subfield>
+    <subfield code="c">V31</subfield>
+    <subfield code="c">Z104</subfield>
+    <subfield code="d">Dimensione: 4,6 x 5,4</subfield>
+    <subfield code="f">APE</subfield>
+    <subfield code="f">FIORE</subfield>
+    <subfield code="f">PASCOUTPRO</subfield>
+    <subfield code="g">1566-1580</subfield>
+  </datafield>
+</record>
+</collection>

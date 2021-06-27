@@ -1,0 +1,74 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00950ncm0a22002291i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\044190</controlfield>
+  <controlfield tag="005">20080327000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19990112d1599        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Di Ruggiero Giovanelli maestro di cappella in S. Pietro di Roma il ℗secondo libro de madrigali a cinque voci</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venezia</subfield>
+    <subfield code="c">Angelo Gardane</subfield>
+    <subfield code="d">1599</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">RISM : 3, G 2480</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Giovannelli,</subfield>
+    <subfield code="b">Ruggero</subfield>
+    <subfield code="3">IT\ICCU\CNCA\011634</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Gardane, Angelo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001443</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Giovanelli,</subfield>
+    <subfield code="b">Ruggero</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020205</subfield>
+    <subfield code="z">Giovannelli, Ruggero</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Jovanelli,</subfield>
+    <subfield code="b">Ruggero</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020207</subfield>
+    <subfield code="z">Giovannelli, Ruggero</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Ioannellius,</subfield>
+    <subfield code="b">Roggerius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024083</subfield>
+    <subfield code="z">Giovannelli, Ruggero</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Gardanus, Angelus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004834</subfield>
+    <subfield code="z">Gardane, Angelo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Gardano, Angelo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004835</subfield>
+    <subfield code="z">Gardane, Angelo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

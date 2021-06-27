@@ -1,0 +1,40 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00518na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\025400</controlfield>
+  <controlfield tag="005">20151223000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970926             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Le ℗ricchezze della lingua volgare sopra il Boccaccio, di Francesco Alunno ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Vinegia</subfield>
+    <subfield code="c">per Paulo Gherardo</subfield>
+    <subfield code="d">1557</subfield>
+    <subfield code="e">In Vinegia</subfield>
+    <subfield code="g">per Comin da Trino</subfield>
+    <subfield code="h">1557</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Alunno,</subfield>
+    <subfield code="b">Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000636</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Del_Bailo,</subfield>
+    <subfield code="b">Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\011347</subfield>
+    <subfield code="z">Alunno, Francesco</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

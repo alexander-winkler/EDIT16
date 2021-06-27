@@ -1,0 +1,422 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>06668nam0a2201021 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\024865</controlfield>
+  <controlfield tag="005">20151104000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e,o- 2858 ntei lumi (3) 1597 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e.s. au26 u-t. ceru (3) 1598 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">02A</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">27a- 58i- u-t. ceru (3) 1598 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">02B</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970915g15971598    0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Ioannis Maldonati Societatis Iesu theologi ℗Commentarii in quattuor euangelistas nunc primum in lucem editi, et in duos tomos diuisi. Quorum prior eos, qui in Matthaeum, &amp; Marcum; posterior eos, qui in Lucam, &amp; Ioannem, complectitur</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Brixiae</subfield>
+    <subfield code="c">apud Societatem Brixiensem</subfield>
+    <subfield code="d">1597</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">2 v.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">2: Ioannis Maldonati Andalusii Societatis Iesu theologi, commentariorum in quattuor euangelistas, tomus II. In Lucam, et Ioannem. Brixiae : apud Societatem Brix., 1598 (Brixiae : apud Societatem Brixiensem, 1598)</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Brescia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Maldonado,</subfield>
+    <subfield code="b">Juan : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007268</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">Compagnia Bresciana</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000578</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Maldonatus,</subfield>
+    <subfield code="b">Johannes</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014611</subfield>
+    <subfield code="z">Maldonado, Juan : de</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Societas Brixiensis</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003695</subfield>
+    <subfield code="z">Compagnia Bresciana</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Societas Brixiana</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004652</subfield>
+    <subfield code="z">Compagnia Bresciana</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Tommaso Fazello. Sciacca</subfield>
+    <subfield code="1">AG0042</subfield>
+    <subfield code="2">AGR 23</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Rilliana. Poppi</subfield>
+    <subfield code="1">AR0050</subfield>
+    <subfield code="2">RT1 QR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale di Montevergine. Mercogliano</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">AV0045</subfield>
+    <subfield code="2">NAP MV</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei Cappuccini di Puglia. Bari</subfield>
+    <subfield code="z">(Var. B)</subfield>
+    <subfield code="1">BA0017</subfield>
+    <subfield code="2">BA1 21</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Sagarriga Visconti-Volpi. Bari</subfield>
+    <subfield code="z">(Var. B) - MUTILO</subfield>
+    <subfield code="1">BA0018</subfield>
+    <subfield code="2">BA1 BA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile Giovanni XXIII. Bergamo</subfield>
+    <subfield code="1">BG0039</subfield>
+    <subfield code="2">PBE 29</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca S. Giacomo del Monastero benedettino. Pontida</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">BG0196</subfield>
+    <subfield code="2">ZBG 03</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei Frati minori dell&apos;Emilia. Sezione Biblioteca dell&apos;Osservanza. Bologna</subfield>
+    <subfield code="1">BO0336</subfield>
+    <subfield code="2">ZBO 41</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei frati minori cappuccini. Bologna</subfield>
+    <subfield code="1">BO0342</subfield>
+    <subfield code="2">PBE 94</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Queriniana. Brescia</subfield>
+    <subfield code="1">BS0026</subfield>
+    <subfield code="2">ZBS 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca diocesana di Brescia. Brescia</subfield>
+    <subfield code="1">BS0031</subfield>
+    <subfield code="2">ZBS 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Parrocchia dei SS. Gervasio e Protasio. Cologne</subfield>
+    <subfield code="1">BS0370</subfield>
+    <subfield code="2">ZBS 37</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Parrocchia di S. Maria Nascente. Edolo</subfield>
+    <subfield code="1">BS0372</subfield>
+    <subfield code="2">ZBS 39</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Parrocchia di Cristo Re. Rodengo Saiano</subfield>
+    <subfield code="1">BS0390</subfield>
+    <subfield code="2">ZBS 59</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Fossano</subfield>
+    <subfield code="1">CN0049</subfield>
+    <subfield code="2">TO0 52</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Mondov</subfield>
+    <subfield code="1">CN0066</subfield>
+    <subfield code="2">TO0 56</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca vescovile. Fossano</subfield>
+    <subfield code="1">CN0153</subfield>
+    <subfield code="2">TO0 FW</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Como</subfield>
+    <subfield code="z">(Var. B)</subfield>
+    <subfield code="1">CO0213</subfield>
+    <subfield code="2">PBE 18</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei Cappuccini. Firenze</subfield>
+    <subfield code="1">FI0041</subfield>
+    <subfield code="2">RT1 PC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Convento dei cappuccini. Fiuggi</subfield>
+    <subfield code="1">FR0140</subfield>
+    <subfield code="2">ZFR 13</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario. Chiavari</subfield>
+    <subfield code="1">GE0012</subfield>
+    <subfield code="2">PBE M1</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Genova</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">GE0038</subfield>
+    <subfield code="2">LIG 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Aprosiana. Ventimiglia</subfield>
+    <subfield code="1">IM0038</subfield>
+    <subfield code="2">LI3 VM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Alessandro Manzoni. Merate</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">LC0044</subfield>
+    <subfield code="2">ZLC 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Lodi</subfield>
+    <subfield code="1">LO0023</subfield>
+    <subfield code="2">PBE 28</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale. Lucca</subfield>
+    <subfield code="1">LU0022</subfield>
+    <subfield code="2">LUA BL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Ambrosiana. Milano</subfield>
+    <subfield code="z">(Var. B)</subfield>
+    <subfield code="1">MI0133</subfield>
+    <subfield code="2">VBA 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca francescano-cappuccina provinciale. Milano</subfield>
+    <subfield code="1">MI0183</subfield>
+    <subfield code="2">ZMI 51</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca di Ateneo dell&apos;Universit ̉cattolica del Sacro Cuore. Milano</subfield>
+    <subfield code="1">MI0291</subfield>
+    <subfield code="2">ZMI 18</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica centrale. Monza</subfield>
+    <subfield code="1">MI0377</subfield>
+    <subfield code="2">LO1 97</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca capitolare padre Angelo Ballerini. Seregno</subfield>
+    <subfield code="1">MI1013</subfield>
+    <subfield code="2">ZMI 40</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Mantova</subfield>
+    <subfield code="1">MN0041</subfield>
+    <subfield code="2">PBE 23</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Pontificia Facolt ̉teologica dell&apos;Italia meridionale. Sezione S. Luigi. Napoli</subfield>
+    <subfield code="1">NA0261</subfield>
+    <subfield code="2">NAP FT</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Seminario vescovile S. Gaudenzio. Novara</subfield>
+    <subfield code="1">NO0064</subfield>
+    <subfield code="2">TO0 Y5</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Lancia di Brolo. Polizzi Generosa</subfield>
+    <subfield code="1">PA0178</subfield>
+    <subfield code="2">PAL 57</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Convento S. Agostino dei padri agostiniani. Palermo</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">PA0219</subfield>
+    <subfield code="2">ZPA 23</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Padova</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">PD0158</subfield>
+    <subfield code="2">PUV 00</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Giosu ̈Carducci. Citt ̉di Castello</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">PG0032</subfield>
+    <subfield code="2">UM1 05</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Foligno</subfield>
+    <subfield code="1">PG0035</subfield>
+    <subfield code="2">UM1 04</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca diocesana Piervissani. Nocera Umbra</subfield>
+    <subfield code="1">PG0060</subfield>
+    <subfield code="2">UM1 23</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Augusta. Perugia</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">PG0109</subfield>
+    <subfield code="2">UM1 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Oasis. Perugia</subfield>
+    <subfield code="1">PG0149</subfield>
+    <subfield code="2">UM1 44</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Palatina. Parma</subfield>
+    <subfield code="1">PR0072</subfield>
+    <subfield code="2">PAR PA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca centrale dell&apos;Area umanistica dell&apos;Universit ̉degli studi di Urbino. Urbino</subfield>
+    <subfield code="1">PU0206</subfield>
+    <subfield code="2">URB AU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Pavia</subfield>
+    <subfield code="1">PV0074</subfield>
+    <subfield code="2">PAV R1</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Giuseppe Taroni. Bagnacavallo</subfield>
+    <subfield code="z">(Var. B)</subfield>
+    <subfield code="1">RA0002</subfield>
+    <subfield code="2">RAV BC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Pietro De Nava. Reggio Calabria</subfield>
+    <subfield code="1">RC0058</subfield>
+    <subfield code="2">RCA RN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Vallicelliana. Roma</subfield>
+    <subfield code="1">RM0281</subfield>
+    <subfield code="2">RML 08</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Pontificia Universit ̉S. Tommaso d&apos;Aquino. Roma</subfield>
+    <subfield code="1">RM0669</subfield>
+    <subfield code="2">ZRM 43</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Pontificio Ateneo Antonianum. Roma</subfield>
+    <subfield code="1">RM0692</subfield>
+    <subfield code="2">ZRM 44</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca S. Alfonso. Pagani</subfield>
+    <subfield code="1">SA0042</subfield>
+    <subfield code="2">CAM AL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Ubaldo Mazzini. Fondi antichi. La Spezia</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">SP0110</subfield>
+    <subfield code="2">LI2 L8</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Alagoniana. Siracusa</subfield>
+    <subfield code="1">SR0052</subfield>
+    <subfield code="2">SBS AL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Arcivescovile. Udine</subfield>
+    <subfield code="1">UD0100</subfield>
+    <subfield code="2">ZUD 11</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca capitolare S. Giovanni. Busto Arsizio</subfield>
+    <subfield code="1">VA0030</subfield>
+    <subfield code="2">ZVA 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario arcivescovile di Milano. Venegono Inferiore</subfield>
+    <subfield code="1">VA0122</subfield>
+    <subfield code="2">ZVA 04</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Vercelli</subfield>
+    <subfield code="1">VC0073</subfield>
+    <subfield code="2">TO0 A2</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Archivio provinciale dei frati minori cappuccini. Mestre</subfield>
+    <subfield code="1">VE0111</subfield>
+    <subfield code="2">ZVE 16</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Verona</subfield>
+    <subfield code="1">VR0059</subfield>
+    <subfield code="2">ZVR 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dei frati minori cappuccini. Viterbo</subfield>
+    <subfield code="1">VT0071</subfield>
+    <subfield code="2">RMS M9</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Bagnoregio</subfield>
+    <subfield code="1">VT0085</subfield>
+    <subfield code="2">ZVT 12</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sui front. e nel coloph. del v. 2</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000359</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000359</subfield>
+    <subfield code="b">Brescia (Donna con elmo, scudo e cornucopia). In cornice figurata</subfield>
+    <subfield code="e">Fidelis Brixia fidei et iustitiae.</subfield>
+    <subfield code="c">Z184</subfield>
+    <subfield code="d">Dimensioni: 7,5 x 8,5</subfield>
+    <subfield code="f">BRESCIA</subfield>
+    <subfield code="f">DONNA</subfield>
+    <subfield code="f">ELMO</subfield>
+    <subfield code="f">FIDELISBRI</subfield>
+    <subfield code="f">SCUDO</subfield>
+    <subfield code="g">1595-1600</subfield>
+  </datafield>
+</record>
+</collection>

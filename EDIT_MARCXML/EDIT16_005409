@@ -1,0 +1,157 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02444nam0a2200409 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\005409</controlfield>
+  <controlfield tag="005">20041108000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">laon onbi i-ne coli (3) 1589 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e-14 22.7 lii; nepe (3) 1589 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">2</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e129 29o. o,5. s&apos;tr (3) 1589 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">3</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1589        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Somma corona de confessori del r.d. Mauro Antonio Berarduccio di Bisceglia ... Doue si tratta d&apos;ogni sorte di peccati &amp; circostanze loro. Prima \-terza! parte, tradotta di latino in volgare &amp; ampliata dall&apos;istesso autore. Di nuouo corretta, &amp; da molti errori emendata. Con la sua tauola amplissima</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Venetia</subfield>
+    <subfield code="c">appresso Matthio de Valentini</subfield>
+    <subfield code="d">1589</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">3 v.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Berarducci,</subfield>
+    <subfield code="b">Mauro Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001630</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Valentini, Matteo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000540</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Valentinus, Matthias</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005725</subfield>
+    <subfield code="z">Valentini, Matteo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Valentino, Mattio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005726</subfield>
+    <subfield code="z">Valentini, Matteo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Planettiana. Jesi</subfield>
+    <subfield code="1">AN0092</subfield>
+    <subfield code="2">URB BC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica A. Mai. Bergamo</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">BG0026</subfield>
+    <subfield code="2">LO1 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Pontificia Facolt ̉teologica della Sardegna. Cagliari</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">CA0032</subfield>
+    <subfield code="2">CAG PF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale. Cremona</subfield>
+    <subfield code="1">CR0062</subfield>
+    <subfield code="2">LO1 28</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Ariostea. Ferrara</subfield>
+    <subfield code="1">FE0017</subfield>
+    <subfield code="2">UFE AR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei frati minori cappuccini Madonna di Pompei. Messina</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">ME0179</subfield>
+    <subfield code="2">MES FC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Passerini Landi. Piacenza</subfield>
+    <subfield code="1">PC0030</subfield>
+    <subfield code="2">PIA PL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Francesco Melosio. Citt ̉della Pieve</subfield>
+    <subfield code="1">PG0031</subfield>
+    <subfield code="2">UM1 14</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Porziuncola. Assisi</subfield>
+    <subfield code="1">PG0179</subfield>
+    <subfield code="2">UM1 36</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca S. Francesco. Gubbio</subfield>
+    <subfield code="1">PG0207</subfield>
+    <subfield code="2">UM1 87</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale del Monumento nazionale di Farfa. Fara Sabina</subfield>
+    <subfield code="1">RI0158</subfield>
+    <subfield code="2">ZRI 03</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Ubaldo Mazzini. Fondi antichi. La Spezia</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">SP0110</subfield>
+    <subfield code="2">LI2 L8</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Giuseppe Bianca. Avola</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">SR0003</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Sassari</subfield>
+    <subfield code="1">SS0073</subfield>
+    <subfield code="2">CAG US</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000493</subfield>
+    <subfield code="b">Fama (donna alata con un piede sul globo e due trombe, una in bocca e una nella mano sinistra).</subfield>
+    <subfield code="e">Famam extendere factis est virtutis opus</subfield>
+    <subfield code="c">V369</subfield>
+    <subfield code="c">Z515</subfield>
+    <subfield code="f">FAMA</subfield>
+    <subfield code="f">DONNA</subfield>
+    <subfield code="f">TROMBE</subfield>
+    <subfield code="g">1584-1598</subfield>
+  </datafield>
+</record>
+</collection>

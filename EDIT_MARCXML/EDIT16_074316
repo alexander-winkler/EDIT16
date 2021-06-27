@@ -1,0 +1,41 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00625na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\074316</controlfield>
+  <controlfield tag="005">20090715000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20090715             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Hermetis Trismegisti ℗Libelli integri XX et fragmenta. Aesclepii eius discipuli libelli III a Francisco Patricio ... emendati ...</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Patrizi,</subfield>
+    <subfield code="b">Francesco</subfield>
+    <subfield code="c"> &lt;1529-1597&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012561</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Patricius,</subfield>
+    <subfield code="b">Franciscus</subfield>
+    <subfield code="c"> &lt;1529-1597&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014700</subfield>
+    <subfield code="z">Patrizi, Francesco &lt;1529-1597&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Patrizio,</subfield>
+    <subfield code="b">Francesco</subfield>
+    <subfield code="c"> &lt;1529-1597&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014703</subfield>
+    <subfield code="z">Patrizi, Francesco &lt;1529-1597&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

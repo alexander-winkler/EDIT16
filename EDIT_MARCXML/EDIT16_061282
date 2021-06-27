@@ -1,0 +1,42 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00548na 0a22001451i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\061282</controlfield>
+  <controlfield tag="005">20050915000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20050915             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">GRC</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Enchiridion Hephaestionis</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Hephaestion</subfield>
+    <subfield code="c"> : Alexandrinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005662</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Efestione</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005921</subfield>
+    <subfield code="z">Hephaestion : Alexandrinus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Hephaistion</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014341</subfield>
+    <subfield code="z">Hephaestion : Alexandrinus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Hephaestio</subfield>
+    <subfield code="c"> : Alexandrinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014342</subfield>
+    <subfield code="z">Hephaestion : Alexandrinus</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

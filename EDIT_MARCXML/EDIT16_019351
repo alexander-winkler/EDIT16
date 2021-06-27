@@ -1,0 +1,139 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02059nam0a2200373 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\019351</controlfield>
+  <controlfield tag="005">20150701000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">a,n- inre l-on rapr (3) 1598 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1598        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Effetti mirabili della limosina et sentenze degne di memoria, appertenenti \!! ad essa. Raccolti per opera del sig. Giulio Folco. Et tradotti da Agostino Mazzini. Opera accresciuta di essempi, detti de santi, di annotationi, et discorsi vtili, con le tauole de capi, et delle materie</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Brescia</subfield>
+    <subfield code="c">appresso la Compagnia Bresciana</subfield>
+    <subfield code="d">1598</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\48!, 311, \1! p.</subfield>
+    <subfield code="d">12ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Brescia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Folco,</subfield>
+    <subfield code="b">Giulio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005458</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Mazzini,</subfield>
+    <subfield code="b">Agostino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005169</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">Compagnia Bresciana</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000578</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Fulci,</subfield>
+    <subfield code="b">Giulio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005459</subfield>
+    <subfield code="z">Folco, Giulio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Fulcius,</subfield>
+    <subfield code="b">Iulius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019351</subfield>
+    <subfield code="z">Folco, Giulio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Mazzino,</subfield>
+    <subfield code="b">Agostino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021163</subfield>
+    <subfield code="z">Mazzini, Agostino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Societas Brixiensis</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003695</subfield>
+    <subfield code="z">Compagnia Bresciana</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Societas Brixiana</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004652</subfield>
+    <subfield code="z">Compagnia Bresciana</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale dell&apos;Archiginnasio. Bologna</subfield>
+    <subfield code="1">BO0304</subfield>
+    <subfield code="2">UBO GA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Marucelliana. Firenze</subfield>
+    <subfield code="1">FI0101</subfield>
+    <subfield code="2">CFI MF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca umanistica. Sede di Lettere. Firenze</subfield>
+    <subfield code="1">FI0211</subfield>
+    <subfield code="2">UFI LT</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Aprosiana. Ventimiglia</subfield>
+    <subfield code="1">IM0038</subfield>
+    <subfield code="2">LI3 VM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Sperelliana. Gubbio</subfield>
+    <subfield code="1">PG0049</subfield>
+    <subfield code="2">UM1 11</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Palatina. Parma</subfield>
+    <subfield code="1">PR0072</subfield>
+    <subfield code="2">PAR PA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei padri Cappuccini. Trento</subfield>
+    <subfield code="1">TN0134</subfield>
+    <subfield code="2">ZTN 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca consorziale di Viterbo. Viterbo</subfield>
+    <subfield code="1">VT0116</subfield>
+    <subfield code="2">RMS B3</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000921</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000921</subfield>
+    <subfield code="b">Brescia (Donna con elmo, scudo e cornucopia). In cornice figurata</subfield>
+    <subfield code="e">Brixia fidelis</subfield>
+    <subfield code="c">U38</subfield>
+    <subfield code="d">Dimensioni: 4 x 4,5</subfield>
+    <subfield code="f">BRIXIAFIDE</subfield>
+    <subfield code="f">DONNA</subfield>
+    <subfield code="f">CORNUCOPIA</subfield>
+    <subfield code="g">1595-1600</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,85 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01450nam0a2200265 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\033505</controlfield>
+  <controlfield tag="005">20130527000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">o.a- tiai li,&amp; a.s. (C) 1594 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971218d1594        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Proclama delli illustriss. sig. rettori di Verona publicato a di 6 di settembre MDCXIIII \!!. Con le lettere dell&apos;illustriss. et eccellentiss. Senato de i 20 agosto precedente, et con la parte, &amp; capitoli presi nel magnifico Conseglio di XII et L sotto li 14 di giugno prossimo passato per regolatione di alcuni disordini introdotti nella materia giudiciaria. Et con li capitoli presi in proposito di Causidici sotto li 21 di marzo precedente</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Verona</subfield>
+    <subfield code="c">stamperia di Girolamo Discepolo</subfield>
+    <subfield code="d">1594</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\2! c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Verona</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Verona</subfield>
+    <subfield code="3">6908</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Discepolo, Girolamo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000153</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Discipulus, Hieronymus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004702</subfield>
+    <subfield code="z">Discepolo, Girolamo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Discepoli, Gieronimo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004703</subfield>
+    <subfield code="z">Discepolo, Girolamo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Archivio storico civico e Biblioteca Trivulziana. Milano</subfield>
+    <subfield code="1">MI0327</subfield>
+    <subfield code="2">LO1 13</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Padova</subfield>
+    <subfield code="1">PD0158</subfield>
+    <subfield code="2">PUV 00</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Archivio Museo. Bassano del Grappa</subfield>
+    <subfield code="1">VI0005</subfield>
+    <subfield code="2">VIA BA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca capitolare. Verona</subfield>
+    <subfield code="1">VR0056</subfield>
+    <subfield code="2">VIA VC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Verona</subfield>
+    <subfield code="1">VR0059</subfield>
+    <subfield code="2">ZVR 02</subfield>
+  </datafield>
+</record>
+</collection>

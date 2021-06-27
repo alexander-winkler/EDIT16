@@ -1,0 +1,35 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00446na 0a22001211i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\055321</controlfield>
+  <controlfield tag="005">20170830000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20040115             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Sala di Malagigi</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Francesco Cieco</subfield>
+    <subfield code="c"> : da#Ferrara</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001541</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Cieco,</subfield>
+    <subfield code="b">Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008022</subfield>
+    <subfield code="z">Francesco Cieco : da#Ferrara</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Bello,</subfield>
+    <subfield code="b">Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013259</subfield>
+    <subfield code="z">Francesco Cieco : da#Ferrara</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,41 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00486na 0a22001451i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\016228</controlfield>
+  <controlfield tag="005">20050609000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">De sublimitate</subfield>
+  </datafield>
+  <datafield tag="517" ind1="1" ind2=" ">
+    <subfield code="3">IT\ICCU\CNCE\052927</subfield>
+    <subfield code="a">Peri ypsous</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Longinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004370</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Longinus,</subfield>
+    <subfield code="b">Cassius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016444</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Dionysius Longinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004643</subfield>
+    <subfield code="z">Longinus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Pseudo-Longinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016443</subfield>
+    <subfield code="z">Longinus</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,114 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01917nam0a22003251i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\061065</controlfield>
+  <controlfield tag="005">20050907000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">t.it retu n-od mipr (3) 1527 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20050905d1527        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Blondi Flauii Forliuiensis ℗De Roma instaurata. Libri tres ad Eugenium IIII ponteficem maximum. Blondi Flauii Forliuiensis de Italia illustrata opus tum propter historiarum cognitionem. tum propter locorum descriptionem valde necessarium ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">In Augusta Taurinorum</subfield>
+    <subfield code="h">Taurinum nunc appellant</subfield>
+    <subfield code="g">impressit Bernardinus Sylua</subfield>
+    <subfield code="g">impensis &amp; aere partiario Ioannini Baudi theologi. Io. Bremii &amp; Gulielmi Ferrarii</subfield>
+    <subfield code="h">1527 pridie Idus Maias</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\4!, 234, \27! c.</subfield>
+    <subfield code="d">4</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Torino</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Biondo,</subfield>
+    <subfield code="b">Flavio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001742</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Baudo, Giovannino &amp; Bremio, Giovanni &amp; Ferrari, Guglielmo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003098</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Silva, Bernardino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000223</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Blondus,</subfield>
+    <subfield code="b">Flavius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012717</subfield>
+    <subfield code="z">Biondo, Flavio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bremio, Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003099</subfield>
+    <subfield code="z">Baudo, Giovannino &amp; Bremio, Giovanni &amp; Ferrari, Guglielmo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ferrari, Guglielmo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003100</subfield>
+    <subfield code="z">Baudo, Giovannino &amp; Bremio, Giovanni &amp; Ferrari, Guglielmo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Sylva, Bernardinus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004092</subfield>
+    <subfield code="z">Silva, Bernardino</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Aurelio Saffi. Forl</subfield>
+    <subfield code="1">FC0018</subfield>
+    <subfield code="2">RAV FO</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Genova</subfield>
+    <subfield code="1">GE0038</subfield>
+    <subfield code="2">LIG 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Archivio storico civico e Biblioteca Trivulziana. Milano</subfield>
+    <subfield code="1">MI0327</subfield>
+    <subfield code="2">LO1 13</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Carlo Negroni. Novara</subfield>
+    <subfield code="1">NO0054</subfield>
+    <subfield code="2">TO0 08</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Augusta. Perugia</subfield>
+    <subfield code="1">PG0109</subfield>
+    <subfield code="2">UM1 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario diocesano di Concordia-Pordenone. Pordenone</subfield>
+    <subfield code="1">PN0052</subfield>
+    <subfield code="2">TSA SC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica centrale. Torino</subfield>
+    <subfield code="1">TO0240</subfield>
+    <subfield code="2">BCT 01</subfield>
+  </datafield>
+</record>
+</collection>

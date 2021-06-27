@@ -1,0 +1,106 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01414nam0a2200301 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\008012</controlfield>
+  <controlfield tag="005">20160310000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">l-le s.um nari tuni (C) 1510 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1510        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Forma instrumentorum nouiter</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">\Collio</subfield>
+    <subfield code="c">Giovanni Pietro Pezzoni!</subfield>
+    <subfield code="e">Collibus Vallistrumpie</subfield>
+    <subfield code="g">per Mapheum de Fracacinis</subfield>
+    <subfield code="h">1510</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\32! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">L&apos;autore si ricava a c. A2r</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Collio</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Buzio,</subfield>
+    <subfield code="b">Martino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002154</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Pezzoni, Giovanni Pietro</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000687</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Fracassini, Maffeo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000462</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Butiis,</subfield>
+    <subfield code="b">Martinus de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012935</subfield>
+    <subfield code="z">Buzio, Martino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pezonus, Ioannes Petrus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002507</subfield>
+    <subfield code="z">Pezzoni, Giovanni Pietro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pezoni, Giovanni Pietro</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005415</subfield>
+    <subfield code="z">Pezzoni, Giovanni Pietro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Fracacinus, Mapheus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003810</subfield>
+    <subfield code="z">Fracassini, Maffeo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Fracacinis, Mapheus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005696</subfield>
+    <subfield code="z">Fracassini, Maffeo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Marciana. Venezia</subfield>
+    <subfield code="1">VE0049</subfield>
+    <subfield code="2">VEA BM</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000841</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000841</subfield>
+    <subfield code="b">Aquila ad ali spiegate con gli artigli sul globo. Tra le zampe un nastro con le iniziali: Z P</subfield>
+    <subfield code="c">Z114</subfield>
+    <subfield code="d">Dimensioni: 4,8 x 5,6</subfield>
+    <subfield code="f">AQUILA</subfield>
+    <subfield code="f">GLOBO</subfield>
+    <subfield code="f">ZP</subfield>
+    <subfield code="g">1508-1520</subfield>
+  </datafield>
+</record>
+</collection>

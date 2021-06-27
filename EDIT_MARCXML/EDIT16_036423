@@ -1,0 +1,195 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02879nam0a2200517 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\036423</controlfield>
+  <controlfield tag="005">20150708000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">iom. e-a- amem timo (C) 1502 (T)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19980417d1502        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Preclarissimi viri Georgij Valle ℗Commentationes. In Ptolomei quadripartitum inque Ciceronis partitiones &amp; Tusculanas questiones ac Plinij Naturalis historie librum secundum</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Impressum Venetiis</subfield>
+    <subfield code="g">aere eruditi viri Marci Firmani</subfield>
+    <subfield code="g">in officina Simonis Biuilaquae</subfield>
+    <subfield code="h">1502 die uero decimo mensis Nouembris</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\84! c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Altro colophon a c. G4r: (Impressum Venetiis : aere Marci Firmani in officina Simonis Biuilaquae, 1502 die tertio mensis Nouembris)</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Valla,</subfield>
+    <subfield code="b">Giorgio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000102</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Ptolemaeus,</subfield>
+    <subfield code="b">Claudius</subfield>
+    <subfield code="c"> &lt;100-ca. 178&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000300</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Cicero,</subfield>
+    <subfield code="b">Marcus Tullius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002170</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Plinius Secundus,</subfield>
+    <subfield code="b">Gaius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008306</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Firmiani, Marco</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002980</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Bevilacqua, Simone</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000690</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Valla,</subfield>
+    <subfield code="b">Georgius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024507</subfield>
+    <subfield code="z">Valla, Giorgio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Tolomeo,</subfield>
+    <subfield code="b">Claudio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014958</subfield>
+    <subfield code="z">Ptolemaeus, Claudius &lt;100-ca. 178&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Tullius Cicero,</subfield>
+    <subfield code="b">Marcus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020042</subfield>
+    <subfield code="z">Cicero, Marcus Tullius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Plinio</subfield>
+    <subfield code="c"> &lt;il vecchio&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010215</subfield>
+    <subfield code="z">Plinius Secundus, Gaius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Plinius Secundus,</subfield>
+    <subfield code="b">Caius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023078</subfield>
+    <subfield code="z">Plinius Secundus, Gaius</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Firmanus, Marcus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003578</subfield>
+    <subfield code="z">Firmiani, Marco</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Gabi, Simone</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003778</subfield>
+    <subfield code="z">Bevilacqua, Simone</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica A. Mai. Bergamo</subfield>
+    <subfield code="1">BG0026</subfield>
+    <subfield code="2">LO1 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Bologna</subfield>
+    <subfield code="1">BO0098</subfield>
+    <subfield code="2">UBO BU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a"></subfield>
+    <subfield code="1">BS0156</subfield>
+    <subfield code="2">ZBS 07</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca regionale universitaria. Messina</subfield>
+    <subfield code="1">ME0050</subfield>
+    <subfield code="2">PAL BM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Istituto teologico salesiano S. Tommaso d&apos;Aquino. Messina</subfield>
+    <subfield code="1">ME0078</subfield>
+    <subfield code="2">ZME 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Augusta. Perugia</subfield>
+    <subfield code="1">PG0109</subfield>
+    <subfield code="2">UM1 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Palatina. Parma</subfield>
+    <subfield code="1">PR0072</subfield>
+    <subfield code="2">PAR PA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Angelica. Roma</subfield>
+    <subfield code="1">RM0290</subfield>
+    <subfield code="2">RML 06</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Casanatense. Roma</subfield>
+    <subfield code="1">RM0313</subfield>
+    <subfield code="2">RML 07</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Accademia nazionale dei Lincei e Corsiniana. Roma</subfield>
+    <subfield code="1">RM0418</subfield>
+    <subfield code="2">RML 10</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale universitaria. Torino</subfield>
+    <subfield code="1">TO0265</subfield>
+    <subfield code="2">TO0 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca diocesana  Beata Lucia Broccadelli. Narni</subfield>
+    <subfield code="1">TR0059</subfield>
+    <subfield code="2">UM1 77</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica A. Hortis. Trieste</subfield>
+    <subfield code="1">TS0013</subfield>
+    <subfield code="2">TSA BC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">British Library. London</subfield>
+    <subfield code="1">UK0001</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Verona</subfield>
+    <subfield code="1">VR0059</subfield>
+    <subfield code="2">ZVR 02</subfield>
+  </datafield>
+</record>
+</collection>

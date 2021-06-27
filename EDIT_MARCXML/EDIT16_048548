@@ -1,0 +1,311 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>04752nam0a2200733 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\048548</controlfield>
+  <controlfield tag="005">20110114000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">I.em iaf. u-i- eiqt (3) 1576 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19990423d1576        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Tractatus de formatione libelli in syndicatu quamplurium auctorum, nempe Baldi de Perusio, Angeli de Perusio, Cataldini de Boncompagnis, Amedei Iustini, Paridis de Puteo, et Augustini Dulceti Veronensis. Qui antea sparsim vagabantur, noue vero  a d. Gabriele Sarayna, i.c. Veronensi in vnum congesti. Quorum locupletissimum, tum rerum, tum verborum memorabilium indicem adiecimus</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">\eredi di Melchiorre Sessa il vecchio!</subfield>
+    <subfield code="d">1576</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">360, \60! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Ubaldi,</subfield>
+    <subfield code="b">Baldo : degli</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000077</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Ubaldi,</subfield>
+    <subfield code="b">Angelo : degli</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001035</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Saraina,</subfield>
+    <subfield code="b">Gabriele</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002206</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Dal_Pozzo,</subfield>
+    <subfield code="b">Paride</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004574</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Dolcetti,</subfield>
+    <subfield code="b">Agostino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010718</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Boncompagni,</subfield>
+    <subfield code="b">Cataldino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013570</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Iustinus,</subfield>
+    <subfield code="b">Amedeus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013572</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Sessa, Melchiorre</subfield>
+    <subfield code="c"> &lt;1.&gt; - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000242</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Baldo</subfield>
+    <subfield code="c"> : degli#Ubaldi</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007674</subfield>
+    <subfield code="z">Ubaldi, Baldo : degli</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Baldus</subfield>
+    <subfield code="c"> : Perusinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007676</subfield>
+    <subfield code="z">Ubaldi, Baldo : degli</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Baldus</subfield>
+    <subfield code="c"> : de#Perusio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012449</subfield>
+    <subfield code="z">Ubaldi, Baldo : degli</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Baldus</subfield>
+    <subfield code="c"> &lt;giurista&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023536</subfield>
+    <subfield code="z">Ubaldi, Baldo : degli</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Angelus</subfield>
+    <subfield code="c"> : de#Perusio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007592</subfield>
+    <subfield code="z">Ubaldi, Angelo : degli</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Angelo</subfield>
+    <subfield code="c"> : da#Perugia</subfield>
+    <subfield code="c"> &lt;1327-1407&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012655</subfield>
+    <subfield code="z">Ubaldi, Angelo : degli</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Angelus</subfield>
+    <subfield code="c"> : de Ubaldis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015068</subfield>
+    <subfield code="z">Ubaldi, Angelo : degli</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Angelus</subfield>
+    <subfield code="c"> : Perusinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015069</subfield>
+    <subfield code="z">Ubaldi, Angelo : degli</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Baldeschi,</subfield>
+    <subfield code="b">Angelo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015070</subfield>
+    <subfield code="z">Ubaldi, Angelo : degli</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Sarayna,</subfield>
+    <subfield code="b">Gabriel</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003323</subfield>
+    <subfield code="z">Saraina, Gabriele</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Puteo,</subfield>
+    <subfield code="b">Paris : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014981</subfield>
+    <subfield code="z">Dal_Pozzo, Paride</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Pozzo,</subfield>
+    <subfield code="b">Paride : del</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015188</subfield>
+    <subfield code="z">Dal_Pozzo, Paride</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Paris</subfield>
+    <subfield code="c"> : de#Puteo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015206</subfield>
+    <subfield code="z">Dal_Pozzo, Paride</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Del_Pozzo,</subfield>
+    <subfield code="b">Paride</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015275</subfield>
+    <subfield code="z">Dal_Pozzo, Paride</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Paris</subfield>
+    <subfield code="c"> : a#Puteo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020855</subfield>
+    <subfield code="z">Dal_Pozzo, Paride</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Dulcetus,</subfield>
+    <subfield code="b">Augustinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018244</subfield>
+    <subfield code="z">Dolcetti, Agostino</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Justinus,</subfield>
+    <subfield code="b">Amodeus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021293</subfield>
+    <subfield code="z">Iustinus, Amedeus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Giustino,</subfield>
+    <subfield code="b">Amadeo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021294</subfield>
+    <subfield code="z">Iustinus, Amedeus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Castello,</subfield>
+    <subfield code="b">Amadeus Justinus : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021296</subfield>
+    <subfield code="z">Iustinus, Amedeus</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Aldo Gabrielli. Ripatransone</subfield>
+    <subfield code="1">AP0035</subfield>
+    <subfield code="2">UMC RI</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Sagarriga Visconti-Volpi. Bari</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">BA0018</subfield>
+    <subfield code="2">BA1 BA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Giuridica Antonio Cicu - Alma Mater Studiorum - Universit ̉di Bologna. Bologna</subfield>
+    <subfield code="1">BO0036</subfield>
+    <subfield code="2">UBO IG</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei Frati minori dell&apos;Emilia. Sezione Biblioteca dell&apos;Osservanza. Bologna</subfield>
+    <subfield code="1">BO0336</subfield>
+    <subfield code="2">ZBO 41</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Filippo De Nobili. Catanzaro</subfield>
+    <subfield code="1">CZ0014</subfield>
+    <subfield code="2">RCA CC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca regionale universitaria. Messina</subfield>
+    <subfield code="1">ME0050</subfield>
+    <subfield code="2">PAL BM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca di Ateneo dell&apos;Universit ̉cattolica del Sacro Cuore. Milano</subfield>
+    <subfield code="1">MI0291</subfield>
+    <subfield code="2">ZMI 18</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria giuridica. Modena</subfield>
+    <subfield code="1">MO0169</subfield>
+    <subfield code="2">MOD UG</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Sperelliana. Gubbio</subfield>
+    <subfield code="1">PG0049</subfield>
+    <subfield code="2">UM1 11</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Collezione privata L. Serego Alighieri. Castel del Piano Umbro</subfield>
+    <subfield code="1">PG0388</subfield>
+    <subfield code="2">ZPG 42</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Pisa</subfield>
+    <subfield code="1">PI0112</subfield>
+    <subfield code="2">PIS R1</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca delle facolt ̉di Giurisprudenza e Scienze politiche dell&apos;Universit ̉degli studi di Urbino. Urbino</subfield>
+    <subfield code="1">PU0127</subfield>
+    <subfield code="2">URB AG</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Pavia</subfield>
+    <subfield code="1">PV0291</subfield>
+    <subfield code="2">MIL UP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Angelica. Roma</subfield>
+    <subfield code="1">RM0290</subfield>
+    <subfield code="2">RML 06</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale del Monumento nazionale. Cava dei Tirreni</subfield>
+    <subfield code="1">SA0088</subfield>
+    <subfield code="2">NAP 95</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Canonico Aniello Avallone. Cava dei Tirreni</subfield>
+    <subfield code="1">SA0091</subfield>
+    <subfield code="2">CAM S8</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Terni</subfield>
+    <subfield code="1">TR0032</subfield>
+    <subfield code="2">UM1 09</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000177</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000177</subfield>
+    <subfield code="b">Aquila con gli artigli su un cervo ucciso su cui si getta altro uccello. In cornice figurata</subfield>
+    <subfield code="e">Virtute parta non sibi tantum.</subfield>
+    <subfield code="c">V472</subfield>
+    <subfield code="c">Z153</subfield>
+    <subfield code="d">Dimensioni: 6,8 x 7,2</subfield>
+    <subfield code="f">AQUILA</subfield>
+    <subfield code="f">ARTIGLIO</subfield>
+    <subfield code="f">CERVA</subfield>
+    <subfield code="f">UCCELLO</subfield>
+    <subfield code="f">VIRTUTEPAR</subfield>
+    <subfield code="g">1556-1590</subfield>
+  </datafield>
+</record>
+</collection>

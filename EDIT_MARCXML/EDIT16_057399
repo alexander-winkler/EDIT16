@@ -1,0 +1,93 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01343nam0a2200277 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\057399</controlfield>
+  <controlfield tag="005">20190201000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">u.a, a.ue e-se adab (C) 1538 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20040414d1538        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Constitutiones edite a reuerendissimo domino don Arnaldo Albertino iuris utriusque doctore episcopo Pactensi. In synodo celebrata apud Ecclesiam Pactensem in mense Septembris MDXXXVII. Inditione XI</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Impressa in hac felici vrbe Panhormitana</subfield>
+    <subfield code="g">expensis venerabilis Laurentii Mager ...</subfield>
+    <subfield code="g">industria nobilis Antonii de Mayda calchrografi</subfield>
+    <subfield code="h">die sexta Aprilis 1538</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\32! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Palermo</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Patti</subfield>
+    <subfield code="c"> &lt;Diocesi&gt;</subfield>
+    <subfield code="3">6911</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Albertini,</subfield>
+    <subfield code="b">Arnaldo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000546</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Mager, Laurentius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003979</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Mayda, Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000163</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Ecclesia Pactensis</subfield>
+    <subfield code="3">21692</subfield>
+    <subfield code="z">Patti &lt;Diocesi&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Alberti,</subfield>
+    <subfield code="b">Arnoldo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007556</subfield>
+    <subfield code="z">Albertini, Arnaldo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Mayer, Laurentius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005952</subfield>
+    <subfield code="z">Mager, Laurentius</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Maida, Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003978</subfield>
+    <subfield code="z">Mayda, Antonio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Cagliari</subfield>
+    <subfield code="1">CA0194</subfield>
+    <subfield code="2">CAG UC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca regionale universitaria. Messina</subfield>
+    <subfield code="1">ME0050</subfield>
+    <subfield code="2">PAL BM</subfield>
+  </datafield>
+</record>
+</collection>

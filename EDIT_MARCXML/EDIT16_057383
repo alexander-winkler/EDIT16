@@ -1,0 +1,111 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01928nam0a2200325 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\057383</controlfield>
+  <controlfield tag="005">20090813000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">o-o- a-TA o-de sibi (3) 1600 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">a-n- e.de a.a, CoL&apos; (3) 1597 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">2</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20040413g15971600    0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Discorso di Andrea Menichini giurisconsulto, nel qual&apos;essorta i potentati della christianit,̉ che vniti uadano a far l&apos;uniuersal crociata contra gl&apos;inimici della s. Fede. Nuoamente dall&apos;author accresciuto</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Triuigi</subfield>
+    <subfield code="c">appresso Euangelista Deuchino</subfield>
+    <subfield code="d">1600</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">2 pt.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">2: Rime di Andrea Menichini giurisconsulto. A&apos; prencipi christiani, &amp; altri personaggi per l&apos;vniuersal crociata contra gl&apos;inimici di santa Chiesa. In Treuigi : appresso Euangelista Dehuchino, 1597 (In Triuigi : appresso Euangelista Dehuchino, 1598). - Emissione con front. ricomposto dell&apos;ed. del 1597</subfield>
+  </datafield>
+  <datafield tag="423" ind1=" " ind2="0">
+    <subfield code="1">001IT\ICCU\CNCE\060444</subfield>
+    <subfield code="1">2001 </subfield>
+    <subfield code="a">Rime di Andrea Menichini giurisconsulto. A1 prencipi christiani, &amp; altri personaggi per l1vniuersal crociata contra gl1inimici di santa Chiesa</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Treviso</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Menichini,</subfield>
+    <subfield code="b">Andrea</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004492</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Deuchino, Evangelista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000420</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Menechini,</subfield>
+    <subfield code="b">Andrea</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010164</subfield>
+    <subfield code="z">Menichini, Andrea</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Dehuchinus, Evangelista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003767</subfield>
+    <subfield code="z">Deuchino, Evangelista</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Dehuchino, Evangelista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004624</subfield>
+    <subfield code="z">Deuchino, Evangelista</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Trento</subfield>
+    <subfield code="1">TN0121</subfield>
+    <subfield code="2">ZTN 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Reale. Torino</subfield>
+    <subfield code="1">TO0263</subfield>
+    <subfield code="2">TO0 07</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Treviso</subfield>
+    <subfield code="1">TV0113</subfield>
+    <subfield code="2">VIA TS</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Treviso</subfield>
+    <subfield code="1">TV0114</subfield>
+    <subfield code="2">VIA CT</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Verona</subfield>
+    <subfield code="1">VR0059</subfield>
+    <subfield code="2">ZVR 02</subfield>
+  </datafield>
+</record>
+</collection>

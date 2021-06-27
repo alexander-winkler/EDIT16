@@ -1,0 +1,102 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01547nam0a22003011i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\033183</controlfield>
+  <controlfield tag="005">20160418000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">13.2 3.is s.ni atgu (3) 1555 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971217d1555        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Meditationes deuotissimae s. Bonauenturae card. super totam vitam Domini nostri Iesu Christi</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">in vico Sanctae Mariae Formosae ad signum spei</subfield>
+    <subfield code="d">1555</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">223, \1! c.</subfield>
+    <subfield code="d">16ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Opera di incerto autore, attribuita a s. Bonaventura</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2="1">
+    <subfield code="3">IT\ICCU\CNCE\023258</subfield>
+    <subfield code="a">Meditationes vitae Christi</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Bonaventura</subfield>
+    <subfield code="c"> : da#Bagnorea</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001077</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">℗al segno della ℗Speranza</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000116</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Bonaventura</subfield>
+    <subfield code="c"> : da#Bagnoregio</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012695</subfield>
+    <subfield code="z">Bonaventura : da#Bagnorea &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Eutichio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018565</subfield>
+    <subfield code="z">Bonaventura : da#Bagnorea &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Giovanni Pietro</subfield>
+    <subfield code="c"> : di#Fidenza</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018566</subfield>
+    <subfield code="z">Bonaventura : da#Bagnorea &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">℗ad signum ℗Spei</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002890</subfield>
+    <subfield code="z">℗al segno della ℗Speranza</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Convento dei frati Cappuccini. Padova</subfield>
+    <subfield code="1">PD0087</subfield>
+    <subfield code="2">ZPD 03</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca centrale dell&apos;Area umanistica dell&apos;Universit ̉degli studi di Urbino. Urbino</subfield>
+    <subfield code="1">PU0206</subfield>
+    <subfield code="2">URB AU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei padri Cappuccini. Trento</subfield>
+    <subfield code="1">TN0134</subfield>
+    <subfield code="2">ZTN 02</subfield>
+  </datafield>
+</record>
+</collection>

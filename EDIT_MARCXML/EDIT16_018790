@@ -1,0 +1,70 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01093nam0a2200229 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\018790</controlfield>
+  <controlfield tag="005">20100805000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">t.s, s.it s:m, t:i, (C) 1572 (Q)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101f1572        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Ioannis Francisci Ferrarii ℗In mortem Hippolyti card. Ferrariensis carmen. Ad illustrissimum, &amp; reuerendissimum d. Aloysium Estensem card. amplissimum</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="d">\1572!</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\4! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Stampata a Roma dagli eredi di Antonio Blado. Cfr.: Catalogo delle edizioni romane di Antonio Blado Asolano ed eredi, n. 2115 - La data si ricava dal testo</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Roma</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Ferrari,</subfield>
+    <subfield code="b">Giovanni Francesco</subfield>
+    <subfield code="c"> &lt;poeta&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005325</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Blado, Antonio - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000148</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Ferrarius,</subfield>
+    <subfield code="b">Ioannes Franciscus</subfield>
+    <subfield code="c"> &lt;poeta&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019585</subfield>
+    <subfield code="z">Ferrari, Giovanni Francesco &lt;poeta&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Augusta. Perugia</subfield>
+    <subfield code="1">PG0109</subfield>
+    <subfield code="2">UM1 01</subfield>
+  </datafield>
+</record>
+</collection>

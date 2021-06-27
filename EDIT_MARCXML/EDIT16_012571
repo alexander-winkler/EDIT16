@@ -1,0 +1,111 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01645nam0a2200313 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\012571</controlfield>
+  <controlfield tag="005">20090921000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">s.s. o-ui elet mesi (3) 1506 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">l.st deir xig. note (3) 1506 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">2</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">inon e.o- e.ro dein (3) 1506 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">3</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">umiu C.*. riin de&amp;i (C) 1506 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">4</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1506        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">In hoc volumine hec continentur. Tractatus domini Bartholomei Cepolla de seruitutibus urbanorum prediorum. Tractatus eiusdem de seruitutibus rusticorum prediorum. Tractatus eiusdem cautelarum. Tractatus eiusdem de simulatione contractuum emptionum et venditionum. Omnia cum necessariis et pulcherrimis apostillis</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Impressum Venetijs</subfield>
+    <subfield code="g">per Bernardinum Benalium</subfield>
+    <subfield code="h">1506 die XIIJ Junii</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">4 v.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Cipolla,</subfield>
+    <subfield code="b">Bartolomeo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003322</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Benali, Bernardino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000212</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Caepolla,</subfield>
+    <subfield code="b">Bartholomaeus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010442</subfield>
+    <subfield code="z">Cipolla, Bartolomeo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Cepolla,</subfield>
+    <subfield code="b">Bartholomeus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023277</subfield>
+    <subfield code="z">Cipolla, Bartolomeo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Cepola,</subfield>
+    <subfield code="b">Bartolomeus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023278</subfield>
+    <subfield code="z">Cipolla, Bartolomeo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Benagli, Bernardino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003632</subfield>
+    <subfield code="z">Benali, Bernardino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Benalius, Bernardinus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004326</subfield>
+    <subfield code="z">Benali, Bernardino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Benaleis, Bernardinus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004327</subfield>
+    <subfield code="z">Benali, Bernardino</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Feliciana. Naro</subfield>
+    <subfield code="1">AG0031</subfield>
+    <subfield code="2">AGR 12</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Fabriano</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">AN0033</subfield>
+    <subfield code="2">URB BF</subfield>
+  </datafield>
+</record>
+</collection>

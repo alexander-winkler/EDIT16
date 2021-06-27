@@ -1,0 +1,88 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01200nam0a22002651i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\054822</controlfield>
+  <controlfield tag="005">20080226000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">rao, cpfa to,a deco (3) 1556 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20031120d1556        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗La ℗sfera di Proclo, nuovamente tradotta dal greco esemplare in idioma italiano,  da Tito Giovanni Scandianese</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Vinegia</subfield>
+    <subfield code="c">appresso Gabriel Giolito de Ferrari</subfield>
+    <subfield code="d">&amp; fratelli</subfield>
+    <subfield code="d">1556</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">23, \1! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Proclus</subfield>
+    <subfield code="c"> : Diadochus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005657</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Scandianese,</subfield>
+    <subfield code="b">Tito Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007962</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Giolito De Ferrari, Gabriele &amp; fratelli</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000189</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Ganzarini,</subfield>
+    <subfield code="b">Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008047</subfield>
+    <subfield code="z">Scandianese, Tito Giovanni</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Giovanni,</subfield>
+    <subfield code="b">Tito</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023812</subfield>
+    <subfield code="z">Scandianese, Tito Giovanni</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario arcivescovile maggiore. Firenze</subfield>
+    <subfield code="1">FI0056</subfield>
+    <subfield code="2">RT1 QM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">British Library. London</subfield>
+    <subfield code="1">UK0001</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Archivio Museo. Bassano del Grappa</subfield>
+    <subfield code="1">VI0005</subfield>
+    <subfield code="2">VIA BA</subfield>
+  </datafield>
+</record>
+</collection>

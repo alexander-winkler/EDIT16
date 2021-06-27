@@ -1,0 +1,62 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01008nam0a22002051i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\076722</controlfield>
+  <controlfield tag="005">20111011000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">sim- .et, coa- pode (3) 1566 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20111010d1566        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Ioannis Iacobi Pavesii ... ℗ordinariam philosophiam profitentis peripateticae disputationes in prima Aristoteles philosophia: ad amplissimum Franciscum Cardinalem Gonzagam</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">ex officina Marci de Maria Salernitani Bibliopolae Neapolitani</subfield>
+    <subfield code="d">1566</subfield>
+    <subfield code="e">Venezia</subfield>
+    <subfield code="g">Marco De Maria</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\10! p., 121 c.</subfield>
+    <subfield code="d">6</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">DOPPIA 47282  Marca (Z79) sul front. -  Cors. ; rom. -  Iniziali xil. -  Segn.: a6 AU6 V8. -  Bianca l&apos;ultima c</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">De_Maria, Marco</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000522</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Maria, Marcus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003762</subfield>
+    <subfield code="z">De_Maria, Marco</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Maria, Marco</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004606</subfield>
+    <subfield code="z">De_Maria, Marco</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca calabrese. Soriano Calabro</subfield>
+    <subfield code="1">VV0053</subfield>
+    <subfield code="2">RCA CS</subfield>
+  </datafield>
+</record>
+</collection>

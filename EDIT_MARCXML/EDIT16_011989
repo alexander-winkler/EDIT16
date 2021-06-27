@@ -1,0 +1,145 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02372nam0a2200373 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\011989</controlfield>
+  <controlfield tag="005">20190522000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">tet. nin- n-no inbi (3) 1581 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1581        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Sacra baptizandi institutio iuxta ritum Sanctae Romanae Ecclesiae. In hoc libroetiam, quae apud infirmos in extremis laborantes, &amp; quae post eorum obitum officia fiunt, continentur. Accessere alia multa cum exorcismis contra daemoniacos, &amp; visitatione infirmorum. Vt in sequenti tabula patet</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetijs</subfield>
+    <subfield code="c">apud Haeredes Melchioris Sessae</subfield>
+    <subfield code="d">1581</subfield>
+    <subfield code="e">Venetijs</subfield>
+    <subfield code="g">apud Haeredes Francisci Rampazetti</subfield>
+    <subfield code="g">ad instantiam Haeredes Melchioris Sessae</subfield>
+    <subfield code="h">1581</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">180 c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2="0">
+    <subfield code="3">IT\ICCU\CNCE\037225</subfield>
+    <subfield code="a">Rituale</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Chiesa cattolica</subfield>
+    <subfield code="3">6731</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Sessa, Melchiorre</subfield>
+    <subfield code="c"> &lt;1.&gt; - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000242</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Rampazetto, Francesco</subfield>
+    <subfield code="c"> &lt;1.&gt; - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000171</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Typographia Rampazetta</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005288</subfield>
+    <subfield code="z">Rampazetto, Francesco &lt;1.&gt; - eredi</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Stamperia de&apos; Rampazetti</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005289</subfield>
+    <subfield code="z">Rampazetto, Francesco &lt;1.&gt; - eredi</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Convento di S. Giovanni da Capestrano. Capestrano</subfield>
+    <subfield code="1">AQ0017</subfield>
+    <subfield code="2">ZAQ 06</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Convento di S. Chiara. L&apos;Aquila</subfield>
+    <subfield code="1">AQ0045</subfield>
+    <subfield code="2">ZAQ 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei cappuccini. Foggia</subfield>
+    <subfield code="1">FG0045</subfield>
+    <subfield code="2">ZFG 09</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei frati minori cappuccini Madonna di Pompei. Messina</subfield>
+    <subfield code="1">ME0179</subfield>
+    <subfield code="2">MES FC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca centrale dell&apos;Area umanistica dell&apos;Universit ̉degli studi di Urbino. Urbino</subfield>
+    <subfield code="1">PU0206</subfield>
+    <subfield code="2">URB AU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Reggio Emilia</subfield>
+    <subfield code="1">RE0049</subfield>
+    <subfield code="2">PBE 05</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Casanatense. Roma</subfield>
+    <subfield code="1">RM0313</subfield>
+    <subfield code="2">RML 07</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001210</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Nel coloph.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000070</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001210</subfield>
+    <subfield code="b">Gatto con topo in bocca. In cornice figurata</subfield>
+    <subfield code="e">Dissimilium infida sotietas</subfield>
+    <subfield code="c">U218</subfield>
+    <subfield code="d">Dimensioni: 4 x 4,5</subfield>
+    <subfield code="f">DISSIMILIU</subfield>
+    <subfield code="f">GATTO</subfield>
+    <subfield code="f">TOPO</subfield>
+    <subfield code="g">1579-1584</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000070</subfield>
+    <subfield code="b">Drago alita fiamme verso una colomba in volo. In cornice</subfield>
+    <subfield code="e">Terrena coelestibus obsunt.</subfield>
+    <subfield code="c">Z471</subfield>
+    <subfield code="d">dimensioni 3 x 3</subfield>
+    <subfield code="f">COLOMBA</subfield>
+    <subfield code="f">DRAGO</subfield>
+    <subfield code="f">TERRENACOE</subfield>
+    <subfield code="g">1577-1598</subfield>
+  </datafield>
+</record>
+</collection>

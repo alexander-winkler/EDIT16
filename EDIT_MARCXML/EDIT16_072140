@@ -1,0 +1,38 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00448na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\072140</controlfield>
+  <controlfield tag="005">20080125000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20071204             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗La ℗prigione d&apos;amore</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Oddi,</subfield>
+    <subfield code="b">Sforza : degli</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006885</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Oddus,</subfield>
+    <subfield code="b">Sfortia</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021782</subfield>
+    <subfield code="z">Oddi, Sforza : degli</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Degli_Oddi,</subfield>
+    <subfield code="b">Sforza</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021783</subfield>
+    <subfield code="z">Oddi, Sforza : degli</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

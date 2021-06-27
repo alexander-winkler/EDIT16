@@ -1,0 +1,131 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01884nam0a2200373 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\009361</controlfield>
+  <controlfield tag="005">19970101000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">rei, o.de ine- sttu (3) 1569 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1569        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Prosperi Carauitae ℗In pragmaticas de exulibus, de falsis, &amp; de senatus consul. Macedoniano commentaria</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Neapoli</subfield>
+    <subfield code="c">excudebat Ioannes de Boy</subfield>
+    <subfield code="d">1569</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\2!, 58 c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Napoli</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Caravita,</subfield>
+    <subfield code="b">Prospero</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002618</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">De_Boy, Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000638</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Boy, Giovanni de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003153</subfield>
+    <subfield code="z">De_Boy, Giovanni</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Du_Boy, Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003158</subfield>
+    <subfield code="z">De_Boy, Giovanni</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Boyus, Ioannes</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004524</subfield>
+    <subfield code="z">De_Boy, Giovanni</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Boy, Ioannes</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004525</subfield>
+    <subfield code="z">De_Boy, Giovanni</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Della_Selva, Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004526</subfield>
+    <subfield code="z">De_Boy, Giovanni</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Giuridica Antonio Cicu - Alma Mater Studiorum - Universit ̉di Bologna. Bologna</subfield>
+    <subfield code="1">BO0036</subfield>
+    <subfield code="2">UBO IG</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca pubblica arcivescovile A. De Leo. Brindisi</subfield>
+    <subfield code="1">BR0002</subfield>
+    <subfield code="2">BRI 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale Angelo Camillo De Meis. Chieti</subfield>
+    <subfield code="1">CH0020</subfield>
+    <subfield code="2">ABR ME</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Convento dei cappuccini. Incoronata di Vasto</subfield>
+    <subfield code="1">CH0119</subfield>
+    <subfield code="2">PBE H2</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale Tommaso Stigliani. Matera</subfield>
+    <subfield code="1">MT0029</subfield>
+    <subfield code="2">BAS 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Pisa</subfield>
+    <subfield code="1">PI0112</subfield>
+    <subfield code="2">PIS R1</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Pavia</subfield>
+    <subfield code="1">PV0291</subfield>
+    <subfield code="2">MIL UP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale. Potenza</subfield>
+    <subfield code="1">PZ0133</subfield>
+    <subfield code="2">BAS PZ</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Senato della Repubblica Giovanni Spadolini. Roma</subfield>
+    <subfield code="1">RM0427</subfield>
+    <subfield code="2">ZRM 12</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,118 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01642nam0a2200325 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\050722</controlfield>
+  <controlfield tag="005">20130404000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">a-on iale n-el sofa (C) 1502 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20000327d1502        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Libro pastorale nominato Archadio de Iacobo Sanazaro neapolitano</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Venetiis</subfield>
+    <subfield code="h">opera &amp; impensa Bernardini Vercellensis</subfield>
+    <subfield code="h">1502 die XXII Nouembrio</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\56! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Sannazzaro,</subfield>
+    <subfield code="b">Iacopo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002217</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Viani, Bernardino</subfield>
+    <subfield code="c"> &lt;1.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000442</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Actius Syncerus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013494</subfield>
+    <subfield code="z">Sannazzaro, Iacopo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Sannazaro,</subfield>
+    <subfield code="b">Iacopo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023607</subfield>
+    <subfield code="z">Sannazzaro, Iacopo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Bernardinus Vercellensis</subfield>
+    <subfield code="c"> &lt;1500-1543&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002940</subfield>
+    <subfield code="z">Viani, Bernardino &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Vercellensis, Bernardinus</subfield>
+    <subfield code="c"> &lt;1500-1543&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002941</subfield>
+    <subfield code="z">Viani, Bernardino &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Lisona, Bernardinus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004159</subfield>
+    <subfield code="z">Viani, Bernardino &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Lesona, Bernardino de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004160</subfield>
+    <subfield code="z">Viani, Bernardino &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Vianis, Bernardinus de</subfield>
+    <subfield code="c"> &lt;1.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005876</subfield>
+    <subfield code="z">Viani, Bernardino &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Viano, Bernardino de</subfield>
+    <subfield code="c"> &lt;1.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005877</subfield>
+    <subfield code="z">Viani, Bernardino &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Queriniana. Brescia</subfield>
+    <subfield code="1">BS0026</subfield>
+    <subfield code="2">ZBS 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Archivio storico civico e Biblioteca Trivulziana. Milano</subfield>
+    <subfield code="1">MI0327</subfield>
+    <subfield code="2">LO1 13</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale degli Intronati. Siena</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">SI0046</subfield>
+    <subfield code="2">RT1 QI</subfield>
+  </datafield>
+</record>
+</collection>

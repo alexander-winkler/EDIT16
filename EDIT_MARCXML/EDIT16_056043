@@ -1,0 +1,45 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00590na 0a22001451i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\056043</controlfield>
+  <controlfield tag="005">20040305000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20040305             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Ad Palladium diaconum epistola de officio et moribus episcopi</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Romae</subfield>
+    <subfield code="g">apud Bartholomaeum Bonfadinum</subfield>
+    <subfield code="h">1592</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Isidorus</subfield>
+    <subfield code="c"> : Pelusiota</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008377</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Isidoro</subfield>
+    <subfield code="c"> : di#Pelusio</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016255</subfield>
+    <subfield code="z">Isidorus : Pelusiota &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Pelusiota,</subfield>
+    <subfield code="b">Isidorus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020146</subfield>
+    <subfield code="z">Isidorus : Pelusiota &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

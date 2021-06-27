@@ -1,0 +1,115 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01606nam0a2200325 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\040292</controlfield>
+  <controlfield tag="005">20070116000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">umdo q.su o.o. ruSt (3) 1554 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19981117d1554        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Ordo monachorum eremitarum diui Hieronymi</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Bononiae</subfield>
+    <subfield code="c">apud Anselmum Giaccarellum</subfield>
+    <subfield code="d">1554</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\4!, 54 c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Bologna</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Eremiti di S. Girolamo di Fiesole</subfield>
+    <subfield code="3">11088</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Giaccarelli, Anselmo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000354</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Fratres mendicantes Ordinis diui Hieronymi</subfield>
+    <subfield code="3">15514</subfield>
+    <subfield code="z">Eremiti di S. Girolamo di Fiesole</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Ordo monachorum eremitarum diui Hieronymi</subfield>
+    <subfield code="3">15515</subfield>
+    <subfield code="z">Eremiti di S. Girolamo di Fiesole</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Zaccherelli, Anselmo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003836</subfield>
+    <subfield code="z">Giaccarelli, Anselmo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Zaccarellus, Anselmus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003837</subfield>
+    <subfield code="z">Giaccarelli, Anselmo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Giaccarello, Anselmo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004865</subfield>
+    <subfield code="z">Giaccarelli, Anselmo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Giaccarellus, Anselmus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004866</subfield>
+    <subfield code="z">Giaccarelli, Anselmo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale dell&apos;Archiginnasio. Bologna</subfield>
+    <subfield code="1">BO0304</subfield>
+    <subfield code="2">UBO GA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale. Cremona</subfield>
+    <subfield code="1">CR0062</subfield>
+    <subfield code="2">LO1 28</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Ambrosiana. Milano</subfield>
+    <subfield code="1">MI0133</subfield>
+    <subfield code="2">VBA 01</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">in fine</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000770</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000770</subfield>
+    <subfield code="b">Ercole con la clava uccide l&apos;idra di Lerna. In cornice formata da un ramo di palma ed uno di olivo</subfield>
+    <subfield code="c">Z490</subfield>
+    <subfield code="f">ERCOLE</subfield>
+    <subfield code="f">CLAVA</subfield>
+    <subfield code="f">IDRA</subfield>
+    <subfield code="f">PALMA</subfield>
+    <subfield code="f">OLIVO</subfield>
+    <subfield code="g">1550-1582</subfield>
+  </datafield>
+</record>
+</collection>

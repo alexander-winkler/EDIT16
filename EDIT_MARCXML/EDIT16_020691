@@ -1,0 +1,125 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01869nam0a2200337 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\020691</controlfield>
+  <controlfield tag="005">20090901000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e.,&amp; o.ne o-no pode (C) 1566 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1566        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Specchio de&apos; lochi sacri di Terra Santa, che comprende quattro libretti, si come leggendo questo seguente foglio, potrai intendere. Bartolomeo Georgieuics despotino, detto il Pellegrino di Gierusalem, auttore</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Roma</subfield>
+    <subfield code="c">appresso Giulio Bolano de gli Accolti</subfield>
+    <subfield code="d">1566</subfield>
+    <subfield code="e">Roma</subfield>
+    <subfield code="g">appresso Giulio Bolano de Accolti</subfield>
+    <subfield code="h">in Banchi</subfield>
+    <subfield code="h">nella strada Paolina</subfield>
+    <subfield code="h">1566</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\68! c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d"> 8ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Var. B: c. H6r parzialmente ricomposta con l&apos;aggiunta di tre versi e un richiamo</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Roma</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Georgijevic,</subfield>
+    <subfield code="b">Bartolomej</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005964</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Accolti, Giulio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000104</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Gorgevic,</subfield>
+    <subfield code="b">Bartholomaeus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019475</subfield>
+    <subfield code="z">Georgijevic, Bartolomej</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Pellegrino</subfield>
+    <subfield code="c"> : Hierosolymitano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020878</subfield>
+    <subfield code="z">Georgijevic, Bartolomej</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bolani, Giulio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002964</subfield>
+    <subfield code="z">Accolti, Giulio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bolano degli Accolti, Giulio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003005</subfield>
+    <subfield code="z">Accolti, Giulio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Accolto, Giulio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004216</subfield>
+    <subfield code="z">Accolti, Giulio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Accoltus, Iulius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004217</subfield>
+    <subfield code="z">Accolti, Giulio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Cagliari</subfield>
+    <subfield code="1">CA0194</subfield>
+    <subfield code="2">CAG UC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca regionale universitaria. Catania</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">CT0062</subfield>
+    <subfield code="2">PAL BC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Ludovico Jacobilli del Seminario vescovile. Foligno</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">PG0040</subfield>
+    <subfield code="2">UM1 39</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="z">(Var. A, B)</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Niccol ̣V. Sarzana</subfield>
+    <subfield code="1">SP0058</subfield>
+    <subfield code="2">PBE C5</subfield>
+  </datafield>
+</record>
+</collection>

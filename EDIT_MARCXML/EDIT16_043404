@@ -1,0 +1,157 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02889nam0a2200397 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\043404</controlfield>
+  <controlfield tag="005">20071114000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">sium iau, eram vopa (3) 1590 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19981229d1590        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Formularium instrumentorum et variorum processuum quamplurimis omnium generum Instrumentorum formulis nusquam ante hac impressis, auctum &amp; locupletatum. Quibus veluti prooemij \!! loco accesserunt dd. Iustiniani, et Maximiliani imperatorum De officio tabellionum nouellae Constitutiones. Additus quoque est in hac postrema editione Tractatus cuiusque generis instrumentorum d. Ludouici a Valle, qui in formulario apud bibliopolas socios impresso, immerito praetermissus est. Accessit quoque practica omnium terminorum Rotae, et aliorum tribunalium Rom. curiae. &amp; modus examinandi in causis criminalibus</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Romae</subfield>
+    <subfield code="c">in aedibus Populi Romani</subfield>
+    <subfield code="c">apud Georgium Ferrarium</subfield>
+    <subfield code="d">1590</subfield>
+    <subfield code="e">Romae</subfield>
+    <subfield code="g">in aedibus Populi Romani</subfield>
+    <subfield code="h">1586</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\28!, 444, \4!, 20 p.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">A c. CC8r altro front.: Ludouici a Valle Bergomensis Instrumentorum practica ... Tertia editio. Romae : \Stamperia del Popolo romano!, 1586. - Colophon a c. Ee7v</subfield>
+  </datafield>
+  <datafield tag="10" ind1="I" ind2="T">
+    <subfield code="I">CCU\CNCE\070708</subfield>
+    <subfield code="1">2001 </subfield>
+    <subfield code="a">Formularium instrumentorum et variorum processuum</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Roma</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Iustinianus</subfield>
+    <subfield code="c"> &lt;imperatore d&apos;Oriente</subfield>
+    <subfield code="c"> ; 1.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003125</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Valle,</subfield>
+    <subfield code="b">Lodovico</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004727</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Maximilian</subfield>
+    <subfield code="c"> &lt;imperatore</subfield>
+    <subfield code="c"> ; 1.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\017620</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">Stamperia del Popolo Romano</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000370</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Ferrari, Giorgio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000806</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Giustiniano</subfield>
+    <subfield code="c"> &lt;imperatore d&apos;Oriente</subfield>
+    <subfield code="c"> ; 1.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020200</subfield>
+    <subfield code="z">Iustinianus &lt;imperatore d&apos;Oriente ; 1.&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Ludovicus</subfield>
+    <subfield code="c"> : a#Valle</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024513</subfield>
+    <subfield code="z">Valle, Lodovico</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Massimiliano</subfield>
+    <subfield code="c"> &lt;imperatore</subfield>
+    <subfield code="c"> ; 1.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020746</subfield>
+    <subfield code="z">Maximilian &lt;imperatore ; 1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">℗nelle case del ℗Popolo Romano</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003154</subfield>
+    <subfield code="z">Stamperia del Popolo Romano</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">℗in aedibus ℗Populi Romani</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004104</subfield>
+    <subfield code="z">Stamperia del Popolo Romano</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ferrarius, Georgius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005523</subfield>
+    <subfield code="z">Ferrari, Giorgio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ferrario, Giorgio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005525</subfield>
+    <subfield code="z">Ferrari, Giorgio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Luciano Benincasa. Ancona</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">AN0001</subfield>
+    <subfield code="2">URB BA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Lelio Pasolini. Longiano</subfield>
+    <subfield code="1">FC0032</subfield>
+    <subfield code="2">RAV LP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Pio sodalizio dei piceni. Roma</subfield>
+    <subfield code="1">RM0420</subfield>
+    <subfield code="2">ZRM 60</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca diocesana  Beata Lucia Broccadelli. Narni</subfield>
+    <subfield code="1">TR0059</subfield>
+    <subfield code="2">UM1 77</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sui front. e nel colophon.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000293</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000293</subfield>
+    <subfield code="b">Stemma di Roma con iniziali S.P.Q.R. fiancheggiato da S. Pietro e S. Paolo</subfield>
+    <subfield code="c">Z1006</subfield>
+    <subfield code="d">Dimensioni: 5,5 x 5,4</subfield>
+    <subfield code="f">PAOLO</subfield>
+    <subfield code="f">PIETRO</subfield>
+    <subfield code="f">ROMA</subfield>
+    <subfield code="f">SPQR</subfield>
+    <subfield code="g">1571-1598</subfield>
+  </datafield>
+</record>
+</collection>

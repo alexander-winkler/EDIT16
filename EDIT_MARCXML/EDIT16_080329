@@ -1,0 +1,75 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01028nam0a22002291i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\080329</controlfield>
+  <controlfield tag="005">20200723000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20200723d1512        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Libro darme e damore nomato Mambriano composto per Francisco Cieco da Ferrara. Nouamente stampato, et historiato</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Stampato in Venetia</subfield>
+    <subfield code="g">per Ioanne Tachuino da Trin.</subfield>
+    <subfield code="h">adi.xv de febraro 1512</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\236! c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Francesco Cieco</subfield>
+    <subfield code="c"> : da#Ferrara</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001541</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Tacuino, Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000206</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Cieco,</subfield>
+    <subfield code="b">Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008022</subfield>
+    <subfield code="z">Francesco Cieco : da#Ferrara</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Bello,</subfield>
+    <subfield code="b">Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013259</subfield>
+    <subfield code="z">Francesco Cieco : da#Ferrara</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Cereto, Ioannes de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002713</subfield>
+    <subfield code="z">Tacuino, Giovanni</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Ioannes de Cereto de Tridino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002724</subfield>
+    <subfield code="z">Tacuino, Giovanni</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Tacuinus, Ioannes</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005546</subfield>
+    <subfield code="z">Tacuino, Giovanni</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

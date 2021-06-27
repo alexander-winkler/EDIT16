@@ -1,0 +1,187 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>03011nam0a2200469 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\040709</controlfield>
+  <controlfield tag="005">20150527000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">bim, 0.7. i-s: misa (3) 1593 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19981119d1593        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Sacerdotale siue Sacerdotum thesaurus iuxta consuetudinem s. Romanae ecclesiae, sacrique Concilij Tridentini sanctiones. Quibuscunque sacerdotibus, episcopis, et praelatis, necnon cunctis Christi fidelibus pernecessarius, ex diuersis voluminibus compendiose collectus, &amp; in quatuor partes diuisus. Auctore r.d. Francisco Samarino beneficiato Lateranensi, industria vero r.p.m. Angeli Rocch. a Camerino expurgatus, multisque rebus auctus, et nuperrime reformatus. Cui nouissime adiectum est calendarium Gregorianum. Cum indice copiosissimo</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud Iordanum</subfield>
+    <subfield code="d">et Nicolaum Zilettum</subfield>
+    <subfield code="d">fratres</subfield>
+    <subfield code="d">1593</subfield>
+    <subfield code="e">Venetiis</subfield>
+    <subfield code="g">apud Iordanum Zilettum</subfield>
+    <subfield code="h">1592</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\28!, 187, \1!, 48, 70, 23, \1! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Samarinus,</subfield>
+    <subfield code="b">Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\011109</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Rocca,</subfield>
+    <subfield code="b">Angelo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001154</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a"></subfield>
+    <subfield code="3">IT\ICCU\CNCT\003513</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Ziletti, Giordano</subfield>
+    <subfield code="c"> &lt;2.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004208</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Angelus</subfield>
+    <subfield code="c"> : Rocchensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018717</subfield>
+    <subfield code="z">Rocca, Angelo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Angelo</subfield>
+    <subfield code="c"> : de#Rocca Contrada</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018718</subfield>
+    <subfield code="z">Rocca, Angelo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Camerino,</subfield>
+    <subfield code="b">Angelo : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018719</subfield>
+    <subfield code="z">Rocca, Angelo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Zilettus, Iordanus</subfield>
+    <subfield code="c"> &lt;2.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005834</subfield>
+    <subfield code="z">Ziletti, Giordano &lt;2.&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Casale Monferrato</subfield>
+    <subfield code="1">AL0024</subfield>
+    <subfield code="2">TO0 L2</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Giuseppe Tanfani. Ostra Vetere</subfield>
+    <subfield code="1">AN0061</subfield>
+    <subfield code="2">URB OV</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale Salvatore Tommasi. Bazzano</subfield>
+    <subfield code="1">AQ0047</subfield>
+    <subfield code="2">ABR PR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario maggiore. Bressanone</subfield>
+    <subfield code="1">BZ0013</subfield>
+    <subfield code="2">ZBZ 05</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Marucelliana. Firenze</subfield>
+    <subfield code="1">FI0101</subfield>
+    <subfield code="2">CFI MF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale. Lucca</subfield>
+    <subfield code="1">LU0022</subfield>
+    <subfield code="2">LUA BL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Valentiniana. Camerino</subfield>
+    <subfield code="1">MC0004</subfield>
+    <subfield code="2">UMC BV</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Liceo ginnasio statale Ludovico Antonio Muratori. Modena</subfield>
+    <subfield code="1">MO0174</subfield>
+    <subfield code="2">MOD MU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Piacenza</subfield>
+    <subfield code="1">PC0028</subfield>
+    <subfield code="2">PBE G9</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Padova</subfield>
+    <subfield code="1">PD0158</subfield>
+    <subfield code="2">PUV 00</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Porziuncola. Assisi</subfield>
+    <subfield code="1">PG0179</subfield>
+    <subfield code="2">UM1 36</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Cathariniana. Pisa</subfield>
+    <subfield code="1">PI0027</subfield>
+    <subfield code="2">RT1 QW</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Guarnacci. Volterra</subfield>
+    <subfield code="1">PI0176</subfield>
+    <subfield code="2">RT1 QV</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Urbania</subfield>
+    <subfield code="1">PU0095</subfield>
+    <subfield code="2">URB UR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Terni</subfield>
+    <subfield code="1">TR0032</subfield>
+    <subfield code="2">UM1 09</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001946</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001946</subfield>
+    <subfield code="b">Stella cometa con otto piccole stelle tra le punte. In cornice figurata</subfield>
+    <subfield code="e">Inter omnes</subfield>
+    <subfield code="c">U545</subfield>
+    <subfield code="d">Dimensioni: 3,2 x 4,2</subfield>
+    <subfield code="f">STELLA</subfield>
+    <subfield code="f">COMETA</subfield>
+    <subfield code="f">INTEROMNES</subfield>
+    <subfield code="g">1590-1593</subfield>
+  </datafield>
+</record>
+</collection>

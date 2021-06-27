@@ -1,0 +1,44 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00630na 0a22001451i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\065487</controlfield>
+  <controlfield tag="005">20080207000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20060722             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Responsa in causa finariensi reddita, Iacobo Menochio iureconsulto auctore nunc edita. Quae in opere habeantur versa pagina clarius docet</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Menochio,</subfield>
+    <subfield code="b">Giacomo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001045</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Menochio,</subfield>
+    <subfield code="b">Iacopo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019627</subfield>
+    <subfield code="z">Menochio, Giacomo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Menochius,</subfield>
+    <subfield code="b">Jacobus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019628</subfield>
+    <subfield code="z">Menochio, Giacomo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Menocchio,</subfield>
+    <subfield code="b">Iacopo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019669</subfield>
+    <subfield code="z">Menochio, Giacomo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

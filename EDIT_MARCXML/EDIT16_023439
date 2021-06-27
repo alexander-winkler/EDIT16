@@ -1,0 +1,106 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01400nam0a2200301 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\023439</controlfield>
+  <controlfield tag="005">20060306000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">,&amp;n- ntem ums. quse (3) 1569 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970707d1569        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Grammatica breui, et perspicua methodo comprehensa, ad usum Collegij Romani, Societatis Iesu. Per p. Iacobum Ledesmam Societatis Iesu</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Neapoli</subfield>
+    <subfield code="c">apud Iosephum Cacchium</subfield>
+    <subfield code="d">1569</subfield>
+    <subfield code="e">Neapoli</subfield>
+    <subfield code="g">apud Iosephum Cacchium</subfield>
+    <subfield code="h">1569</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\2!, 86 c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Napoli</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Ledesma,</subfield>
+    <subfield code="b">Diego : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006725</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Cacchi, Giuseppe</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000064</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Ledesma,</subfield>
+    <subfield code="b">Iacobus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015923</subfield>
+    <subfield code="z">Ledesma, Diego : de</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Ledesma,</subfield>
+    <subfield code="b">Jacques</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020358</subfield>
+    <subfield code="z">Ledesma, Diego : de</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Ledesima</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020359</subfield>
+    <subfield code="z">Ledesma, Diego : de</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Cacchius, Iosephus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004389</subfield>
+    <subfield code="z">Cacchi, Giuseppe</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Cacchio, Giuseppe</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004390</subfield>
+    <subfield code="z">Cacchi, Giuseppe</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica A. Mai. Bergamo</subfield>
+    <subfield code="1">BG0026</subfield>
+    <subfield code="2">LO1 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca regionale universitaria. Catania</subfield>
+    <subfield code="1">CT0062</subfield>
+    <subfield code="2">PAL BC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Zelantea. Acireale</subfield>
+    <subfield code="1">CT0260</subfield>
+    <subfield code="2">CAT ZE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca regionale universitaria. Messina</subfield>
+    <subfield code="1">ME0050</subfield>
+    <subfield code="2">PAL BM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+</record>
+</collection>

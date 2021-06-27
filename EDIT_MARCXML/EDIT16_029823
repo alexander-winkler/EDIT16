@@ -1,0 +1,151 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02151nam0a2200397 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\029823</controlfield>
+  <controlfield tag="005">20080729000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e.ie iore o.,&amp; masc (3) 1546 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971124d1546        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Erasto dopo molti secoli ritornato al fine in luce et con somma diligenza dal greco fedelmente tradotto in italiano</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Mantoua</subfield>
+    <subfield code="c">\Venturino Ruffinelli!</subfield>
+    <subfield code="d">1546</subfield>
+    <subfield code="e">Impresso in Mantoua</subfield>
+    <subfield code="g">per Venturino Roffinello</subfield>
+    <subfield code="h">1546</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">138 \i.e. 137!, \3! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2="1">
+    <subfield code="3">IT\ICCU\CNCE\029345</subfield>
+    <subfield code="a">Libro dei sette savi</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Mantova</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Ruffinelli, Venturino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000115</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Roffinelli, Venturino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002580</subfield>
+    <subfield code="z">Ruffinelli, Venturino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ruffinello, Venturino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005448</subfield>
+    <subfield code="z">Ruffinelli, Venturino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ruffinellus, Venturinus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005450</subfield>
+    <subfield code="z">Ruffinelli, Venturino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ruffinellis, Venturinus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005461</subfield>
+    <subfield code="z">Ruffinelli, Venturino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Roffinello, Venturino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005463</subfield>
+    <subfield code="z">Ruffinelli, Venturino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Roffinellus, Venturinus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005468</subfield>
+    <subfield code="z">Ruffinelli, Venturino</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Firenze</subfield>
+    <subfield code="1">FI0098</subfield>
+    <subfield code="2">CFI CF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca umanistica. Sede di Lettere. Firenze</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">FI0211</subfield>
+    <subfield code="2">UFI LT</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Berio. Genova</subfield>
+    <subfield code="1">GE0036</subfield>
+    <subfield code="2">SGE BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale. Lucca</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">LU0022</subfield>
+    <subfield code="2">LUA BL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Padova</subfield>
+    <subfield code="1">PD0090</subfield>
+    <subfield code="2">PUV 55</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Padova</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">PD0158</subfield>
+    <subfield code="2">PUV 00</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. San Miniato</subfield>
+    <subfield code="1">PI0171</subfield>
+    <subfield code="2">PBI SM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Classense. Ravenna</subfield>
+    <subfield code="1">RA0036</subfield>
+    <subfield code="2">RAV CL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">British Library. London</subfield>
+    <subfield code="1">UK0001</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000479</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000479</subfield>
+    <subfield code="b">Virt ̮(donna nuda con vela svolazzante, un piede sulla testa del delfino e l&apos;altro sul mondo).</subfield>
+    <subfield code="c">V100</subfield>
+    <subfield code="c">Z1202</subfield>
+    <subfield code="d">Dimensioni: 5 x 6,2</subfield>
+    <subfield code="f">AGITATAVIR</subfield>
+    <subfield code="f">DELFINO</subfield>
+    <subfield code="f">MONDO</subfield>
+    <subfield code="f">VIRTU</subfield>
+    <subfield code="g">1545-1594</subfield>
+  </datafield>
+</record>
+</collection>

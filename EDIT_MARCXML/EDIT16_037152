@@ -1,0 +1,56 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00680ncm0a22001931i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\037152</controlfield>
+  <controlfield tag="005">20000606000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19980616d1566        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Canzoni napolitane a tre voci di Gioseppe Caimo milanese, organista di s. Ambroggio Maggior di Milano.  Libro primo</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Milano</subfield>
+    <subfield code="c">Cesare Pozzo</subfield>
+    <subfield code="d">1566</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">URFM</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Milano</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Caimo,</subfield>
+    <subfield code="b">Giuseppe</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010341</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Pozzo, Cesare</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002785</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Puteus, Caesar</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003092</subfield>
+    <subfield code="z">Pozzo, Cesare</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pozzi, Cesare</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005504</subfield>
+    <subfield code="z">Pozzo, Cesare</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

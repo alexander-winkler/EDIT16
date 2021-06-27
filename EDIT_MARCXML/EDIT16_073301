@@ -1,0 +1,73 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01216nam0a22002291i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\073301</controlfield>
+  <controlfield tag="005">20080811000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20080811f1574        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Legge dell&apos;illustriss. et excelletiss. s. il s. duca di Fiorenza. In benefitio del Monasterio delle Conuertite, &amp; dello Spedale dell&apos;Innocenti. Passata nel suo consiglio de 48. el di 19. di settembre 1553</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Fiorenza</subfield>
+    <subfield code="c">appresso i Giunti</subfield>
+    <subfield code="d">\1574?!</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\4! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Per la data cfr.: Leggi e bandi del periodo mediceo posseduti dalla Biblioteca Nazionale Centrale di Firenze. I. 1534-1600. A cura di Gustavo Bertoli, n. 88.3</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Firenze</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Monastero delle Convertite</subfield>
+    <subfield code="c"> &lt;Firenze&gt;</subfield>
+    <subfield code="3">18163</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">Ospedale degli Innocenti</subfield>
+    <subfield code="c"> &lt;Firenze&gt;</subfield>
+    <subfield code="3">18164</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Giunta, Bernardo</subfield>
+    <subfield code="c"> &lt;1.&gt; - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000170</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Monastero di s. Elisabetta delle Convertite</subfield>
+    <subfield code="c"> &lt;Firenze&gt;</subfield>
+    <subfield code="3">26570</subfield>
+    <subfield code="z">Monastero delle Convertite &lt;Firenze&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Spedale dell&apos;Innocenti</subfield>
+    <subfield code="c"> &lt;Firenze&gt;</subfield>
+    <subfield code="3">22874</subfield>
+    <subfield code="z">Ospedale degli Innocenti &lt;Firenze&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Bibliotheca Iunctia</subfield>
+    <subfield code="3">IT\ICCU\CNCT\006345</subfield>
+    <subfield code="z">Giunta, Bernardo &lt;1.&gt; - eredi</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

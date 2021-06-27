@@ -1,0 +1,107 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01805nam0a2200289 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\052988</controlfield>
+  <controlfield tag="005">20131212000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">4241 erdi etlo orcr (3) 1554 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20020603d1554        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Legendario volgare, il quale in se contiene la vita de tutti li santi, da la santa chiesia approbati, di nuouo ordinato, et con non mediocre faticha da infiniti errori purgato, con le figure, &amp; summarij a ciascun capo, per commodo, &amp; facilita de tutti lideuoti lettori, &amp; con ogni diligentia ristampato. Con la sua tauola, la qual insegna de mese in mese ritrouar le festiuita de tutti li santi, et la loro vita, con tanto ordine quanto desiderar si possa</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Venetia</subfield>
+    <subfield code="c">\Aurelio Pinzi!</subfield>
+    <subfield code="d">1554</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">220 c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Iacopo</subfield>
+    <subfield code="c"> : da#Varazze</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006564</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Pinzi, Aurelio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000792</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Iacopo</subfield>
+    <subfield code="c"> : da#Varagine</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012025</subfield>
+    <subfield code="z">Iacopo : da#Varazze</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Jacobus</subfield>
+    <subfield code="c"> : de#Voragine</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016071</subfield>
+    <subfield code="z">Iacopo : da#Varazze</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Giacomo</subfield>
+    <subfield code="c"> : da#Varazze</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018588</subfield>
+    <subfield code="z">Iacopo : da#Varazze</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pintius, Aurelius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002521</subfield>
+    <subfield code="z">Pinzi, Aurelio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pincius, Aurelius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004045</subfield>
+    <subfield code="z">Pinzi, Aurelio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pincio, Aurelio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005434</subfield>
+    <subfield code="z">Pinzi, Aurelio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Genova</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">GE0038</subfield>
+    <subfield code="2">LIG 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Oliveriana. Pesaro</subfield>
+    <subfield code="1">PU0061</subfield>
+    <subfield code="2">URB OL</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000330</subfield>
+    <subfield code="b">Tra le onde donna, guerriero, leone e basilica S. Marco. In alto una donna guida un cocchio, trainato da due leoni.</subfield>
+    <subfield code="e">Urbe nihil Veneta dignius orbi habet.</subfield>
+    <subfield code="c">Z1188</subfield>
+    <subfield code="f">DONNA</subfield>
+    <subfield code="f">GUERRIERO</subfield>
+    <subfield code="f">LEONE</subfield>
+    <subfield code="f">URBENIHILV</subfield>
+    <subfield code="g">1549-1563</subfield>
+  </datafield>
+</record>
+</collection>

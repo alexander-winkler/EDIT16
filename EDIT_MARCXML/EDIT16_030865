@@ -1,0 +1,155 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02350nam0a2200409 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\030865</controlfield>
+  <controlfield tag="005">20110818000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">o.S. e.88 l-en riri (3) 1581 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971201d1581        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Specchio di disciplina del serafico dottore s. Bonauentura cardinale dell&apos;ordine di s. Francesco. Per l&apos;ammaestramento de&apos; nouitij dell&apos;istesso ordine ... tradotto di lingua latina in volgare, &amp; posto in luce di ordine del reuerendissimo padre f. Francesco Gonzaga ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Napoli</subfield>
+    <subfield code="c">appresso Horatio Saluiani</subfield>
+    <subfield code="d">1581</subfield>
+    <subfield code="e">in Napoli</subfield>
+    <subfield code="g">appresso Horatio Saluiani</subfield>
+    <subfield code="h">1581</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\16!, 140 \i.e. 154!, \2! p.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Opera di incerto autore, attribuita sia a Bonaventura da Bagnorea, sia a Bernard de Besse</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2="1">
+    <subfield code="3">IT\ICCU\CNCE\024069</subfield>
+    <subfield code="a">Speculum disciplinae</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Napoli</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Bonaventura</subfield>
+    <subfield code="c"> : da#Bagnorea</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001077</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Gonzaga,</subfield>
+    <subfield code="b">Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003185</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Bernard</subfield>
+    <subfield code="c"> : de#Besse</subfield>
+    <subfield code="3">IT\ICCU\CNCA\028454</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Salviani, Orazio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000065</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Bonaventura</subfield>
+    <subfield code="c"> : da#Bagnoregio</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012695</subfield>
+    <subfield code="z">Bonaventura : da#Bagnorea &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Eutichio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018565</subfield>
+    <subfield code="z">Bonaventura : da#Bagnorea &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Giovanni Pietro</subfield>
+    <subfield code="c"> : di#Fidenza</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018566</subfield>
+    <subfield code="z">Bonaventura : da#Bagnorea &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Gonzaga,</subfield>
+    <subfield code="b">Annibale</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020075</subfield>
+    <subfield code="z">Gonzaga, Francesco</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Besse,</subfield>
+    <subfield code="b">Bernard : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\028466</subfield>
+    <subfield code="z">Bernard : de#Besse</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Bernardus</subfield>
+    <subfield code="c"> : de Bessa</subfield>
+    <subfield code="3">IT\ICCU\CNCA\028490</subfield>
+    <subfield code="z">Bernard : de#Besse</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Officina Salviana</subfield>
+    <subfield code="c"> &lt;Napoli&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003024</subfield>
+    <subfield code="z">Salviani, Orazio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Salvianus, Horatius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005547</subfield>
+    <subfield code="z">Salviani, Orazio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Cupramontana</subfield>
+    <subfield code="1">AN0031</subfield>
+    <subfield code="2">URB C4</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Planettiana. Jesi</subfield>
+    <subfield code="1">AN0092</subfield>
+    <subfield code="2">URB BC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Pasquale Stanislao Mancini. Ariano Irpino</subfield>
+    <subfield code="1">AV0003</subfield>
+    <subfield code="2">NAP AR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Padova</subfield>
+    <subfield code="1">PD0090</subfield>
+    <subfield code="2">PUV 55</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Porziuncola. Assisi</subfield>
+    <subfield code="1">PG0179</subfield>
+    <subfield code="2">UM1 36</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Fondazione Biblioteca S. Bernardino. Trento</subfield>
+    <subfield code="1">TN0122</subfield>
+    <subfield code="2">ZTN 18</subfield>
+  </datafield>
+</record>
+</collection>

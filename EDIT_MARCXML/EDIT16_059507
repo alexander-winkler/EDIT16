@@ -1,0 +1,108 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01835nam0a2200313 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\059507</controlfield>
+  <controlfield tag="005">20170223000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">dia, i.e, e.fu noco (3) 1591 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20041027d1591        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">\Delle croniche de&apos; frati minori del serafico p. s. Francesco; parte seconda, diuisa in dieci libri; ne quali si descriuono le vite e miracoli di ducento e pi ̮santi e sante; e si racconta la riforma, &amp; osseruanza del ordine, e suo accrescimento: nuouamente ordinate, e cauate da libri, e memoriali dell&apos;ordine, da fra Marco da Lisbona ... et hora tradotte di lingua spagnuola nella nostra italiana dal sig. Horatio Diola bolognese. Con due copiosissime tauole per maggior chiarezza dell&apos;historia!</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetia</subfield>
+    <subfield code="c">presso Erasmo Viotti</subfield>
+    <subfield code="d">1591</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">P. \72!, 612+</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Tit. dell&apos;intitolazione; descrizione basata su esemplare mutilo di frontespizio e delle carte finali</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Marcos</subfield>
+    <subfield code="c"> : de#Lisboa</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006826</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Diola,</subfield>
+    <subfield code="b">Orazio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008448</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Viotti, Erasmo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000264</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Marco</subfield>
+    <subfield code="c"> : da#Lisbona</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020921</subfield>
+    <subfield code="z">Marcos : de#Lisboa</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Lisboa,</subfield>
+    <subfield code="b">Marcos : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026052</subfield>
+    <subfield code="z">Marcos : de#Lisboa</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Silva,</subfield>
+    <subfield code="b">Marcos : da</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026433</subfield>
+    <subfield code="z">Marcos : de#Lisboa</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Viothus, Erasmus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004167</subfield>
+    <subfield code="z">Viotti, Erasmo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Vioto, Erasmo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005893</subfield>
+    <subfield code="z">Viotti, Erasmo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Viotus, Erasmus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005894</subfield>
+    <subfield code="z">Viotti, Erasmo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Viottus, Erasmus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005895</subfield>
+    <subfield code="z">Viotti, Erasmo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Viotto, Erasmo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005896</subfield>
+    <subfield code="z">Viotti, Erasmo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Planettiana. Jesi</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">AN0092</subfield>
+    <subfield code="2">URB BC</subfield>
+  </datafield>
+</record>
+</collection>

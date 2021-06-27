@@ -1,0 +1,105 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01629nam0a2200301 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\005277</controlfield>
+  <controlfield tag="005">20070827000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">i-o: a.di i.do scce (C) 1509 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1509        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Clare et non minus compendiose introductiones ad logicam cum quibusdam regulis et cautelis ad bene disputandum et respondendum requisitis: a magistro Cypriano Beneti ordinis predicatorum ... cura vero et diligentia Euangeliste de Thusinis ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Impressum Rome</subfield>
+    <subfield code="g">per Ioannem Antonium de Caneto papiensem</subfield>
+    <subfield code="h">1509 die xii Martij</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\12! c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Roma</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Benet,</subfield>
+    <subfield code="b">Cipriano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001602</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">De_Caneto, Giovanni Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000144</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Beneti,</subfield>
+    <subfield code="b">Cyprianus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026834</subfield>
+    <subfield code="z">Benet, Cipriano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Benetus,</subfield>
+    <subfield code="b">Cyprianus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026835</subfield>
+    <subfield code="z">Benet, Cipriano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Beneto,</subfield>
+    <subfield code="b">Cypriano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026836</subfield>
+    <subfield code="z">Benet, Cipriano</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Caneto, Giovanni Antonio de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002880</subfield>
+    <subfield code="z">De_Caneto, Giovanni Antonio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Canneto, Giovanni Antonio da</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003731</subfield>
+    <subfield code="z">De_Caneto, Giovanni Antonio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Canetus, Ioannes Antonius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004530</subfield>
+    <subfield code="z">De_Caneto, Giovanni Antonio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pavia, Ioanne Antonio de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004532</subfield>
+    <subfield code="z">De_Caneto, Giovanni Antonio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Caneto, Ioannes Antonius de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004533</subfield>
+    <subfield code="z">De_Caneto, Giovanni Antonio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Firenze</subfield>
+    <subfield code="1">FI0098</subfield>
+    <subfield code="2">CFI CF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Augusta. Perugia</subfield>
+    <subfield code="1">PG0109</subfield>
+    <subfield code="2">UM1 01</subfield>
+  </datafield>
+</record>
+</collection>

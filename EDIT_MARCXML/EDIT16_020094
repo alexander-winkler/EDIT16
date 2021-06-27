@@ -1,0 +1,160 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02422nam0a22004091i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\020094</controlfield>
+  <controlfield tag="005">20090601000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">s,u- isur i.t. mesa (3) 1550 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1550        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Gasparis Gabrielii ℗In quaestionem Hieronymi Boniperti Nouariensis de materiae imminutione in principio morbi, dissolutiones. Eiusdem De totius euacuandae materiae ratione, perbreuis explicatio</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">\Padova</subfield>
+    <subfield code="c">Giacomo Fabriano!</subfield>
+    <subfield code="e">Patauij</subfield>
+    <subfield code="g">in officina Fabriana Iacobus excudebat</subfield>
+    <subfield code="h">1550.</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\2!, 53, \1! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Padova</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Gabrieli,</subfield>
+    <subfield code="b">Gaspare</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005770</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Fabriano, Giacomo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000154</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Gabrielli,</subfield>
+    <subfield code="b">Gaspare</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005771</subfield>
+    <subfield code="z">Gabrieli, Gaspare</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Gabrielius,</subfield>
+    <subfield code="b">Gasparis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019021</subfield>
+    <subfield code="z">Gabrieli, Gaspare</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Fabrianus, Iacobus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004744</subfield>
+    <subfield code="z">Fabriano, Giacomo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Fabriano, Iacobo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005059</subfield>
+    <subfield code="z">Fabriano, Giacomo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Bologna</subfield>
+    <subfield code="z">(3)</subfield>
+    <subfield code="1">BO0098</subfield>
+    <subfield code="2">UBO BU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Berio. Genova</subfield>
+    <subfield code="1">GE0036</subfield>
+    <subfield code="2">SGE BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Carlo Negroni. Novara</subfield>
+    <subfield code="1">NO0054</subfield>
+    <subfield code="2">TO0 08</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Padova</subfield>
+    <subfield code="1">PD0158</subfield>
+    <subfield code="2">PUV 00</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Roncioniana - Fondazione Eredit ̉Marco Roncioni (ONLUS). Prato</subfield>
+    <subfield code="1">PO0005</subfield>
+    <subfield code="2">RT1 EB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca  Panizzi. Reggio Emilia</subfield>
+    <subfield code="1">RE0052</subfield>
+    <subfield code="2">RE2 PA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Gambalunghiana. Rimini</subfield>
+    <subfield code="1">RN0013</subfield>
+    <subfield code="2">RAV RI</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Girolamo Tartarotti. Rovereto</subfield>
+    <subfield code="1">TN0103</subfield>
+    <subfield code="2">ZTN 08</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca d&apos;arte del Museo civico Correr. Venezia</subfield>
+    <subfield code="1">VE0039</subfield>
+    <subfield code="2">VEA BC</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000109</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Nel colophon</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001860</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000109</subfield>
+    <subfield code="b">Leone rampante con una spada con la punta in alto. In cornice ovale</subfield>
+    <subfield code="e">Fortitudine invidia superatur.</subfield>
+    <subfield code="c">Z793</subfield>
+    <subfield code="d">Dimensioni: 4 x 5</subfield>
+    <subfield code="f">LEONE</subfield>
+    <subfield code="f">SPADA</subfield>
+    <subfield code="g">1550-1587</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001860</subfield>
+    <subfield code="b">Leone rampante con una spada con la punta in alto. In cornice ovale.</subfield>
+    <subfield code="e">1) Fortitudine invidia superatur; 2) Evaginabo gladium meum interficiet eos manus meas</subfield>
+    <subfield code="c">V151</subfield>
+    <subfield code="c">Z792</subfield>
+    <subfield code="d">Dimensioni: 5,5x7,5</subfield>
+    <subfield code="f">LEONE</subfield>
+    <subfield code="f">SPADA</subfield>
+    <subfield code="g">1549-1590</subfield>
+  </datafield>
+</record>
+</collection>

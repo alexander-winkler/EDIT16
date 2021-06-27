@@ -1,0 +1,57 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00705ncm0a22001931i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\045958</controlfield>
+  <controlfield tag="005">19990428000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19990126d1597        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Motetti a cinque voci. Libro primo</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Milano</subfield>
+    <subfield code="c">eredi di Francesco e Simone Tini</subfield>
+    <subfield code="d">1597</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">RISM: 9, V 1062</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Milano</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Vecchi,</subfield>
+    <subfield code="b">Orfeo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012006</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Tini, Francesco - eredi &amp; Tini, Simone - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002904</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Vecchius,</subfield>
+    <subfield code="b">Orpheus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024535</subfield>
+    <subfield code="z">Vecchi, Orfeo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Tini, Simone - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001156</subfield>
+    <subfield code="z">Tini, Francesco - eredi &amp; Tini, Simone - eredi</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

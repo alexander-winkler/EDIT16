@@ -1,0 +1,199 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>03043nam0a2200493 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\054771</controlfield>
+  <controlfield tag="005">20130228000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">t.ti asos r.s: tosu (3) 1520 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20031117d1520        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">P. Vergilius Maro cum magnete, suo Seruio Mario grammatico: interprete quam castigatissimo ... cui etiam adduntur iuuenalia opuscola ... Haec in super lector amice ad seruianam expositionem ex multis grammaticis conscripta sunt ... Lodouici Coelii Rhodigini lectionum antiquarum ... Addidimus preterea Iani Parrhasii commentaria; Philippi Beroaldi in Seruium adnotationes ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">\Milano!</subfield>
+    <subfield code="c">venditur apud fratres de Lignano ad signum angeli</subfield>
+    <subfield code="e">Impressum Mediolani per Iohannem Angelum Scinzenzeler</subfield>
+    <subfield code="h">1520 sexto idus Nouembris</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">XII, CCXX, \6! c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Milano</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Vergilius Maro,</subfield>
+    <subfield code="b">Publius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001093</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Parrasio,</subfield>
+    <subfield code="b">Aulo Giano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003080</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Vegio,</subfield>
+    <subfield code="b">Maffeo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008638</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Ricchieri,</subfield>
+    <subfield code="b">Lodovico</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013437</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Beroaldo,</subfield>
+    <subfield code="b">Filippo</subfield>
+    <subfield code="c"> &lt;il vecchio&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000228</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Servius,</subfield>
+    <subfield code="b">Maurus Honoratus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000325</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Scinzenzeler, Giovanni Angelo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000084</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Da_Legnano, Giovanni Giacomo &amp; fratelli</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001554</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Virgilio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015017</subfield>
+    <subfield code="z">Vergilius Maro, Publius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Parisio,</subfield>
+    <subfield code="b">Giovan Paolo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009807</subfield>
+    <subfield code="z">Parrasio, Aulo Giano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Parrhasius,</subfield>
+    <subfield code="b">Aulus Ianus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009808</subfield>
+    <subfield code="z">Parrasio, Aulo Giano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Vegius,</subfield>
+    <subfield code="b">Mapheus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013420</subfield>
+    <subfield code="z">Vegio, Maffeo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Veggio,</subfield>
+    <subfield code="b">Maffeo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013591</subfield>
+    <subfield code="z">Vegio, Maffeo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Maphaeus</subfield>
+    <subfield code="c"> : Laudensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024545</subfield>
+    <subfield code="z">Vegio, Maffeo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Caelius,</subfield>
+    <subfield code="b">Lodovicus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010503</subfield>
+    <subfield code="z">Ricchieri, Lodovico</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Caelius</subfield>
+    <subfield code="c"> : Rhodiginus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012956</subfield>
+    <subfield code="z">Ricchieri, Lodovico</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Celio</subfield>
+    <subfield code="c"> : Rodigino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013128</subfield>
+    <subfield code="z">Ricchieri, Lodovico</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Rhodiginus,</subfield>
+    <subfield code="b">Ludovicus Coelius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014908</subfield>
+    <subfield code="z">Ricchieri, Lodovico</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Apuleius,</subfield>
+    <subfield code="b">Lucius Caecilius Minutianus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023558</subfield>
+    <subfield code="z">Ricchieri, Lodovico</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Ricchieri,</subfield>
+    <subfield code="b">Ludovico</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023559</subfield>
+    <subfield code="z">Ricchieri, Lodovico</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Beroaldus,</subfield>
+    <subfield code="b">Philippus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026331</subfield>
+    <subfield code="z">Beroaldo, Filippo &lt;il vecchio&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Servius Honoratus,</subfield>
+    <subfield code="b">Maurus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015348</subfield>
+    <subfield code="z">Servius, Maurus Honoratus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Servius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020791</subfield>
+    <subfield code="z">Servius, Maurus Honoratus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Servius,</subfield>
+    <subfield code="b">Marius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020792</subfield>
+    <subfield code="z">Servius, Maurus Honoratus</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Schinzenzeler, Giovanni Angelo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005621</subfield>
+    <subfield code="z">Scinzenzeler, Giovanni Angelo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale centrale. Milano</subfield>
+    <subfield code="1">MI0162</subfield>
+    <subfield code="2">LO1 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Teresiana. Mantova</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">MN0035</subfield>
+    <subfield code="2">LO1 12</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario arcivescovile di Milano. Venegono Inferiore</subfield>
+    <subfield code="1">VA0122</subfield>
+    <subfield code="2">ZVA 04</subfield>
+  </datafield>
+</record>
+</collection>

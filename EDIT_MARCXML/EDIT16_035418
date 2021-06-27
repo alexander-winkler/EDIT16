@@ -1,0 +1,146 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02212nam0a2200385 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\035418</controlfield>
+  <controlfield tag="005">20100517000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">isis amsa iner tuta (3) 1579 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19980112d1579        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗D. Francisci Toleti Societatis Iesu ℗Commentaria vna cum quaestionibus in vniuersam Aristotelis Logicam. Addito insuper indice locupletissimo quaestionum</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud Hieronymum Polum</subfield>
+    <subfield code="d">1579</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\2!, 246, \4! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Toledo,</subfield>
+    <subfield code="b">Francisco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007074</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Aristoteles</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000006</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Polo, Girolamo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000547</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Toletus,</subfield>
+    <subfield code="b">Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009726</subfield>
+    <subfield code="z">Toledo, Francisco</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Aristotele</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018928</subfield>
+    <subfield code="z">Aristoteles</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Polus, Hieronymus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005464</subfield>
+    <subfield code="z">Polo, Girolamo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Polis, Hieronymus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005465</subfield>
+    <subfield code="z">Polo, Girolamo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei Frati minori dell&apos;Emilia. Sezione Biblioteca dell&apos;Osservanza. Bologna</subfield>
+    <subfield code="1">BO0336</subfield>
+    <subfield code="2">ZBO 41</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Francesco Trinchera senior. Ostuni</subfield>
+    <subfield code="1">BR0015</subfield>
+    <subfield code="2">BRI PA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Fossano</subfield>
+    <subfield code="1">CN0049</subfield>
+    <subfield code="2">TO0 52</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Fossano</subfield>
+    <subfield code="1">CN0157</subfield>
+    <subfield code="2">TO0 53</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei cappuccini. Foggia</subfield>
+    <subfield code="1">FG0045</subfield>
+    <subfield code="2">ZFG 09</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca regionale universitaria. Messina</subfield>
+    <subfield code="1">ME0050</subfield>
+    <subfield code="2">PAL BM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca e Archivio dell&apos;Istituto lombardo Accademia di scienze e lettere. Milano</subfield>
+    <subfield code="1">MI0306</subfield>
+    <subfield code="2">ZMI 26</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca capitolare del Duomo di Monza. Monza</subfield>
+    <subfield code="1">MI0375</subfield>
+    <subfield code="2">ZMI 21</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Oristano</subfield>
+    <subfield code="1">OR0037</subfield>
+    <subfield code="2">CAG CO</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca centrale dell&apos;Area umanistica dell&apos;Universit ̉degli studi di Urbino. Urbino</subfield>
+    <subfield code="1">PU0206</subfield>
+    <subfield code="2">URB AU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Carmelo La Rocca. Scicli</subfield>
+    <subfield code="1">RG0015</subfield>
+    <subfield code="2">ZRG 03</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000445</subfield>
+    <subfield code="b">Cerbero con due teste abbassate e una alzata per azzannare il cibo che gli viene lanciato da una mano.</subfield>
+    <subfield code="e">Vis vincitur arte.</subfield>
+    <subfield code="c">Q51</subfield>
+    <subfield code="c">V432</subfield>
+    <subfield code="c">Z230</subfield>
+    <subfield code="d">Dimensioni: 7,5 x 7</subfield>
+    <subfield code="f">CANE</subfield>
+    <subfield code="f">CERBERO</subfield>
+    <subfield code="f">CIBO</subfield>
+    <subfield code="f">MANO</subfield>
+    <subfield code="f">VISVINCITU</subfield>
+    <subfield code="g">1576-1599</subfield>
+  </datafield>
+</record>
+</collection>

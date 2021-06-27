@@ -1,0 +1,65 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01045nam0a22002051i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\053376</controlfield>
+  <controlfield tag="005">20021113000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">9592 s.c. s.x- Lada (3) 1570 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20021112d1570        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Hortulus animae suauissimis floribus resertus. In quo officium beatae Mariae, et defunctorum, ac septem psalmi poenitentiales, et graduales, atque officium quinque plagarum, et alia quam plurima sunt posita. Vt in sequenti tabula patet</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">\Luca Antonio Giunta</subfield>
+    <subfield code="d">2.!</subfield>
+    <subfield code="d">1570</subfield>
+    <subfield code="e">\Venezia!</subfield>
+    <subfield code="g">apud Iuntas</subfield>
+    <subfield code="h">1570</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\32!, 255, \1! c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d"></subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a"></subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Giunta, Lucantonio</subfield>
+    <subfield code="c"> &lt;1.&gt; - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000312</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">Tipografo non identificato</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003341</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Vallicelliana. Roma</subfield>
+    <subfield code="1">RM0281</subfield>
+    <subfield code="2">RML 08</subfield>
+  </datafield>
+</record>
+</collection>

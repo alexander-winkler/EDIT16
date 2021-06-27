@@ -1,0 +1,44 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00610na 0a22001451i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\072520</controlfield>
+  <controlfield tag="005">20080227000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20080227             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Alberti de Gandino ℗opus in materia maleficiorum vna cum apostillis ... Bernardini de Landriano Mediolanensis</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Gandino,</subfield>
+    <subfield code="b">Alberto</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005648</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Gandino,</subfield>
+    <subfield code="b">Alberto : da</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014051</subfield>
+    <subfield code="z">Gandino, Alberto</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Gandinus,</subfield>
+    <subfield code="b">Albertus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018978</subfield>
+    <subfield code="z">Gandino, Alberto</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Alberto</subfield>
+    <subfield code="c"> : da#Gandino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026558</subfield>
+    <subfield code="z">Gandino, Alberto</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

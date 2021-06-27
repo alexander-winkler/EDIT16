@@ -1,0 +1,83 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01145nam0a22002531i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\079824</controlfield>
+  <controlfield tag="005">20180206000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e.a: i.e: o.a- EtSc (C) 1520 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20180105d1520        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Triomphi di messer Francesco Petrarcha</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Stampati in Firenze</subfield>
+    <subfield code="g">per Bernardo Zuechetta</subfield>
+    <subfield code="g">apetitione di Francesco di Iacopo Cartolaio vocato il Conte</subfield>
+    <subfield code="h">adi XVIII di maggio 1520</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\46! c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Firenze</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Petrarca,</subfield>
+    <subfield code="b">Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001153</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Zucchetta, Bernardo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000213</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">Francesco di Iacopo cartolaio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000326</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Zuchetta, Bernardus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004196</subfield>
+    <subfield code="z">Zucchetta, Bernardo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Zucchecta, Bernardo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005844</subfield>
+    <subfield code="z">Zucchetta, Bernardo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Conte, Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002845</subfield>
+    <subfield code="z">Francesco di Iacopo cartolaio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Della_Spera, Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002846</subfield>
+    <subfield code="z">Francesco di Iacopo cartolaio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteche della Fondazione Giorgio Cini onlus. Venezia</subfield>
+    <subfield code="1">VE0239</subfield>
+    <subfield code="2">VEA FC</subfield>
+  </datafield>
+</record>
+</collection>

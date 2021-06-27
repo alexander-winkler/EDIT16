@@ -1,0 +1,88 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01392nam0a2200265 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\015613</controlfield>
+  <controlfield tag="005">19970101000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">V.e. n-re e-n- cina (3) 1600 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1600        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Statuti della venerabile Archicompagnia della Piet ̉de&apos; Carcerati eretta nella chiesa di San Giouanni della Pigna di Roma</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Roma</subfield>
+    <subfield code="c">per Antonio Facchetti</subfield>
+    <subfield code="d">1600</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">106, \5! p.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Roma</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Arciconfraternita della Piet ̉dei Carcerati in S. Giovanni della Pigna</subfield>
+    <subfield code="c"> &lt;Roma&gt;</subfield>
+    <subfield code="3">3267</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Facchetti, Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000967</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Arciconfraternita della Piet ̉dei Carcerati</subfield>
+    <subfield code="c"> &lt;Roma&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004142</subfield>
+    <subfield code="z">Arciconfraternita della Piet ̉dei Carcerati in S. Giovanni della Pigna &lt;Roma&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Archicompagnia della Piet ̉dei Carcerati</subfield>
+    <subfield code="c"> &lt;Roma&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004143</subfield>
+    <subfield code="z">Arciconfraternita della Piet ̉dei Carcerati in S. Giovanni della Pigna &lt;Roma&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Facchettus, Antonius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005066</subfield>
+    <subfield code="z">Facchetti, Antonio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Faqueto, Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005068</subfield>
+    <subfield code="z">Facchetti, Antonio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Camera dei deputati. Roma</subfield>
+    <subfield code="1">RM0175</subfield>
+    <subfield code="2">ZRM 77</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+</record>
+</collection>

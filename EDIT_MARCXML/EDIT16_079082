@@ -1,0 +1,33 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00434na 0a22001211i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\079082</controlfield>
+  <controlfield tag="005">20151127000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20151127             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Opusculum Philippi Beroaldi de terremotu et pestilentia, ...</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Beroaldo,</subfield>
+    <subfield code="b">Filippo</subfield>
+    <subfield code="c"> &lt;il vecchio&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000228</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Beroaldus,</subfield>
+    <subfield code="b">Philippus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026331</subfield>
+    <subfield code="z">Beroaldo, Filippo &lt;il vecchio&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

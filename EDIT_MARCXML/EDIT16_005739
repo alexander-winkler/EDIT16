@@ -1,0 +1,215 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>03629nam0a2200565 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\005739</controlfield>
+  <controlfield tag="005">20120820000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">iuim 60na n.l- pave (3) 1585 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1585        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Tractatus de compromissis faciendis inter coniunctos et de exceptionibus impedientibus litis ingressum: per claris. iureconsul. d. Marcum Antonium Blancum Patauinum: praefationibus, argumentis, summarijs, numeris, indiceque felici ad vnguem illustratus</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">\al segno della Concordia!</subfield>
+    <subfield code="d">1585</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\12!, 326 \i.e. 352! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Bianchi,</subfield>
+    <subfield code="b">Marcantonio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001715</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">℗al segno della ℗Concordia</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000531</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">℗Ad signum ℗Concordiae</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004656</subfield>
+    <subfield code="z">℗al segno della ℗Concordia</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Concordia, al segno della</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004658</subfield>
+    <subfield code="z">℗al segno della ℗Concordia</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Fabriano</subfield>
+    <subfield code="1">AN0033</subfield>
+    <subfield code="2">URB BF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca diocesana di Altamura - Gravina - Acquaviva delle Fonti. Gravina di Puglia</subfield>
+    <subfield code="1">BA0142</subfield>
+    <subfield code="2">BA1 16</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Fondazione Ettore Pomarici Santomasi. Gravina di Puglia</subfield>
+    <subfield code="1">BA0143</subfield>
+    <subfield code="2">BA1 25</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Giuridica Antonio Cicu - Alma Mater Studiorum - Universit ̉di Bologna. Bologna</subfield>
+    <subfield code="1">BO0036</subfield>
+    <subfield code="2">UBO IG</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale De Pace-Lombardi. Oria</subfield>
+    <subfield code="1">BR0012</subfield>
+    <subfield code="2">BRI PJ</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile Santa Maria della Pace. Cremona</subfield>
+    <subfield code="1">CR0061</subfield>
+    <subfield code="2">PBE 48</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Pio IX della Pontificia Universit ̉Lateranense. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0006</subfield>
+    <subfield code="2">ZCV 03</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Aurelio Saffi. Forl</subfield>
+    <subfield code="1">FC0018</subfield>
+    <subfield code="2">RAV FO</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Lelio Pasolini. Longiano</subfield>
+    <subfield code="1">FC0032</subfield>
+    <subfield code="2">RAV LP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Rubiconia Accademia dei Filopatridi. Savignano sul Rubicone</subfield>
+    <subfield code="1">FC0067</subfield>
+    <subfield code="2">RAV AF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Giovardiana. Veroli</subfield>
+    <subfield code="1">FR0072</subfield>
+    <subfield code="2">RMS G1</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Genova</subfield>
+    <subfield code="1">GE0038</subfield>
+    <subfield code="2">LIG 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale. Lucca</subfield>
+    <subfield code="1">LU0022</subfield>
+    <subfield code="2">LUA BL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Carpi</subfield>
+    <subfield code="1">MO0012</subfield>
+    <subfield code="2">MOD CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Filippo Rondinelli. Montalbano Jonico</subfield>
+    <subfield code="1">MT0033</subfield>
+    <subfield code="2">BAS FR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario Vescovile della Facolt ̉Teologica del Triveneto dell&apos;Istituto Filosofico Aloisianum. Padova</subfield>
+    <subfield code="1">PD0073</subfield>
+    <subfield code="2">PUV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Sperelliana. Gubbio</subfield>
+    <subfield code="1">PG0049</subfield>
+    <subfield code="2">UM1 11</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca diocesana. Todi</subfield>
+    <subfield code="1">PG0173</subfield>
+    <subfield code="2">PBE 33</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Guarnacci. Volterra</subfield>
+    <subfield code="1">PI0176</subfield>
+    <subfield code="2">RT1 QV</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Fondazione Cassa di risparmio di Parma e Monte di credito su pegno di Busseto. Busseto</subfield>
+    <subfield code="1">PR0007</subfield>
+    <subfield code="2">PAR BU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Fondazione Biblioteca S. Bernardino. Trento</subfield>
+    <subfield code="1">TN0122</subfield>
+    <subfield code="2">ZTN 18</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca generale dell&apos;Universit ̉degli studi di Trieste. Trieste</subfield>
+    <subfield code="1">TS0137</subfield>
+    <subfield code="2">TSA BG</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Treviso</subfield>
+    <subfield code="1">TV0113</subfield>
+    <subfield code="2">VIA TS</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Treviso</subfield>
+    <subfield code="1">TV0114</subfield>
+    <subfield code="2">VIA CT</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Bertoliana. Vicenza</subfield>
+    <subfield code="1">VI0096</subfield>
+    <subfield code="2">VIA BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dei frati minori cappuccini. Viterbo</subfield>
+    <subfield code="1">VT0071</subfield>
+    <subfield code="2">RMS M9</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000047</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000047</subfield>
+    <subfield code="b">Concordia (donna con la coppa nella mano destra e la cornucopia). Nel nastro: Concordia. In cornice figurata:</subfield>
+    <subfield code="c">Z377</subfield>
+    <subfield code="d">Dimensioni: 4,6 x 5</subfield>
+    <subfield code="f">CONCORDIA</subfield>
+    <subfield code="f">COPPA</subfield>
+    <subfield code="f">CORNUCOPIA</subfield>
+    <subfield code="g">1579-1599</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,131 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02015nam0a22003611i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\040390</controlfield>
+  <controlfield tag="005">20060330000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">I.s. der. e-t. tudu (3) 1571 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19981117d1571        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Allegationes iur. vtr. monarcae domini Lapi de Castiglionchio ... ab infinitis erroribus per d. Quintilianum Mandosium ... purgatae et cum eiusdem d.Quintiliani additionibus doctissimis pariter &amp; vtilissimis ... Additis ... allegationibus seu consilii eiusdem Lapi et aliorum quae in antiquis editionibus non habebantur ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud Ioannem Variscum &amp; socios</subfield>
+    <subfield code="d">1571</subfield>
+    <subfield code="e">Venetiis</subfield>
+    <subfield code="g">apud Ioannem Variscum &amp; socios</subfield>
+    <subfield code="h">1571</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">170, \10! c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Lapo</subfield>
+    <subfield code="c"> : da#Castiglionchio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009889</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Mandosio,</subfield>
+    <subfield code="b">Quintiliano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001221</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Varisco, Giovanni &amp; C.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002997</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Castiglionchio,</subfield>
+    <subfield code="b">Lapo : da</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013006</subfield>
+    <subfield code="z">Lapo : da#Castiglionchio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Mandosi,</subfield>
+    <subfield code="b">Quintiliano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020602</subfield>
+    <subfield code="z">Mandosio, Quintiliano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Mandosius,</subfield>
+    <subfield code="b">Quintilianus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020603</subfield>
+    <subfield code="z">Mandosio, Quintiliano</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Guarisco, Giovanni &amp; C.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\006428</subfield>
+    <subfield code="z">Varisco, Giovanni &amp; C.</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a"></subfield>
+    <subfield code="1">BS0156</subfield>
+    <subfield code="2">ZBS 07</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Cagliari</subfield>
+    <subfield code="1">CA0194</subfield>
+    <subfield code="2">CAG UC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Genova</subfield>
+    <subfield code="1">GE0038</subfield>
+    <subfield code="2">LIG 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Federiciana. Fano</subfield>
+    <subfield code="1">PU0018</subfield>
+    <subfield code="2">URB FN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Manfrediana. Faenza</subfield>
+    <subfield code="1">RA0016</subfield>
+    <subfield code="2">RAV FA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca diocesana San Pier Crisologo. Ravenna</subfield>
+    <subfield code="1">RA0037</subfield>
+    <subfield code="2">PBE 38</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Accademia Alfonsiana. Roma</subfield>
+    <subfield code="1">RM0271</subfield>
+    <subfield code="2">ZRM 03</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">British Library. London</subfield>
+    <subfield code="1">UK0001</subfield>
+  </datafield>
+</record>
+</collection>

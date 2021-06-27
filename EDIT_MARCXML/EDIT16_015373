@@ -1,0 +1,152 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02716nam0a2200397 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\015373</controlfield>
+  <controlfield tag="005">20081022000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">i-di tozi a.vn chma (3) 1550 (A)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">a-e; iase e.la vano (3) 1550 (A)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">2</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e.no o.na o-a- vnpr (3) 1550 (A)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">3</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">rone o.ti rati l&apos;Eu (3) 1550 (A)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">4</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1550        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Le ℗tre commedie e la Nice di Luca Contile</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Milano</subfield>
+    <subfield code="c">per Francesco Marchesino</subfield>
+    <subfield code="d">1550</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">4 pt.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1: A c. A1r: La comedia del Contile chiamata la Pescara. \Milano : Valerio Meda &amp; fratelli!. - 2: Comedia del Contile chiamata la Cesarea Gonzaga. \Milano : Valerio Meda &amp; fratelli! (In Milano : per Francesco Marchesino, il di x. d&apos;ottobre 1550). - 3: Comedia del Contile chiamata la Trinozzia. \Milano : Valerio Meda &amp; fratelli! (In Milano : per Francesco Marchesino, il di 12. di nouembre 1550). -  4: La Nice di messer Luca Contile, breuemente comentata dal signor caualiero Vendramini. (\Milano : Valerio Meda &amp; fratelli!)</subfield>
+  </datafield>
+  <datafield tag="423" ind1=" " ind2="0">
+    <subfield code="1">001IT\ICCU\CNCE\073488</subfield>
+    <subfield code="1">2001 </subfield>
+    <subfield code="a">℗La ℗comedia del Contile chiamata la Pescara</subfield>
+  </datafield>
+  <datafield tag="423" ind1=" " ind2="0">
+    <subfield code="1">001IT\ICCU\CNCE\073489</subfield>
+    <subfield code="1">2001 </subfield>
+    <subfield code="a">Comedia del Contile chiamata la Cesarea Gonzaga.</subfield>
+  </datafield>
+  <datafield tag="423" ind1=" " ind2="0">
+    <subfield code="1">001IT\ICCU\CNCE\073490</subfield>
+    <subfield code="1">2001 </subfield>
+    <subfield code="a">Comedia del Contile chiamata la Trinozzia.</subfield>
+  </datafield>
+  <datafield tag="423" ind1=" " ind2="0">
+    <subfield code="1">001IT\ICCU\CNCE\073491</subfield>
+    <subfield code="1">2001 </subfield>
+    <subfield code="a">℗La ℗Nice di messer Luca Contile, breuemente comentata dal signor caualiero Vendramini</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Milano</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Contile,</subfield>
+    <subfield code="b">Luca</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003469</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Meda, Valerio &amp; fratelli</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000443</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Marchesino, Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001544</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Furioso Accademico Intronato</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014280</subfield>
+    <subfield code="z">Contile, Luca</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Guidato Accademico Affidato</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014302</subfield>
+    <subfield code="z">Contile, Luca</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Marchisinus, Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003959</subfield>
+    <subfield code="z">Marchesino, Francesco</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Marchesini, Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005025</subfield>
+    <subfield code="z">Marchesino, Francesco</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sui front. e in fine.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001256</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Nel coloph. dei v. 2 e 3</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000474</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001256</subfield>
+    <subfield code="b">Vigilanza (donna appoggiata a colonna con una mela nella mano destra e un serpente nella sinistra. In cornice con il motto.</subfield>
+    <subfield code="e">Neque vi neque dolo</subfield>
+    <subfield code="c">Z1199</subfield>
+    <subfield code="d">Dimensioni: 6 x 7,8</subfield>
+    <subfield code="f">NEQUEVINQU</subfield>
+    <subfield code="f">VIGILANZA</subfield>
+    <subfield code="f">DONNA</subfield>
+    <subfield code="f">SERPENTE</subfield>
+    <subfield code="f">MELA</subfield>
+    <subfield code="g">1550-1558</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000474</subfield>
+    <subfield code="b">Ancora con delfino in cerchio sormontato da croce doppia. Iniziali: F. M.</subfield>
+    <subfield code="c">Z54</subfield>
+    <subfield code="f">ANCORA</subfield>
+    <subfield code="f">CERCHIO</subfield>
+    <subfield code="f">CROCE</subfield>
+    <subfield code="f">DELFINO</subfield>
+    <subfield code="f">F.M.</subfield>
+    <subfield code="g">1550</subfield>
+  </datafield>
+</record>
+</collection>

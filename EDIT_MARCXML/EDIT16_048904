@@ -1,0 +1,137 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02028nam0a2200361 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\048904</controlfield>
+  <controlfield tag="005">20080207000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">Map- e-i- uoa. bail (3) 1581 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19990917d1581        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Manipulus curatorum, sommamente necessario ad ogni sacerdote. Al quale s&apos;  ̈aggionto lo Specchio di chiesa del reuerendissimo cardinale Vgone primo, doue sono compresi tutti i misterij della messa</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Venetia</subfield>
+    <subfield code="c">appresso gli heredi di Marchi ̣Sessa</subfield>
+    <subfield code="d">1581</subfield>
+    <subfield code="e">In Venetia</subfield>
+    <subfield code="g">appresso Domenico Caualcalupo</subfield>
+    <subfield code="h">1581</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">256 c.</subfield>
+    <subfield code="d">16ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">L&apos;autore dello Specchio della Chiesa  ̈Hugues de Saint-Cher</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Guido</subfield>
+    <subfield code="c"> : de#Monte Rocherii</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006379</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Hugues</subfield>
+    <subfield code="c"> : de#Saint-Cher</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005747</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Sessa, Melchiorre</subfield>
+    <subfield code="c"> &lt;1.&gt; - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000242</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Cavalcalupo, Domenico</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000040</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Montrocher,</subfield>
+    <subfield code="b">Gui : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006380</subfield>
+    <subfield code="z">Guido : de#Monte Rocherii</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Guy</subfield>
+    <subfield code="c"> : de#Montrocher</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020124</subfield>
+    <subfield code="z">Guido : de#Monte Rocherii</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Hugo</subfield>
+    <subfield code="c"> : de#Sancto Charo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006381</subfield>
+    <subfield code="z">Hugues : de#Saint-Cher</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Ugo</subfield>
+    <subfield code="c"> : di#San Caro</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014447</subfield>
+    <subfield code="z">Hugues : de#Saint-Cher</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Cavalcalovo, Domenico</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003665</subfield>
+    <subfield code="z">Cavalcalupo, Domenico</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Cavalcalupus, Dominicus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004550</subfield>
+    <subfield code="z">Cavalcalupo, Domenico</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale. Lucca</subfield>
+    <subfield code="1">LU0022</subfield>
+    <subfield code="2">LUA BL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Urbania</subfield>
+    <subfield code="1">PU0095</subfield>
+    <subfield code="2">URB UR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale Melchiorre Delfico. Teramo</subfield>
+    <subfield code="1">TE0024</subfield>
+    <subfield code="2">ABR R1</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Fondazione Biblioteca S. Bernardino. Trento</subfield>
+    <subfield code="1">TN0122</subfield>
+    <subfield code="2">ZTN 18</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001133</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001133</subfield>
+    <subfield code="b">Gatta con topo in bocca allatta un gattino. In cornice figurata. Iniziali M.S.</subfield>
+    <subfield code="e">Imparibus dissidii satis</subfield>
+    <subfield code="c">U143</subfield>
+    <subfield code="d">Dimensioni: 3,5 x 3,5</subfield>
+    <subfield code="f">GATTA</subfield>
+    <subfield code="f">TOPO</subfield>
+    <subfield code="f">MS</subfield>
+    <subfield code="g">1570-1599</subfield>
+  </datafield>
+</record>
+</collection>

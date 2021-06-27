@@ -1,0 +1,87 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01369nam0a2200265 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\039300</controlfield>
+  <controlfield tag="005">20050718000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">unuo e.ee alle ctop (C) 1549 (Q)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19981031f1549        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Descrittione de i luoghi antichi di Napoli e del suo amenissimo distreto per Benedetto Di Falco napolitano</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Napoli</subfield>
+    <subfield code="c">appresso Gio. Francesco Sugganappo</subfield>
+    <subfield code="d">\prima del 1549!</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\58! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Per la data cfr.: P. Manzi, La tipografia napoletana nel &apos;500. Annali di Giovanni Paolo Suganappo, Raimondo Amato, Giovanni De Boy, Giovanni Maria Scotto e tipografi minori, p. 33</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Napoli</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Di_Falco,</subfield>
+    <subfield code="b">Benedetto</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004824</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Suganappo, Giovanni Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003449</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Falco,</subfield>
+    <subfield code="b">Benedetto : di</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013975</subfield>
+    <subfield code="z">Di_Falco, Benedetto</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Benedetto</subfield>
+    <subfield code="c"> : Falcone</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015354</subfield>
+    <subfield code="z">Di_Falco, Benedetto</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Sugganappo, Giovanni Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005755</subfield>
+    <subfield code="z">Suganappo, Giovanni Francesco</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca di archeologia e storia dell&apos;arte. Roma</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">RM0117</subfield>
+    <subfield code="2">BVE BA</subfield>
+  </datafield>
+</record>
+</collection>

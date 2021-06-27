@@ -1,0 +1,110 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01489nam0a22003131i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\060754</controlfield>
+  <controlfield tag="005">20190626000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">ima- 8.q; i-is emsu (3) 1598 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20050722d1598        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Tractatus tres Virginii de Boccatiis a Cingulo i.u.c. Romani ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Romae</subfield>
+    <subfield code="c">ex Bibliotheca Iulij de Burchionibus</subfield>
+    <subfield code="c">typis Antonij Zannetti</subfield>
+    <subfield code="d">1598</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">142, 79, 86 p.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Roma</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Boccacci,</subfield>
+    <subfield code="b">Virginio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001781</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Burchioni, Giulio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001361</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Zanetti, Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000880</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Boccatiis,</subfield>
+    <subfield code="b">Virginius : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007993</subfield>
+    <subfield code="z">Boccacci, Virginio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Virginius</subfield>
+    <subfield code="c"> : de#Boccatiis : a#Cingulo romanus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012724</subfield>
+    <subfield code="z">Boccacci, Virginio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Boccatiis de Cingulo,</subfield>
+    <subfield code="b">Verginius : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\017770</subfield>
+    <subfield code="z">Boccacci, Virginio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Burchionibus, Iulius de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004791</subfield>
+    <subfield code="z">Burchioni, Giulio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Burchionus, Iulius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004792</subfield>
+    <subfield code="z">Burchioni, Giulio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Zannetti, Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003869</subfield>
+    <subfield code="z">Zanetti, Antonio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Zannetus, Antonius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005780</subfield>
+    <subfield code="z">Zanetti, Antonio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Zannettus, Antonius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005781</subfield>
+    <subfield code="z">Zanetti, Antonio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca regionale universitaria. Messina</subfield>
+    <subfield code="1">ME0050</subfield>
+    <subfield code="2">PAL BM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Pio sodalizio dei piceni. Roma</subfield>
+    <subfield code="1">RM0420</subfield>
+    <subfield code="2">ZRM 60</subfield>
+  </datafield>
+</record>
+</collection>

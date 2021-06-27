@@ -1,0 +1,109 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01544nam0a22003131i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\072366</controlfield>
+  <controlfield tag="005">20080122000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">ite- i,e- ino- amst (7) 1599 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20080122d1599        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Arcadia di m. Iacopo Sannazaro, nuouamente corretta, &amp; ornata d&apos; alcune annotationi da Tommaso Porcacchi. Con la vita dell&apos;auttore descritta dal medesimo, &amp; con la dichiaratione di tutte le voci oscure, che sono nell&apos;opera</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Venetia</subfield>
+    <subfield code="c">appresso Domenico Farri</subfield>
+    <subfield code="d">1599</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">280, \8! p.</subfield>
+    <subfield code="d">12ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Sannazzaro,</subfield>
+    <subfield code="b">Iacopo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002217</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Porcacchi,</subfield>
+    <subfield code="b">Tommaso</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000149</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Farri, Domenico</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000035</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Actius Syncerus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013494</subfield>
+    <subfield code="z">Sannazzaro, Iacopo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Sannazaro,</subfield>
+    <subfield code="b">Iacopo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023607</subfield>
+    <subfield code="z">Sannazzaro, Iacopo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Porcacchi da Castiglione,</subfield>
+    <subfield code="b">Tomaso</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014928</subfield>
+    <subfield code="z">Porcacchi, Tommaso</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Farris, Dominicus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005455</subfield>
+    <subfield code="z">Farri, Domenico</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Farreus, Dominicus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005459</subfield>
+    <subfield code="z">Farri, Domenico</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Farris, Domingo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005462</subfield>
+    <subfield code="z">Farri, Domenico</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a"></subfield>
+    <subfield code="1">BS0156</subfield>
+    <subfield code="2">ZBS 07</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Forl</subfield>
+    <subfield code="1">FC0021</subfield>
+    <subfield code="2">ZFC 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Alagoniana. Siracusa</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">SR0052</subfield>
+    <subfield code="2">SBS AL</subfield>
+  </datafield>
+</record>
+</collection>

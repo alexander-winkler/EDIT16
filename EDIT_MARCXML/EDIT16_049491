@@ -1,0 +1,112 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01620nam0a22003131i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\049491</controlfield>
+  <controlfield tag="005">20100301000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">i-in e,e, rati Napo (3) 1556 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19991029d1556        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Arcadia del Sannazaro. Di nuouo ristampata et ritornata alla sua vera lettione. Da m. Lodouico Dolce</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Vinegia</subfield>
+    <subfield code="d">1556</subfield>
+    <subfield code="e">In Vinegia</subfield>
+    <subfield code="g">per Francesco Rampazetto</subfield>
+    <subfield code="h">1556</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">72 c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Sannazzaro,</subfield>
+    <subfield code="b">Iacopo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002217</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Dolce,</subfield>
+    <subfield code="b">Lodovico</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000014</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Rampazetto, Francesco</subfield>
+    <subfield code="c"> &lt;1.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000034</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Actius Syncerus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013494</subfield>
+    <subfield code="z">Sannazzaro, Iacopo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Sannazaro,</subfield>
+    <subfield code="b">Iacopo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023607</subfield>
+    <subfield code="z">Sannazzaro, Iacopo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Dulcius,</subfield>
+    <subfield code="b">Ludovicus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018398</subfield>
+    <subfield code="z">Dolce, Lodovico</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Dolci,</subfield>
+    <subfield code="b">Lodovico</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018400</subfield>
+    <subfield code="z">Dolce, Lodovico</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Rampazzetto Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005286</subfield>
+    <subfield code="z">Rampazetto, Francesco &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Rampazetus, Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005287</subfield>
+    <subfield code="z">Rampazetto, Francesco &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica di Mondov. Mondov</subfield>
+    <subfield code="1">CN0065</subfield>
+    <subfield code="2">TO0 55</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Accademia della Crusca. Firenze</subfield>
+    <subfield code="1">FI0054</subfield>
+    <subfield code="2">UFI AC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca centrale dell&apos;Area umanistica dell&apos;Universit ̉degli studi di Urbino. Urbino</subfield>
+    <subfield code="1">PU0206</subfield>
+    <subfield code="2">URB AU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei frati minori Cappuccini (in deposito presso la Biblioteca provinciale dei frati minori Cappuccini di Bologna). Reggio Emilia</subfield>
+    <subfield code="1">RE0051</subfield>
+    <subfield code="2">PBE 07</subfield>
+  </datafield>
+</record>
+</collection>

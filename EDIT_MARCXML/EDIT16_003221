@@ -1,0 +1,68 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01567nam0a2200229 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\003221</controlfield>
+  <controlfield tag="005">20181210000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">sep- *.e. isca east (3) 1513 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1513        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Articella. Ista sunt opera que in hoc preclaro libro continentur. Primo est liber joannitij qui dicitur isagoge in greco. Secundo libellus de pulsibus philareti. Tertio est libellus Theophili de vrinis. Quarto sunt hyppocratis aphorismi in ordinem collecti. Quinto sunt aphorismi eiusdem cum commento Galieni. Sexto liber pronosticorum cum translatione noua &amp; antiqua. Septimo liber regiminis acutorum continens quattuor particulas. Octauo est liber epidimiarum hyppocratis cum commento 8. particulas continens. Nono est libellus hyppocratis qui intitulatur de natura fetus. Decimo liber Galieni qui dicitur tegni siue ars parua. Undecimo libellus Gentilis de fnlgineo \i.e. Fulgineo! de diuisione &amp;c. Duodecimo libellus qui dicitur iusiurandum</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Venetijs</subfield>
+    <subfield code="h">1513</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">6 \i.e. 7!, \1!, 136, 49, \3! c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2="1">
+    <subfield code="3">IT\ICCU\CNCE\003217</subfield>
+    <subfield code="a">Articella</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">s.n.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000002</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca estera - Bayerische StaatsBibliothek. Muenchen</subfield>
+    <subfield code="1">AA0008</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Luciano Benincasa. Ancona</subfield>
+    <subfield code="1">AN0001</subfield>
+    <subfield code="2">URB BA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Ariostea. Ferrara</subfield>
+    <subfield code="1">FE0017</subfield>
+    <subfield code="2">UFE AR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca centrale della Regione siciliana Alberto Bombace. Palermo</subfield>
+    <subfield code="1">PA0064</subfield>
+    <subfield code="2">PAL BP</subfield>
+  </datafield>
+</record>
+</collection>

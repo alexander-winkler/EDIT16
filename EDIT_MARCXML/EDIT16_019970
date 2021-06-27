@@ -1,0 +1,173 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02730nam0a2200457 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\019970</controlfield>
+  <controlfield tag="005">20071113000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">inu- 8339 t,bi quha (3) 1565 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1565        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Institutionum medicinae, ad Hippocratis, Galeni, aliorumque veterum scripta recte intelligenda mire utiles libri quinque, Leonharto Fuchsio medico, et scholae Tubigensis professoris publico, autore. E&apos; quibus ita multa prioris editionibus menda sublata sunt, ut nunc primum in lucem exire uideantur. Index rerum, &amp; locorum insignium</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud Vincentium Valgrisium</subfield>
+    <subfield code="d">1565</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\40!, 554, \6! p.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Fuchs,</subfield>
+    <subfield code="b">Leonhard</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005599</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Valgrisi, Vincenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000062</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Fuchs,</subfield>
+    <subfield code="b">Leonhart</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022242</subfield>
+    <subfield code="z">Fuchs, Leonhard</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Vaugris, Vincenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002740</subfield>
+    <subfield code="z">Valgrisi, Vincenzo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Officina Erasmiana</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002921</subfield>
+    <subfield code="z">Valgrisi, Vincenzo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Valgrisius, Vincentius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005845</subfield>
+    <subfield code="z">Valgrisi, Vincenzo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Valgrisio, Vincenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005846</subfield>
+    <subfield code="z">Valgrisi, Vincenzo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Casale Monferrato</subfield>
+    <subfield code="1">AL0024</subfield>
+    <subfield code="2">TO0 L2</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Sagarriga Visconti-Volpi. Bari</subfield>
+    <subfield code="1">BA0018</subfield>
+    <subfield code="2">BA1 BA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica A. Mai. Bergamo</subfield>
+    <subfield code="1">BG0026</subfield>
+    <subfield code="2">LO1 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Cuneo</subfield>
+    <subfield code="1">CN0037</subfield>
+    <subfield code="2">TO0 50</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca regionale universitaria. Catania</subfield>
+    <subfield code="1">CT0062</subfield>
+    <subfield code="2">PAL BC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca medica - IRCCS AOU San Martino/IST. Genova</subfield>
+    <subfield code="1">GE0037</subfield>
+    <subfield code="2">ZGE 20</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Filelfica. Tolentino</subfield>
+    <subfield code="1">MC0082</subfield>
+    <subfield code="2">UMC BT</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Pavia</subfield>
+    <subfield code="1">PV0291</subfield>
+    <subfield code="2">MIL UP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Vallicelliana. Roma</subfield>
+    <subfield code="1">RM0281</subfield>
+    <subfield code="2">RML 08</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Dipartimento di medicina sperimentale e patologia. Sezione di storia della medicina. Roma</subfield>
+    <subfield code="1">RM0934</subfield>
+    <subfield code="2">RMS M3</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Gaetano Baccari. Lendinara</subfield>
+    <subfield code="1">RO0031</subfield>
+    <subfield code="2">ROV LE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Terni</subfield>
+    <subfield code="1">TR0032</subfield>
+    <subfield code="2">UM1 09</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Collezione privata Casagrande. San Don ̉di Piave</subfield>
+    <subfield code="1">VE0259</subfield>
+    <subfield code="2">ZVE 20</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Vicenza</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">VI0101</subfield>
+    <subfield code="2">PBE D1</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca capitolare. Verona</subfield>
+    <subfield code="1">VR0056</subfield>
+    <subfield code="2">VIA VC</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001167</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001167</subfield>
+    <subfield code="b">Serpente attorcigliato a bastone a forma di tau sostenuto da mani uscenti da nuvole. Scritta: Vincen. o Vincent.</subfield>
+    <subfield code="c">U186</subfield>
+    <subfield code="d">Dimensioni: 2,5 x 3</subfield>
+    <subfield code="f">SERPENTE</subfield>
+    <subfield code="f">BASTONE</subfield>
+    <subfield code="f">VINCEN</subfield>
+    <subfield code="f">MANI</subfield>
+    <subfield code="g">1553-1569</subfield>
+  </datafield>
+</record>
+</collection>

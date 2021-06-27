@@ -1,0 +1,125 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01781nam0a2200349 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\004294</controlfield>
+  <controlfield tag="005">19970101000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">umta 8382 s.s. puLu (3) 1598 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1598        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">De ratione quantitatis syllabariae liber ... Roberti Vuidii De Graecis dialectis libellus ... Georgii Fedri De carminib.artificiose componendis praecepta. Eiusdem Bartelonaei Syntaxis Latina ... Accesit denique Thomae Corraeae, De prosodia, et versus componendi ratione, libellus</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud Mattheum Valentinum</subfield>
+    <subfield code="d">1598</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\18!, 263, \1! c.</subfield>
+    <subfield code="d">12ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Bartelon,</subfield>
+    <subfield code="b">Pantalǒn</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001407</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Vuidius,</subfield>
+    <subfield code="b">Robertus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001030</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Correia,</subfield>
+    <subfield code="b"></subfield>
+    <subfield code="3">IT\ICCU\CNCA\001031</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Sabinus,</subfield>
+    <subfield code="b">Georgius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001032</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Valentini, Matteo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000540</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Bartolomeus,</subfield>
+    <subfield code="b">Pantaleon</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012583</subfield>
+    <subfield code="z">Bartelon, Pantalǒn</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Corraea,</subfield>
+    <subfield code="b">Thomas</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013998</subfield>
+    <subfield code="z"></subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Correia,</subfield>
+    <subfield code="b">Toms̉</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014010</subfield>
+    <subfield code="z"></subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Schler,</subfield>
+    <subfield code="b">Georg</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014708</subfield>
+    <subfield code="z">Sabinus, Georgius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Georgius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023876</subfield>
+    <subfield code="z">Sabinus, Georgius</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Valentinus, Matthias</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005725</subfield>
+    <subfield code="z">Valentini, Matteo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Valentino, Mattio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005726</subfield>
+    <subfield code="z">Valentini, Matteo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei cappuccini. Palermo</subfield>
+    <subfield code="1">PA0092</subfield>
+    <subfield code="2">PAL 66</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Archivio di Stato di Perugia. Perugia</subfield>
+    <subfield code="1">PG0103</subfield>
+    <subfield code="2">UM1 50</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Manfrediana. Faenza</subfield>
+    <subfield code="1">RA0016</subfield>
+    <subfield code="2">RAV FA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca  Panizzi. Reggio Emilia</subfield>
+    <subfield code="1">RE0052</subfield>
+    <subfield code="2">RE2 PA</subfield>
+  </datafield>
+</record>
+</collection>

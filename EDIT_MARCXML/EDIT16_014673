@@ -1,0 +1,70 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00901nam0a22002291i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\014673</controlfield>
+  <controlfield tag="005">20190226000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">cue- c*n- m-n- IoDe (3) 1561 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1561        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Decreta sacrosanti oecumenici et generalis Concilii Tridentini ... Cum indice dogmatum, et reformationis</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">\Paolo Manuzio!</subfield>
+    <subfield code="d">1561</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">168 \i.e. 184!, \32! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">ACCORPATA alla 13015</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="710" ind1="1" ind2="2">
+    <subfield code="a">Concilio di Trento</subfield>
+    <subfield code="c"> &lt;1545-1563&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003434</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Manuzio, Paolo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000570</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Concilium Tridentinum</subfield>
+    <subfield code="c"> &lt;1545-1563&gt;</subfield>
+    <subfield code="3">8382</subfield>
+    <subfield code="z">Concilio di Trento &lt;1545-1563&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Manutius, Paulus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005020</subfield>
+    <subfield code="z">Manuzio, Paolo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Manutio, Paolo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005021</subfield>
+    <subfield code="z">Manuzio, Paolo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

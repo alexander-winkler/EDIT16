@@ -1,0 +1,122 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01688nam0a2200349 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\015046</controlfield>
+  <controlfield tag="005">20190201000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">isis i.s. o-ri dede (3) 1505 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1505        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Compendium deprecationum cum multis orationibus nouiter additis</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">In Venetijs</subfield>
+    <subfield code="g">ere &amp; impensa Benedicti Veneti dicti il Paduano</subfield>
+    <subfield code="g">industria Jacobi Pentij</subfield>
+    <subfield code="h">1505 Idibus Aprilis</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\20!, 296 c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">Benedetto Padovano</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001670</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Penzio, Giacomo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000345</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Benedictus Venetus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003633</subfield>
+    <subfield code="z">Benedetto Padovano</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Paduano, Benedetto</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003634</subfield>
+    <subfield code="z">Benedetto Padovano</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Venetus, Benedictus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003635</subfield>
+    <subfield code="z">Benedetto Padovano</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Benedictus Venetus dictus il Paduano</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004335</subfield>
+    <subfield code="z">Benedetto Padovano</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pencio, Giacomo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002482</subfield>
+    <subfield code="z">Penzio, Giacomo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Iacobus de Leuco</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002483</subfield>
+    <subfield code="z">Penzio, Giacomo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pentius, Iacobus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002484</subfield>
+    <subfield code="z">Penzio, Giacomo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Iacobo da Lecco</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002485</subfield>
+    <subfield code="z">Penzio, Giacomo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pencius, Iacobus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005360</subfield>
+    <subfield code="z">Penzio, Giacomo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pentio, Iacomo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005362</subfield>
+    <subfield code="z">Penzio, Giacomo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Penzi, Iacomo di</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005364</subfield>
+    <subfield code="z">Penzio, Giacomo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Penci, Iacobo de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005366</subfield>
+    <subfield code="z">Penzio, Giacomo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario arcivescovile maggiore. Firenze</subfield>
+    <subfield code="1">FI0056</subfield>
+    <subfield code="2">RT1 QM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Treviso</subfield>
+    <subfield code="1">TV0114</subfield>
+    <subfield code="2">VIA CT</subfield>
+  </datafield>
+</record>
+</collection>

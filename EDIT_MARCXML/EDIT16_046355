@@ -1,0 +1,106 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01545nam0a2200301 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\046355</controlfield>
+  <controlfield tag="005">20160524000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">n-e, e,na cata losa (C) 1540 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19990201d1540        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Herbolario volgare, nel qual e le virtu de le herbe, &amp; molti altri simplici se dechiarano, con alcune belle aggionte nouamente de latino in volgare tradotto</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Stampato ne la citta di Venetia</subfield>
+    <subfield code="g">per Gioanni Maria Palamides</subfield>
+    <subfield code="h">1540</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\180! c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2="1">
+    <subfield code="3">IT\ICCU\CNCE\022577</subfield>
+    <subfield code="a">Herbarius</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Arnaldus</subfield>
+    <subfield code="c"> : de#Villanova</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000885</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Palamides, Giovanni Maria</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001391</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Arnaldo</subfield>
+    <subfield code="c"> : de#Vilanova</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012263</subfield>
+    <subfield code="z">Arnaldus : de#Villanova</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Arnoldus</subfield>
+    <subfield code="c"> : Novicomensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012265</subfield>
+    <subfield code="z">Arnaldus : de#Villanova</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Soler Pla,</subfield>
+    <subfield code="b">Juan</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012266</subfield>
+    <subfield code="z">Arnaldus : de#Villanova</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Vilanova,</subfield>
+    <subfield code="b">Arnau : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012267</subfield>
+    <subfield code="z">Arnaldus : de#Villanova</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Giulio Gabrielli. Ascoli Piceno</subfield>
+    <subfield code="1">AP0006</subfield>
+    <subfield code="2">UMC AP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Filelfica. Tolentino</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">MC0082</subfield>
+    <subfield code="2">UMC BT</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca delle Facolt ̉di giurisprudenza e di lettere e filosofia dell&apos;Universit ̉degli studi di Milano. Milano</subfield>
+    <subfield code="1">MI0190</subfield>
+    <subfield code="2">USM A6</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Teresiana. Mantova</subfield>
+    <subfield code="1">MN0035</subfield>
+    <subfield code="2">LO1 12</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Palermo</subfield>
+    <subfield code="1">PA0063</subfield>
+    <subfield code="2">PA1 CP</subfield>
+  </datafield>
+</record>
+</collection>

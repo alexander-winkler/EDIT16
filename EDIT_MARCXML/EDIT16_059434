@@ -1,0 +1,44 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00593nam0a22001691i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\059434</controlfield>
+  <controlfield tag="005">20041019000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20041015d1513        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">FR</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Valerius Maximus</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Lugduni</subfield>
+    <subfield code="c">per Iacobum Marescall</subfield>
+    <subfield code="d">die VIII Martii 1513</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">8ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">StranieraContraffazione dell&apos;edizione aldina del 1502. Cfr. J.G.T. Graesse, Tršor des livres rares ... v. 7, p. 244</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Valerius Maximus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001232</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Valerio Massimo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024512</subfield>
+    <subfield code="z">Valerius Maximus</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

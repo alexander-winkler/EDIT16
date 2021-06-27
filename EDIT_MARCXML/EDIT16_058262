@@ -1,0 +1,132 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02018nam0a22003491i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\058262</controlfield>
+  <controlfield tag="005">20131119000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">t.m, Bo*- teim cadi (C) 1594 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20040518d1594        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Oratio habita a Hieronymo Piccolomineo Senense Aeneae filio Patauij in ecclesia cathedrali. De laudibus Nicolai Bolizzae patritij Ascriuiensis, 8. Id. Sept. anni 1593. Quo die illustribus rectoratus insignibus est ornatus</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Patauii</subfield>
+    <subfield code="c">apud Laurentium Pasquatum</subfield>
+    <subfield code="d">typographum almae Vniuersitatis Iuristarum</subfield>
+    <subfield code="d">1594</subfield>
+    <subfield code="e">Patauii</subfield>
+    <subfield code="g">apud Laurentium Pasquatum</subfield>
+    <subfield code="h">typographum almae Vniuersitatis Iuristarum</subfield>
+    <subfield code="h">1594</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\12! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Padova</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Piccolomini,</subfield>
+    <subfield code="b">Girolamo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\017741</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Bolizza,</subfield>
+    <subfield code="b"></subfield>
+    <subfield code="3">IT\ICCU\CNCA\001806</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Pasquato, Lorenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000004</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Piccolomineus,</subfield>
+    <subfield code="b">Hieronymus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\028804</subfield>
+    <subfield code="z">Piccolomini, Girolamo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Paschatius, Laurentius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002466</subfield>
+    <subfield code="z">Pasquato, Lorenzo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pasqualius, Laurentius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004022</subfield>
+    <subfield code="z">Pasquato, Lorenzo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pasquale, Lorenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004023</subfield>
+    <subfield code="z">Pasquato, Lorenzo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pasquatus, Laurentius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005296</subfield>
+    <subfield code="z">Pasquato, Lorenzo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pasquatius, Laurentius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005297</subfield>
+    <subfield code="z">Pasquato, Lorenzo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pasquatto, Lorenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005298</subfield>
+    <subfield code="z">Pasquato, Lorenzo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pasquati, Lorenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005299</subfield>
+    <subfield code="z">Pasquato, Lorenzo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Padova</subfield>
+    <subfield code="1">PD0090</subfield>
+    <subfield code="2">PUV 55</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Arcivescovile. Udine</subfield>
+    <subfield code="1">UD0100</subfield>
+    <subfield code="2">ZUD 11</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Marciana. Venezia</subfield>
+    <subfield code="1">VE0049</subfield>
+    <subfield code="2">VEA BM</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001001</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001001</subfield>
+    <subfield code="b">Angelo con gigli nella mano sinistra. In cornice figurata</subfield>
+    <subfield code="e">Hi sunt administratorii spiritus - Humilis sicut lilium germinabit.</subfield>
+    <subfield code="c">U85</subfield>
+    <subfield code="d">Dimensioni: 4,5 x 5,5</subfield>
+    <subfield code="f">ANGELO</subfield>
+    <subfield code="f">HISUNTADMI</subfield>
+    <subfield code="f">GIGLI</subfield>
+    <subfield code="g">1563-1599</subfield>
+  </datafield>
+</record>
+</collection>

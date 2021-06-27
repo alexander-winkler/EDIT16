@@ -1,0 +1,112 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01597nam0a22003251i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\077089</controlfield>
+  <controlfield tag="005">20120329000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">rues s,i- s-ra dove (C) 1527 (Q)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20111125f1527        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Bulla erectionis officii dominorum militum s. Petri de numero participantium nuncupatorum quamplurimis priuilegiis decorati</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="d">\non prima del 1527!</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\26! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">La data si ricava da c. F6. - Pubblicato probabilmente a Roma. - A c. E3 con front. proprio: Bulla Clementis pape VII confirmationis institutionis Collegii militum sancti Petri &amp; aliorum priuilegiorum concessionis</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Roma</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Cavalieri di s. Pietro</subfield>
+    <subfield code="3">2862</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Leo</subfield>
+    <subfield code="c"> &lt;papa</subfield>
+    <subfield code="c"> ; 10.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003148</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Clemens</subfield>
+    <subfield code="c"> &lt;papa</subfield>
+    <subfield code="c"> ; 7.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003274</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">s.n.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000002</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Collegium militum sancti Petri</subfield>
+    <subfield code="3">15418</subfield>
+    <subfield code="z">Cavalieri di s. Pietro</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Medici,</subfield>
+    <subfield code="b">Giovanni : de&apos;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014500</subfield>
+    <subfield code="z">Leo &lt;papa ; 10.&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Medici,</subfield>
+    <subfield code="b">Giulio : de&apos;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014649</subfield>
+    <subfield code="z">Clemens &lt;papa ; 7.&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Clemente</subfield>
+    <subfield code="c"> &lt;papa</subfield>
+    <subfield code="c"> ; 7.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023280</subfield>
+    <subfield code="z">Clemens &lt;papa ; 7.&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Romolo Spezioli. Fermo</subfield>
+    <subfield code="1">AP0012</subfield>
+    <subfield code="2">UMC FM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Riccardiana. Firenze</subfield>
+    <subfield code="1">FI0094</subfield>
+    <subfield code="2">CFI RF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Firenze</subfield>
+    <subfield code="1">FI0098</subfield>
+    <subfield code="2">CFI CF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Palatina. Parma</subfield>
+    <subfield code="1">PR0072</subfield>
+    <subfield code="2">PAR PA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Marciana. Venezia</subfield>
+    <subfield code="1">VE0049</subfield>
+    <subfield code="2">VEA BM</subfield>
+  </datafield>
+</record>
+</collection>

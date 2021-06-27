@@ -1,0 +1,53 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00741na 0a22001691i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\052031</controlfield>
+  <controlfield tag="005">20050523000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20010606             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Pythagorae vita ex Iamblicho collecta, per Nicolaum Scutellium Tridentinum Ordinio eremitarum Sancti Augustini</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Iamblichus</subfield>
+    <subfield code="c"> : Chalcidensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007232</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Scutelli,</subfield>
+    <subfield code="b">Nicola</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016095</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Jamblicos</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020048</subfield>
+    <subfield code="z">Iamblichus : Chalcidensis</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Giamblico</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022860</subfield>
+    <subfield code="z">Iamblichus : Chalcidensis</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Scutellius,</subfield>
+    <subfield code="b">Nicolaus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016096</subfield>
+    <subfield code="z">Scutelli, Nicola</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Scutelli,</subfield>
+    <subfield code="b"></subfield>
+    <subfield code="3">IT\ICCU\CNCA\024484</subfield>
+    <subfield code="z">Scutelli, Nicola</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,63 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00943nam0a22002171i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\039289</controlfield>
+  <controlfield tag="005">19981109000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">a:e, r-se hai? e&amp;i? (C) 1565 (Q)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19981109f1565        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Risposta di me Camillo Bardi de signori di Vernio ad un manifesto del caualliero frate Paolo Boniperto da Nouara</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="d">\1565 c.a.!</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\8! c.</subfield>
+    <subfield code="d"></subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a"></subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Bardi,</subfield>
+    <subfield code="b">Camillo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001382</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Concordia, Girolamo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000006</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Concordia, Hieronymus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004659</subfield>
+    <subfield code="z">Concordia, Girolamo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Concordia, Gieronimo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004660</subfield>
+    <subfield code="z">Concordia, Girolamo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+</record>
+</collection>

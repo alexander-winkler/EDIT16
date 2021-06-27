@@ -1,0 +1,130 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02188nam0a22003611i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\072738</controlfield>
+  <controlfield tag="005">20100113000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">t:um t.el eser tonu (3) 1528 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20080409d1528        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Libri de re rustica. M. Catonis lib. I. M. Terentii Varronis lib. III. L. Iunii Moderati Columellae lib. XII. Eiusdem de arboribus liber separatus ab alijs, quare autem id factum fuerit: ostenditur in epistola ad lectorem. Palladii lib. XIIII. De duobus dierum generibus simulque de umbris, et horis, quae apud Palladium, in alia epistola ad lectorem. Georgij Alexandrini enarrationes priscarum dictionum quae in his libris Catonis Varronis Columellae</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="d">1528</subfield>
+    <subfield code="h">1528</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\37!, 391 c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Stampato a Roma dagli eredi di Aldo Manuzio il vecchio, come si desume dalla dedica.Ed. di Anversa; cfr.: BVEE008112</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Merula,</subfield>
+    <subfield code="b">Giorgio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001156</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Columella,</subfield>
+    <subfield code="b">Lucius Iunius Moderatus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003412</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Palladius,</subfield>
+    <subfield code="b">Rutilius Taurus Aemilianus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009178</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Varro,</subfield>
+    <subfield code="b"> Marcus Terentius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009657</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Cato,</subfield>
+    <subfield code="b">Marcus Porcius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010196</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Manuzio, Aldo</subfield>
+    <subfield code="c"> &lt;1.&gt; - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000896</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Georgius</subfield>
+    <subfield code="c"> : Alexandrinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014110</subfield>
+    <subfield code="z">Merula, Giorgio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Merula,</subfield>
+    <subfield code="b">Georgius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014655</subfield>
+    <subfield code="z">Merula, Giorgio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Palladio,</subfield>
+    <subfield code="b">Rutilio Tauro Emiliano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021956</subfield>
+    <subfield code="z">Palladius, Rutilius Taurus Aemilianus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Varrone,</subfield>
+    <subfield code="b">Marco Terenzio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024638</subfield>
+    <subfield code="z">Varro,  Marcus Terentius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Cato Censorius,</subfield>
+    <subfield code="b">Marcus Porcius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016740</subfield>
+    <subfield code="z">Cato, Marcus Porcius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Cato  Maior</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018590</subfield>
+    <subfield code="z">Cato, Marcus Porcius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Catone,</subfield>
+    <subfield code="b">Marco Porcio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018591</subfield>
+    <subfield code="z">Cato, Marcus Porcius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Catone</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018592</subfield>
+    <subfield code="z">Cato, Marcus Porcius</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Aldi filii</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003958</subfield>
+    <subfield code="z">Manuzio, Aldo &lt;1.&gt; - eredi</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Istituto Campana per l&apos;istruzione permanente. Osimo</subfield>
+    <subfield code="1">AN0053</subfield>
+    <subfield code="2">URB IC</subfield>
+  </datafield>
+</record>
+</collection>

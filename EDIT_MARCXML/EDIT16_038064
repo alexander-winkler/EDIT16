@@ -1,0 +1,128 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01771nam0a22003611i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\038064</controlfield>
+  <controlfield tag="005">19990202000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">deua co42 elra suto (3) 1560 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19981026d1560        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Della ecomomica trattato di M. Giacomo Lanteri gentiluomo bresciano ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Venetia</subfield>
+    <subfield code="d">appresso Vincenzo Valgrisio</subfield>
+    <subfield code="d">1560</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\32!, 171, \5! p.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Lanteri,</subfield>
+    <subfield code="b">Giacomo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010573</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Valgrisi, Vincenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000062</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Lanternius,</subfield>
+    <subfield code="b">Iacobus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020310</subfield>
+    <subfield code="z">Lanteri, Giacomo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">De_Lanteri,</subfield>
+    <subfield code="b">Iacomo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026234</subfield>
+    <subfield code="z">Lanteri, Giacomo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Vaugris, Vincenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002740</subfield>
+    <subfield code="z">Valgrisi, Vincenzo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Officina Erasmiana</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002921</subfield>
+    <subfield code="z">Valgrisi, Vincenzo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Valgrisius, Vincentius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005845</subfield>
+    <subfield code="z">Valgrisi, Vincenzo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Valgrisio, Vincenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005846</subfield>
+    <subfield code="z">Valgrisi, Vincenzo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Casale Monferrato</subfield>
+    <subfield code="1">AL0024</subfield>
+    <subfield code="2">TO0 L2</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca regionale universitaria. Catania</subfield>
+    <subfield code="1">CT0062</subfield>
+    <subfield code="2">PAL BC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Societ ̉economica. Chiavari</subfield>
+    <subfield code="1">GE0011</subfield>
+    <subfield code="2">LI3 30</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Padova</subfield>
+    <subfield code="1">PD0158</subfield>
+    <subfield code="2">PUV 00</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Forteguerriana. Pistoia</subfield>
+    <subfield code="1">PT0025</subfield>
+    <subfield code="2">RT1 IE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Nuova biblioteca pubblica Luigi Fumi. Orvieto</subfield>
+    <subfield code="1">TR0022</subfield>
+    <subfield code="2">UM1 06</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Archivio provinciale dei frati minori cappuccini. Mestre</subfield>
+    <subfield code="1">VE0111</subfield>
+    <subfield code="2">ZVE 16</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Collezione privata Casagrande. San Don ̉di Piave</subfield>
+    <subfield code="1">VE0259</subfield>
+    <subfield code="2">ZVE 20</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,72 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01014nam0a22002291i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\074741</controlfield>
+  <controlfield tag="005">20090929000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">umc- t.s&amp; t.s, tus* (3) 1584 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20090928d1584        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Thesaurus piarum et christianarum institutionum, in vsum catholicae iuuentutis ... editus per Ioannem Perellius ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Veronae</subfield>
+    <subfield code="c">ex typographia Hieronymi Stringarii et Fratrum</subfield>
+    <subfield code="d">1584</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\8!, 277, \3! p.</subfield>
+    <subfield code="d">8</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Verona</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Perellius,</subfield>
+    <subfield code="b">Johann</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009962</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Stringario, Girolamo &amp; fratelli</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002746</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Perellio,</subfield>
+    <subfield code="b">Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022138</subfield>
+    <subfield code="z">Perellius, Johann</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Strengari, Girolamo &amp; fratelli</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004108</subfield>
+    <subfield code="z">Stringario, Girolamo &amp; fratelli</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Passerini Landi. Piacenza</subfield>
+    <subfield code="1">PC0030</subfield>
+    <subfield code="2">PIA PL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Capitolo della Cattedrale. Reggio Emilia</subfield>
+    <subfield code="1">RE0046</subfield>
+    <subfield code="2">ZRE 01</subfield>
+  </datafield>
+</record>
+</collection>

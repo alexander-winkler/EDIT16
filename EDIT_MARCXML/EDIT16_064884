@@ -1,0 +1,38 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00600na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\064884</controlfield>
+  <controlfield tag="005">20060811000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20060626             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Index locupletissimus consiliorum omnium excellentis. et celeber. i.c. ac publici interpretis d. Iacobi Mandelli ... a d. Vincentio Annibaldo ... digestus, conscriptus, &amp; editus ...</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Mandello,</subfield>
+    <subfield code="b">Giacomo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016708</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Mandelli,</subfield>
+    <subfield code="b">Giacomo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020597</subfield>
+    <subfield code="z">Mandello, Giacomo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Mandellus,</subfield>
+    <subfield code="b">Iacobus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020598</subfield>
+    <subfield code="z">Mandello, Giacomo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

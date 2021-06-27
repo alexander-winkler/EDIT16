@@ -1,0 +1,364 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>05572nam0a2200889 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\037441</controlfield>
+  <controlfield tag="005">20170522000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">      </subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">INR</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19981019d1513        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">GRC</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Logoi toutoni ton retoron. Aiskinou. Lysiou. Alkidamantos ... Orationes horum rhetorum Aeschinis. Lysiae. Alcidamantis ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">\Venezia</subfield>
+    <subfield code="c">Aldo Manuzio il vecchio e Andrea Torresano il vecchio!</subfield>
+    <subfield code="e">Venetiis</subfield>
+    <subfield code="g">in aedibus Aldi</subfield>
+    <subfield code="h">et Andreae soceri</subfield>
+    <subfield code="h">IIII nonarum Maii 1513</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">3 pt.</subfield>
+    <subfield code="d"> fol</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Coloph. a c 2E3r. - 2: Logoi toutoni ton retoron. Andokidou. Isaiou. Deinarchou. Antiphontos ... Orationes infrascriptorum rhetorum. Andocidis. Isaei. Dinarchi. Antiphontis ... (Venetiis : apud Aldum &amp; Andream socerum, mense Aprili 1513). - 3: Isokratouslogoi. Alkidamantos, kata sophiston Gorgiou, Elenes egkomion ... Isocratis orationes. Alcidamantis contra dicendi magistros. Gorgiae de laudibus Helenae. Aristidis de laudibus Athenarum. Eiusdem de laudibus vrbis Romae</subfield>
+  </datafield>
+  <datafield tag="423" ind1=" " ind2="0">
+    <subfield code="1">001IT\ICCU\CNCE\052033</subfield>
+    <subfield code="1">2001 </subfield>
+    <subfield code="a">℗IsokrBatous ℗lBogoi. AlkidBamantos, katAa sophiston Gorgiou, Elenes egkomion. ...</subfield>
+  </datafield>
+  <datafield tag="423" ind1=" " ind2="0">
+    <subfield code="1">001IT\ICCU\CNCE\052043</subfield>
+    <subfield code="1">2001 </subfield>
+    <subfield code="a">Logoi toutonAu ton retoron. Andokidon. Iaion. Deinarchou. Antiphontes ... Orationes infrascriptorum rhetorum. Andocidis. Isaei</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Aeschines</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000470</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Aristides,</subfield>
+    <subfield code="b">Publius Aelius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000870</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Isocrates</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005015</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Lysias</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009011</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Gorgias</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016083</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Alcidamas</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016085</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Dinarchus</subfield>
+    <subfield code="c"> &lt;oratore&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020285</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Isaeus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020286</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Andocides</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026130</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Antiphon</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026131</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Manuzio, Aldo &lt;1.&gt; &amp; Torresano, Andrea &lt;1.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000452</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Eschine</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018897</subfield>
+    <subfield code="z">Aeschines</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Isokrates</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020255</subfield>
+    <subfield code="z">Isocrates</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Isocrate</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020256</subfield>
+    <subfield code="z">Isocrates</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Isocrates</subfield>
+    <subfield code="c"> : Atheniensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020257</subfield>
+    <subfield code="z">Isocrates</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Gorgia</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020393</subfield>
+    <subfield code="z">Gorgias</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Alkidamas</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025947</subfield>
+    <subfield code="z">Alcidamas</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Alcidamas</subfield>
+    <subfield code="c"> : Eleates</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025948</subfield>
+    <subfield code="z">Alcidamas</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Dinarco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020435</subfield>
+    <subfield code="z">Dinarchus &lt;oratore&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Iseo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021143</subfield>
+    <subfield code="z">Isaeus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Isaios</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021145</subfield>
+    <subfield code="z">Isaeus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Andokides</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026232</subfield>
+    <subfield code="z">Andocides</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Antiphon</subfield>
+    <subfield code="c"> : Rhamnusius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026231</subfield>
+    <subfield code="z">Antiphon</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca estera - University of California, Los Angeles Library. Los Angeles</subfield>
+    <subfield code="1">AA0021</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Bologna</subfield>
+    <subfield code="1">BO0098</subfield>
+    <subfield code="2">UBO BU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale dell&apos;Archiginnasio. Bologna</subfield>
+    <subfield code="1">BO0304</subfield>
+    <subfield code="2">UBO GA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Queriniana. Brescia</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">BS0026</subfield>
+    <subfield code="2">ZBS 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale. Cremona</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">CR0062</subfield>
+    <subfield code="2">LO1 28</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Riccardiana. Firenze</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">FI0094</subfield>
+    <subfield code="2">CFI RF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Firenze</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">FI0098</subfield>
+    <subfield code="2">CFI CF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Medicea Laurenziana. Firenze</subfield>
+    <subfield code="1">FI0100</subfield>
+    <subfield code="2">CFI ML</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Marucelliana. Firenze</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">FI0101</subfield>
+    <subfield code="2">CFI MF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale Nicola Bernardini. Lecce</subfield>
+    <subfield code="1">LE0098</subfield>
+    <subfield code="2">LEK LE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Ambrosiana. Milano</subfield>
+    <subfield code="1">MI0133</subfield>
+    <subfield code="2">VBA 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Braidense. Milano</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">MI0185</subfield>
+    <subfield code="2">MIL NB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Archivio storico civico e Biblioteca Trivulziana. Milano</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">MI0327</subfield>
+    <subfield code="2">LO1 13</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Museo Poldi Pezzoli. Sezione antica. Milano</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">MI1354</subfield>
+    <subfield code="2">LO1 68</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Napoli</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">NA0070</subfield>
+    <subfield code="2">NAP BU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca centrale della Regione siciliana Alberto Bombace. Palermo</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">PA0064</subfield>
+    <subfield code="2">PAL BP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario Vescovile della Facolt ̉Teologica del Triveneto dell&apos;Istituto Filosofico Aloisianum. Padova</subfield>
+    <subfield code="1">PD0073</subfield>
+    <subfield code="2">PUV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Padova</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">PD0158</subfield>
+    <subfield code="2">PUV 00</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Augusta. Perugia</subfield>
+    <subfield code="1">PG0109</subfield>
+    <subfield code="2">UM1 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Palatina. Parma</subfield>
+    <subfield code="1">PR0072</subfield>
+    <subfield code="2">PAR PA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca  Panizzi. Reggio Emilia</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">RE0052</subfield>
+    <subfield code="2">RE2 PA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Angelica. Roma</subfield>
+    <subfield code="1">RM0290</subfield>
+    <subfield code="2">RML 06</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Casanatense. Roma</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">RM0313</subfield>
+    <subfield code="2">RML 07</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Accademia nazionale dei Lincei e Corsiniana. Roma</subfield>
+    <subfield code="1">RM0418</subfield>
+    <subfield code="2">RML 10</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei padri Cappuccini. Trento</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">TN0134</subfield>
+    <subfield code="2">ZTN 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale universitaria. Torino</subfield>
+    <subfield code="1">TO0265</subfield>
+    <subfield code="2">TO0 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Treviso</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">TV0114</subfield>
+    <subfield code="2">VIA CT</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">British Library. London</subfield>
+    <subfield code="1">UK0001</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Fondazione Studium Generale Marcianum. Venezia</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">VE0311</subfield>
+    <subfield code="2">PBE D7</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Su tutti e 3 i front. e in fine.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\002064</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\002064</subfield>
+    <subfield code="b">Ancora con delfino e la scritta Aldus M.R. In cornice.</subfield>
+    <subfield code="c">K177</subfield>
+    <subfield code="c">V393</subfield>
+    <subfield code="c">Z35</subfield>
+    <subfield code="d">Dimensioni: 7,5 x 10,7</subfield>
+    <subfield code="f">ALDUS</subfield>
+    <subfield code="f">ANCORA</subfield>
+    <subfield code="f">DELFINO</subfield>
+    <subfield code="g">1513-1527</subfield>
+  </datafield>
+</record>
+</collection>

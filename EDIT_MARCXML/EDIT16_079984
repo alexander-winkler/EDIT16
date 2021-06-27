@@ -1,0 +1,67 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00972nam0a22002171i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\079984</controlfield>
+  <controlfield tag="005">20181105000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">s.be EMAE e.ae ISTO (C) 1536 (Q)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20181105f1536        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Ordine pompe, apparati, et cerimonie, della solenne intrata: di Carlo V imp. sempre aug. nella citta di Roma</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="d">\1536?!</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\8! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">La data si ricava dalla fine del testo: Di Roma a V di aprile MDXXXVI</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Roma</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">Tipografo non identificato</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003341</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Marciana. Venezia</subfield>
+    <subfield code="1">VE0049</subfield>
+    <subfield code="2">VEA BM</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\002725</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\002725</subfield>
+    <subfield code="b">Due colonne avvolte da un nastro con la scritta PLVS VLTRA. In cornice.</subfield>
+    <subfield code="e">Plus vltra; Ou chariti, all&apos;arete</subfield>
+    <subfield code="c">U187</subfield>
+    <subfield code="d">Dimensioni: 6 x 6. Con o senza motto</subfield>
+    <subfield code="f">PLVSVLTRA</subfield>
+    <subfield code="f">COLONNE</subfield>
+    <subfield code="f">NASTRO</subfield>
+    <subfield code="g">[1536]-1545</subfield>
+  </datafield>
+</record>
+</collection>

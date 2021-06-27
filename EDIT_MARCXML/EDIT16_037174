@@ -1,0 +1,62 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00701ncm0a22002051i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\037174</controlfield>
+  <controlfield tag="005">19990513000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19980618d1592        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Libro primo de&apos; madrigali a quattro</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Napoli</subfield>
+    <subfield code="c">Giuseppe Cacchi</subfield>
+    <subfield code="d">1592</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">RISM: 2, C 956</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Napoli</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Caputi,</subfield>
+    <subfield code="b">Manilio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010377</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Cacchi, Giuseppe</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000064</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Caputo,</subfield>
+    <subfield code="b">Manilio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013153</subfield>
+    <subfield code="z">Caputi, Manilio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Cacchius, Iosephus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004389</subfield>
+    <subfield code="z">Cacchi, Giuseppe</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Cacchio, Giuseppe</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004390</subfield>
+    <subfield code="z">Cacchi, Giuseppe</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

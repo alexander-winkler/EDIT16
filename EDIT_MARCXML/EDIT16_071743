@@ -1,0 +1,80 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01198nam0a22002411i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\071743</controlfield>
+  <controlfield tag="005">20110223000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20070905d1569        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Illustrium iureconsultorum imagines quae inueniri potuerunt, ad viuam effigiem expressae. Ex musaeo Marci Mantuae Beneuidij Patauinij iureconsulti clarissimi ... illustri ac generoso heroi d. Ioanni Iacobo Fuggero ... dicati</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetijs</subfield>
+    <subfield code="c">apud Donatum Bertellum ad signum diui Marci</subfield>
+    <subfield code="d">1569</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\2! c., 24 c. di tav.</subfield>
+    <subfield code="c">ritr. calcogr.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Incisore Domenico Zenoni. - Var. B: La data sul front  ̈corretta in 1579</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Zenoni,</subfield>
+    <subfield code="b">Domenico</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009620</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Bertelli, Donato</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001005</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Zenoi,</subfield>
+    <subfield code="b">Domenico</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025369</subfield>
+    <subfield code="z">Zenoni, Domenico</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bertellus, Donatus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004356</subfield>
+    <subfield code="z">Bertelli, Donato</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Treviso</subfield>
+    <subfield code="z">(Var. A)</subfield>
+    <subfield code="1">TV0114</subfield>
+    <subfield code="2">VIA CT</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Marciana. Venezia</subfield>
+    <subfield code="z">(Var. A)</subfield>
+    <subfield code="1">VE0049</subfield>
+    <subfield code="2">VEA BM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Bertoliana. Vicenza</subfield>
+    <subfield code="z">(Var. B)</subfield>
+    <subfield code="1">VI0096</subfield>
+    <subfield code="2">VIA BE</subfield>
+  </datafield>
+</record>
+</collection>

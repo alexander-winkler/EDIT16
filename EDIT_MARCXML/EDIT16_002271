@@ -1,0 +1,93 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01283nam0a2200265 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\002271</controlfield>
+  <controlfield tag="005">20070824000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e.m. a.t. ite- tius (3) 1519 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1519        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Missale Aquileyensis Ecclesie cum omnibus requisitis; atque figuris nuper quam emendatissime perlustratum</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetijs</subfield>
+    <subfield code="c">ex officina libraria Gregorij de Gregorijs</subfield>
+    <subfield code="d">1519 die 15 Septembris</subfield>
+    <subfield code="e">Impressum Venetijs</subfield>
+    <subfield code="g">per Gregorium de Gregorijs</subfield>
+    <subfield code="h">1519 die XV Septembris</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\12!, 308 c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Aquileia</subfield>
+    <subfield code="c"> &lt;Patriarcato&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000811</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">De_Gregori, Gregorio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000087</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Gregoriis, Gregorius de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003749</subfield>
+    <subfield code="z">De_Gregori, Gregorio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Gregori, Gregorio de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004572</subfield>
+    <subfield code="z">De_Gregori, Gregorio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Grigorii, Gregorio de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004573</subfield>
+    <subfield code="z">De_Gregori, Gregorio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica A. Mai. Bergamo</subfield>
+    <subfield code="1">BG0026</subfield>
+    <subfield code="2">LO1 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale Isontina. Gorizia</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">GO0025</subfield>
+    <subfield code="2">TSA BI</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica A. Hortis. Trieste</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">TS0013</subfield>
+    <subfield code="2">TSA BC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Arcivescovile. Udine</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">UD0100</subfield>
+    <subfield code="2">ZUD 11</subfield>
+  </datafield>
+</record>
+</collection>

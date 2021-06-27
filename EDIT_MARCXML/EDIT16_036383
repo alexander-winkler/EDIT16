@@ -1,0 +1,62 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00981na 0a22001811i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\036383</controlfield>
+  <controlfield tag="005">20050504000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19980326             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Explicatio eorum, quae pertinent ad tertiam partem de componendis medicamentis. A Ioanne Baptista Montano physico Veronensi dictata et a Vincentio Casali Brixiano adnotata</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Da_Monte,</subfield>
+    <subfield code="b">Giovanni Battista</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000055</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Casali,</subfield>
+    <subfield code="b">Vincenzo</subfield>
+    <subfield code="c"> &lt;medico&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002716</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Del_Monte,</subfield>
+    <subfield code="b">Giovanni Battista</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003556</subfield>
+    <subfield code="z">Da_Monte, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Montanus,</subfield>
+    <subfield code="b">Ioannes Baptista</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004593</subfield>
+    <subfield code="z">Da_Monte, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Monte,</subfield>
+    <subfield code="b">Giovanni Battista : da</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004594</subfield>
+    <subfield code="z">Da_Monte, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Montano,</subfield>
+    <subfield code="b">Giovanni Battista</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010210</subfield>
+    <subfield code="z">Da_Monte, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Casalis,</subfield>
+    <subfield code="b">Vincentius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020826</subfield>
+    <subfield code="z">Casali, Vincenzo &lt;medico&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

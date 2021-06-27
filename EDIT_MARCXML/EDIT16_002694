@@ -1,0 +1,124 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01744nam0a2200349 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\002694</controlfield>
+  <controlfield tag="005">20070828000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">dion a.la o:ia EtCh (3) 1556 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1556        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">FR</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Il ℗Furioso di m. Lodouico Ariosto ... con cinque canti d&apos;un nuouo libro, et altre stanze del medesimo nuouamente aggiunti ... &amp; nel fine, vna breue espositione de gli oscuri vocaboli</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Lione</subfield>
+    <subfield code="c">appresso Bastiano di Bartholomeo Honorati</subfield>
+    <subfield code="d">1556</subfield>
+    <subfield code="e">Stampato in Lione</subfield>
+    <subfield code="g">per Iacopo Fabro</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">511, \41! p.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="d">Lione</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Ariosto,</subfield>
+    <subfield code="b">Ludovico</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000866</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Honorat, Sb̌astien</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000749</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Faure, Jacques</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000750</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Onorati, Sebastiano</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003970</subfield>
+    <subfield code="z">Honorat, Sb̌astien</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Honorati, Bastiano</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004829</subfield>
+    <subfield code="z">Honorat, Sb̌astien</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Honoratis, Sebastianus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004831</subfield>
+    <subfield code="z">Honorat, Sb̌astien</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Fabro, Iacopo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003796</subfield>
+    <subfield code="z">Faure, Jacques</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Faber, Jacobus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005482</subfield>
+    <subfield code="z">Faure, Jacques</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dannunziana. Gardone Riviera</subfield>
+    <subfield code="1">BS0310</subfield>
+    <subfield code="2">LO1 25</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Ariostea. Ferrara</subfield>
+    <subfield code="1">FE0017</subfield>
+    <subfield code="2">UFE AR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Napoli</subfield>
+    <subfield code="1">NA0070</subfield>
+    <subfield code="2">NAP BU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Padova</subfield>
+    <subfield code="1">PD0090</subfield>
+    <subfield code="2">PUV 55</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Palatina. Parma</subfield>
+    <subfield code="1">PR0072</subfield>
+    <subfield code="2">PAR PA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca  Panizzi. Reggio Emilia</subfield>
+    <subfield code="1">RE0052</subfield>
+    <subfield code="2">RE2 PA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Nuova biblioteca pubblica Luigi Fumi. Orvieto</subfield>
+    <subfield code="1">TR0022</subfield>
+    <subfield code="2">UM1 06</subfield>
+  </datafield>
+</record>
+</collection>

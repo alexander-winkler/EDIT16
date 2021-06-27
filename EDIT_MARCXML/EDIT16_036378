@@ -1,0 +1,144 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02415nam0a2200385 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\036378</controlfield>
+  <controlfield tag="005">20121120000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">2Ia. d.c. 24a- imDa (C) 1575 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19980324d1575        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Repertorium in omnia opera praestantissimi iurisconsulti d. Ioannis Francisci Ripae a S. Nazario, Papiensis ordine elementario singulas quascunque tum verborum, tum rerum memorabilium materias, ita facile ac breuiter demonstrans, vt nihil vltra studiosuslector desiderare possit nouissime recognitum summaque diligentia repurgatum, &amp; auctum</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">\Lucantonio Giunta il giovane!</subfield>
+    <subfield code="d">1575</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\56! c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Ripa,</subfield>
+    <subfield code="b">Giovanni Francesco : da</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012905</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Giunta, Lucantonio</subfield>
+    <subfield code="c"> &lt;2.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000089</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Riva di San Nazzaro,</subfield>
+    <subfield code="b">Gianni Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009677</subfield>
+    <subfield code="z">Ripa, Giovanni Francesco : da</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Sannazari della Ripa,</subfield>
+    <subfield code="b">Gianfrancesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023444</subfield>
+    <subfield code="z">Ripa, Giovanni Francesco : da</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Iunta, Lucas Antonius</subfield>
+    <subfield code="c"> &lt;2.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003893</subfield>
+    <subfield code="z">Giunta, Lucantonio &lt;2.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Giunti, Lucantonio</subfield>
+    <subfield code="c"> &lt;2.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004932</subfield>
+    <subfield code="z">Giunta, Lucantonio &lt;2.&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Francesco Cini. Osimo</subfield>
+    <subfield code="1">AN0054</subfield>
+    <subfield code="2">URB B2</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Chelliana. Grosseto</subfield>
+    <subfield code="1">GR0012</subfield>
+    <subfield code="2">RT1 FA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Universit ̉Commerciale Luigi Bocconi. Milano</subfield>
+    <subfield code="1">MI0274</subfield>
+    <subfield code="2">ZMI 68</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Pisa</subfield>
+    <subfield code="1">PI0112</subfield>
+    <subfield code="2">PIS R1</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Forteguerriana. Pistoia</subfield>
+    <subfield code="1">PT0025</subfield>
+    <subfield code="2">RT1 IE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca  Panizzi. Reggio Emilia</subfield>
+    <subfield code="1">RE0052</subfield>
+    <subfield code="2">RE2 PA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Senato della Repubblica Giovanni Spadolini. Roma</subfield>
+    <subfield code="1">RM0427</subfield>
+    <subfield code="2">ZRM 12</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Convento francescano S. Maria degli Angeli. Nocera Superiore</subfield>
+    <subfield code="1">SA0039</subfield>
+    <subfield code="2">NAP 08</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca di area Giuridico Politologica dell&apos;Universit ̉di Siena. Siena</subfield>
+    <subfield code="1">SI0104</subfield>
+    <subfield code="2">RT1 QU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Fondazione Biblioteca S. Bernardino. Trento</subfield>
+    <subfield code="1">TN0122</subfield>
+    <subfield code="2">ZTN 18</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000936</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000936</subfield>
+    <subfield code="b">Giglio fiorentino e iniziali L.A. In cornice figurata. In alto la Giustizia (donna alata con la spada e la bilancia)</subfield>
+    <subfield code="c">U40</subfield>
+    <subfield code="d">Dimensioni: 15x19</subfield>
+    <subfield code="f">GIGLIO</subfield>
+    <subfield code="f">LA</subfield>
+    <subfield code="g">1575-1589</subfield>
+  </datafield>
+</record>
+</collection>

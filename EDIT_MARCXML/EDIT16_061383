@@ -1,0 +1,32 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00399na 0a22001211i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\061383</controlfield>
+  <controlfield tag="005">20050921000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20050921             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Aggiunta della spera libro quinto</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Tolosani,</subfield>
+    <subfield code="b">Giovanni Maria</subfield>
+    <subfield code="3">IT\ICCU\CNCA\011770</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Giovanni Maria</subfield>
+    <subfield code="c"> : da#Colle</subfield>
+    <subfield code="3">IT\ICCU\CNCA\011771</subfield>
+    <subfield code="z">Tolosani, Giovanni Maria</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

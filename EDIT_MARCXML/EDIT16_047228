@@ -1,0 +1,32 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00411na 0a22001211i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\047228</controlfield>
+  <controlfield tag="005">20061031000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19990216             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Epistola r.d. Hugolini Martelli ... in qua aliquot ... emendantur</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Martelli,</subfield>
+    <subfield code="b">Ugolino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006454</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Martellus,</subfield>
+    <subfield code="b">Hugolinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021108</subfield>
+    <subfield code="z">Martelli, Ugolino</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

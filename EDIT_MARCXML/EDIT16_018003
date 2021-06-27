@@ -1,0 +1,222 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>03424nam0a2200553 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\018003</controlfield>
+  <controlfield tag="005">20160601000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">ceta l-qd noi- noca (3) 1505 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1505        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Commentaria fidelissimi expositoris d. Egidii Romani in libros De generatione et corruptione Aristotelis cum textu intercluso singulis locis. Questiones item subtilissime eiusdem doctoris super primo libro de generatione nunc quidem primum in publicum prodeuntes. Questiones quoque clarissimi doctoris Marsilii Inguen in prefatos libros De generatione. Item questiones subtilissime magistri  Alberti de Saxonia in eosdem libros De generatione vltra nusquam impresse. Omnia accuratissime reuisa atque castigataac quantum ars anniit potuit fideliter impressa</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Impressum Venetijs</subfield>
+    <subfield code="g">per Gregorium de Gregorijs</subfield>
+    <subfield code="h">X calendas Decembris 1505</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">155, \1! c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Egidio</subfield>
+    <subfield code="c"> : Romano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004392</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Marsilius</subfield>
+    <subfield code="c"> : van#Inghen</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004988</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Paolo</subfield>
+    <subfield code="c"> : da#Genazzano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005719</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Aristoteles</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000006</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Albertus</subfield>
+    <subfield code="c"> : de#Saxonia</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000554</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">De_Gregori, Gregorio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000087</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Aegidius</subfield>
+    <subfield code="c"> : Romanus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007543</subfield>
+    <subfield code="z">Egidio : Romano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Colonna,</subfield>
+    <subfield code="b">Egidio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008329</subfield>
+    <subfield code="z">Egidio : Romano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Colonna,</subfield>
+    <subfield code="b">Gilles</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018680</subfield>
+    <subfield code="z">Egidio : Romano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Gilles</subfield>
+    <subfield code="c"> : de#Rome</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018681</subfield>
+    <subfield code="z">Egidio : Romano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Columnius,</subfield>
+    <subfield code="b">Aegidius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018682</subfield>
+    <subfield code="z">Egidio : Romano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Aegidius</subfield>
+    <subfield code="c"> : de#Columna</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018683</subfield>
+    <subfield code="z">Egidio : Romano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Ingenuus,</subfield>
+    <subfield code="b">Marsilius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021164</subfield>
+    <subfield code="z">Marsilius : van#Inghen</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Inghen,</subfield>
+    <subfield code="b">Marsilius : von</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021166</subfield>
+    <subfield code="z">Marsilius : van#Inghen</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Inguen,</subfield>
+    <subfield code="b">Marsilius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021167</subfield>
+    <subfield code="z">Marsilius : van#Inghen</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Marsilius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021169</subfield>
+    <subfield code="z">Marsilius : van#Inghen</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Paulus</subfield>
+    <subfield code="c"> : de#Genazzano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024326</subfield>
+    <subfield code="z">Paolo : da#Genazzano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Genestano,</subfield>
+    <subfield code="b">Paulus : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024327</subfield>
+    <subfield code="z">Paolo : da#Genazzano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Genazzano,</subfield>
+    <subfield code="b">Paulus : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024328</subfield>
+    <subfield code="z">Paolo : da#Genazzano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Aristotele</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018928</subfield>
+    <subfield code="z">Aristoteles</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Albert</subfield>
+    <subfield code="c"> : von#Sachsen</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007552</subfield>
+    <subfield code="z">Albertus : de#Saxonia</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Gregoriis, Gregorius de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003749</subfield>
+    <subfield code="z">De_Gregori, Gregorio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Gregori, Gregorio de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004572</subfield>
+    <subfield code="z">De_Gregori, Gregorio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Grigorii, Gregorio de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004573</subfield>
+    <subfield code="z">De_Gregori, Gregorio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale Nicola Bernardini. Lecce</subfield>
+    <subfield code="1">LE0098</subfield>
+    <subfield code="2">LEK LE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Oliveriana. Pesaro</subfield>
+    <subfield code="1">PU0061</subfield>
+    <subfield code="2">URB OL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Angelica. Roma</subfield>
+    <subfield code="1">RM0290</subfield>
+    <subfield code="2">RML 06</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale Melchiorre Delfico. Teramo</subfield>
+    <subfield code="1">TE0024</subfield>
+    <subfield code="2">ABR R1</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">In fine</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000652</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000652</subfield>
+    <subfield code="b">Croce doppia e iniziali Z.G.</subfield>
+    <subfield code="c">K228</subfield>
+    <subfield code="c">Z414</subfield>
+    <subfield code="d">Dimensioni: 7,5x14,7</subfield>
+    <subfield code="f">CROCE</subfield>
+    <subfield code="f">ZG</subfield>
+    <subfield code="g">1504-1507</subfield>
+  </datafield>
+</record>
+</collection>

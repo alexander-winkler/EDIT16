@@ -1,0 +1,50 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00666na 0a22001571i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\058614</controlfield>
+  <controlfield tag="005">20080930000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20040621             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Expositio in cantica ferialia et evangelica</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Přez de Valencia,</subfield>
+    <subfield code="b">Jaime</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008863</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Iacobus</subfield>
+    <subfield code="c"> : de#Valentia</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014486</subfield>
+    <subfield code="z">Přez de Valencia, Jaime</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Perem de Valencia,</subfield>
+    <subfield code="b">Jacobus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024184</subfield>
+    <subfield code="z">Přez de Valencia, Jaime</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Parem de Valencia,</subfield>
+    <subfield code="b">Iacobus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024185</subfield>
+    <subfield code="z">Přez de Valencia, Jaime</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Perez,</subfield>
+    <subfield code="b">Jacobus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024186</subfield>
+    <subfield code="z">Přez de Valencia, Jaime</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,137 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01968nam0a2200373 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\054885</controlfield>
+  <controlfield tag="005">20060719000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">u-di 25si heso motr (3) 1551 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20031127d1551        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Libro de la vita mirabile &amp; dottrina santa, de la beata Caterinetta da Genoa, nel quale si contiene vna vtile &amp; catholica dimostratione &amp; dechiaratione del purgatorio</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Stampata in Genoua</subfield>
+    <subfield code="g">per Antonio Bellono</subfield>
+    <subfield code="h">nelli anni del Signore 1551</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\8!, 271, \1! c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Per l&apos;autore cfr.: Dizionario biografico degli italiani, v. 22, p. 345</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Genova</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Marabotto,</subfield>
+    <subfield code="b">Cattaneo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008543</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Caterina</subfield>
+    <subfield code="c"> : da#Genova</subfield>
+    <subfield code="c"> &lt;santa&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\011217</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Bellone, Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000236</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Fieschi,</subfield>
+    <subfield code="b">Caterina</subfield>
+    <subfield code="c"> &lt;santa&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026837</subfield>
+    <subfield code="z">Caterina : da#Genova &lt;santa&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Adorni,</subfield>
+    <subfield code="b">Caterina</subfield>
+    <subfield code="c"> &lt;santa&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026838</subfield>
+    <subfield code="z">Caterina : da#Genova &lt;santa&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Fieschi Adorni,</subfield>
+    <subfield code="b">Caterina</subfield>
+    <subfield code="c"> &lt;santa&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026844</subfield>
+    <subfield code="z">Caterina : da#Genova &lt;santa&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bellono, Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004315</subfield>
+    <subfield code="z">Bellone, Antonio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bellonis, Antonio de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004316</subfield>
+    <subfield code="z">Bellone, Antonio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bellonus, Antonius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004317</subfield>
+    <subfield code="z">Bellone, Antonio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Belonus, Antonius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004318</subfield>
+    <subfield code="z">Bellone, Antonio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei Cappuccini liguri. Genova</subfield>
+    <subfield code="1">GE0039</subfield>
+    <subfield code="2">LIG 27</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Durazzo. Genova</subfield>
+    <subfield code="1">GE0047</subfield>
+    <subfield code="2">ZGE 24</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Augusta. Perugia</subfield>
+    <subfield code="1">PG0109</subfield>
+    <subfield code="2">UM1 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Basilica di S. Paolo. Citt ̉del Vaticano</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">RM2022</subfield>
+    <subfield code="2">PBEO1</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">British Library. London</subfield>
+    <subfield code="1">UK0001</subfield>
+  </datafield>
+</record>
+</collection>

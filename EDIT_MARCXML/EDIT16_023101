@@ -1,0 +1,230 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>03355nam0a2200565 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\023101</controlfield>
+  <controlfield tag="005">20080507000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">a-a- uem- s,o. inin (3) 1559 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970625d1559        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Sacra ac recens Psalmorum omnium Dauidis interpretatio, ab eximio theologo Placido Parmensi, Ordinis praedicatorum edita</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">\Venezia!</subfield>
+    <subfield code="c">in Academia Veneta</subfield>
+    <subfield code="d">1559</subfield>
+    <subfield code="e">\Venezia!</subfield>
+    <subfield code="g">in Academia Veneta</subfield>
+    <subfield code="h">1559</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\4!, 335, \1! c.</subfield>
+    <subfield code="d"> 4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Var. B: sul front. marca U809 invece di U421</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Placido</subfield>
+    <subfield code="c"> : da#Parma</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006553</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">Accademia Veneziana</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000053</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Bechigni,</subfield>
+    <subfield code="b">Placido</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012996</subfield>
+    <subfield code="z">Placido : da#Parma</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Placidus</subfield>
+    <subfield code="c"> : Parmensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023138</subfield>
+    <subfield code="z">Placido : da#Parma</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Academia Veneta</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003457</subfield>
+    <subfield code="z">Accademia Veneziana</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Academia Venetiana</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004215</subfield>
+    <subfield code="z">Accademia Veneziana</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Asti</subfield>
+    <subfield code="1">AT0005</subfield>
+    <subfield code="2">TO0 45</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica A. Mai. Bergamo</subfield>
+    <subfield code="1">BG0026</subfield>
+    <subfield code="2">LO1 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario maggiore. Bressanone</subfield>
+    <subfield code="1">BZ0013</subfield>
+    <subfield code="2">ZBZ 05</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Como</subfield>
+    <subfield code="1">CO0213</subfield>
+    <subfield code="2">PBE 18</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Pio IX della Pontificia Universit ̉Lateranense. Citt ̉del Vaticano</subfield>
+    <subfield code="z">(VAR.B)</subfield>
+    <subfield code="1">EX0006</subfield>
+    <subfield code="2">ZCV 03</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Firenze</subfield>
+    <subfield code="z">(VAR.A,B)</subfield>
+    <subfield code="1">FI0098</subfield>
+    <subfield code="2">CFI CF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario arcivescovile. Camerino</subfield>
+    <subfield code="1">MC0093</subfield>
+    <subfield code="2">PBE 22</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Braidense. Milano</subfield>
+    <subfield code="1">MI0185</subfield>
+    <subfield code="2">MIL NB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Lancia di Brolo. Polizzi Generosa</subfield>
+    <subfield code="1">PA0178</subfield>
+    <subfield code="2">PAL 57</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca regionale dei Domenicani. Palermo</subfield>
+    <subfield code="1">PA0511</subfield>
+    <subfield code="2">PA1 BD</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario diocesano di Concordia-Pordenone. Pordenone</subfield>
+    <subfield code="z">(VAR.B)</subfield>
+    <subfield code="1">PN0052</subfield>
+    <subfield code="2">TSA SC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Palatina. Parma</subfield>
+    <subfield code="z">(VAR.A,B)</subfield>
+    <subfield code="1">PR0072</subfield>
+    <subfield code="2">PAR PA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Oliveriana. Pesaro</subfield>
+    <subfield code="1">PU0061</subfield>
+    <subfield code="2">URB OL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Pavia</subfield>
+    <subfield code="z">(Var.B)</subfield>
+    <subfield code="1">PV0291</subfield>
+    <subfield code="2">MIL UP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca  Panizzi. Reggio Emilia</subfield>
+    <subfield code="1">RE0052</subfield>
+    <subfield code="2">RE2 PA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="z">(VAR.A,B)</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria Alessandrina. Roma</subfield>
+    <subfield code="1">RM0280</subfield>
+    <subfield code="2">RML 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Angelica. Roma</subfield>
+    <subfield code="1">RM0290</subfield>
+    <subfield code="2">RML 06</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale universitaria. Torino</subfield>
+    <subfield code="1">TO0265</subfield>
+    <subfield code="2">TO0 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">British Library. London</subfield>
+    <subfield code="1">UK0001</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Istituto filosofico Aloisianum. Gallarate</subfield>
+    <subfield code="1">VA0060</subfield>
+    <subfield code="2">ZVA 12</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front. della var. A</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001500</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front. della var. B</subfield>
+    <subfield code="9">IT\ICCU\CNCM\002278</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001500</subfield>
+    <subfield code="b">Fama (donna alata con un piede sul globo suona una tromba).</subfield>
+    <subfield code="e">Io volo al ciel per riposarmi in Dio.</subfield>
+    <subfield code="c">Z509</subfield>
+    <subfield code="d">Dimensioni: 7 x 8,3</subfield>
+    <subfield code="f">FAMA</subfield>
+    <subfield code="f">IOVOLOALCI</subfield>
+    <subfield code="f">TROMBA</subfield>
+    <subfield code="g">1558-1559</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\002278</subfield>
+    <subfield code="b">Fama (donna alata con un piede sul globo suona una tromba). In cornice.</subfield>
+    <subfield code="e">Io volo al ciel per riposarmi in Dio</subfield>
+    <subfield code="c">U809</subfield>
+    <subfield code="d">Dimensioni: 6,8 x 8,5</subfield>
+    <subfield code="f">FAMA</subfield>
+    <subfield code="f">DONNA</subfield>
+    <subfield code="f">TROMBA</subfield>
+    <subfield code="f">IOVOLOALCI</subfield>
+    <subfield code="g">1559</subfield>
+  </datafield>
+</record>
+</collection>

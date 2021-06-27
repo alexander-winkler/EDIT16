@@ -1,0 +1,137 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02254nam0a2200373 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\028945</controlfield>
+  <controlfield tag="005">20160727000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">nado nedo i-,&amp; vean (3) 1590 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971115d1590        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Origine del nobilissimo ordine del Tosone. Con la mutatione di varie sue constitutioni, fatta dall&apos;anno 1431 nel quale il detto ordine comminci ̣insino all&apos;anno presente 1589. Di Gio. Francesco Pugnatore</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Palermo</subfield>
+    <subfield code="c">\Giovanni Francesco Carrara!</subfield>
+    <subfield code="c">per Gio. Antonio de Franceschi</subfield>
+    <subfield code="d">1590</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\8!, 189, \7! p.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Palermo</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Pugnatore,</subfield>
+    <subfield code="b">Giovanni Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008683</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">De_Franceschi, Giovanni Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000304</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Carrara, Giovanni Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002226</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Franceschi, Giovanni Antonio de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004554</subfield>
+    <subfield code="z">De_Franceschi, Giovanni Antonio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Franciscis, Ioannes Antonius de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004555</subfield>
+    <subfield code="z">De_Franceschi, Giovanni Antonio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Francisci, Giovanni Antonio de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004557</subfield>
+    <subfield code="z">De_Franceschi, Giovanni Antonio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Francisco, Giovanni Antonio de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004558</subfield>
+    <subfield code="z">De_Franceschi, Giovanni Antonio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Carrara, Ioannes Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004470</subfield>
+    <subfield code="z">Carrara, Giovanni Francesco</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Carrara, Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004474</subfield>
+    <subfield code="z">Carrara, Giovanni Francesco</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Sagarriga Visconti-Volpi. Bari</subfield>
+    <subfield code="1">BA0018</subfield>
+    <subfield code="2">BA1 BA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Borbonica. Bronte</subfield>
+    <subfield code="1">CT0015</subfield>
+    <subfield code="2">ZCT 09</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Santa Maria La Nuova. Monreale</subfield>
+    <subfield code="1">PA0057</subfield>
+    <subfield code="2">PAL 55</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Palermo</subfield>
+    <subfield code="1">PA0063</subfield>
+    <subfield code="2">PA1 CP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca centrale della Regione siciliana Alberto Bombace. Palermo</subfield>
+    <subfield code="1">PA0064</subfield>
+    <subfield code="2">PAL BP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Reale. Torino</subfield>
+    <subfield code="1">TO0263</subfield>
+    <subfield code="2">TO0 07</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000968</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000968</subfield>
+    <subfield code="b">Ovale con una sirena con le code divaricate nella parte superiore, tre stelle al centro e un carro nella parte inferiore. In cornice figurata</subfield>
+    <subfield code="c">U55</subfield>
+    <subfield code="d">dimensioni: 4,6 x 5</subfield>
+    <subfield code="f">CARRO</subfield>
+    <subfield code="f">STELLE</subfield>
+    <subfield code="f">SIRENA</subfield>
+    <subfield code="g">1589-1596</subfield>
+  </datafield>
+</record>
+</collection>

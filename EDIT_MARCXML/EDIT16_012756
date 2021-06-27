@@ -1,0 +1,123 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01751nam0a2200349 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\012756</controlfield>
+  <controlfield tag="005">20090203000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">i-em o-S. t.si omqu (C) 1575 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1575        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Decreta Collegii iureconsultorum Mediolanensium</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Mediolani</subfield>
+    <subfield code="c">apud Pacificum Pontium</subfield>
+    <subfield code="d">1575</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\12! c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Milano</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Collegio dei giureconsulti</subfield>
+    <subfield code="c"> &lt;Milano&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003375</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Da_Ponte, Pacifico</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000162</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Collegium iureconsultorum Mediolanensium</subfield>
+    <subfield code="3">8280</subfield>
+    <subfield code="z">Collegio dei giureconsulti &lt;Milano&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Collegium Mediolanense doctorum</subfield>
+    <subfield code="3">8282</subfield>
+    <subfield code="z">Collegio dei giureconsulti &lt;Milano&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pontius, Pacificus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003713</subfield>
+    <subfield code="z">Da_Ponte, Pacifico</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ponte, Pacifico da</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003714</subfield>
+    <subfield code="z">Da_Ponte, Pacifico</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pontio, Pacifico</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004493</subfield>
+    <subfield code="z">Da_Ponte, Pacifico</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ponticus, Pacificus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004494</subfield>
+    <subfield code="z">Da_Ponte, Pacifico</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ponzio, Pacifico</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004496</subfield>
+    <subfield code="z">Da_Ponte, Pacifico</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca di Scienze sociali. Firenze</subfield>
+    <subfield code="1">FI0597</subfield>
+    <subfield code="2">UFI KE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Ambrosiana. Milano</subfield>
+    <subfield code="1">MI0133</subfield>
+    <subfield code="2">VBA 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Societ ̉storica lombarda. Milano</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">MI0255</subfield>
+    <subfield code="2">MIL ST</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Dipartimento di diritto privato e storia del diritto dell&apos;Universit ̉degli studi di Milano. Milano</subfield>
+    <subfield code="1">MI1334</subfield>
+    <subfield code="2">USM L1</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Vercelli</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">VC0073</subfield>
+    <subfield code="2">TO0 A2</subfield>
+  </datafield>
+</record>
+</collection>

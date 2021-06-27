@@ -1,0 +1,43 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00543na 0a22001451i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\047728</controlfield>
+  <controlfield tag="005">20071212000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19990303             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Regularum ad reliquas regul. Petri a Duenas... Iacobo Nouello d. autore</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Novello,</subfield>
+    <subfield code="b">Giacomo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004520</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Dueąs,</subfield>
+    <subfield code="b">Pedro : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004951</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Novellus,</subfield>
+    <subfield code="b">Iacobus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022330</subfield>
+    <subfield code="z">Novello, Giacomo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Aduenas,</subfield>
+    <subfield code="b">Petrus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018461</subfield>
+    <subfield code="z">Dueąs, Pedro : de</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

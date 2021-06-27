@@ -1,0 +1,88 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01218nam0a2200265 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\004433</controlfield>
+  <controlfield tag="005">19970101000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">09um 12o. de.6 aghe (C) 1577 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1577        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Repertorium locupletissimum in omnes Bartoli a Saxoferrato lecturas</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Augustae Taurinorum</subfield>
+    <subfield code="c">apud haeredes Nicolai Beuilaquae</subfield>
+    <subfield code="d">1577</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\174! c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Torino</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Bartolo</subfield>
+    <subfield code="c"> : da#Sassoferrato</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001419</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Bevilacqua, Niccol ̣- eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000513</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Bartolus</subfield>
+    <subfield code="c"> : de#Saxoferrato</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012573</subfield>
+    <subfield code="z">Bartolo : da#Sassoferrato</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Alfani,</subfield>
+    <subfield code="b">Bartholus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020724</subfield>
+    <subfield code="z">Bartolo : da#Sassoferrato</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Francesco Corradi. Sanremo</subfield>
+    <subfield code="1">IM0034</subfield>
+    <subfield code="2">LI3 BC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca centrale della Regione siciliana Alberto Bombace. Palermo</subfield>
+    <subfield code="1">PA0064</subfield>
+    <subfield code="2">PAL BP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale di Velletri - Fondo antico. Velletri</subfield>
+    <subfield code="1">RM0611</subfield>
+    <subfield code="2">RMS L9</subfield>
+  </datafield>
+</record>
+</collection>

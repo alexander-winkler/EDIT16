@@ -1,0 +1,75 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01056nam0a22002291i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\057470</controlfield>
+  <controlfield tag="005">20040416000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20040416d1559        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Physica</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Panormi</subfield>
+    <subfield code="c">apud Jo. Bapt. Maydam</subfield>
+    <subfield code="d">1559</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Stampata probabilmente da Giovanni Matteo Mayda, cfr.: Bibliografia delle edizioni palermitane antiche, v. I, n. 323</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Palermo</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Rossi,</subfield>
+    <subfield code="b">Giovanni Battista</subfield>
+    <subfield code="c"> &lt;medico&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016655</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Mayda, Giovanni Matteo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000016</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Rubeus,</subfield>
+    <subfield code="b">Ioannes Baptista</subfield>
+    <subfield code="c"> &lt;medico&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016657</subfield>
+    <subfield code="z">Rossi, Giovanni Battista &lt;medico&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Rosso,</subfield>
+    <subfield code="b">Giovanni Battista</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023959</subfield>
+    <subfield code="z">Rossi, Giovanni Battista &lt;medico&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Maida, Giovanni Matteo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003506</subfield>
+    <subfield code="z">Mayda, Giovanni Matteo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Maida, Ioannes Matthaeus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005110</subfield>
+    <subfield code="z">Mayda, Giovanni Matteo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Mayda, Ioannes Mattheus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005112</subfield>
+    <subfield code="z">Mayda, Giovanni Matteo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

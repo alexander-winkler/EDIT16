@@ -1,0 +1,40 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00531na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\078454</controlfield>
+  <controlfield tag="005">20140318000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20140318             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Quea in hoc perutili opusculo continentur ...</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Negri,</subfield>
+    <subfield code="b">Francesco</subfield>
+    <subfield code="c"> &lt;ca.1450-1510&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006678</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Niger,</subfield>
+    <subfield code="b">Franciscus</subfield>
+    <subfield code="c"> &lt;1450?-1510&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\017368</subfield>
+    <subfield code="z">Negri, Francesco &lt;ca.1450-1510&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Negro,</subfield>
+    <subfield code="b">Pescennio Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018136</subfield>
+    <subfield code="z">Negri, Francesco &lt;ca.1450-1510&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

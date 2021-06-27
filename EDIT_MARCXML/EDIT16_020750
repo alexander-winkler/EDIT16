@@ -1,0 +1,100 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01484nam0a22003011i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\020750</controlfield>
+  <controlfield tag="005">20110322000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e-o- etre t.ra 11re (C) 1568 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1568        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Quaedam ex constitutionibus Societatis Iesu excerpta</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Neapoli</subfield>
+    <subfield code="c">apud Iosephum Cacchium</subfield>
+    <subfield code="d">1568</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\52! c.</subfield>
+    <subfield code="d">12ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">A c. D1r altro front.: Regole communi. In Napoli : appresso Gioseppe Cacchio, 1568. - A c. E3v altro front.: Copia d&apos;vna lettera del nostro padre Ignatio, alli padri, &amp; fratelli di Portugallo, tradotta di spagnuolo in italiano. In Napoli : appresso Gioseppe Cacchio, 1568</subfield>
+  </datafield>
+  <datafield tag="423" ind1=" " ind2="0">
+    <subfield code="1">001IT\ICCU\CNCE\075792</subfield>
+    <subfield code="1">2001 </subfield>
+    <subfield code="a">Regole communi</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Napoli</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Gesuiti</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003100</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Cacchi, Giuseppe</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000064</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Societas Iesu</subfield>
+    <subfield code="3">15539</subfield>
+    <subfield code="z">Gesuiti</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a"></subfield>
+    <subfield code="3">18741</subfield>
+    <subfield code="z">Gesuiti</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Cacchius, Iosephus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004389</subfield>
+    <subfield code="z">Cacchi, Giuseppe</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Cacchio, Giuseppe</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004390</subfield>
+    <subfield code="z">Cacchi, Giuseppe</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Romolo Spezioli. Fermo</subfield>
+    <subfield code="1">AP0012</subfield>
+    <subfield code="2">UMC FM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Pontificia Facolt ̉teologica dell&apos;Italia meridionale. Sezione S. Luigi. Napoli</subfield>
+    <subfield code="1">NA0261</subfield>
+    <subfield code="2">NAP FT</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Angelica. Roma</subfield>
+    <subfield code="1">RM0290</subfield>
+    <subfield code="2">RML 06</subfield>
+  </datafield>
+</record>
+</collection>

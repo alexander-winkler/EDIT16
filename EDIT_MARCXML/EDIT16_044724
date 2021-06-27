@@ -1,0 +1,113 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01918ncm0a2200325 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\044724</controlfield>
+  <controlfield tag="005">20071231000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">o.se a.na o.no inle (3) 1589 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19990105d1589        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Libro delle laudi spirituali doue in vno sono compresi i tre libri gia stampati. E ridutta la musica  ̉pi ̮breuit,̉ e facilit:̉ con l&apos;accrescimento delle parole, e con l&apos;aggiunta de molte laudi nuoue, che si canteranno nel modo che dentro si mostra. Stampata ad instanza delli reverendi padri della Congregatione dell&apos;Oratorio</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Roma</subfield>
+    <subfield code="c">per Alessandro Gardano</subfield>
+    <subfield code="c">ad instantia de Iacomo Tornieri</subfield>
+    <subfield code="d">1589</subfield>
+    <subfield code="e">In Roma</subfield>
+    <subfield code="g">per Alessandro Gardano</subfield>
+    <subfield code="h">&amp; Francesco Coattino compagni</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\2!, 64, \2! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Roma</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Gardane, Alessandro</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000583</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Tornieri, Giacomo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000137</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Gardane, Alessandro &amp; Coattino, Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000858</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Gardano, Alessandro</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004832</subfield>
+    <subfield code="z">Gardane, Alessandro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Gardanus, Alexander</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004833</subfield>
+    <subfield code="z">Gardane, Alessandro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Tornerius, Iacobus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004126</subfield>
+    <subfield code="z">Tornieri, Giacomo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Museo Internazionale e Biblioteca della Musica. Bologna</subfield>
+    <subfield code="1">BO0310</subfield>
+    <subfield code="2">UBO BM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Conservatorio statale di musica Luigi Cherubini. Firenze</subfield>
+    <subfield code="1">FI0035</subfield>
+    <subfield code="2">CFI FC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca centrale della Regione siciliana Alberto Bombace. Palermo</subfield>
+    <subfield code="1">PA0064</subfield>
+    <subfield code="2">PAL BP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca musicale governativa del Conservatorio di musica S. Cecilia. Roma</subfield>
+    <subfield code="1">RM0266</subfield>
+    <subfield code="2">RMR SC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Vallicelliana. Roma</subfield>
+    <subfield code="1">RM0281</subfield>
+    <subfield code="2">RML 08</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Archivio di Stato di Siena. Siena</subfield>
+    <subfield code="1">SI0060</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">British Library. London</subfield>
+    <subfield code="1">UK0001</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Marciana. Venezia</subfield>
+    <subfield code="1">VE0049</subfield>
+    <subfield code="2">VEA BM</subfield>
+  </datafield>
+</record>
+</collection>

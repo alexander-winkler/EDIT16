@@ -1,0 +1,140 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02275nam0a2200385 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\013342</controlfield>
+  <controlfield tag="005">20050711000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">i.ta Deum t:ne poco (C) 1505 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1505        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Cornelius Nepos qui contra fidem ueteris inscriptionis Plinius aut Suetonius appellabatur</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Impresso in Milano</subfield>
+    <subfield code="g">per Petro Martire di Mantegatii et fratelli ditti i Casani</subfield>
+    <subfield code="g">a instancia de Iohane Iacobo et fratelli De Legnano</subfield>
+    <subfield code="h">1505 adi XXIII del mese de decembre</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\18! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Opera di incerto autore, attribuita a S. Aurelio Vittore, C. Plinio Cecilio Secondo, Cornelio Nepote e C. Svetonio Tranquillo</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2="1">
+    <subfield code="3">IT\ICCU\CNCE\013340</subfield>
+    <subfield code="a">De viris illustribus urbis Romae</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Milano</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Cornelius Nepos</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003068</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Victor,</subfield>
+    <subfield code="b">Sextus Aurelius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003115</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Suetonius Tranquillus,</subfield>
+    <subfield code="b">Gaius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006776</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Plinius Caecilius Secundus,</subfield>
+    <subfield code="b">Gaius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010213</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Mantegazza, Pietro Martire &amp; fratelli</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000903</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Da_Legnano, Giovanni Giacomo &amp; fratelli</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001554</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Cornelio Nepote</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013971</subfield>
+    <subfield code="z">Cornelius Nepos</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Nepos,</subfield>
+    <subfield code="b">Cornelius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013974</subfield>
+    <subfield code="z">Cornelius Nepos</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Aurelius Victor,</subfield>
+    <subfield code="b">Sextus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013717</subfield>
+    <subfield code="z">Victor, Sextus Aurelius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Svetonius Tranquillus,</subfield>
+    <subfield code="b">Gaius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014945</subfield>
+    <subfield code="z">Suetonius Tranquillus, Gaius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Plinio</subfield>
+    <subfield code="c"> &lt;il giovane&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010214</subfield>
+    <subfield code="z">Plinius Caecilius Secundus, Gaius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Plinius Caecilius Secundus,</subfield>
+    <subfield code="b">Caius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022659</subfield>
+    <subfield code="z">Plinius Caecilius Secundus, Gaius</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Archivio storico civico e Biblioteca Trivulziana. Milano</subfield>
+    <subfield code="1">MI0327</subfield>
+    <subfield code="2">LO1 13</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Reale. Torino</subfield>
+    <subfield code="1">TO0263</subfield>
+    <subfield code="2">TO0 07</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000956</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000956</subfield>
+    <subfield code="b">Angelo sostiene tra le braccia l&apos;ostia raggiante con al centro il monogramma di Cristo e intorno al cerchio: Io. Iacomo e fratelli de Legnano. In basso: IOL</subfield>
+    <subfield code="c">K84</subfield>
+    <subfield code="d">Dimensioni: 3,3 x 5</subfield>
+    <subfield code="f">ANGELO</subfield>
+    <subfield code="g">1505-1525</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,51 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00583nam0a22001811i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\050395</controlfield>
+  <controlfield tag="005">20030923000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20000118d1585        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Regis Ferdinandi et aliorum epistole ac orationes utriusque militiae</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Vico Equense</subfield>
+    <subfield code="d">1585</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Vico Equense</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Saccente,</subfield>
+    <subfield code="b">Giovanni Maria</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006767</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">s.n.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000002</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Saccens,</subfield>
+    <subfield code="b">Ioannes Maria</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023878</subfield>
+    <subfield code="z">Saccente, Giovanni Maria</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

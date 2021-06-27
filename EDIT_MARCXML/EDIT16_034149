@@ -1,0 +1,110 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01952nam0a22003131i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\034149</controlfield>
+  <controlfield tag="005">20080206000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">use- oset noi. niET (3) 1582 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971229d1582        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">De conciliatione legum digestorum, et codicis, libri duo. Francisco Gratiano de Garzatorib. i.c. Vincentino, auctore. Accessit eiusdem De vulgari, et fideicommissaria sustitutione, tractatio succinta. Item accessit appendix eiusdem, in qua declarantur nonnulla scitu digna, quae in iudicijs frequentatur. Quae appendix in nona impressione aucta est praecipue defensione iurisconsultorum a contarietate a budeo allegata, &amp; multis legibus que difficillime reputantur</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Vicentiae</subfield>
+    <subfield code="c">apud Perinum bibliopolam</subfield>
+    <subfield code="d">et Georgium Graecum socios</subfield>
+    <subfield code="d">1582</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">200 \i.e. 190!, \2! p.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Vicenza</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Garzadori Graziani,</subfield>
+    <subfield code="b">Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005885</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Perin &amp; Greco, Giorgio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000885</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Graziani Garzadori,</subfield>
+    <subfield code="b">Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005886</subfield>
+    <subfield code="z">Garzadori Graziani, Francesco</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Garzadoro,</subfield>
+    <subfield code="b">Francesco Graziano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019005</subfield>
+    <subfield code="z">Garzadori Graziani, Francesco</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">De_Garzatoribus,</subfield>
+    <subfield code="b">Franciscus Gratianus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022751</subfield>
+    <subfield code="z">Garzadori Graziani, Francesco</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Augusto Majani-Nasica. Budrio</subfield>
+    <subfield code="1">BO0175</subfield>
+    <subfield code="2">UBO BZ</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a"></subfield>
+    <subfield code="1">BS0156</subfield>
+    <subfield code="2">ZBS 07</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Teresiana. Mantova</subfield>
+    <subfield code="1">MN0035</subfield>
+    <subfield code="2">LO1 12</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Accademia nazionale di scienze, lettere ed arti. Modena</subfield>
+    <subfield code="1">MO0052</subfield>
+    <subfield code="2">MOD AC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Vallicelliana. Roma</subfield>
+    <subfield code="1">RM0281</subfield>
+    <subfield code="2">RML 08</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Bertoliana. Vicenza</subfield>
+    <subfield code="1">VI0096</subfield>
+    <subfield code="2">VIA BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Vicenza</subfield>
+    <subfield code="1">VI0101</subfield>
+    <subfield code="2">PBE D1</subfield>
+  </datafield>
+</record>
+</collection>

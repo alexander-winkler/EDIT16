@@ -1,0 +1,93 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01487nam0a22002771i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\033515</controlfield>
+  <controlfield tag="005">20080411000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">n-in heo, fune teme (3) 1596 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971218d1596        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Parere sopra la causa del priorato del signor caualiere Roberto Papafaua del signor caualiere Battista Guarini</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Verona</subfield>
+    <subfield code="c">appresso Girolamo Discepolo</subfield>
+    <subfield code="c">ad instantia di Gioan Battista Ciotti senese libraro in Venetia</subfield>
+    <subfield code="d">1596</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">27, \1! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">ANNULLATA: si tratta di 21961: nell&apos;esemplare di AN01 la terza cifra della data era stata cancellata e la data trascritta a mano in 1596</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Verona</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Guarini,</subfield>
+    <subfield code="b">Giovanni Battista</subfield>
+    <subfield code="c"> &lt;1538-1612&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006336</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Discepolo, Girolamo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000153</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Ciotti, Giovanni Battista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000140</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Attizzato accademico ferrarese</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019705</subfield>
+    <subfield code="z">Guarini, Giovanni Battista &lt;1538-1612&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Guarini,</subfield>
+    <subfield code="b">Battista</subfield>
+    <subfield code="c"> &lt;1538-1612&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019706</subfield>
+    <subfield code="z">Guarini, Giovanni Battista &lt;1538-1612&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Discipulus, Hieronymus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004702</subfield>
+    <subfield code="z">Discepolo, Girolamo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Discepoli, Gieronimo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004703</subfield>
+    <subfield code="z">Discepolo, Girolamo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ciottus, Ioannes Baptista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004610</subfield>
+    <subfield code="z">Ciotti, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Luciano Benincasa. Ancona</subfield>
+    <subfield code="1">AN0001</subfield>
+    <subfield code="2">URB BA</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,91 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01239nam0a22002771i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\023094</controlfield>
+  <controlfield tag="005">20131213000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">i-,e o-do s-il t-ta (C) 1558 </subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970625d1558        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Rinaldo Pedranza nouella di messer Giordano Galitani al molto illustre et honorando messer Tolomeo Crusio indirizzata</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">\Venezia!</subfield>
+    <subfield code="c">in Accademia Venetiana</subfield>
+    <subfield code="d">1558</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">14, \2! p.</subfield>
+    <subfield code="d">17 cm</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Contraffazione fatta da Giuseppe Pasquali nel 1834</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Gagliardi,</subfield>
+    <subfield code="b">Antonio</subfield>
+    <subfield code="c"> &lt;novelliere&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021473</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">Accademia Veneziana</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000053</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Galitani,</subfield>
+    <subfield code="b">Giordano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023304</subfield>
+    <subfield code="z">Gagliardi, Antonio &lt;novelliere&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Academia Veneta</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003457</subfield>
+    <subfield code="z">Accademia Veneziana</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Academia Venetiana</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004215</subfield>
+    <subfield code="z">Accademia Veneziana</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Giulio Gabrielli. Ascoli Piceno</subfield>
+    <subfield code="1">AP0006</subfield>
+    <subfield code="2">UMC AP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica A. Mai. Bergamo</subfield>
+    <subfield code="1">BG0026</subfield>
+    <subfield code="2">LO1 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Palatina. Parma</subfield>
+    <subfield code="1">PR0072</subfield>
+    <subfield code="2">PAR PA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Marciana. Venezia</subfield>
+    <subfield code="1">VE0049</subfield>
+    <subfield code="2">VEA BM</subfield>
+  </datafield>
+</record>
+</collection>

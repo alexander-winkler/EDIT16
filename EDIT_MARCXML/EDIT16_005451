@@ -1,0 +1,61 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00826nam0a2200205 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\005451</controlfield>
+  <controlfield tag="005">20151105000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">,&amp;D. D.ex mis. nt8. (C) 1588 (Q)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1588        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Sententia declaratoria concordiae anno 1561 inter dd. prelatos, et canonicos Ecclesiae Bergomatis initae. Super quibusdam praeheminentis dd. praepositi, et archipresbyteri eiusdem Ecclesiae. 1588</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="d">1588</subfield>
+    <subfield code="e">Bergamo</subfield>
+    <subfield code="g">Comino Ventura</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\2! c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Bergamo</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Bergamo</subfield>
+    <subfield code="c"> &lt;Diocesi&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001639</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Ventura, Comino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000028</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Ecclesia Bergomensis</subfield>
+    <subfield code="3">20587</subfield>
+    <subfield code="z">Bergamo &lt;Diocesi&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica A. Mai. Bergamo</subfield>
+    <subfield code="1">BG0026</subfield>
+    <subfield code="2">LO1 02</subfield>
+  </datafield>
+</record>
+</collection>

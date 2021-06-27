@@ -1,0 +1,85 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01211nam0a2200253 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\039923</controlfield>
+  <controlfield tag="005">20120417000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">**** a.i- 2441 **** (C) 1526 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19981031d1526        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Libretto di abaco nouamente stampato: composto per lo eccellente maestro Ioanne Francisco dal Sole</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">In Vinegia</subfield>
+    <subfield code="g">per Francisco Bindoni e Mapheo Pasini</subfield>
+    <subfield code="h">1526</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\12! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Dal_Sole,</subfield>
+    <subfield code="b">Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004580</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Bindoni, Francesco &lt;1.&gt; &amp; Pasini, Maffeo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000060</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Sole,</subfield>
+    <subfield code="b">Francesco : dal</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004582</subfield>
+    <subfield code="z">Dal_Sole, Francesco</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Du_Soleil,</subfield>
+    <subfield code="b">Jean-Franȯis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004583</subfield>
+    <subfield code="z">Dal_Sole, Francesco</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Sole,</subfield>
+    <subfield code="b">Giovanni Francesco : dal</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010193</subfield>
+    <subfield code="z">Dal_Sole, Francesco</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">℗al segno dell&apos;℗Angelo Raffaele</subfield>
+    <subfield code="c"> &lt;1531-1546&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002984</subfield>
+    <subfield code="z">Bindoni, Francesco &lt;1.&gt; &amp; Pasini, Maffeo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Ottorino Marcolini - Universit ̉cattolica. Brescia</subfield>
+    <subfield code="1">BS0211</subfield>
+    <subfield code="2">ZBS 19</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca d&apos;arte del Museo civico Correr. Venezia</subfield>
+    <subfield code="1">VE0039</subfield>
+    <subfield code="2">VEA BC</subfield>
+  </datafield>
+</record>
+</collection>

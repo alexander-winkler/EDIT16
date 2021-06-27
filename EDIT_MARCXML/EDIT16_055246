@@ -1,0 +1,51 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00667na 0a22001571i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\055246</controlfield>
+  <controlfield tag="005">20060724000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20040110             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Medicina Plinii</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Plinius Secundus,</subfield>
+    <subfield code="b">Gaius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008306</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Plinius Valerianus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\017144</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Plinio</subfield>
+    <subfield code="c"> &lt;il vecchio&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010215</subfield>
+    <subfield code="z">Plinius Secundus, Gaius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Plinius Secundus,</subfield>
+    <subfield code="b">Caius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023078</subfield>
+    <subfield code="z">Plinius Secundus, Gaius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Valerianus,</subfield>
+    <subfield code="b">Plinius Secundus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\017145</subfield>
+    <subfield code="z">Plinius Valerianus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Plinius Valerianus,</subfield>
+    <subfield code="b">Caius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023075</subfield>
+    <subfield code="z">Plinius Valerianus</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

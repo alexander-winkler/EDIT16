@@ -1,0 +1,36 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00466na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\073490</controlfield>
+  <controlfield tag="005">20081022000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20081022             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Comedia del Contile chiamata la Trinozzia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Contile,</subfield>
+    <subfield code="b">Luca</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003469</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Furioso Accademico Intronato</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014280</subfield>
+    <subfield code="z">Contile, Luca</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Guidato Accademico Affidato</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014302</subfield>
+    <subfield code="z">Contile, Luca</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

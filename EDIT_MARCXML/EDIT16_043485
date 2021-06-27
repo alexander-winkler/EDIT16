@@ -1,0 +1,73 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01056ncm0a22002291i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\043485</controlfield>
+  <controlfield tag="005">20040421000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19981230d1591        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Canto di Stefano Felis da Bari maestro di cappella del domo di Napoli, il ℗sesto libro de madrigali a cinque voci, con alcuni a sei, et un dialogo a sette nel fine. Nouamente composti &amp; dati in luce</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Venetia</subfield>
+    <subfield code="c">appresso l&apos;herede di Girolomo Scotto</subfield>
+    <subfield code="c">ad instantia de Scipione Rizzo Napoletano al segno del Giesu</subfield>
+    <subfield code="d">1591</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">24 p.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Felis,</subfield>
+    <subfield code="b">Stefano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\011523</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Scoto, Girolamo - erede</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000459</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Riccio, Scipione</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000696</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Felis,</subfield>
+    <subfield code="b">Stephanus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019358</subfield>
+    <subfield code="z">Felis, Stefano</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Riccus, Scipio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002558</subfield>
+    <subfield code="z">Riccio, Scipione</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ricius, Scipio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005378</subfield>
+    <subfield code="z">Riccio, Scipione</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">British Library. London</subfield>
+    <subfield code="1">UK0001</subfield>
+  </datafield>
+</record>
+</collection>

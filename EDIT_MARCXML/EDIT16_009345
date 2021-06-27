@@ -1,0 +1,215 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>03408nam0a2200505 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\009345</controlfield>
+  <controlfield tag="005">20191114000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">tae, 2989 i:n- mope (3) 1580 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">A</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">tae, 2989 a.do d&apos;ni (3) 1580 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">B</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1580        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Dell&apos;historie del regno di Napoli del sig. Gioan Battista Carrafa. Parte prima</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Napoli</subfield>
+    <subfield code="c">appresso Horatio Saluiani</subfield>
+    <subfield code="d">1580</subfield>
+    <subfield code="e">In Napoli</subfield>
+    <subfield code="g">appresso Horatio Saluiani</subfield>
+    <subfield code="h">1580</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\16!, 258, \1! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Si tratta dell&apos;edizione di Giuseppe Cacchi del 1572 con frontespizio, pagine iniziali e colophon ricomposti. - Var. B: parzialmente ricomposta. - Var. C: In Napoli : appresso Horatio Saluiani, 1580 (In Napoli : appresso Giuseppe Cacchij dall&apos;Aquila, 1571)</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Napoli</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Carafa,</subfield>
+    <subfield code="b">Giovanni Battista</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002611</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Salviani, Orazio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000065</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Cacchi, Giuseppe</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000064</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Carrafa,</subfield>
+    <subfield code="b">Gioan. Battista</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013160</subfield>
+    <subfield code="z">Carafa, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Officina Salviana</subfield>
+    <subfield code="c"> &lt;Napoli&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003024</subfield>
+    <subfield code="z">Salviani, Orazio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Salvianus, Horatius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005547</subfield>
+    <subfield code="z">Salviani, Orazio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Cacchius, Iosephus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004389</subfield>
+    <subfield code="z">Cacchi, Giuseppe</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Cacchio, Giuseppe</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004390</subfield>
+    <subfield code="z">Cacchi, Giuseppe</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Bologna</subfield>
+    <subfield code="z">(VAR.A)</subfield>
+    <subfield code="1">BO0098</subfield>
+    <subfield code="2">UBO BU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale dell&apos;Archiginnasio. Bologna</subfield>
+    <subfield code="z">(VAR.A)</subfield>
+    <subfield code="1">BO0304</subfield>
+    <subfield code="2">UBO GA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Marucelliana. Firenze</subfield>
+    <subfield code="z">(VAR.C)</subfield>
+    <subfield code="1">FI0101</subfield>
+    <subfield code="2">CFI MF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Ambrosiana. Milano</subfield>
+    <subfield code="z">(VAR.A)</subfield>
+    <subfield code="1">MI0133</subfield>
+    <subfield code="2">VBA 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Napoli</subfield>
+    <subfield code="1">NA0070</subfield>
+    <subfield code="2">NAP BU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca oratoriana del Monumento nazionale dei Girolamini. Napoli</subfield>
+    <subfield code="1">NA0075</subfield>
+    <subfield code="2">NAP GE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="z">(VAR.C)</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca centrale della Regione siciliana Alberto Bombace. Palermo</subfield>
+    <subfield code="z">(VAR.B)</subfield>
+    <subfield code="1">PA0064</subfield>
+    <subfield code="2">PAL BP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario Vescovile della Facolt ̉Teologica del Triveneto dell&apos;Istituto Filosofico Aloisianum. Padova</subfield>
+    <subfield code="1">PD0073</subfield>
+    <subfield code="2">PUV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Padova</subfield>
+    <subfield code="z">(A)</subfield>
+    <subfield code="1">PD0090</subfield>
+    <subfield code="2">PUV 55</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Palatina. Parma</subfield>
+    <subfield code="z">(VAR.B)</subfield>
+    <subfield code="1">PR0072</subfield>
+    <subfield code="2">PAR PA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria Alessandrina. Roma</subfield>
+    <subfield code="z">(VAR.A)</subfield>
+    <subfield code="1">RM0280</subfield>
+    <subfield code="2">RML 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Senato della Repubblica Giovanni Spadolini. Roma</subfield>
+    <subfield code="1">RM0427</subfield>
+    <subfield code="2">ZRM 12</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale. Salerno</subfield>
+    <subfield code="z">(VAR.B)</subfield>
+    <subfield code="1">SA0063</subfield>
+    <subfield code="2">CAM PS</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Reale. Torino</subfield>
+    <subfield code="z">(VAR.C)</subfield>
+    <subfield code="1">TO0263</subfield>
+    <subfield code="2">TO0 07</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Nel colophon var. A e B</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000236</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">In fine var. C</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000131</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000236</subfield>
+    <subfield code="b">Pellegrino in cammino con il bordone in spalla. Sullo sfondo paesaggio con una costellazione di nove stelle. In cornice.</subfield>
+    <subfield code="e">Peregrinus sum a iuventute mea</subfield>
+    <subfield code="c">V35</subfield>
+    <subfield code="c">Z949</subfield>
+    <subfield code="d">Dimensioni: 5 x 6,5</subfield>
+    <subfield code="f">BORDONE</subfield>
+    <subfield code="f">PELLEGRINO</subfield>
+    <subfield code="f">PEREGRINUS</subfield>
+    <subfield code="f">STELLE</subfield>
+    <subfield code="g">1567-1580</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000131</subfield>
+    <subfield code="b">Orfeo, seduto sotto un albero, suona la viola (lira da braccio). In basso un cervo. Ai lati della cornice due satiri suonano uno la siringa l&apos;altro il flauto.</subfield>
+    <subfield code="e">Suavis vox ex eius ore et indefessa fluit</subfield>
+    <subfield code="c">V188</subfield>
+    <subfield code="c">Z908</subfield>
+    <subfield code="f">SUAVITVOXE</subfield>
+    <subfield code="f">ORFEO</subfield>
+    <subfield code="f">ALBERO</subfield>
+    <subfield code="f">VIOLA</subfield>
+    <subfield code="f">CERVO</subfield>
+    <subfield code="g">1555-1580</subfield>
+  </datafield>
+</record>
+</collection>

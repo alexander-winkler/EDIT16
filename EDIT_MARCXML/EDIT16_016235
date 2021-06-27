@@ -1,0 +1,36 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00486na 0a22001211i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\016235</controlfield>
+  <controlfield tag="005">20050609000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">De vera et falsa poenitentia</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Augustinus,</subfield>
+    <subfield code="b">Aurelius</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004494</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Agostino Aurelio</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018777</subfield>
+    <subfield code="z">Augustinus, Aurelius &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Aurelius Augustinus</subfield>
+    <subfield code="c"> : Hipponensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018780</subfield>
+    <subfield code="z">Augustinus, Aurelius &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

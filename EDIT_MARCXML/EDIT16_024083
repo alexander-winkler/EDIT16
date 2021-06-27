@@ -1,0 +1,192 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>03031nam0a22004931i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\024083</controlfield>
+  <controlfield tag="005">20110210000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e-um ntso r.er Prad (3) 1568 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970725d1568        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Tractatus sacerdotalis, d. Nicolao de Ploue, doctore decretorum, authore. Huic accessit confessionale diui Thomae de Aquino</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetijs</subfield>
+    <subfield code="c">apud Georgium de Caballis</subfield>
+    <subfield code="d">1568</subfield>
+    <subfield code="e">Venetijs</subfield>
+    <subfield code="h">1568</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">290, \14! c.</subfield>
+    <subfield code="d">16ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">L&apos;autore del De modo confitendi  ̈Matthaeus de Cracovia. Falsamente attribuito a San Tommaso d&apos;Aquino e a San Bonaventura da Bagnorea. Cfr.: P. Michaud-Quantin, Sommes de casuistique et manuels au moyen age, p. 79</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Nicolaus</subfield>
+    <subfield code="c"> : de#Plove</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006739</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Matthaeus</subfield>
+    <subfield code="c"> : de#Cracovia</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016543</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Tommaso</subfield>
+    <subfield code="c"> : d&apos;Aquino</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000195</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Bonaventura</subfield>
+    <subfield code="c"> : da#Bagnorea</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001077</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Cavalli, Giorgio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000626</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Nicolaus</subfield>
+    <subfield code="c"> : de#Blonie</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022366</subfield>
+    <subfield code="z">Nicolaus : de#Plove</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Mikolaj</subfield>
+    <subfield code="c"> : z#Blonia</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022367</subfield>
+    <subfield code="z">Nicolaus : de#Plove</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Cracovia,</subfield>
+    <subfield code="b">Matthaeus : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016569</subfield>
+    <subfield code="z">Matthaeus : de#Cracovia</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Krakowa,</subfield>
+    <subfield code="b">Mateusz : z</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026517</subfield>
+    <subfield code="z">Matthaeus : de#Cracovia</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Thomas</subfield>
+    <subfield code="c"> : de#Aquino</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009350</subfield>
+    <subfield code="z">Tommaso : d&apos;Aquino &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Bonaventura</subfield>
+    <subfield code="c"> : da#Bagnoregio</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012695</subfield>
+    <subfield code="z">Bonaventura : da#Bagnorea &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Eutichio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018565</subfield>
+    <subfield code="z">Bonaventura : da#Bagnorea &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Giovanni Pietro</subfield>
+    <subfield code="c"> : di#Fidenza</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018566</subfield>
+    <subfield code="z">Bonaventura : da#Bagnorea &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Caballis, Georgius de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004566</subfield>
+    <subfield code="z">Cavalli, Giorgio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca centrale dei frati cappuccini delle Marche. Ancona</subfield>
+    <subfield code="1">AN0007</subfield>
+    <subfield code="2">ZAN 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Antonelliana. Senigallia</subfield>
+    <subfield code="1">AN0069</subfield>
+    <subfield code="2">URB BS</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale Salvatore Tommasi. Bazzano</subfield>
+    <subfield code="1">AQ0047</subfield>
+    <subfield code="2">ABR PR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei Frati minori dell&apos;Emilia. Sezione Biblioteca dell&apos;Osservanza. Bologna</subfield>
+    <subfield code="1">BO0336</subfield>
+    <subfield code="2">ZBO 41</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Enna</subfield>
+    <subfield code="1">EN0025</subfield>
+    <subfield code="2">ZEN 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Pontificia Biblioteca Antoniana. Padova</subfield>
+    <subfield code="1">EX0020</subfield>
+    <subfield code="2">PUV 78</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca capitolare del Duomo di Monza. Monza</subfield>
+    <subfield code="1">MI0375</subfield>
+    <subfield code="2">ZMI 21</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Passerini Landi. Piacenza</subfield>
+    <subfield code="1">PC0030</subfield>
+    <subfield code="2">PIA PL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca storico-francescana della Chiesa Nuova. Assisi</subfield>
+    <subfield code="1">PG0004</subfield>
+    <subfield code="2">ZPG 31</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Giosu ̈Carducci. Citt ̉di Castello</subfield>
+    <subfield code="1">PG0032</subfield>
+    <subfield code="2">UM1 05</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario diocesano di Concordia-Pordenone. Pordenone</subfield>
+    <subfield code="1">PN0052</subfield>
+    <subfield code="2">TSA SC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Roncioniana - Fondazione Eredit ̉Marco Roncioni (ONLUS). Prato</subfield>
+    <subfield code="1">PO0005</subfield>
+    <subfield code="2">RT1 EB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Civica Giuseppe Cultrera. Leonessa</subfield>
+    <subfield code="1">RI0070</subfield>
+    <subfield code="2">RL1 S7</subfield>
+  </datafield>
+</record>
+</collection>

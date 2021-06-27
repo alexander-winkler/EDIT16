@@ -1,0 +1,79 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01300nam0a22002531i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\070857</controlfield>
+  <controlfield tag="005">20091103000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e-i- itDo n-s, uale (C) 1564 (Q)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20070606f1564        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Constitutiones statuta, et reformationes venerabilis Collegij dd. aduocatorum, procuratorum, &amp; notariorum ciuitatis Camerini. Sedente Pio Quarto pont. max. ... Tempore prioratus m.d. Io. Baptistae Fatij, &amp; d. Pannutij Pretalatae Camertium</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="d">\1564?!</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\4! c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Stampata presumibilmente a Camerino da Antonio Gioioso. -  La data si ricava dal testo</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Camerino</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="0">
+    <subfield code="a">Collegio degli avvocati, procuratori e notai</subfield>
+    <subfield code="c"> &lt;Camerino&gt;</subfield>
+    <subfield code="3">28341</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Gioioso, Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000826</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Collegium notariorum</subfield>
+    <subfield code="c"> &lt;Camerino&gt;</subfield>
+    <subfield code="3">29228</subfield>
+    <subfield code="z">Collegio degli avvocati, procuratori e notai &lt;Camerino&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Collegium procuratorum et notariorum</subfield>
+    <subfield code="c"> &lt;Camerino&gt;</subfield>
+    <subfield code="3">29229</subfield>
+    <subfield code="z">Collegio degli avvocati, procuratori e notai &lt;Camerino&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Gioiosus, Antonius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004881</subfield>
+    <subfield code="z">Gioioso, Antonio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Mozzi-Borgetti. Macerata</subfield>
+    <subfield code="1">MC0049</subfield>
+    <subfield code="2">UMC CM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Angelica. Roma</subfield>
+    <subfield code="1">RM0290</subfield>
+    <subfield code="2">RML 06</subfield>
+  </datafield>
+</record>
+</collection>

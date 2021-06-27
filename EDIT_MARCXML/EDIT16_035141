@@ -1,0 +1,141 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01983nam0a2200373 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\035141</controlfield>
+  <controlfield tag="005">20100430000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">ed*- S.PI t,t- Neex (3) 1586 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19980109d1586        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Terentii ℗Comoediae sex, accurate sane, et diligenter emendatae. Hc̆ adiecta. Terentij vita ex Aelio Donato. Argumenta in fabulas, &amp; scenas. Annotationes in margine adscript.̆ Obseruatio vari ̆lectionis</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Vincentiae</subfield>
+    <subfield code="c">apud Andrăm Tebonum</subfield>
+    <subfield code="d">1586</subfield>
+    <subfield code="e"></subfield>
+    <subfield code="g">Augustinum \!! a Nuce excudebat</subfield>
+    <subfield code="h">1586</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">175, \1! c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Vicenza</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Terentius Afer,</subfield>
+    <subfield code="b">Publius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003195</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Donatus,</subfield>
+    <subfield code="b">Aelius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000324</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Tebon, Andrea</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002764</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Dalla_Noce, Agostino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000879</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Terenzio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014983</subfield>
+    <subfield code="z">Terentius Afer, Publius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Dionisius,</subfield>
+    <subfield code="b">Appollonius Donatus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004906</subfield>
+    <subfield code="z">Donatus, Aelius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Aelius</subfield>
+    <subfield code="c"> : Donatus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009367</subfield>
+    <subfield code="z">Donatus, Aelius</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Tebonus, Andreas</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005576</subfield>
+    <subfield code="z">Tebon, Andrea</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Thebon, Andrea</subfield>
+    <subfield code="3">IT\ICCU\CNCT\006332</subfield>
+    <subfield code="z">Tebon, Andrea</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Noce, Agostino dalla</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003196</subfield>
+    <subfield code="z">Dalla_Noce, Agostino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Nuce, Augustinus a</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003702</subfield>
+    <subfield code="z">Dalla_Noce, Agostino</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Planettiana. Jesi</subfield>
+    <subfield code="1">AN0092</subfield>
+    <subfield code="2">URB BC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Belluno</subfield>
+    <subfield code="1">BL0006</subfield>
+    <subfield code="2">VIA CB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Padova</subfield>
+    <subfield code="1">PD0090</subfield>
+    <subfield code="2">PUV 55</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale e Centro servizi culturali. Comiso</subfield>
+    <subfield code="1">RG0004</subfield>
+    <subfield code="2">ZRG 06</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Verona</subfield>
+    <subfield code="1">VR0059</subfield>
+    <subfield code="2">ZVR 02</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001170</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001170</subfield>
+    <subfield code="b">Grifone che regge con l&apos;artiglio una pietra alla quale  ̈incatenato un globo alato.</subfield>
+    <subfield code="c">Z708</subfield>
+    <subfield code="d">Dimensioni: 4,5 x 5</subfield>
+    <subfield code="f">GRIFONE</subfield>
+    <subfield code="f">PIETRA</subfield>
+    <subfield code="f">GLOBO</subfield>
+    <subfield code="g">1586-1596</subfield>
+  </datafield>
+</record>
+</collection>

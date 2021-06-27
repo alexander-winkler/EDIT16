@@ -1,0 +1,108 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01929nam0a22003011i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\029769</controlfield>
+  <controlfield tag="005">20040408000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">siez erel urmo nome (C) 1560 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971124d1560        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Trattato assai bello, et vtile di doi mostri nati in Palermo in diuersi tempi; oue per due lettere l&apos;una volgare, e laltra latina (si come furno \!! scritte e mandate) si determinano molte necessarie questioni appartenenti a essi mostri. Agiontoui vn ragionamento, fatto in presenza del magistrato sopra le infermit ̉epidimiali, e popolari successe nell&apos;anno 1558 in detta citt,̉ di Gio. Filippo Ingrassia dottore in medicina, filosofo, et ordinario lettore</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Palermo</subfield>
+    <subfield code="d">1560</subfield>
+    <subfield code="e">In Palermo</subfield>
+    <subfield code="g">per Giouan Mattheo Mayda</subfield>
+    <subfield code="g">ad instantia di Giouan Francesco Carara et fratelli all&apos;insegna del Leone</subfield>
+    <subfield code="h">1560</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">24 c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Palermo</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Ingrassia,</subfield>
+    <subfield code="b">Giovanni Filippo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005644</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Mayda, Giovanni Matteo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000016</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Carrara, Giovanni Francesco &amp; fratelli</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000913</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Ingrassia,</subfield>
+    <subfield code="b">Joannes Philippus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020108</subfield>
+    <subfield code="z">Ingrassia, Giovanni Filippo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Ingrassia,</subfield>
+    <subfield code="b">Philippus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022996</subfield>
+    <subfield code="z">Ingrassia, Giovanni Filippo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Ingrassia,</subfield>
+    <subfield code="b">Ioannes Philippus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022997</subfield>
+    <subfield code="z">Ingrassia, Giovanni Filippo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Maida, Giovanni Matteo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003506</subfield>
+    <subfield code="z">Mayda, Giovanni Matteo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Maida, Ioannes Matthaeus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005110</subfield>
+    <subfield code="z">Mayda, Giovanni Matteo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Mayda, Ioannes Mattheus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005112</subfield>
+    <subfield code="z">Mayda, Giovanni Matteo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Palermo</subfield>
+    <subfield code="1">PA0063</subfield>
+    <subfield code="2">PA1 CP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca centrale della Regione siciliana Alberto Bombace. Palermo</subfield>
+    <subfield code="1">PA0064</subfield>
+    <subfield code="2">PAL BP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Pisa</subfield>
+    <subfield code="1">PI0112</subfield>
+    <subfield code="2">PIS R1</subfield>
+  </datafield>
+</record>
+</collection>

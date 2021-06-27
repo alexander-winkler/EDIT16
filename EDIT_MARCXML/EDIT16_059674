@@ -1,0 +1,117 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01835nam0a22003251i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\059674</controlfield>
+  <controlfield tag="005">20080819000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">r.t. s.am naem altu (3) 1513 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20041206d1513        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Quae in hoc enchiridio contineantur. C. Crispi Sallustii de coniuratione Catilinae. Eiusdem De bello Iugurthino. Eiusdem oratio contra M.T. Ciceronem. M.T. Ciceronis oratio contra C. Crispum Sallustium. Eiusdem orationes quatuor contra Lucium Catilinam. Porcii Latronis declamatio contra Lucium Catilinam. Orationes quaedam ex libris historiorum C. Crispi Sallustii</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Florentiae</subfield>
+    <subfield code="g">sumptibus Philippi de Giunta Florentini</subfield>
+    <subfield code="h">mense Iunio 1513</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\8!, 140 c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Accorpata al CNC 50678.!!!</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Firenze</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Cicero,</subfield>
+    <subfield code="b">Marcus Tullius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002170</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Crinito,</subfield>
+    <subfield code="b">Pietro</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003576</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Latro,</subfield>
+    <subfield code="b">Marcus Porcius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013542</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Giunta, Filippo</subfield>
+    <subfield code="c"> &lt;1.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000487</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Tullius Cicero,</subfield>
+    <subfield code="b">Marcus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020042</subfield>
+    <subfield code="z">Cicero, Marcus Tullius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Riccio,</subfield>
+    <subfield code="b">Pietro</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013853</subfield>
+    <subfield code="z">Crinito, Pietro</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Del_Riccio Baldi,</subfield>
+    <subfield code="b">Pietro</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013854</subfield>
+    <subfield code="z">Crinito, Pietro</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Crinitus,</subfield>
+    <subfield code="b">Petrus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013856</subfield>
+    <subfield code="z">Crinito, Pietro</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Petrus</subfield>
+    <subfield code="c"> : Crinitus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014796</subfield>
+    <subfield code="z">Crinito, Pietro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Philippus bibliopola</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002976</subfield>
+    <subfield code="z">Giunta, Filippo &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Iunta, Philippus</subfield>
+    <subfield code="c"> &lt;1.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003888</subfield>
+    <subfield code="z">Giunta, Filippo &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Giunti, Filippo</subfield>
+    <subfield code="c"> &lt;1&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004915</subfield>
+    <subfield code="z">Giunta, Filippo &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Labronica Francesco Domenico Guerrazzi. Sezione dei Bottini dell&apos;olio. Livorno</subfield>
+    <subfield code="1">LI0074</subfield>
+    <subfield code="2">LIA LA</subfield>
+  </datafield>
+</record>
+</collection>

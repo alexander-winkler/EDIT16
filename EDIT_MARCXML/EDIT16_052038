@@ -1,0 +1,44 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00611na 0a22001451i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\052038</controlfield>
+  <controlfield tag="005">20010709000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20010612             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Epithoma super libros de generatione et corruptione Ari</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Javelli,</subfield>
+    <subfield code="b">Giovanni Crisostomo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006969</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Iavellus,</subfield>
+    <subfield code="b">Chrysostomus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013134</subfield>
+    <subfield code="z">Javelli, Giovanni Crisostomo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Giavelli,</subfield>
+    <subfield code="b">Giovanni Crisostomo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014150</subfield>
+    <subfield code="z">Javelli, Giovanni Crisostomo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Iavelli,</subfield>
+    <subfield code="b">Crisostomo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020034</subfield>
+    <subfield code="z">Javelli, Giovanni Crisostomo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

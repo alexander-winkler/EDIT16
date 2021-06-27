@@ -1,0 +1,113 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01662nam0a2200313 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\045478</controlfield>
+  <controlfield tag="005">20130214000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">t.n- inil t.ca liDi (3) 1545 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19990125d1545        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Lucae Gaurici Geophonensis ℗Super diebus decretoriis (quos etiam criticos vocitant) axiomata, siue aphorismi grandes vtique sententiae breui oratione compraehensae. Enucleauit item pleraque Hippocratis, &amp; Galeni theoremata, quae medici rerum coelestium expertes vix olfecerunt. Isagogicus astrologiae tractatus medicis admodum oportunus</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="d">1545</subfield>
+    <subfield code="e">Romae</subfield>
+    <subfield code="g">in aedibus Valerij Dorici</subfield>
+    <subfield code="h">&amp; Ludouici</subfield>
+    <subfield code="h">fratrum Brixianorum</subfield>
+    <subfield code="h">1546</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">136 \i. e. 138!, \2! p.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Roma</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Gaurico,</subfield>
+    <subfield code="b">Luca</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000133</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Galenus,</subfield>
+    <subfield code="b">Claudius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000093</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Hippocrates</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000096</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Dorico, Valerio &amp; Dorico, Luigi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000187</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Gauricus,</subfield>
+    <subfield code="b">Lucas</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019109</subfield>
+    <subfield code="z">Gaurico, Luca</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Galeno,</subfield>
+    <subfield code="b">Claudio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014027</subfield>
+    <subfield code="z">Galenus, Claudius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Galeno</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025929</subfield>
+    <subfield code="z">Galenus, Claudius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Hippokrates</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005430</subfield>
+    <subfield code="z">Hippocrates</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Ippocrate</subfield>
+    <subfield code="c"> : di#Cos</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014391</subfield>
+    <subfield code="z">Hippocrates</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Dorico, Luigi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000188</subfield>
+    <subfield code="z">Dorico, Valerio &amp; Dorico, Luigi</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Padova</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">PD0158</subfield>
+    <subfield code="2">PUV 00</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Palatina. Parma</subfield>
+    <subfield code="1">PR0072</subfield>
+    <subfield code="2">PAR PA</subfield>
+  </datafield>
+</record>
+</collection>

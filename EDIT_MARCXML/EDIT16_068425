@@ -1,0 +1,71 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01004nam0a22002291i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\068425</controlfield>
+  <controlfield tag="005">20061027000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">dame s?s, e.re GiQu (C) 1589 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20061013d1589        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Canzoni, et rime spirituali in morte dell&apos;illustriss. et reuerendiss. cardinal Farnese. Composte da diuersi eccelenti autori. Con l&apos;essequie. Celebrate nella sua morte</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Milano</subfield>
+    <subfield code="c">per Leonardo Pontio stampatore Reg. Cam.</subfield>
+    <subfield code="d">1589</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\16! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Milano</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Da_Ponte, Leonardo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000811</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pontius, Leonardus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003711</subfield>
+    <subfield code="z">Da_Ponte, Leonardo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ponte, Leonardo da</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003715</subfield>
+    <subfield code="z">Da_Ponte, Leonardo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pontio, Leonardo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004490</subfield>
+    <subfield code="z">Da_Ponte, Leonardo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ponzio, Leonardo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004491</subfield>
+    <subfield code="z">Da_Ponte, Leonardo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Ambrosiana. Milano</subfield>
+    <subfield code="1">MI0133</subfield>
+    <subfield code="2">VBA 01</subfield>
+  </datafield>
+</record>
+</collection>

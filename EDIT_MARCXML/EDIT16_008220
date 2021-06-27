@@ -1,0 +1,100 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01388nam0a2200301 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\008220</controlfield>
+  <controlfield tag="005">19981223000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e.e. o:s: s?re Patu (3) 1552 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1552        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Ex Hadriano cardinale De latino sermone. Autore Hieronymo Capharo</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Romae</subfield>
+    <subfield code="c">apud Vincentium Lucrinum</subfield>
+    <subfield code="d">1552</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">15, 21, 28 p.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">A c. B1 altro front.: Notanda quaedam. A c. D1 altro front.: Dialogus de interpretatione cuiuslibet autoris</subfield>
+  </datafield>
+  <datafield tag="423" ind1=" " ind2="0">
+    <subfield code="1">001IT\ICCU\CNCE\043146</subfield>
+    <subfield code="1">2001 </subfield>
+    <subfield code="a">Notanda quaedam</subfield>
+  </datafield>
+  <datafield tag="423" ind1=" " ind2="0">
+    <subfield code="1">001IT\ICCU\CNCE\043147</subfield>
+    <subfield code="1">2001 </subfield>
+    <subfield code="a">Dialogus de interpretatione cuiuslibet autoris</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Roma</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Cafaro,</subfield>
+    <subfield code="b">Girolamo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002332</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Luchino, Vincenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000408</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Capharus,</subfield>
+    <subfield code="b">Hieronymus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012960</subfield>
+    <subfield code="z">Cafaro, Girolamo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Lucrinus, Vincentius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002733</subfield>
+    <subfield code="z">Luchino, Vincenzo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Lucchinus, Vincentius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003946</subfield>
+    <subfield code="z">Luchino, Vincenzo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Lucchino, Vincenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004980</subfield>
+    <subfield code="z">Luchino, Vincenzo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Lucrino, Vincenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004981</subfield>
+    <subfield code="z">Luchino, Vincenzo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Luchinus, Vincentius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004982</subfield>
+    <subfield code="z">Luchino, Vincenzo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Firenze</subfield>
+    <subfield code="1">FI0098</subfield>
+    <subfield code="2">CFI CF</subfield>
+  </datafield>
+</record>
+</collection>

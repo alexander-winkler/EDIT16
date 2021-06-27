@@ -1,0 +1,26 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00306na 0a22001091i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\036329</controlfield>
+  <controlfield tag="005">20070802000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19980223             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Uggeri il Danese</subfield>
+  </datafield>
+  <datafield tag="517" ind1="1" ind2=" ">
+    <subfield code="3">IT\ICCU\CNCE\071532</subfield>
+    <subfield code="a">Oggeri il Danese</subfield>
+  </datafield>
+  <datafield tag="517" ind1="1" ind2=" ">
+    <subfield code="3">IT\ICCU\CNCE\071533</subfield>
+    <subfield code="a">Danese</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

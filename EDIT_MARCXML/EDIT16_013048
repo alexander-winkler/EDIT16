@@ -1,0 +1,141 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02112nam0a2200385 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\013048</controlfield>
+  <controlfield tag="005">20201014000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">43es 05a- do45 CoCo (3) 1593 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">n-er r.i- ious Gapr (C) 1593 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">2</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1593        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Concilium Tridentinum sub Paulo III Iulio III et Pio IIII pont. max. celebratum. Cui accedunt Pii IV &amp; V summorum pont. bullae aliquot super declaratione decretorum quorundam eiusdem Concilij emanata ... Et denuo librorum prohibitorumIndice addito</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud Minimam Societatem</subfield>
+    <subfield code="d">1593</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">2 pt.</subfield>
+    <subfield code="d">16ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">2: Index librorum prohibitorum ...</subfield>
+  </datafield>
+  <datafield tag="423" ind1=" " ind2="0">
+    <subfield code="1">001IT\ICCU\CNCE\059710</subfield>
+    <subfield code="1">2001 </subfield>
+    <subfield code="a">Index librorum prohibitorum.</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="710" ind1="1" ind2="2">
+    <subfield code="a">Concilio di Trento</subfield>
+    <subfield code="c"> &lt;1545-1563&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003434</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">Compagnia Minima</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000698</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Concilium Tridentinum</subfield>
+    <subfield code="c"> &lt;1545-1563&gt;</subfield>
+    <subfield code="3">8382</subfield>
+    <subfield code="z">Concilio di Trento &lt;1545-1563&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Minima Societas</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002734</subfield>
+    <subfield code="z">Compagnia Minima</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Societas Minima</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004654</subfield>
+    <subfield code="z">Compagnia Minima</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Minima Compagnia</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004655</subfield>
+    <subfield code="z">Compagnia Minima</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Sassoferrato</subfield>
+    <subfield code="1">AN0065</subfield>
+    <subfield code="2">URB SV</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei Cappuccini. Firenze</subfield>
+    <subfield code="1">FI0041</subfield>
+    <subfield code="2">RT1 PC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Mozzi-Borgetti. Macerata</subfield>
+    <subfield code="1">MC0049</subfield>
+    <subfield code="2">UMC CM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Collegio cardinale Giulio Alberoni. Piacenza</subfield>
+    <subfield code="1">PC0032</subfield>
+    <subfield code="2">PIA AB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Classense. Ravenna</subfield>
+    <subfield code="1">RA0036</subfield>
+    <subfield code="2">RAV CL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale Melchiorre Delfico. Teramo</subfield>
+    <subfield code="1">TE0024</subfield>
+    <subfield code="2">ABR R1</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Trento</subfield>
+    <subfield code="1">TN0121</subfield>
+    <subfield code="2">ZTN 01</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sui front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000062</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000062</subfield>
+    <subfield code="b">Colomba con ramoscello di olivo nel becco poggiata su un tronco d&apos;albero. In cornice figurata</subfield>
+    <subfield code="c">V323</subfield>
+    <subfield code="c">Z359</subfield>
+    <subfield code="d">Dimensioni: 4,7 x 3,8</subfield>
+    <subfield code="f">COLOMBA</subfield>
+    <subfield code="f">RAMOSCELLO</subfield>
+    <subfield code="f">TRONCO</subfield>
+    <subfield code="g">1593-1600</subfield>
+  </datafield>
+</record>
+</collection>

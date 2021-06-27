@@ -1,0 +1,113 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01749nam0a2200301 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\021079</controlfield>
+  <controlfield tag="005">20090708000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">riis c-ab opap spcl (3) 1514 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1514        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Consilia aurea domini Ioannis de Imola nouiter reducta pro faciliori inuentione</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Impressum Mediolani</subfield>
+    <subfield code="g">per Io. Angelum Scinzenzeler</subfield>
+    <subfield code="g">impensis nobilium virorum Io.Iacobi et fratrum de Lignano</subfield>
+    <subfield code="h">1514 die xxii mensis Decembris</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">63, \1! c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Milano</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Giovanni</subfield>
+    <subfield code="c"> : da#Imola</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003152</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Scinzenzeler, Giovanni Angelo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000084</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Da_Legnano, Giovanni Giacomo &amp; fratelli</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001554</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Ioannes</subfield>
+    <subfield code="c"> : de#Imola</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006086</subfield>
+    <subfield code="z">Giovanni : da#Imola</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Imola,</subfield>
+    <subfield code="b">Giovanni : da</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006087</subfield>
+    <subfield code="z">Giovanni : da#Imola</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Nicoletti,</subfield>
+    <subfield code="b">Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006088</subfield>
+    <subfield code="z">Giovanni : da#Imola</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Joannes</subfield>
+    <subfield code="c"> : de#Imola</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020261</subfield>
+    <subfield code="z">Giovanni : da#Imola</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Schinzenzeler, Giovanni Angelo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005621</subfield>
+    <subfield code="z">Scinzenzeler, Giovanni Angelo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario Vescovile della Facolt ̉Teologica del Triveneto dell&apos;Istituto Filosofico Aloisianum. Padova</subfield>
+    <subfield code="1">PD0073</subfield>
+    <subfield code="2">PUV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca S. Domenico. Soriano Calabro</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">VV0036</subfield>
+    <subfield code="2">ZVV 02</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000650</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000650</subfield>
+    <subfield code="b">Angelo sostiene tra le braccia l&apos;ostia raggiante con al centro il monogramma di Cristo e intorno al cerchio: Io. Iacomo e frat. D. Legnano. In basso: IOL</subfield>
+    <subfield code="c">K83</subfield>
+    <subfield code="c">Z88</subfield>
+    <subfield code="f">ANGELO</subfield>
+    <subfield code="f">IHS</subfield>
+    <subfield code="f">IOIACOMOEF</subfield>
+    <subfield code="f">IOL</subfield>
+    <subfield code="f">OSTIA</subfield>
+    <subfield code="g">1512-[non dopo il 1525]</subfield>
+  </datafield>
+</record>
+</collection>

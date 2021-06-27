@@ -1,0 +1,56 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00706na 0a22001691i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\049276</controlfield>
+  <controlfield tag="005">20030919000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19991011             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">De libelli contra potestatem in syndicatu formatione tractatus</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Dal_Pozzo,</subfield>
+    <subfield code="b">Paride</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004574</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Puteo,</subfield>
+    <subfield code="b">Paris : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014981</subfield>
+    <subfield code="z">Dal_Pozzo, Paride</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Pozzo,</subfield>
+    <subfield code="b">Paride : del</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015188</subfield>
+    <subfield code="z">Dal_Pozzo, Paride</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Paris</subfield>
+    <subfield code="c"> : de#Puteo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015206</subfield>
+    <subfield code="z">Dal_Pozzo, Paride</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Del_Pozzo,</subfield>
+    <subfield code="b">Paride</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015275</subfield>
+    <subfield code="z">Dal_Pozzo, Paride</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Paris</subfield>
+    <subfield code="c"> : a#Puteo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020855</subfield>
+    <subfield code="z">Dal_Pozzo, Paride</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

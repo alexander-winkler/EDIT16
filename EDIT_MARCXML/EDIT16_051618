@@ -1,0 +1,38 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00486na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\051618</controlfield>
+  <controlfield tag="005">20080213000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20010226             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Guarini Veronensis viri peritissimi  ℗Regulae grammatices</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Guarino</subfield>
+    <subfield code="c"> : Veronese</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003041</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Guarini,</subfield>
+    <subfield code="b">Guarino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014293</subfield>
+    <subfield code="z">Guarino : Veronese</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Guarinus</subfield>
+    <subfield code="c"> : Veronensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014294</subfield>
+    <subfield code="z">Guarino : Veronese</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,142 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01919nam0a2200373 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\028700</controlfield>
+  <controlfield tag="005">20180214000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">o.to a;si i,a, maa: (C) 1571 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971112d1571        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Noua, &amp; dotta canzone nella gloriosa vittoria contra Turchi</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Venetia</subfield>
+    <subfield code="c">appresso Giorgio Angelieri</subfield>
+    <subfield code="d">1571</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\4! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Verdizzotti,</subfield>
+    <subfield code="b">Giovanni Mario</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006395</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Angelieri, Giorgio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000385</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Verdezzotti,</subfield>
+    <subfield code="b">Giovanni Mario</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023888</subfield>
+    <subfield code="z">Verdizzotti, Giovanni Mario</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Verdizotus,</subfield>
+    <subfield code="b">Ioannes Marius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023889</subfield>
+    <subfield code="z">Verdizzotti, Giovanni Mario</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Verdizotti,</subfield>
+    <subfield code="b">Giovanni Mario</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023890</subfield>
+    <subfield code="z">Verdizzotti, Giovanni Mario</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Verdizzoti,</subfield>
+    <subfield code="b">Giovanni Maria</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023891</subfield>
+    <subfield code="z">Verdizzotti, Giovanni Mario</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Angelerius, Georgius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004246</subfield>
+    <subfield code="z">Angelieri, Giorgio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Aprosiana. Ventimiglia</subfield>
+    <subfield code="1">IM0038</subfield>
+    <subfield code="2">LI3 VM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Teresiana. Mantova</subfield>
+    <subfield code="1">MN0035</subfield>
+    <subfield code="2">LO1 12</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Padova</subfield>
+    <subfield code="1">PD0158</subfield>
+    <subfield code="2">PUV 00</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria Alessandrina. Roma</subfield>
+    <subfield code="1">RM0280</subfield>
+    <subfield code="2">RML 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Reale. Torino</subfield>
+    <subfield code="1">TO0263</subfield>
+    <subfield code="2">TO0 07</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Treviso</subfield>
+    <subfield code="1">TV0114</subfield>
+    <subfield code="2">VIA CT</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca d&apos;arte del Museo civico Correr. Venezia</subfield>
+    <subfield code="1">VE0039</subfield>
+    <subfield code="2">VEA BC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Marciana. Venezia</subfield>
+    <subfield code="1">VE0049</subfield>
+    <subfield code="2">VEA BM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Bertoliana. Vicenza</subfield>
+    <subfield code="1">VI0096</subfield>
+    <subfield code="2">VIA BE</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000090</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000090</subfield>
+    <subfield code="b">Anfora inclinata da cui cadono gocce su una pianta. In cornice figurata</subfield>
+    <subfield code="e">A poco a poco.</subfield>
+    <subfield code="c">A63</subfield>
+    <subfield code="c">V259</subfield>
+    <subfield code="c">Z77</subfield>
+    <subfield code="d">Dimensioni: 4,9 x 5,1</subfield>
+    <subfield code="f">ANFORA</subfield>
+    <subfield code="f">APOCOAPOCO</subfield>
+    <subfield code="f">GOCCE</subfield>
+    <subfield code="g">1571-1599</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,94 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01472nam0a2200265 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\003168</controlfield>
+  <controlfield tag="005">20010907000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">laa- anpe e.de solo (C) 1562 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1562        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Trattato del modo et arte del morire in gratia del onnipotente Dio, opera certamente utilissima &amp; a qualunque uero christiano molto necessaria, nuouamente con somma diligentia reuista &amp; stampata con le figure debite alli luochi conuenienti reposte</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">\Venezia</subfield>
+    <subfield code="c">Giovanni Varisco &amp; C.!</subfield>
+    <subfield code="e">In Vinegia</subfield>
+    <subfield code="g">per Giouanni di Guarisco &amp; compagni</subfield>
+    <subfield code="h">1562</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\20! c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2="1">
+    <subfield code="3">IT\ICCU\CNCE\003163</subfield>
+    <subfield code="a">Ars moriendi</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Varisco, Giovanni &amp; C.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002997</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Guarisco, Giovanni &amp; C.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\006428</subfield>
+    <subfield code="z">Varisco, Giovanni &amp; C.</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Vallicelliana. Roma</subfield>
+    <subfield code="1">RM0281</subfield>
+    <subfield code="2">RML 08</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Nel coloph.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000106</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001289</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000106</subfield>
+    <subfield code="b">Sirena coronata, bicaudata, che tiene le due code alzate con le mani (la destra in alto, la sinistra in basso).</subfield>
+    <subfield code="c">A142</subfield>
+    <subfield code="c">Z1099</subfield>
+    <subfield code="d">Dimensioni: 5,5 x 6</subfield>
+    <subfield code="f">CODA</subfield>
+    <subfield code="f">SIRENA</subfield>
+    <subfield code="g">1538-1586</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001289</subfield>
+    <subfield code="b">Sirena  bicaudata tiene le due code alzate con le mani.</subfield>
+    <subfield code="c">U270</subfield>
+    <subfield code="d">Dimensioni:6,5 x 8</subfield>
+    <subfield code="f">SIRENA</subfield>
+    <subfield code="g">1537-1580</subfield>
+  </datafield>
+</record>
+</collection>

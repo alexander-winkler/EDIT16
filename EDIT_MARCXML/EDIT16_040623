@@ -1,0 +1,77 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01011nam0a22002411i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\040623</controlfield>
+  <controlfield tag="005">20000411000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19981118d1572        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Elementorum libri XV vna cum scholiis antiquis a Federigo Commandino nuper in latinum conuersi commentariisque quibusdam illustrati</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Pesaro</subfield>
+    <subfield code="c">G. Chriegher</subfield>
+    <subfield code="d">1572</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\22!, 510 p.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Siglata alla 18358</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Pesaro</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Commandino,</subfield>
+    <subfield code="b">Federico</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000220</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Criegher, Johann</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000693</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Commandini,</subfield>
+    <subfield code="b">Federico</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013347</subfield>
+    <subfield code="z">Commandino, Federico</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Commandinus,</subfield>
+    <subfield code="b">Federicus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013348</subfield>
+    <subfield code="z">Commandino, Federico</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Chrigero, Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003698</subfield>
+    <subfield code="z">Criegher, Johann</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Criegher, Ioannes</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004686</subfield>
+    <subfield code="z">Criegher, Johann</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca padre Clemente Benedettucci. Recanati</subfield>
+    <subfield code="1">MC0065</subfield>
+    <subfield code="2">PBE 87</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,153 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02487nam0a2200385 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\009009</controlfield>
+  <controlfield tag="005">20180614000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">8786 m.su riea Dopt (3) 1538 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1538        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Compendium musices confectum ad faciliorem instructionem cantum choralem discentium necnon ad introductionem huius libelli qui Cantorinus intitulatur</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetijs</subfield>
+    <subfield code="c">sub signo Agnus Dei</subfield>
+    <subfield code="d">1538</subfield>
+    <subfield code="e">Venetiis :apud Petrum Liechtenstein Coloniensem Germanum</subfield>
+    <subfield code="h">1538</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\16!, 88 c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2="1">
+    <subfield code="3">IT\ICCU\CNCE\009006</subfield>
+    <subfield code="a">Cantorinus</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Liechtenstein, Peter</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000403</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Lucidus Lapis, Petrus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004962</subfield>
+    <subfield code="z">Liechtenstein, Peter</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Museo Internazionale e Biblioteca della Musica. Bologna</subfield>
+    <subfield code="1">BO0310</subfield>
+    <subfield code="2">UBO BM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Patriarcale S. Domenico. Bologna</subfield>
+    <subfield code="1">BO0333</subfield>
+    <subfield code="2">ZBO 05</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei Frati minori dell&apos;Emilia. Sezione Biblioteca dell&apos;Osservanza. Bologna</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">BO0336</subfield>
+    <subfield code="2">ZBO 41</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile Santa Maria della Pace. Cremona</subfield>
+    <subfield code="1">CR0061</subfield>
+    <subfield code="2">PBE 48</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca musicale Opera pia Greggiati. Ostiglia</subfield>
+    <subfield code="1">MN0052</subfield>
+    <subfield code="2">ZMN 05</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario Vescovile della Facolt ̉Teologica del Triveneto dell&apos;Istituto Filosofico Aloisianum. Padova</subfield>
+    <subfield code="1">PD0073</subfield>
+    <subfield code="2">PUV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Oliveriana. Pesaro</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">PU0061</subfield>
+    <subfield code="2">URB OL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca di archeologia e storia dell&apos;arte. Roma</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">RM0117</subfield>
+    <subfield code="2">BVE BA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale degli Intronati. Siena</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">SI0046</subfield>
+    <subfield code="2">RT1 QI</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Castello del Buonconsiglio. Fondo Laurence Feininger. Trento</subfield>
+    <subfield code="1">TN0212</subfield>
+    <subfield code="2">ZTN 13</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Bertoliana. Vicenza</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">VI0096</subfield>
+    <subfield code="2">VIA BE</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001004</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">In fine</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001609</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001004</subfield>
+    <subfield code="b">Agnello pasquale che stringe nella zampa una croce da cui pende uno stendardo. Incornice floreale</subfield>
+    <subfield code="e">Qui tollis peccata mundi miserere nobis</subfield>
+    <subfield code="c">Z7</subfield>
+    <subfield code="d">Dimensioni: 4,7 x 4,2. Con o senza motto</subfield>
+    <subfield code="f">AGNELLO</subfield>
+    <subfield code="f">CROCE</subfield>
+    <subfield code="f">STENDARDO</subfield>
+    <subfield code="g">1537-1549</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001609</subfield>
+    <subfield code="b">Due sfere armillari in scudo sovrastato da elmo che ha per cimiero un&apos;altra sfera armillare.</subfield>
+    <subfield code="c">U504</subfield>
+    <subfield code="d">Dimensioni: 7,2 x 10</subfield>
+    <subfield code="f">SFERE</subfield>
+    <subfield code="f">SCUDO</subfield>
+    <subfield code="f">ELMO</subfield>
+    <subfield code="g">1532-1566</subfield>
+  </datafield>
+</record>
+</collection>

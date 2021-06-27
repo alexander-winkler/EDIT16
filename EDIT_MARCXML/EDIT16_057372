@@ -1,0 +1,130 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01832nam0a22003491i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\057372</controlfield>
+  <controlfield tag="005">20080303000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">rei- nini usus QuTe (C) 1587 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20040413d1587        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Ioannis Padouanii Veronensis, ℗De arithmetica opus, in quo non solum omnis generis numerandis ars tam latino sermone, quam graeco perdiscitur; ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Veronae</subfield>
+    <subfield code="c">ex typographia Sebastiani  ̉Donnis</subfield>
+    <subfield code="d">1587</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\5!, 7-8, \16!, 33-79, \1! p.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Verona</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Padovani,</subfield>
+    <subfield code="b">Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007427</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Dalle_Donne, Sebastiano</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000563</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Paduanius,</subfield>
+    <subfield code="b">Johannes</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022381</subfield>
+    <subfield code="z">Padovani, Giovanni</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Giovanni</subfield>
+    <subfield code="c"> : da#Padova</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022384</subfield>
+    <subfield code="z">Padovani, Giovanni</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Donnis, Sebastianus a</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003704</subfield>
+    <subfield code="z">Dalle_Donne, Sebastiano</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Donne, Sebastiano dalle</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004480</subfield>
+    <subfield code="z">Dalle_Donne, Sebastiano</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Donne, Bastiano dalle</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004481</subfield>
+    <subfield code="z">Dalle_Donne, Sebastiano</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Casale Monferrato</subfield>
+    <subfield code="1">AL0024</subfield>
+    <subfield code="2">TO0 L2</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Bologna</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">BO0098</subfield>
+    <subfield code="2">UBO BU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Marucelliana. Firenze</subfield>
+    <subfield code="1">FI0101</subfield>
+    <subfield code="2">CFI MF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale. Lucca</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">LU0022</subfield>
+    <subfield code="2">LUA BL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Angelica. Roma</subfield>
+    <subfield code="1">RM0290</subfield>
+    <subfield code="2">RML 06</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">British Library. London</subfield>
+    <subfield code="1">UK0001</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Verona</subfield>
+    <subfield code="1">VR0059</subfield>
+    <subfield code="2">ZVR 02</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000602</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000602</subfield>
+    <subfield code="b">Tre serpenti intrecciati con le teste sormontate da tre uccelli. In cornice</subfield>
+    <subfield code="e">Prudens simplicitas felix.</subfield>
+    <subfield code="c">V513</subfield>
+    <subfield code="c">Z1057</subfield>
+    <subfield code="d">Dimensioni: 6 x 6,4</subfield>
+    <subfield code="f">PRUDENSSIM</subfield>
+    <subfield code="f">SERPENTI</subfield>
+    <subfield code="f">UCCELLI</subfield>
+    <subfield code="g">1574-1600</subfield>
+  </datafield>
+</record>
+</collection>

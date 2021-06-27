@@ -1,0 +1,85 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01269nam0a2200253 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\075450</controlfield>
+  <controlfield tag="005">20101025000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">a-o, iiti o.ti autr (3) 1595 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20101025d1595        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Breue ragionamento del reuer. m. Andrea Schiauetti, sopra l&apos;acque, &amp; bagni di San Casciano. Con gli ordini da osseruarsi nel beuere, et bagnarse in dette acque. Et di nuouo aggiuntoui nel fine alcune antichita ritrouate quest&apos;anno. 1585</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Stampata in Oruieto</subfield>
+    <subfield code="c">per Antonio Colaldi</subfield>
+    <subfield code="d">1595</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">28 p.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Orvieto</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Schiavetti,</subfield>
+    <subfield code="b">Andrea</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009090</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Colaldi, Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000832</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">Tipografo non identificato</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003341</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Colaldus, Antonius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004630</subfield>
+    <subfield code="z">Colaldi, Antonio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Colaldo, Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004631</subfield>
+    <subfield code="z">Colaldi, Antonio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Luciano Benincasa. Ancona</subfield>
+    <subfield code="1">AN0001</subfield>
+    <subfield code="2">URB BA</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000812</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000812</subfield>
+    <subfield code="b">Fumo che si leva verso il sole in paesaggio con alberi. In cornice figurata.</subfield>
+    <subfield code="e">Et caelum terrena petunt</subfield>
+    <subfield code="c">T31</subfield>
+    <subfield code="f">FUMO</subfield>
+    <subfield code="f">SOLE</subfield>
+    <subfield code="g">1582-1595</subfield>
+  </datafield>
+</record>
+</collection>

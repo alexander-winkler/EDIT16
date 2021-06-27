@@ -1,0 +1,47 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00601na 0a22001451i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\022577</controlfield>
+  <controlfield tag="005">20130214000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Herbarius</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Arnaldus</subfield>
+    <subfield code="c"> : de#Villanova</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000885</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Arnaldo</subfield>
+    <subfield code="c"> : de#Vilanova</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012263</subfield>
+    <subfield code="z">Arnaldus : de#Villanova</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Arnoldus</subfield>
+    <subfield code="c"> : Novicomensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012265</subfield>
+    <subfield code="z">Arnaldus : de#Villanova</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Soler Pla,</subfield>
+    <subfield code="b">Juan</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012266</subfield>
+    <subfield code="z">Arnaldus : de#Villanova</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Vilanova,</subfield>
+    <subfield code="b">Arnau : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012267</subfield>
+    <subfield code="z">Arnaldus : de#Villanova</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

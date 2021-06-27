@@ -1,0 +1,105 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01387ncm0a22003011i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\043264</controlfield>
+  <controlfield tag="005">20030919000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19981228d1515        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+    <subfield code="a">FRE</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Missarum Josquin liber secundus. Aue Maris Stella Hercules dux Ferrarie. Malheur me bat. Lami baudichon. Una musque de buscaya. Dung aultre amer</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Fossombrone</subfield>
+    <subfield code="c">Ottaviano Petrucci</subfield>
+    <subfield code="d">1515</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">4 fasc.</subfield>
+    <subfield code="d">4ʻ obl</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">S, A, T, B</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Fossombrone</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Desprš,</subfield>
+    <subfield code="b">Josquin</subfield>
+    <subfield code="3">IT\ICCU\CNCA\011484</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Petrucci, Ottaviano</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001377</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Prs̈,</subfield>
+    <subfield code="b">Josquin : des</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014552</subfield>
+    <subfield code="z">Desprš, Josquin</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Desprez,</subfield>
+    <subfield code="b">Josquin</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019544</subfield>
+    <subfield code="z">Desprš, Josquin</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Josquin</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019887</subfield>
+    <subfield code="z">Desprš, Josquin</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Deprš,</subfield>
+    <subfield code="b">Josquin</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019978</subfield>
+    <subfield code="z">Desprš, Josquin</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Petrutius, Octavianus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002504</subfield>
+    <subfield code="z">Petrucci, Ottaviano</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Petruccio, Ottaviano</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005377</subfield>
+    <subfield code="z">Petrucci, Ottaviano</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica A. Mai. Bergamo</subfield>
+    <subfield code="z">(S)</subfield>
+    <subfield code="1">BG0026</subfield>
+    <subfield code="2">LO1 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Museo Internazionale e Biblioteca della Musica. Bologna</subfield>
+    <subfield code="1">BO0310</subfield>
+    <subfield code="2">UBO BM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Assisi</subfield>
+    <subfield code="1">PG0001</subfield>
+    <subfield code="2">UM1 10</subfield>
+  </datafield>
+</record>
+</collection>

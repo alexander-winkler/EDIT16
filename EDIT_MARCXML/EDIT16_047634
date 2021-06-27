@@ -1,0 +1,123 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01870nam0a2200337 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\047634</controlfield>
+  <controlfield tag="005">20101025000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">1312 io04 e.o, &amp;qtr (3) 1580 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">eral 8686 7.o. reVn (3) 1580 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">2</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19990302d1580        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Della summa de&apos; secreti vniuersali in ogni materia, parte prima, di don Timotheo Rossello : si per huomini, &amp; donne d&apos;alto ingegno, come ancora per medici, &amp; ogni sorte d&apos;artefici industriosi, &amp; ad ogni persona virtuosa accommodate</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Venetia</subfield>
+    <subfield code="c">\Grazioso Percacino!</subfield>
+    <subfield code="d">1580</subfield>
+    <subfield code="e">In Venetia</subfield>
+    <subfield code="h">1580</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">2 v.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">2: La seconda parte de secreti vniuersali in ogni materia ...</subfield>
+  </datafield>
+  <datafield tag="423" ind1=" " ind2="0">
+    <subfield code="1">001IT\ICCU\CNCE\075448</subfield>
+    <subfield code="1">2001 </subfield>
+    <subfield code="a">℗La ℗seconda parte de secreti vniuersali in ogni materia ...</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Rossello,</subfield>
+    <subfield code="b">Timotheo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007334</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Percacino, Grazioso</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000435</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Rossello,</subfield>
+    <subfield code="b">Timoteo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023709</subfield>
+    <subfield code="z">Rossello, Timotheo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Perchacinus, Gratiosus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002488</subfield>
+    <subfield code="z">Percacino, Grazioso</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Perchacino, Gratioso</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005369</subfield>
+    <subfield code="z">Percacino, Grazioso</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Percaccino, Gratioso</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005370</subfield>
+    <subfield code="z">Percacino, Grazioso</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Valentiniana. Camerino</subfield>
+    <subfield code="1">MC0004</subfield>
+    <subfield code="2">UMC BV</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Palatina. Parma</subfield>
+    <subfield code="1">PR0072</subfield>
+    <subfield code="2">PAR PA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria Alessandrina. Roma</subfield>
+    <subfield code="1">RM0280</subfield>
+    <subfield code="2">RML 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Archivio provinciale dei frati minori cappuccini. Mestre</subfield>
+    <subfield code="1">VE0111</subfield>
+    <subfield code="2">ZVE 16</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sui front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001023</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001023</subfield>
+    <subfield code="b">Serpente alato attorcigliato a un bastone. In cornice figurata.</subfield>
+    <subfield code="e">Salus vitae</subfield>
+    <subfield code="c">U101</subfield>
+    <subfield code="d">Dimensioni: 4 x 4,5</subfield>
+    <subfield code="f">SALUSVITAE</subfield>
+    <subfield code="f">SERPENTE</subfield>
+    <subfield code="f">BASTONE</subfield>
+    <subfield code="g">1580-1598</subfield>
+  </datafield>
+</record>
+</collection>

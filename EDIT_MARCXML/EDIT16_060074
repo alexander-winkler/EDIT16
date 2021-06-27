@@ -1,0 +1,32 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00412na 0a22001211i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\060074</controlfield>
+  <controlfield tag="005">20050909000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20050108             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Sex. Propertius M. Antonii Mureti in eum scholia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Catullus,</subfield>
+    <subfield code="b">Gaius Valerius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002843</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Catullus,</subfield>
+    <subfield code="b">Caius Valerius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020719</subfield>
+    <subfield code="z">Catullus, Gaius Valerius</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

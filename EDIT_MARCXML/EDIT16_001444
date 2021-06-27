@@ -1,0 +1,58 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00747na 0a22001691i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\001444</controlfield>
+  <controlfield tag="005">20070802000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Amadis de Gaula. L. 11 suppl</subfield>
+  </datafield>
+  <datafield tag="517" ind1="1" ind2=" ">
+    <subfield code="3">IT\ICCU\CNCE\048937</subfield>
+    <subfield code="a">Don Rogello di Grecia</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Giunta, Bernardo</subfield>
+    <subfield code="c"> &lt;2.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000172</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Iunta, Bernardus</subfield>
+    <subfield code="c"> &lt;2.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003885</subfield>
+    <subfield code="z">Giunta, Bernardo &lt;2.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Iuncta, Bernardus</subfield>
+    <subfield code="c"> &lt;2.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003886</subfield>
+    <subfield code="z">Giunta, Bernardo &lt;2.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Giunti, Bernardo</subfield>
+    <subfield code="c"> &lt;2&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004912</subfield>
+    <subfield code="z">Giunta, Bernardo &lt;2.&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001444</subfield>
+    <subfield code="b">Giglio fiorentino. In cornice figurata</subfield>
+    <subfield code="c">U384</subfield>
+    <subfield code="d">Dimensioni: 3,5 x 5</subfield>
+    <subfield code="f">GIGLIO</subfield>
+    <subfield code="g">1570-1599</subfield>
+  </datafield>
+</record>
+</collection>

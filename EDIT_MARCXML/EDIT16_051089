@@ -1,0 +1,73 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00900nam0a2200229 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\051089</controlfield>
+  <controlfield tag="005">20130222000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">t,a- m.os m,os ErPr (C) 1579 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20001006d1579        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Aurelii Pellinii Perusini ℗Epigrammaton ad claros viros libellus</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Fabriani</subfield>
+    <subfield code="c">ex typis Iohannis Iubaris</subfield>
+    <subfield code="d">1579</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\28! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Fabriano</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Pellini,</subfield>
+    <subfield code="b">Aurelio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007725</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Giubari, Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000816</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Pellinus,</subfield>
+    <subfield code="b">Aurelius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022026</subfield>
+    <subfield code="z">Pellini, Aurelio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Righino dei Pellini,</subfield>
+    <subfield code="b">Aurelio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022027</subfield>
+    <subfield code="z">Pellini, Aurelio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Iubar, Ioannes</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002822</subfield>
+    <subfield code="z">Giubari, Giovanni</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Giosu ̈Carducci. Citt ̉di Castello</subfield>
+    <subfield code="1">PG0032</subfield>
+    <subfield code="2">UM1 05</subfield>
+  </datafield>
+</record>
+</collection>

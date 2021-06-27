@@ -1,0 +1,32 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00405na 0a22001211i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\060232</controlfield>
+  <controlfield tag="005">20060426000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20050221             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Sommario de i priuilegi dell&apos;arciuescouato di Monreale</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Lello,</subfield>
+    <subfield code="b">Giovan Luigi</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010678</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Lello,</subfield>
+    <subfield code="b">Giovanni Luigi</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020425</subfield>
+    <subfield code="z">Lello, Giovan Luigi</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,113 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01786nam0a22003251i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\074431</controlfield>
+  <controlfield tag="005">20090811000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">x.x. moas e.ti dito (3) 1508 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20090810d1508        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Ouidio methamorphoseos vulgare hystoriado</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Stampato in Venetia</subfield>
+    <subfield code="g">per Alexandro de Bandoni</subfield>
+    <subfield code="g">ad instantia del nobile misser Lucantonio zonta fiorentino</subfield>
+    <subfield code="h">1508 adi XIIII del mese de agosto</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\4!, CXLI, \1! c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">ANNULLATA  !!!!  vedi 34055In fine marca (K217 - Z616) di Lucantonio Giunta. -  Iniziali e ill. xilogr. -  Got. ; rom. -  Segn.: \pi greco!4 a-r8 s6. - Editore IT\ICCU\BVEV\017767. - Tipografo IT\ICCU\BVEV\020342</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Ovidius Naso,</subfield>
+    <subfield code="b">Publius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003076</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Bindoni, Alessandro</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000466</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Giunta, Lucantonio</subfield>
+    <subfield code="c"> &lt;1.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002111</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Ovidius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022433</subfield>
+    <subfield code="z">Ovidius Naso, Publius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Publius Ovidius Naso</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022434</subfield>
+    <subfield code="z">Ovidius Naso, Publius</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bindonis, Alexander de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004376</subfield>
+    <subfield code="z">Bindoni, Alessandro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bandoni, Alexandro de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004377</subfield>
+    <subfield code="z">Bindoni, Alessandro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Zontis, Lucas Antonius de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003892</subfield>
+    <subfield code="z">Giunta, Lucantonio &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Giunti, Lucantonio</subfield>
+    <subfield code="c"> &lt;1&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004926</subfield>
+    <subfield code="z">Giunta, Lucantonio &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Gionta, Lucantonio de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004928</subfield>
+    <subfield code="z">Giunta, Lucantonio &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Giuntis, Lucas Antonius de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004929</subfield>
+    <subfield code="z">Giunta, Lucantonio &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Zonta, Lucantonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004930</subfield>
+    <subfield code="z">Giunta, Lucantonio &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+</record>
+</collection>

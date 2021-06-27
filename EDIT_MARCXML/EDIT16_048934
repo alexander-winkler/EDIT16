@@ -1,0 +1,186 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>03389nam0a2200481 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\048934</controlfield>
+  <controlfield tag="005">20060515000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">s.le rote i:ie Cuqu (C) 1510 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19990924d1510        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Doi aurei opuscoli o vero tractati de lo angelico doctore sancto Thomaso de Aquino. El primo del modo de la confessione et purita de conscientia. El secundo de li diuini costumi. Dechiarati et uulgarizati dal reuerendo professore de sacra theologia maiestro Guasparre da Perosia del s. ordine de li predicatori. Secondo che conuiene ad persone spirituale maximamente ad persone religiose. Mandati et intitulati ad suora Theodosia del terzo ordine dicto de la penitentia de santo Domenico innel monasterio de la felice memoria de suora Colomba, figliola de Francesco Chartolaio et nepote del predicto maiestro Guasparre</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Stampati in la inclita citta Perusia</subfield>
+    <subfield code="g">per Girolamo figliolo del sopradicto Francesco Cartholaio</subfield>
+    <subfield code="h">fratello de la sopradicta suora Theodosia</subfield>
+    <subfield code="h">et nepote del sopradicto maiestro Guasparre</subfield>
+    <subfield code="h">adi XIII de febraio 1510</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\48! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Il primo trattato  ̈attribuito a Bonaventura da Bagnoregio e a Tommaso d&apos;Aquino, per l&apos;autore cfr.: P. Michaud-Quantin, Sommes de casuistique et manuels au moyen age, p. 79; il secondo  ̈anonimo</subfield>
+  </datafield>
+  <datafield tag="517" ind1="1" ind2=" ">
+    <subfield code="3">IT\ICCU\CNCE\060675</subfield>
+    <subfield code="a">De modo confitendi</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Perugia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Matthaeus</subfield>
+    <subfield code="c"> : de#Cracovia</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016543</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Tommaso</subfield>
+    <subfield code="c"> : d&apos;Aquino</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000195</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Bonaventura</subfield>
+    <subfield code="c"> : da#Bagnorea</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001077</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Gaspare</subfield>
+    <subfield code="c"> : da#Perugia</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005896</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Cartolari, Girolamo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000424</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Cracovia,</subfield>
+    <subfield code="b">Matthaeus : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016569</subfield>
+    <subfield code="z">Matthaeus : de#Cracovia</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Krakowa,</subfield>
+    <subfield code="b">Mateusz : z</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026517</subfield>
+    <subfield code="z">Matthaeus : de#Cracovia</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Thomas</subfield>
+    <subfield code="c"> : de#Aquino</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009350</subfield>
+    <subfield code="z">Tommaso : d&apos;Aquino &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Bonaventura</subfield>
+    <subfield code="c"> : da#Bagnoregio</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012695</subfield>
+    <subfield code="z">Bonaventura : da#Bagnorea &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Eutichio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018565</subfield>
+    <subfield code="z">Bonaventura : da#Bagnorea &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Giovanni Pietro</subfield>
+    <subfield code="c"> : di#Fidenza</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018566</subfield>
+    <subfield code="z">Bonaventura : da#Bagnorea &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Rossi,</subfield>
+    <subfield code="b">Gaspare</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005897</subfield>
+    <subfield code="z">Gaspare : da#Perugia</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Gaspar</subfield>
+    <subfield code="c"> : de#Perusio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014072</subfield>
+    <subfield code="z">Gaspare : da#Perugia</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Mansueti,</subfield>
+    <subfield code="b">Gaspare</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014561</subfield>
+    <subfield code="z">Gaspare : da#Perugia</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Carthulariis, Hieronimo de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004499</subfield>
+    <subfield code="z">Cartolari, Girolamo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Cartolaio, Hieronymus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004502</subfield>
+    <subfield code="z">Cartolari, Girolamo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Firenze</subfield>
+    <subfield code="1">FI0098</subfield>
+    <subfield code="2">CFI CF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Egidiana. Tolentino</subfield>
+    <subfield code="1">MC0083</subfield>
+    <subfield code="2">UMC BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Archivio storico civico e Biblioteca Trivulziana. Milano</subfield>
+    <subfield code="1">MI0327</subfield>
+    <subfield code="2">LO1 13</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Padova</subfield>
+    <subfield code="1">PD0090</subfield>
+    <subfield code="2">PUV 55</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Augusta. Perugia</subfield>
+    <subfield code="1">PG0109</subfield>
+    <subfield code="2">UM1 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Fondazione Ranieri di Sorbello. Perugia</subfield>
+    <subfield code="1">PG0147</subfield>
+    <subfield code="2">UM1 88</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Casanatense. Roma</subfield>
+    <subfield code="1">RM0313</subfield>
+    <subfield code="2">RML 07</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Accademia nazionale dei Lincei e Corsiniana. Roma</subfield>
+    <subfield code="1">RM0418</subfield>
+    <subfield code="2">RML 10</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">British Library. London</subfield>
+    <subfield code="1">UK0001</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,142 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02083nam0a2200361 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\032251</controlfield>
+  <controlfield tag="005">20140113000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">r.e. qds- i-di biti (3) 1523 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971211d1523        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Isidori ℗De mundi contemptu libellus aureus nuper impressus</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Impressum Venetijs</subfield>
+    <subfield code="g">per Ioan. Antonium et fratres</subfield>
+    <subfield code="g">expensis Laurentij Lorij Portesiensis</subfield>
+    <subfield code="h">1523 die iiij Septemb.</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">15, \1! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Isidorus</subfield>
+    <subfield code="c"> : Hispalensis</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005620</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Nicolini da Sabbio, Giovanni Antonio &amp; fratelli</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000133</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Lorio, Lorenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000607</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Isidoro</subfield>
+    <subfield code="c"> : di#Siviglia</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014540</subfield>
+    <subfield code="z">Isidorus : Hispalensis &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Sevilla,</subfield>
+    <subfield code="b">Isidoro : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020145</subfield>
+    <subfield code="z">Isidorus : Hispalensis &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Orius, Laurentius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003013</subfield>
+    <subfield code="z">Lorio, Lorenzo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Lorius, Laurentius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004977</subfield>
+    <subfield code="z">Lorio, Lorenzo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Archivio di Stato di Perugia. Perugia</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">PG0103</subfield>
+    <subfield code="2">UM1 50</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Oliveriana. Pesaro</subfield>
+    <subfield code="1">PU0061</subfield>
+    <subfield code="2">URB OL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Manfrediana. Faenza</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">RA0016</subfield>
+    <subfield code="2">RAV FA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca cardinale Gaetano Cicognani. Faenza</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">RA0017</subfield>
+    <subfield code="2">RAV SC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Angelica. Roma</subfield>
+    <subfield code="1">RM0290</subfield>
+    <subfield code="2">RML 06</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Gambalunghiana. Rimini</subfield>
+    <subfield code="1">RN0013</subfield>
+    <subfield code="2">RAV RI</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Fondazione Biblioteca S. Bernardino. Trento</subfield>
+    <subfield code="1">TN0122</subfield>
+    <subfield code="2">ZTN 18</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">In fine</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000558</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000558</subfield>
+    <subfield code="b">S. Caterina d&apos;Alessandria vicino alla ruota dentata tiene una palma nella mano sinistra e un libro nella destra. In alto a sinistra iniziali L. Lo.</subfield>
+    <subfield code="c">K244</subfield>
+    <subfield code="c">V390</subfield>
+    <subfield code="c">Z221</subfield>
+    <subfield code="d">La marca pu ̣essere accompagnata dalle iniziali L. P. oppure L. Lo. oppure Lo. L.</subfield>
+    <subfield code="f">LIBRO</subfield>
+    <subfield code="f">LP</subfield>
+    <subfield code="f">PALMA</subfield>
+    <subfield code="f">RUOTA</subfield>
+    <subfield code="f">SCATERINA</subfield>
+    <subfield code="g">1521-1526</subfield>
+  </datafield>
+</record>
+</collection>

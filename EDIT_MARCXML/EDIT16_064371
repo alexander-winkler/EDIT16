@@ -1,0 +1,38 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00537na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\064371</controlfield>
+  <controlfield tag="005">20060426000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20060331             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Oratione volgare dell&apos;eccellente m. Alessandro Lionardi al beatiss. &amp; santissimo n. sig. papa Pio quarto</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Lionardi,</subfield>
+    <subfield code="b">Alessandro</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007194</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Leonardi,</subfield>
+    <subfield code="b">Alessandro</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016548</subfield>
+    <subfield code="z">Lionardi, Alessandro</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Lionardo,</subfield>
+    <subfield code="b">Alessandro</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020347</subfield>
+    <subfield code="z">Lionardi, Alessandro</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

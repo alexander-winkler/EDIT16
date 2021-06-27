@@ -1,0 +1,72 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00946nam0a2200229 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\013123</controlfield>
+  <controlfield tag="005">19990726000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e-eb noto i.hi Dich (C) 1599 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1599        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗La ℗fida ninfa. Favola pastorale di Francesco Contarini</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Venetia</subfield>
+    <subfield code="c">appresso gli heredi di Gio. Maria Leni</subfield>
+    <subfield code="d">1599</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">187, \1! p.</subfield>
+    <subfield code="d">12ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Contarini,</subfield>
+    <subfield code="b">Francesco</subfield>
+    <subfield code="c"> &lt;poeta&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003456</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Leni, Giovanni Maria - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001540</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Firenze</subfield>
+    <subfield code="1">FI0098</subfield>
+    <subfield code="2">CFI CF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Dominicini. Perugia</subfield>
+    <subfield code="1">PG0151</subfield>
+    <subfield code="2">UM1 40</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca musicale governativa del Conservatorio di musica S. Cecilia. Roma</subfield>
+    <subfield code="1">RM0266</subfield>
+    <subfield code="2">RMR SC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Opera pia del collegio Nazareno. Roma</subfield>
+    <subfield code="1">RM0654</subfield>
+    <subfield code="2">RMS M4</subfield>
+  </datafield>
+</record>
+</collection>

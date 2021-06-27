@@ -1,0 +1,84 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01196nam0a2200253 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\024425</controlfield>
+  <controlfield tag="005">20080318000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">o.i, e.do e.o, PrTu (C) 1599 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970825d1599        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Rime del molto illustre sig. caualiere Battista Guarini. Di nuouo stampate, et corrette</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Milano</subfield>
+    <subfield code="c">nella stampa del quon. Pacifico Pontio</subfield>
+    <subfield code="d">1599</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">71 \i.e. 65!, \7! c.</subfield>
+    <subfield code="d">12ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Milano</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Guarini,</subfield>
+    <subfield code="b">Giovanni Battista</subfield>
+    <subfield code="c"> &lt;1538-1612&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006336</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Da_Ponte, Pacifico - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000026</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Attizzato accademico ferrarese</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019705</subfield>
+    <subfield code="z">Guarini, Giovanni Battista &lt;1538-1612&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Guarini,</subfield>
+    <subfield code="b">Battista</subfield>
+    <subfield code="c"> &lt;1538-1612&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019706</subfield>
+    <subfield code="z">Guarini, Giovanni Battista &lt;1538-1612&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Pontiani</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003716</subfield>
+    <subfield code="z">Da_Ponte, Pacifico - eredi</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Roncioniana - Fondazione Eredit ̉Marco Roncioni (ONLUS). Prato</subfield>
+    <subfield code="1">PO0005</subfield>
+    <subfield code="2">RT1 EB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Oliveriana. Pesaro</subfield>
+    <subfield code="1">PU0061</subfield>
+    <subfield code="2">URB OL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale universitaria. Torino</subfield>
+    <subfield code="1">TO0265</subfield>
+    <subfield code="2">TO0 02</subfield>
+  </datafield>
+</record>
+</collection>

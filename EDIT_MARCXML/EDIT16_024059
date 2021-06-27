@@ -1,0 +1,56 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00739na 0a22001691i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\024059</controlfield>
+  <controlfield tag="005">20151014000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970724             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Liber de modo bene vivendi</subfield>
+  </datafield>
+  <datafield tag="517" ind1="1" ind2=" ">
+    <subfield code="3">IT\ICCU\CNCE\064539</subfield>
+    <subfield code="a">Modus bene vivendi</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Bernardus</subfield>
+    <subfield code="c"> : Claraevallensis</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000345</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Thomas</subfield>
+    <subfield code="c"> : de#Frigido Monte</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026450</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Bernardo</subfield>
+    <subfield code="c"> : di#Chiaravalle</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012733</subfield>
+    <subfield code="z">Bernardus : Claraevallensis &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Bernardus</subfield>
+    <subfield code="c"> : Abbas</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012738</subfield>
+    <subfield code="z">Bernardus : Claraevallensis &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Thomas</subfield>
+    <subfield code="c"> : de#Beverley</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026451</subfield>
+    <subfield code="z">Thomas : de#Frigido Monte</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

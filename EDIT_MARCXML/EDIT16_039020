@@ -1,0 +1,114 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01676nam0a22003251i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\039020</controlfield>
+  <controlfield tag="005">20110512000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">i-te a.a. ono. Maui (3) 1570 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19981105d1570        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Flores italici, ac latini idiomatis, e viridario exercitationis Ioannis Ludouici Viuis exercepti, et ab Horatio Tuscanella italice interpretati. Nunc primum in gratiam studiosorum omnium, sed praecipue exterarum nationum, impressi &amp; in lucem editi</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">ex Officina Valgrisiana</subfield>
+    <subfield code="d">1570</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\10!, 293 p.</subfield>
+    <subfield code="d">16ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Vives,</subfield>
+    <subfield code="b">Juan Luis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006590</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Toscanella,</subfield>
+    <subfield code="b">Orazio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000068</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Valgrisi, Vincenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000062</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Vives,</subfield>
+    <subfield code="b">Joannes Ludovicus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010249</subfield>
+    <subfield code="z">Vives, Juan Luis</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Vivius,</subfield>
+    <subfield code="b">Ioannes</subfield>
+    <subfield code="3">IT\ICCU\CNCA\017909</subfield>
+    <subfield code="z">Vives, Juan Luis</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Vaugris, Vincenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002740</subfield>
+    <subfield code="z">Valgrisi, Vincenzo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Officina Erasmiana</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002921</subfield>
+    <subfield code="z">Valgrisi, Vincenzo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Valgrisius, Vincentius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005845</subfield>
+    <subfield code="z">Valgrisi, Vincenzo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Valgrisio, Vincenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005846</subfield>
+    <subfield code="z">Valgrisi, Vincenzo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Abbazia di Novacella. Varna</subfield>
+    <subfield code="1">BZ0109</subfield>
+    <subfield code="2">ZBZ 04</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Mondov</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">CN0066</subfield>
+    <subfield code="2">TO0 56</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Collegio Gallio dei Padri Somaschi. Como</subfield>
+    <subfield code="1">CO0058</subfield>
+    <subfield code="2">ZCO 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Braidense. Milano</subfield>
+    <subfield code="1">MI0185</subfield>
+    <subfield code="2">MIL NB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+</record>
+</collection>

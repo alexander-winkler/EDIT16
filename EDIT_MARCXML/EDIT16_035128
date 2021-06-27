@@ -1,0 +1,37 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00416na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\035128</controlfield>
+  <controlfield tag="005">20151014000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19980109             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">GRC</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Stephanites kai Ichnelates</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Simeon Seth</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023919</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Seth,</subfield>
+    <subfield code="b">Simeon</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024857</subfield>
+    <subfield code="z">Simeon Seth</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Setto,</subfield>
+    <subfield code="b">Simone</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024858</subfield>
+    <subfield code="z">Simeon Seth</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

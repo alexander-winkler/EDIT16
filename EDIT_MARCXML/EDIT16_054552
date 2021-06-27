@@ -1,0 +1,38 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00488na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\054552</controlfield>
+  <controlfield tag="005">20031112000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20031028             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Epistola consolatoria ad Valerium imperatorem</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Apollonius</subfield>
+    <subfield code="c"> : Tyanensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016996</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Apollonius</subfield>
+    <subfield code="c"> : Theaneus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\028177</subfield>
+    <subfield code="z">Apollonius : Tyanensis</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Apollonio</subfield>
+    <subfield code="c"> : di#Tiana</subfield>
+    <subfield code="3">IT\ICCU\CNCA\028178</subfield>
+    <subfield code="z">Apollonius : Tyanensis</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

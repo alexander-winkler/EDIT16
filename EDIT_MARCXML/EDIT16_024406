@@ -1,0 +1,142 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02152nam0a22003971i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\024406</controlfield>
+  <controlfield tag="005">20161213000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">orr- rm̈- i-em sipa (3) 1591 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970825d1591        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Decreta, edita et promulgata in synodo dioecesana Laudensi, quam perillustris, &amp; reuerendiss. d. Ludouicus Taberna Dei, et apostolicae sedis gratia episcopus Laudensis, &amp; comes habuit anno MDLXXXXI. Adiectis praeterea ad extremum constitutionibus,edictis, et decretis, quae certis anni diebus populo sunt enuntianda</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Mediolani</subfield>
+    <subfield code="c">apud Pacificum Pontium</subfield>
+    <subfield code="d">1591</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\8!, 70, 100, \8! p.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Milano</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Lodi</subfield>
+    <subfield code="c"> &lt;Diocesi&gt;</subfield>
+    <subfield code="3">7115</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Da_Ponte, Pacifico</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000162</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Diocesis Laudensis</subfield>
+    <subfield code="3">21271</subfield>
+    <subfield code="z">Lodi &lt;Diocesi&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pontius, Pacificus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003713</subfield>
+    <subfield code="z">Da_Ponte, Pacifico</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ponte, Pacifico da</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003714</subfield>
+    <subfield code="z">Da_Ponte, Pacifico</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pontio, Pacifico</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004493</subfield>
+    <subfield code="z">Da_Ponte, Pacifico</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ponticus, Pacificus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004494</subfield>
+    <subfield code="z">Da_Ponte, Pacifico</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ponzio, Pacifico</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004496</subfield>
+    <subfield code="z">Da_Ponte, Pacifico</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Lodi</subfield>
+    <subfield code="1">LO0023</subfield>
+    <subfield code="2">PBE 28</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca francescano-cappuccina provinciale. Milano</subfield>
+    <subfield code="1">MI0183</subfield>
+    <subfield code="2">ZMI 51</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Braidense. Milano</subfield>
+    <subfield code="1">MI0185</subfield>
+    <subfield code="2">MIL NB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario teologico filosofico di S. Gaudenzio. Novara</subfield>
+    <subfield code="1">NO0064</subfield>
+    <subfield code="2">TO0 Y5</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Dominicini. Perugia</subfield>
+    <subfield code="1">PG0151</subfield>
+    <subfield code="2">UM1 40</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Palatina. Parma</subfield>
+    <subfield code="1">PR0072</subfield>
+    <subfield code="2">PAR PA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Pavia</subfield>
+    <subfield code="1">PV0291</subfield>
+    <subfield code="2">MIL UP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Casanatense. Roma</subfield>
+    <subfield code="1">RM0313</subfield>
+    <subfield code="2">RML 07</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Memoria. Roma</subfield>
+    <subfield code="1">RM1909</subfield>
+    <subfield code="2">IEI MM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca diocesana mons. Alessandro Piazza. Albenga</subfield>
+    <subfield code="1">SV0226</subfield>
+    <subfield code="2">PBE Q8</subfield>
+  </datafield>
+</record>
+</collection>

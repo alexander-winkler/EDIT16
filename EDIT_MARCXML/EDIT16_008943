@@ -1,0 +1,124 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01921nam0a2200349 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\008943</controlfield>
+  <controlfield tag="005">20100413000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">o,n- s.s. n-9. prDe (3) 1565 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1565        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Ordinationum, seu Constitutionum Canonicorum regularium Congregationis sancti Saluatoris Lateranen. prima pars foeliciter incipit</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Cremonae</subfield>
+    <subfield code="c">in ciuitatis palatio apud Vincentium Comitem</subfield>
+    <subfield code="d">1565</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">210, \5! p.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Le ultime \2! p., non comprese nel registro, contengono l&apos;errata corrige e un testo da sottoscrivere per l&apos;adesione all&apos;ordine</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Cremona</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Canonici regolari</subfield>
+    <subfield code="3">2524</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Conti, Vincenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000118</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Canonici regulares Lateranenses S. Augustini</subfield>
+    <subfield code="3">7835</subfield>
+    <subfield code="z">Canonici regolari</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Congregatio S. Salvatoris Lateranensis</subfield>
+    <subfield code="3">15454</subfield>
+    <subfield code="z">Canonici regolari</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Congregatio Lateranensis alias S. Mariae de Frisonaria</subfield>
+    <subfield code="3">15455</subfield>
+    <subfield code="z">Canonici regolari</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Congregatio sancti Salvatoris Lateranensis</subfield>
+    <subfield code="3">15456</subfield>
+    <subfield code="z">Canonici regolari</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Congregatio S. Ioannis Evangelistae Portugalliae</subfield>
+    <subfield code="3">15564</subfield>
+    <subfield code="z">Canonici regolari</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Comes, Vincentius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003108</subfield>
+    <subfield code="z">Conti, Vincenzo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Conctus, Vincentius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003109</subfield>
+    <subfield code="z">Conti, Vincenzo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale dell&apos;Archiginnasio. Bologna</subfield>
+    <subfield code="1">BO0304</subfield>
+    <subfield code="2">UBO GA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Casanatense. Roma</subfield>
+    <subfield code="1">RM0313</subfield>
+    <subfield code="2">RML 07</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Pontificio Ateneo Antonianum. Roma</subfield>
+    <subfield code="1">RM0692</subfield>
+    <subfield code="2">ZRM 44</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Marca sul front e nel coloph.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000502</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000502</subfield>
+    <subfield code="b">Ercole con la clava uccide l&apos;idra di Lerna. In cornice</subfield>
+    <subfield code="e">At virtus superavit.</subfield>
+    <subfield code="c">V39</subfield>
+    <subfield code="c">Z496</subfield>
+    <subfield code="f">ATVIRTUSSU</subfield>
+    <subfield code="f">ERCOLE</subfield>
+    <subfield code="f">IDRA</subfield>
+    <subfield code="g">1562-1575</subfield>
+  </datafield>
+</record>
+</collection>

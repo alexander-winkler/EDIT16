@@ -1,0 +1,133 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02064nam0a22003611i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\022236</controlfield>
+  <controlfield tag="005">20191213000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">i-e- b-i- o-e, bita (3) 1562 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1562        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗La ℗institutione del prencipe christiano. Tradotta di spagnuolo per Mambrino Roseo da Fabriano. Nuouamente ristampata &amp; da molti errori purgata. Con la tauola de i capitoli posta in fine</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Vinegia</subfield>
+    <subfield code="c">appresso Domenico Farri</subfield>
+    <subfield code="d">1562</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">195, \1! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Guevara,</subfield>
+    <subfield code="b">Antonio : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006353</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Roseo,</subfield>
+    <subfield code="b">Mambrino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000153</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Farri, Domenico</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000035</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Roseo,</subfield>
+    <subfield code="b">Mambrino : da#Fabriano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023587</subfield>
+    <subfield code="z">Roseo, Mambrino</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Mambrino</subfield>
+    <subfield code="c"> : da#Fabriano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023588</subfield>
+    <subfield code="z">Roseo, Mambrino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Farris, Dominicus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005455</subfield>
+    <subfield code="z">Farri, Domenico</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Farreus, Dominicus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005459</subfield>
+    <subfield code="z">Farri, Domenico</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Farris, Domingo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005462</subfield>
+    <subfield code="z">Farri, Domenico</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca estera - Herzog August Bibliothek. Wolfenbttel (Germania)</subfield>
+    <subfield code="1">AA0028</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Casa Madre - Chierici Regolari Somaschi. Somasca di Vercurago</subfield>
+    <subfield code="1">LC0098</subfield>
+    <subfield code="2">ZLC 04</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Passerini Landi. Piacenza</subfield>
+    <subfield code="1">PC0030</subfield>
+    <subfield code="2">PIA PL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca vescovile. Assisi</subfield>
+    <subfield code="1">PG0011</subfield>
+    <subfield code="2">PBE 59</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000264</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000264</subfield>
+    <subfield code="b">Sole con volto di fanciullo. In cornice</subfield>
+    <subfield code="e">1) In conspectu domini fulgebunt iusti sicut sol. 2) Non  ̈stella nel ciel che dimostrarsi possa si chiara mai, ch&apos;al sol sia eguale.</subfield>
+    <subfield code="c">V493</subfield>
+    <subfield code="c">Z1103</subfield>
+    <subfield code="d">Dimensioni: 4,8 x 4,8. Con o senza motto</subfield>
+    <subfield code="f">INCONSPECT</subfield>
+    <subfield code="f">NONESTELLA</subfield>
+    <subfield code="f">SOLE</subfield>
+    <subfield code="g">1553-1596</subfield>
+  </datafield>
+</record>
+</collection>

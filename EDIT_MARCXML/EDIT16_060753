@@ -1,0 +1,91 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01606nam0a22002651i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\060753</controlfield>
+  <controlfield tag="005">20080103000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">s.o- deri a:t- neba (3) 1581 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20050721d1581        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Pragmaticae edicta regiaeq. sanctiones Neapolitani regni in vnum congestae, suis distinctae titulis, miroque ordine illustrate. Per ... Prosperum Carauitam patritium Ebolitanum ... Quibus accesserunt pragmaticae editae per ... cardinalem de Granuela; necnon per ill. marchionem de Mondeiar, ac illustriss. principem Petrae Persiae ... Vna cum summariis ... per magnificum v.i.d. Horatium Destitum Montipauonensem</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Neapoli</subfield>
+    <subfield code="c">apud haeredes Matthiae Cancri</subfield>
+    <subfield code="c">ad instantiam Baptistae de Christopharo &amp; Sociorum</subfield>
+    <subfield code="d">1581</subfield>
+    <subfield code="e">Neapoli</subfield>
+    <subfield code="g">apud haeredes Matthiae Cancri</subfield>
+    <subfield code="g">ad instantiam Baptistae de Christopharo &amp; Sociorum</subfield>
+    <subfield code="h">1581</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\20!, 432, \6!, 433-498 \i.e. 496! , \2! p.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Napoli</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Napoli</subfield>
+    <subfield code="c"> &lt;Regno&gt;</subfield>
+    <subfield code="3">6856</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Destito,</subfield>
+    <subfield code="b">Orazio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\011065</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Caravita,</subfield>
+    <subfield code="b">Prospero</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002618</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Cancer, Mattia - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000674</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">De_Cristoforo, Battista &amp; C.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003568</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale dell&apos;Archiginnasio. Bologna</subfield>
+    <subfield code="1">BO0304</subfield>
+    <subfield code="2">UBO GA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Marucelliana. Firenze</subfield>
+    <subfield code="1">FI0101</subfield>
+    <subfield code="2">CFI MF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Francesco Piccinno. Maglie</subfield>
+    <subfield code="1">LE0108</subfield>
+    <subfield code="2">LEK S5</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Canonico Aniello Avallone. Cava dei Tirreni</subfield>
+    <subfield code="1">SA0091</subfield>
+    <subfield code="2">CAM S8</subfield>
+  </datafield>
+</record>
+</collection>

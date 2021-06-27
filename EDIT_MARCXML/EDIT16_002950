@@ -1,0 +1,191 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02965nam0a2200505 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\002950</controlfield>
+  <controlfield tag="005">20181212000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">s.ia r-m, ias. mo&amp;h (3) 1559 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1559        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Aristotelis Stagiritae ℗Organum, hoc est, libri ad logicam attinentes, Boethio Seuerino interprete, nuper ex optimis exemplaribus Graecis recogniti. Cum scoliis, argumentis, ac uarietatibus lectionum recens additis</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud Hieronymum Caualcalupum</subfield>
+    <subfield code="d">1559</subfield>
+    <subfield code="h">1559</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">331, \1! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Aristoteles</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000006</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Boethius,</subfield>
+    <subfield code="b">Anicius Manlius Torquatus Severinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000282</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Cavalcalupo, Girolamo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000657</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Aristotele</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018928</subfield>
+    <subfield code="z">Aristoteles</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Boethius,</subfield>
+    <subfield code="b">Seuerinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012816</subfield>
+    <subfield code="z">Boethius, Anicius Manlius Torquatus Severinus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Boezio,</subfield>
+    <subfield code="b">Anicio Manlio Torquato Severino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012817</subfield>
+    <subfield code="z">Boethius, Anicius Manlius Torquatus Severinus</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Cavalcalupus, Hieronymus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004551</subfield>
+    <subfield code="z">Cavalcalupo, Girolamo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Cavalcalovo, Geronimo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004552</subfield>
+    <subfield code="z">Cavalcalupo, Girolamo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca estera - Bayerische StaatsBibliothek. Muenchen</subfield>
+    <subfield code="1">AA0008</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Planettiana. Jesi</subfield>
+    <subfield code="1">AN0092</subfield>
+    <subfield code="2">URB BC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale Salvatore Tommasi. Bazzano</subfield>
+    <subfield code="1">AQ0047</subfield>
+    <subfield code="2">ABR PR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del comune e dell&apos;Accademia etrusca. Cortona</subfield>
+    <subfield code="1">AR0034</subfield>
+    <subfield code="2">RT1 QE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Cagliari</subfield>
+    <subfield code="1">CA0194</subfield>
+    <subfield code="2">CAG UC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Pontificia Biblioteca Antoniana. Padova</subfield>
+    <subfield code="1">EX0020</subfield>
+    <subfield code="2">PUV 78</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale del Monumento nazionale di Montecassino. Cassino</subfield>
+    <subfield code="1">FR0084</subfield>
+    <subfield code="2">RML 25</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca D&apos;Arco. Mantova</subfield>
+    <subfield code="1">MN0034</subfield>
+    <subfield code="2">LO1 9A</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Passerini Landi. Piacenza</subfield>
+    <subfield code="1">PC0030</subfield>
+    <subfield code="2">PIA PL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Dipartimento di filosofia dell&apos;Universit ̉degli studi di Padova. Padova</subfield>
+    <subfield code="1">PD0280</subfield>
+    <subfield code="2">PUV 32</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca S. Basilio del Seminario arcivescovile. Perugia</subfield>
+    <subfield code="1">PG0146</subfield>
+    <subfield code="2">UM1 45</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario diocesano di Concordia-Pordenone. Pordenone</subfield>
+    <subfield code="1">PN0052</subfield>
+    <subfield code="2">TSA SC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Michele Leoni. Fidenza</subfield>
+    <subfield code="1">PR0013</subfield>
+    <subfield code="2">PAR LE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Pietro Acclavio. Taranto</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">TA0021</subfield>
+    <subfield code="2">TA1 11</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Trento</subfield>
+    <subfield code="1">TN0121</subfield>
+    <subfield code="2">ZTN 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Fondazione Biblioteca S. Bernardino. Trento</subfield>
+    <subfield code="1">TN0122</subfield>
+    <subfield code="2">ZTN 18</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca archivio S. Francesco alla Rocca. Viterbo</subfield>
+    <subfield code="1">VT0072</subfield>
+    <subfield code="2">RMS M8</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000466</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000466</subfield>
+    <subfield code="b">Guerriero cavalca un lupo.</subfield>
+    <subfield code="c">V307</subfield>
+    <subfield code="c">Z722</subfield>
+    <subfield code="f">GUERRIERO</subfield>
+    <subfield code="f">LUPO</subfield>
+    <subfield code="g">1559-1564</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,214 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>03102nam0a2200505 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\012293</controlfield>
+  <controlfield tag="005">20020701000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">5251 m.r- s.co tisi (3) 1549 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1549        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗M. Tullii Ciceronis ℗Officiorum libri III cum commentariis Petri Marsi &amp; Ascensii. Dialogus de amicitia, cum commentariis Petri Marsi &amp; Ascensii. Dialogus de senectute, cum commentariis Petri Marsi, Martini Filetici, &amp; Ascensij. Paradoxa, interprete Ascensio. Accesserunt praeterea Des. Erasmi, &amp; Philippi Melanchtonis scholia</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">Ioan. Gryphius excudebat</subfield>
+    <subfield code="d">1549</subfield>
+    <subfield code="e">Venetiis</subfield>
+    <subfield code="g">apud Ioan. Gryphium</subfield>
+    <subfield code="h">1548</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\4!, 163 c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Cicero,</subfield>
+    <subfield code="b">Marcus Tullius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002170</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Filetico,</subfield>
+    <subfield code="b">Martino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003045</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Marso,</subfield>
+    <subfield code="b">Pietro</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003048</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Melanchthon,</subfield>
+    <subfield code="b">Philippus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000089</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Erasmus</subfield>
+    <subfield code="c"> : Roterodamus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000155</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Bade,</subfield>
+    <subfield code="b">Josse</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001185</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Griffio, Giovanni</subfield>
+    <subfield code="c"> &lt;1.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002057</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Tullius Cicero,</subfield>
+    <subfield code="b">Marcus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020042</subfield>
+    <subfield code="z">Cicero, Marcus Tullius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Phileticus,</subfield>
+    <subfield code="b">Martinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014812</subfield>
+    <subfield code="z">Filetico, Martino</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Marsus,</subfield>
+    <subfield code="b">Petrus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014594</subfield>
+    <subfield code="z">Marso, Pietro</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Melantone,</subfield>
+    <subfield code="b">Filippo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014651</subfield>
+    <subfield code="z">Melanchthon, Philippus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Geertszoom,</subfield>
+    <subfield code="b">Erazm</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014087</subfield>
+    <subfield code="z">Erasmus : Roterodamus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Erasmo</subfield>
+    <subfield code="c"> : da#Rotterdam</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014177</subfield>
+    <subfield code="z">Erasmus : Roterodamus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Erasmus,</subfield>
+    <subfield code="b">Desiderius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014178</subfield>
+    <subfield code="z">Erasmus : Roterodamus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Geertsz,</subfield>
+    <subfield code="b">Geert</subfield>
+    <subfield code="3">IT\ICCU\CNCA\017421</subfield>
+    <subfield code="z">Erasmus : Roterodamus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Erasmus Desiderius</subfield>
+    <subfield code="c"> : Roterodamus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018661</subfield>
+    <subfield code="z">Erasmus : Roterodamus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Erasmus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023311</subfield>
+    <subfield code="z">Erasmus : Roterodamus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Desiderius Erasmus</subfield>
+    <subfield code="c"> : Roterodamus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023312</subfield>
+    <subfield code="z">Erasmus : Roterodamus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Erasmo</subfield>
+    <subfield code="c"> : da#Rotorodamo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023313</subfield>
+    <subfield code="z">Erasmus : Roterodamus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Badius Ascensius Jodocus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003294</subfield>
+    <subfield code="z">Bade, Josse</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Ascensius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026332</subfield>
+    <subfield code="z">Bade, Josse</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Gryphius, Ioannes</subfield>
+    <subfield code="c"> &lt;1.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003549</subfield>
+    <subfield code="z">Griffio, Giovanni &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Grifio, Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005052</subfield>
+    <subfield code="z">Griffio, Giovanni &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Grifi, Giovanni</subfield>
+    <subfield code="c"> &lt;1&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005187</subfield>
+    <subfield code="z">Griffio, Giovanni &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Castelfranco Veneto</subfield>
+    <subfield code="1">TV0015</subfield>
+    <subfield code="2">VIA CF</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">nel front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000127</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">nel coloph.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000390</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000127</subfield>
+    <subfield code="b">Grifone che regge con l&apos;artiglio una pietra alla quale  ̈incatenato un globo alato. In cornice figurata</subfield>
+    <subfield code="e">Virtute duce comite fortuna.</subfield>
+    <subfield code="c">V370</subfield>
+    <subfield code="c">Z705</subfield>
+    <subfield code="d">dim. 7,7 x 9,5 cm.</subfield>
+    <subfield code="f">GRIFONE</subfield>
+    <subfield code="f">MONDO</subfield>
+    <subfield code="f">PIETRA</subfield>
+    <subfield code="f">VIRTUTEDUC</subfield>
+    <subfield code="g">1545-1587</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000390</subfield>
+    <subfield code="b">Grifone passante su prato fiorito.</subfield>
+    <subfield code="c">A132</subfield>
+    <subfield code="c">Z698</subfield>
+    <subfield code="d">Dimensioni: 6 x 4,5</subfield>
+    <subfield code="f">GRIFONE</subfield>
+    <subfield code="f">PRATO</subfield>
+    <subfield code="g">[non prima del 1544]-1576</subfield>
+  </datafield>
+</record>
+</collection>

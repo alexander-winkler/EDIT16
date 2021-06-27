@@ -1,0 +1,67 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00790nam0a2200217 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\076997</controlfield>
+  <controlfield tag="005">20111108000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">a.a, S.o. etm, nies (C) 1584 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20111108d1584        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Bellum Geminianense ab erroribus expurgatum cum nouis additamentis eiusdem loci Iulio Norio auctore i.v.d</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Senis</subfield>
+    <subfield code="h">1584</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\6! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Siena</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Nori,</subfield>
+    <subfield code="b">Giulio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008055</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">s.n.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000002</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Norius,</subfield>
+    <subfield code="b">Iulius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022403</subfield>
+    <subfield code="z">Nori, Giulio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Nori,</subfield>
+    <subfield code="b">Giulio : da#S. Gemignano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022404</subfield>
+    <subfield code="z">Nori, Giulio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Firenze</subfield>
+    <subfield code="1">FI0098</subfield>
+    <subfield code="2">CFI CF</subfield>
+  </datafield>
+</record>
+</collection>

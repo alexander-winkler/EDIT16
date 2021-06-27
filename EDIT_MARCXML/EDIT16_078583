@@ -1,0 +1,78 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01210nam0a22002291i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\078583</controlfield>
+  <controlfield tag="005">20180807000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">joto r,a, a,r. AmAm (C) 1583 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20140610d1583        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">SPA</subfield>
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">ES</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Vocabulario de las dos lenguas toscana y castellana, de Christoual de las Casas en que se contiene la declaracion de toscano en castellano, y de castellano en toscano, en dos partes con vna introducion para leer, y pronunciar bien entrambas lenguas ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">En Seuilla</subfield>
+    <subfield code="c">en casa de Andrea Pescioni</subfield>
+    <subfield code="c">a costa de Diego Nuęz</subfield>
+    <subfield code="d">mercador de libros</subfield>
+    <subfield code="d">1583</subfield>
+    <subfield code="e">Impresso en Seuilla</subfield>
+    <subfield code="g">en casa de Andrea Pescioni</subfield>
+    <subfield code="h">en la calle de Genoua</subfield>
+    <subfield code="h">1583</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\224! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">ES</subfield>
+    <subfield code="d">Siviglia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Casas,</subfield>
+    <subfield code="b">Cristobal : de#las</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002724</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Pescioni, Andrea</subfield>
+    <subfield code="3">IT\ICCU\CNCT\006451</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Nę͠z, Diego</subfield>
+    <subfield code="3">IT\ICCU\CNCT\006452</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Las Casas,</subfield>
+    <subfield code="b">Cristobal : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013207</subfield>
+    <subfield code="z">Casas, Cristobal : de#las</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca estera - Biblioteca de la Universidad de Sevilla. Sevilla</subfield>
+    <subfield code="1">AA0013</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Genova</subfield>
+    <subfield code="1">GE0038</subfield>
+    <subfield code="2">LIG 01</subfield>
+  </datafield>
+</record>
+</collection>

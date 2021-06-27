@@ -1,0 +1,140 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02326nam0a22003731i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\068817</controlfield>
+  <controlfield tag="005">20101027000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">relo ntt. n-ed inti (C) 1595 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20061113d1595        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Diui Thomae Aquinatis doctoris angelici, ℗Tomus tertius complectens expositionem in Aristotelis quatuor libros meteororum, tres libros de anima, et parua naturalia, adiecimus vero nunc libris quidem de anima quaestiones magistri Dominici, de Flandria; paruis autem naturalibus plures libellos nempe, de animalium motu, de longitudine et breuitate vitae, de motu cordis, de natura luminis; quorum quosdam ab eodem d. Thoma, quosdam a Petro de Aluernia expositos videbis. Indices quoque sunt cuique materiae appositi</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud haeredem Hieronymi Scoti</subfield>
+    <subfield code="d">1595</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\1! c., 260 col., \1! c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">ANNULLATA E&apos; IL V.3 DELLA 32684!</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Tommaso</subfield>
+    <subfield code="c"> : d&apos;Aquino</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000195</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Dominique</subfield>
+    <subfield code="c"> : de#Flandre</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004898</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Pierre</subfield>
+    <subfield code="c"> : d&apos;Auvergne</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008298</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Aristoteles</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000006</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Scoto, Girolamo - erede</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000459</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Thomas</subfield>
+    <subfield code="c"> : de#Aquino</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009350</subfield>
+    <subfield code="z">Tommaso : d&apos;Aquino &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Dominicus</subfield>
+    <subfield code="c"> : de#Flandria</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004899</subfield>
+    <subfield code="z">Dominique : de#Flandre</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Domenico</subfield>
+    <subfield code="c"> : di#Fiandra</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010220</subfield>
+    <subfield code="z">Dominique : de#Flandre</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Flandria,</subfield>
+    <subfield code="b">Dominicus : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018509</subfield>
+    <subfield code="z">Dominique : de#Flandre</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Dominicus</subfield>
+    <subfield code="c"> : Flandrensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022618</subfield>
+    <subfield code="z">Dominique : de#Flandre</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Petrus</subfield>
+    <subfield code="c"> : de#Alvernia</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014799</subfield>
+    <subfield code="z">Pierre : d&apos;Auvergne</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Petrus</subfield>
+    <subfield code="c"> : Alvernatis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014821</subfield>
+    <subfield code="z">Pierre : d&apos;Auvergne</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Aristotele</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018928</subfield>
+    <subfield code="z">Aristoteles</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Arcivescovile. Udine</subfield>
+    <subfield code="1">UD0100</subfield>
+    <subfield code="2">ZUD 11</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\002270</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\002270</subfield>
+    <subfield code="b">Le *tre Grazie in un palmeto. Nella parte inferiore di una cornice figurata con il ritratto d s. Tommaso al centro.</subfield>
+    <subfield code="c">U803</subfield>
+    <subfield code="f">GRAZIE</subfield>
+    <subfield code="f">PALMA</subfield>
+    <subfield code="g">1595-1598</subfield>
+  </datafield>
+</record>
+</collection>

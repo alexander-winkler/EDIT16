@@ -1,0 +1,79 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01050ncm0a22002411i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\045108</controlfield>
+  <controlfield tag="005">19990521000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19990120d1574        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Madrigali di Gio. Piero Manenti bolognese, musico del sereniss. gran duca di Toscana, a sei voci ... Libro primo</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venezia</subfield>
+    <subfield code="c">eredi di Antonio Gardane</subfield>
+    <subfield code="d">1574</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">6 fasc.</subfield>
+    <subfield code="d">8ʻ obl</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">S, A, T, B, 5, 6</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Manenti,</subfield>
+    <subfield code="b">Giovanni Pietro</subfield>
+    <subfield code="3">IT\ICCU\CNCA\011852</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Gardane, Antonio - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003018</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Riccardiana. Firenze</subfield>
+    <subfield code="z">(5)</subfield>
+    <subfield code="1">FI0094</subfield>
+    <subfield code="2">CFI RF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Firenze</subfield>
+    <subfield code="1">FI0098</subfield>
+    <subfield code="2">CFI CF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca musicale governativa del Conservatorio di musica S. Cecilia. Roma</subfield>
+    <subfield code="z">(T,B,5,6)</subfield>
+    <subfield code="1">RM0266</subfield>
+    <subfield code="2">RMR SC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca capitolare. Verona</subfield>
+    <subfield code="z">(S,A,T,B,5)</subfield>
+    <subfield code="1">VR0056</subfield>
+    <subfield code="2">VIA VC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Accademia filarmonica di Verona. Verona</subfield>
+    <subfield code="z">(6)</subfield>
+    <subfield code="1">VR0070</subfield>
+    <subfield code="2">ZVR 03</subfield>
+  </datafield>
+</record>
+</collection>

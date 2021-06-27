@@ -1,0 +1,106 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01901nam0a2200313 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\025030</controlfield>
+  <controlfield tag="005">20091123000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">s.o. i-t. ier- enam (S) 1561 (Q)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970922f1561        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Iacobus miseratione diuina tituli sanctae Mariae in Cosmedin S.R.E. presbyter cardinalis de Sabellis sanctissimi d.n. papae generalis vicarius</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="d">\1561?!</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">1 manifesto</subfield>
+    <subfield code="d">atl</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Data di emanazione: Roma, 12 dicembre 1561 (data del documento pi ̮tardo). - Incipit: Cum s.d.n. Pius diuina prouidentia papae IIII. Declarauerit praetextu facultatum et priuilegiorum nuper illustrissimo et r.p.d. Flauio Vrsino episcopo Murano utriusque signaturae referendario concessorum nullo modo iurisdictioni ... . - Contiene due Motu propri di Pio IV e le disposizioni del card. Savelli per l&apos;esecuzione delle norme contenute in essi, relative agli uditori camerali. -Stampato a Roma dagli eredi di Antonio Blado, cfr. Catalogo delle edizioni romane di Antonio Blado Asolano ed eredi, v.II, n.1302</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Roma</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Roma</subfield>
+    <subfield code="c"> &lt;Diocesi&gt;</subfield>
+    <subfield code="3">7265</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Savelli,</subfield>
+    <subfield code="b">Giacomo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026990</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Pius</subfield>
+    <subfield code="c"> &lt;papa</subfield>
+    <subfield code="c"> ; 4.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002203</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Blado, Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000157</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Ecclesia Almae Urbis</subfield>
+    <subfield code="3">25277</subfield>
+    <subfield code="z">Roma &lt;Diocesi&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Savelli,</subfield>
+    <subfield code="b">Jacques</subfield>
+    <subfield code="3">IT\ICCU\CNCA\027207</subfield>
+    <subfield code="z">Savelli, Giacomo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Savelli,</subfield>
+    <subfield code="b">Jacob</subfield>
+    <subfield code="3">IT\ICCU\CNCA\027208</subfield>
+    <subfield code="z">Savelli, Giacomo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Medici,</subfield>
+    <subfield code="b">Giovanni Angelo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014648</subfield>
+    <subfield code="z">Pius &lt;papa ; 4.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Antonio d&apos;Asola</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003628</subfield>
+    <subfield code="z">Blado, Antonio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bladus, Antonius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004402</subfield>
+    <subfield code="z">Blado, Antonio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bladi, Antonio de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004403</subfield>
+    <subfield code="z">Blado, Antonio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+</record>
+</collection>

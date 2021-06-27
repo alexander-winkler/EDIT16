@@ -1,0 +1,100 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01461nam0a2200289 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\020069</controlfield>
+  <controlfield tag="005">20080221000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">ods, s,e- t,co CaQu (C) 1570 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1570        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Oratio habita a Io. Iacobo Gabiano in solenni sacro Antonij Scarampi pont. Laudae de die festo omnium sanctorum. Eiusdem Gabiani eucharisticon schedion de eiusdem pont. pontificali ingressu</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Mediolani</subfield>
+    <subfield code="c">apud Pacificum Pontium</subfield>
+    <subfield code="d">Ian. 1570</subfield>
+    <subfield code="e">Mediolani</subfield>
+    <subfield code="g">apud Pacificum Pontium</subfield>
+    <subfield code="h">1570 mense Ianuarij</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\12! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Milano</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Gabbiano,</subfield>
+    <subfield code="b">Giovanni Giacomo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005759</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Da_Ponte, Pacifico</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000162</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Gabianus,</subfield>
+    <subfield code="b">Ioannes Iacobus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005760</subfield>
+    <subfield code="z">Gabbiano, Giovanni Giacomo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pontius, Pacificus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003713</subfield>
+    <subfield code="z">Da_Ponte, Pacifico</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ponte, Pacifico da</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003714</subfield>
+    <subfield code="z">Da_Ponte, Pacifico</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pontio, Pacifico</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004493</subfield>
+    <subfield code="z">Da_Ponte, Pacifico</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ponticus, Pacificus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004494</subfield>
+    <subfield code="z">Da_Ponte, Pacifico</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ponzio, Pacifico</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004496</subfield>
+    <subfield code="z">Da_Ponte, Pacifico</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale. Cremona</subfield>
+    <subfield code="1">CR0062</subfield>
+    <subfield code="2">LO1 28</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Braidense. Milano</subfield>
+    <subfield code="1">MI0185</subfield>
+    <subfield code="2">MIL NB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Archivio storico civico e Biblioteca Trivulziana. Milano</subfield>
+    <subfield code="1">MI0327</subfield>
+    <subfield code="2">LO1 13</subfield>
+  </datafield>
+</record>
+</collection>

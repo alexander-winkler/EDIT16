@@ -1,0 +1,112 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01609nam0a2200313 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\022932</controlfield>
+  <controlfield tag="005">20130530000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">B.B. A.t. m.s- hoSi (3) 1504 (T)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1504        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Ropertus Holkot. Super librum Sapientie rursus recognitus</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetijs</subfield>
+    <subfield code="c">impressum mandato et expensis heredum nobilis viri olim domini Octauiani Scoti couis Modoetiensis atque patricij</subfield>
+    <subfield code="c">per presbyterum Bonetum Locatellum Bergomensem</subfield>
+    <subfield code="d">1504</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\10!, 179, \1! c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Holkot,</subfield>
+    <subfield code="b">Robert</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006518</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Scoto, Ottaviano</subfield>
+    <subfield code="c"> &lt;1.&gt; - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000130</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Locatello, Boneto</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000131</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Olchot,</subfield>
+    <subfield code="b">Robertus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006519</subfield>
+    <subfield code="z">Holkot, Robert</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Holcot,</subfield>
+    <subfield code="b">Robert</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014399</subfield>
+    <subfield code="z">Holkot, Robert</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Scotus, Octavianus</subfield>
+    <subfield code="c"> &lt;1.&gt; - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005636</subfield>
+    <subfield code="z">Scoto, Ottaviano &lt;1.&gt; - eredi</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Scotti, Ottaviano</subfield>
+    <subfield code="c"> &lt;1.&gt; - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005637</subfield>
+    <subfield code="z">Scoto, Ottaviano &lt;1.&gt; - eredi</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Locatellus, Bonetus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004971</subfield>
+    <subfield code="z">Locatello, Boneto</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Locatellis, Bonetus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004972</subfield>
+    <subfield code="z">Locatello, Boneto</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale Salvatore Tommasi. Bazzano</subfield>
+    <subfield code="1">AQ0047</subfield>
+    <subfield code="2">ABR PR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Ariostea. Ferrara</subfield>
+    <subfield code="1">FE0017</subfield>
+    <subfield code="2">UFE AR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei frati minori cappuccini Madonna di Pompei. Messina</subfield>
+    <subfield code="1">ME0179</subfield>
+    <subfield code="2">MES FC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Trento</subfield>
+    <subfield code="1">TN0121</subfield>
+    <subfield code="2">ZTN 01</subfield>
+  </datafield>
+</record>
+</collection>

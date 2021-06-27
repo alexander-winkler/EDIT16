@@ -1,0 +1,38 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00620na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\059740</controlfield>
+  <controlfield tag="005">20080930000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20041213             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">De vitis pont. Trid. libri duodecim: qui plura habent in recessu quam promittant in fronte: multa insuper externarum gentium facta domesticis addita sunt ut et plenior et iucundior esset historia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Pincio,</subfield>
+    <subfield code="b">Giano Pirro</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008897</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Pincius,</subfield>
+    <subfield code="b">Janus Pyrrhus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022822</subfield>
+    <subfield code="z">Pincio, Giano Pirro</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Pincio,</subfield>
+    <subfield code="b">Paolo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022823</subfield>
+    <subfield code="z">Pincio, Giano Pirro</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

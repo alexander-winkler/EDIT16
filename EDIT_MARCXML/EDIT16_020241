@@ -1,0 +1,87 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01044nam0a22002531i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\020241</controlfield>
+  <controlfield tag="005">20151027000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e-a- s.s. seo. FuSc (3) 1563 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1563        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Diversa carmina</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Cremonae</subfield>
+    <subfield code="c">apud Vincentium Conctum</subfield>
+    <subfield code="d">1563</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">100, \4! p.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Cremona</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Gallina,</subfield>
+    <subfield code="b"></subfield>
+    <subfield code="3">IT\ICCU\CNCA\005839</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Conti, Vincenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000118</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Gallina,</subfield>
+    <subfield code="b">Nicolaus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019441</subfield>
+    <subfield code="z"></subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Comes, Vincentius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003108</subfield>
+    <subfield code="z">Conti, Vincenzo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Conctus, Vincentius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003109</subfield>
+    <subfield code="z">Conti, Vincenzo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Braidense. Milano</subfield>
+    <subfield code="1">MI0185</subfield>
+    <subfield code="2">MIL NB</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000440</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000440</subfield>
+    <subfield code="b">Ercole con la clava uccide l&apos;idra di Lerna. In cornice</subfield>
+    <subfield code="e">At virtus superavit.</subfield>
+    <subfield code="c">Z497</subfield>
+    <subfield code="d">Dimensioni: 4 x 5</subfield>
+    <subfield code="f">ATVIRTUSSU</subfield>
+    <subfield code="f">ERCOLE</subfield>
+    <subfield code="f">IDRA</subfield>
+    <subfield code="g">1562-1566</subfield>
+  </datafield>
+</record>
+</collection>

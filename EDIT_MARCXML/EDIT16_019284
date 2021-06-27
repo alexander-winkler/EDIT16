@@ -1,0 +1,25 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00290na 0a2200109 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\019284</controlfield>
+  <controlfield tag="005">20180131000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Florio e Biancofiore</subfield>
+  </datafield>
+  <datafield tag="517" ind1="1" ind2=" ">
+    <subfield code="3">IT\ICCU\CNCE\049057</subfield>
+    <subfield code="a">Fiorio e Biancifiore</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

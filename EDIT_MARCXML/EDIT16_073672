@@ -1,0 +1,82 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01172nam0a2200253 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\073672</controlfield>
+  <controlfield tag="005">20160208000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">dia- e.e, hehe sed&apos; (3) 1600 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20090105d1600        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Gersone della perfettione religiosa, e dell&apos;obligo, che ciascuno religioso ha di acquistarla. Composto dal padre Luca Pinelli della Compagnia di Giesu</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Napoli</subfield>
+    <subfield code="c">appresso Gio. Giacomo Carlino</subfield>
+    <subfield code="d">stampatore della corte arciuescouale</subfield>
+    <subfield code="d">1600</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">504, 16 p.</subfield>
+    <subfield code="d">12ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Napoli</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Pinelli,</subfield>
+    <subfield code="b">Luca</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006903</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Carlino, Giovanni Giacomo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000822</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Carlinus, Ioannes Iacobus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004454</subfield>
+    <subfield code="z">Carlino, Giovanni Giacomo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Carlino, Giacomo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004455</subfield>
+    <subfield code="z">Carlino, Giovanni Giacomo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca S. Giacomo del Monastero benedettino. Pontida</subfield>
+    <subfield code="1">BG0196</subfield>
+    <subfield code="2">ZBG 03</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Cagliari</subfield>
+    <subfield code="1">CA0194</subfield>
+    <subfield code="2">CAG UC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Alagoniana. Siracusa</subfield>
+    <subfield code="1">SR0052</subfield>
+    <subfield code="2">SBS AL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Sassari</subfield>
+    <subfield code="1">SS0073</subfield>
+    <subfield code="2">CAG US</subfield>
+  </datafield>
+</record>
+</collection>

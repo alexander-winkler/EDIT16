@@ -1,0 +1,73 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00983nam0a22002291i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\057907</controlfield>
+  <controlfield tag="005">20080428000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20040430f1518        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Repertorium amplissimum consiliorum et quaestionum editum per Henricum Ferraudat</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="d">\1518!</subfield>
+    <subfield code="e">Mediolani</subfield>
+    <subfield code="g">impensis Io. Iacobi et fratrum de Lignano</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\106! c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Per la data cfr.: E. Sandal, Editori e tipografi a Milano nel Cinquecento, III, p. 114, n. 153/1</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Milano</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Petrucci,</subfield>
+    <subfield code="b">Federico</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009543</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Ferrandat,</subfield>
+    <subfield code="b">Henri</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016606</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Da_Legnano, Giovanni Giacomo &amp; fratelli</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001554</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Petrucius,</subfield>
+    <subfield code="b">Federicus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021977</subfield>
+    <subfield code="z">Petrucci, Federico</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Petrucci,</subfield>
+    <subfield code="b">Federigo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021978</subfield>
+    <subfield code="z">Petrucci, Federico</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Ferendat,</subfield>
+    <subfield code="b">Henricus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019363</subfield>
+    <subfield code="z">Ferrandat, Henri</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

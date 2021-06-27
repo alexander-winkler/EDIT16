@@ -1,0 +1,38 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00482na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\063053</controlfield>
+  <controlfield tag="005">20051217000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20051217             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Meditationes grammaticae in artem grammaticam ...</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Cleynaerts,</subfield>
+    <subfield code="b">Nicolas</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003251</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Beke,</subfield>
+    <subfield code="b">Nicolaus : van der</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007771</subfield>
+    <subfield code="z">Cleynaerts, Nicolas</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Clenardus,</subfield>
+    <subfield code="b">Nicolaus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008254</subfield>
+    <subfield code="z">Cleynaerts, Nicolas</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

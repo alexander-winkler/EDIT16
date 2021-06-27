@@ -1,0 +1,109 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01570nam0a2200313 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\014849</controlfield>
+  <controlfield tag="005">20051121000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">umi- isem o-ra raVI (3) 1592 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1592        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Constitutiones auctoritate s.d.n. Sixti papae quinti confirmatae Collegio Montisalti in ciuitate Bononiae ab eo erecto praescriptae</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Bononiae</subfield>
+    <subfield code="c">ex officina Victorij Benacij</subfield>
+    <subfield code="d">1592</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">77, \3! p.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Bologna</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Collegio Montalto</subfield>
+    <subfield code="c"> &lt;Bologna&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003764</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Sixtus</subfield>
+    <subfield code="c"> &lt;papa</subfield>
+    <subfield code="c"> ; 5.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007469</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Benacci, Vittorio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000021</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Collegium Montisalti in civitate Bononiae</subfield>
+    <subfield code="3">8291</subfield>
+    <subfield code="z">Collegio Montalto &lt;Bologna&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Peretti,</subfield>
+    <subfield code="b">Felice</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014759</subfield>
+    <subfield code="z">Sixtus &lt;papa ; 5.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Benatius, Victorius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003648</subfield>
+    <subfield code="z">Benacci, Vittorio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Benacius, Victorius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004325</subfield>
+    <subfield code="z">Benacci, Vittorio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Soprintendenza per i beni archeologici delle Marche. Ancona</subfield>
+    <subfield code="1">AN0012</subfield>
+    <subfield code="2">URB 1S</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Bologna</subfield>
+    <subfield code="1">BO0098</subfield>
+    <subfield code="2">UBO BU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale dell&apos;Archiginnasio. Bologna</subfield>
+    <subfield code="1">BO0304</subfield>
+    <subfield code="2">UBO GA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca delle Collezioni d&apos;arte e di storia San Giorgio in Poggiale. Bologna</subfield>
+    <subfield code="1">BO0376</subfield>
+    <subfield code="2">UBO PG</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Angelica. Roma</subfield>
+    <subfield code="1">RM0290</subfield>
+    <subfield code="2">RML 06</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Accademia nazionale dei Lincei e Corsiniana. Roma</subfield>
+    <subfield code="1">RM0418</subfield>
+    <subfield code="2">RML 10</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,47 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00583na 0a22001571i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\002181</controlfield>
+  <controlfield tag="005">20070606000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">GRC</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Constitutiones Apostolicae</subfield>
+  </datafield>
+  <datafield tag="517" ind1="1" ind2=" ">
+    <subfield code="3">IT\ICCU\CNCE\054363</subfield>
+    <subfield code="a">Apostolicae constitutiones</subfield>
+  </datafield>
+  <datafield tag="517" ind1="1" ind2=" ">
+    <subfield code="3">IT\ICCU\CNCE\070823</subfield>
+    <subfield code="a">Diatagai ton agion apostolon</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Clemens</subfield>
+    <subfield code="c"> &lt;papa</subfield>
+    <subfield code="c"> ; 1.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010432</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Clemens</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013737</subfield>
+    <subfield code="z">Clemens &lt;papa ; 1.&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Clemens</subfield>
+    <subfield code="c"> : Romanus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016420</subfield>
+    <subfield code="z">Clemens &lt;papa ; 1.&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+</record>
+</collection>

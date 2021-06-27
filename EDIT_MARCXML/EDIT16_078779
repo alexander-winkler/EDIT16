@@ -1,0 +1,45 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00647na 0a22001571i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\078779</controlfield>
+  <controlfield tag="005">20141007000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20141007             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Li priuilegi della sacra Religione di s. Gio. Gierosolimitano ...</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Cavalieri di Malta</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002858</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Ordo S. Ioannis Hierosolimitani</subfield>
+    <subfield code="3">15481</subfield>
+    <subfield code="z">Cavalieri di Malta</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Milites S. Ioannis Hierosolimitani</subfield>
+    <subfield code="3">15482</subfield>
+    <subfield code="z">Cavalieri di Malta</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Sovrano Militare Ospedaliero Ordine di Malta</subfield>
+    <subfield code="3">15483</subfield>
+    <subfield code="z">Cavalieri di Malta</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Ordine dei Cavalieri di Malta</subfield>
+    <subfield code="3">16230</subfield>
+    <subfield code="z">Cavalieri di Malta</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

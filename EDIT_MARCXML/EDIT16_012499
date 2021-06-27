@@ -1,0 +1,115 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01504nam0a2200313 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\012499</controlfield>
+  <controlfield tag="005">20020905000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e.e- isd- u-er ciad (3) 1590 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1590        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Rhetoricorum ad Herennium libri quatuor et M. T. Ciceronis De inuentione libri duo</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud Dominicum de Farris</subfield>
+    <subfield code="d">1590</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">288 p.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Cicero,</subfield>
+    <subfield code="b">Marcus Tullius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002170</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Farri, Domenico</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000035</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Tullius Cicero,</subfield>
+    <subfield code="b">Marcus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020042</subfield>
+    <subfield code="z">Cicero, Marcus Tullius</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Farris, Dominicus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005455</subfield>
+    <subfield code="z">Farri, Domenico</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Farreus, Dominicus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005459</subfield>
+    <subfield code="z">Farri, Domenico</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Farris, Domingo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005462</subfield>
+    <subfield code="z">Farri, Domenico</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Bertinoro</subfield>
+    <subfield code="1">FC0004</subfield>
+    <subfield code="2">RAV BT</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Firenze</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">FI0098</subfield>
+    <subfield code="2">CFI CF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Sarnano</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">MC0079</subfield>
+    <subfield code="2">UMC BS</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Accademia dei Concordi. Rovigo</subfield>
+    <subfield code="1">RO0049</subfield>
+    <subfield code="2">ROV AC</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">nel front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000168</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000168</subfield>
+    <subfield code="b">Tronco da cui germogliano ramoscelli. In cornice figurata</subfield>
+    <subfield code="e">Simili frondescet virga metallo.</subfield>
+    <subfield code="c">Q54</subfield>
+    <subfield code="c">V440</subfield>
+    <subfield code="c">Z17</subfield>
+    <subfield code="d">Dimensioni: 5 x 4,6</subfield>
+    <subfield code="f">SIMILIFRON</subfield>
+    <subfield code="f">TRONCO</subfield>
+    <subfield code="g">1579-1597</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,30 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00351na 0a22001211i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\077688</controlfield>
+  <controlfield tag="005">20121029000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20121029             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Index omnium librorum totius voluminis statutorum terre Monticuli ...</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Treia</subfield>
+    <subfield code="3">27861</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Monticulum</subfield>
+    <subfield code="3">27862</subfield>
+    <subfield code="z">Treia</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

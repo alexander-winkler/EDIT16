@@ -1,0 +1,91 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01207nam0a2200265 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\053779</controlfield>
+  <controlfield tag="005">20121116000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">dea- e,r- toia casa (C) 1524 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20021217d1524        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Cronica de sancto Isidoro Menore, con alchune additione cauate del texto &amp; historie de la Bibia. E del libro de Paulo Orosio, e de le passione de li sancti</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">In Venetia</subfield>
+    <subfield code="g">per Paulo Danza</subfield>
+    <subfield code="h">1524 adi XII mazo</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\52! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Isidorus</subfield>
+    <subfield code="c"> : Hispalensis</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005620</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Orosius,</subfield>
+    <subfield code="b">Paulus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008518</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Danza, Paolo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000719</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Isidoro</subfield>
+    <subfield code="c"> : di#Siviglia</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014540</subfield>
+    <subfield code="z">Isidorus : Hispalensis &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Sevilla,</subfield>
+    <subfield code="b">Isidoro : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020145</subfield>
+    <subfield code="z">Isidorus : Hispalensis &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Orosio,</subfield>
+    <subfield code="b">Paolo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\017274</subfield>
+    <subfield code="z">Orosius, Paulus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Orosio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021775</subfield>
+    <subfield code="z">Orosius, Paulus</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Firenze</subfield>
+    <subfield code="1">FI0098</subfield>
+    <subfield code="2">CFI CF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Marciana. Venezia</subfield>
+    <subfield code="1">VE0049</subfield>
+    <subfield code="2">VEA BM</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,54 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00678ncm0a22001811i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\046509</controlfield>
+  <controlfield tag="005">19990317000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19990120d1526        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Motetti de la corona. Libro secondo \- quarto!</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Roma</subfield>
+    <subfield code="c">Giovanni Giacomo Pasotti e Valerio Dorico</subfield>
+    <subfield code="c">\ed. Iacopo Giunta il vecchio!</subfield>
+    <subfield code="d">1526</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">RISM: Recueils I, 1526/2 - 4</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Roma</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Pasotti, Giovanni Giacomo &amp; Dorico, Valerio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003245</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Giunta, Iacopo</subfield>
+    <subfield code="c"> &lt;1.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001923</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Giunti, Iacopo</subfield>
+    <subfield code="c"> &lt;1&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004922</subfield>
+    <subfield code="z">Giunta, Iacopo &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

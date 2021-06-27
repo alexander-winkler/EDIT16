@@ -1,0 +1,35 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00402na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\065055</controlfield>
+  <controlfield tag="005">20060713000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20060713             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Additiones quae ex diuersis libris, et scripturis publicis communis ciuitatis Mutinae</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Modena</subfield>
+    <subfield code="3">9318</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Mutina</subfield>
+    <subfield code="3">21451</subfield>
+    <subfield code="z">Modena</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Modona</subfield>
+    <subfield code="3">21452</subfield>
+    <subfield code="z">Modena</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

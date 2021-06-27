@@ -1,0 +1,119 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01537nam0a2200325 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\064248</controlfield>
+  <controlfield tag="005">20100415000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">n-i- i.f. i?ri OdOc (3) 1585 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20060307d1585        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Aggiunta alle rime, et prose del sig. Torquato Tasso. Di nuouo ristampate, con diligenza riuedute, e corrette</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Ferrara</subfield>
+    <subfield code="c">appresso Simon Vasalini</subfield>
+    <subfield code="d">1585</subfield>
+    <subfield code="e">In Ferrara</subfield>
+    <subfield code="g">appresso Giulio Cesare Cagnacini</subfield>
+    <subfield code="h">&amp; fratelli</subfield>
+    <subfield code="h">1585</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\24!, 90, \6! p.</subfield>
+    <subfield code="d">12ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Ferrara</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Tasso,</subfield>
+    <subfield code="b">Torquato</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002182</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Vassalini, Simone</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001274</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Cagnacini, Giulio Cesare &amp; fratelli</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001275</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Uranio,</subfield>
+    <subfield code="b">Felice</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008878</subfield>
+    <subfield code="z">Tasso, Torquato</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Fenice,</subfield>
+    <subfield code="b">Uranio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\017207</subfield>
+    <subfield code="z">Tasso, Torquato</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Vasalini, Simone</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004152</subfield>
+    <subfield code="z">Vassalini, Simone</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica A. Mai. Bergamo</subfield>
+    <subfield code="1">BG0026</subfield>
+    <subfield code="2">LO1 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Sarnano</subfield>
+    <subfield code="1">MC0079</subfield>
+    <subfield code="2">UMC BS</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Napoli</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">NA0070</subfield>
+    <subfield code="2">NAP BU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Museo Correale. Sorrento</subfield>
+    <subfield code="1">NA0197</subfield>
+    <subfield code="2">ZNA 14</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Padova</subfield>
+    <subfield code="1">PD0090</subfield>
+    <subfield code="2">PUV 55</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Forteguerriana. Pistoia</subfield>
+    <subfield code="1">PT0025</subfield>
+    <subfield code="2">RT1 IE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca  Panizzi. Reggio Emilia</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">RE0052</subfield>
+    <subfield code="2">RE2 PA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica A. Hortis. Trieste</subfield>
+    <subfield code="1">TS0013</subfield>
+    <subfield code="2">TSA BC</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,178 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02699nam0a2200445 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\009185</controlfield>
+  <controlfield tag="005">20110427000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">8786 9.5. nsi- nede (3) 1593 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1593        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">De methodo anatomica liber Hieronymi Capiuaccei Patauini, medici ac philosophi insignis, et in Patauino gymnasio praxim magna celebritate professi. Cum indice rerum copioso</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud Io. Baptistam Ciottum Senensem</subfield>
+    <subfield code="d">1593</subfield>
+    <subfield code="e">Venetiis</subfield>
+    <subfield code="g">apud Nicolaum Morettum</subfield>
+    <subfield code="g">impensis Io. Baptistae Ciotti</subfield>
+    <subfield code="h">1593</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\14!, 201 \i.e. 301!, \1! p.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Capodivacca,</subfield>
+    <subfield code="b">Girolamo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002560</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Ciotti, Giovanni Battista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000140</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a"></subfield>
+    <subfield code="3">IT\ICCU\CNCT\000008</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Capivaccius,</subfield>
+    <subfield code="b">Hieronymus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007864</subfield>
+    <subfield code="z">Capodivacca, Girolamo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ciottus, Ioannes Baptista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004610</subfield>
+    <subfield code="z">Ciotti, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Moretus, Nicolaus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002383</subfield>
+    <subfield code="z"></subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Morettus, Nicolaus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005222</subfield>
+    <subfield code="z"></subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca estera - Biblioteca Universidad Complutense de Madrid. Madrid</subfield>
+    <subfield code="1">AA0002</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Bologna</subfield>
+    <subfield code="1">BO0098</subfield>
+    <subfield code="2">UBO BU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica del patrimonio degli studi. Cento</subfield>
+    <subfield code="1">FE0004</subfield>
+    <subfield code="2">UFE CN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Berio. Genova</subfield>
+    <subfield code="1">GE0036</subfield>
+    <subfield code="2">SGE BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Braidense. Milano</subfield>
+    <subfield code="1">MI0185</subfield>
+    <subfield code="2">MIL NB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Teresiana. Mantova</subfield>
+    <subfield code="1">MN0035</subfield>
+    <subfield code="2">LO1 12</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Padova</subfield>
+    <subfield code="1">PD0158</subfield>
+    <subfield code="2">PUV 00</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Sperelliana. Gubbio</subfield>
+    <subfield code="1">PG0049</subfield>
+    <subfield code="2">UM1 11</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Pavia</subfield>
+    <subfield code="1">PV0291</subfield>
+    <subfield code="2">MIL UP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Lancisiana. Roma</subfield>
+    <subfield code="1">RM0260</subfield>
+    <subfield code="2">RMS H8</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria Alessandrina. Roma</subfield>
+    <subfield code="1">RM0280</subfield>
+    <subfield code="2">RML 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Casanatense. Roma</subfield>
+    <subfield code="1">RM0313</subfield>
+    <subfield code="2">RML 07</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Nel coloph.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001222</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000505</subfield>
+    <subfield code="b">Minerva con elmo, lancia su cui  ̈poggiata una civetta e scudo. Paesaggio con albero e case. In cornice figurata</subfield>
+    <subfield code="e">Et letere et arme</subfield>
+    <subfield code="c">Z848</subfield>
+    <subfield code="d">Dimensioni: 9,5 x 6,5</subfield>
+    <subfield code="f">CIVETTA</subfield>
+    <subfield code="f">ETLETEREET</subfield>
+    <subfield code="f">MEDUSA</subfield>
+    <subfield code="f">MINERVA</subfield>
+    <subfield code="g">1586-1600</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001222</subfield>
+    <subfield code="b">Fortuna (donna in mare con vela al vento). Nell&apos;ovale in basso profilo di un moro. In cornice figurata</subfield>
+    <subfield code="e">Non bis</subfield>
+    <subfield code="c">U225</subfield>
+    <subfield code="d">Dimensioni: 6 x 7</subfield>
+    <subfield code="f">NONBIS</subfield>
+    <subfield code="f">MORO</subfield>
+    <subfield code="f">FORTUNA</subfield>
+    <subfield code="f">VELA</subfield>
+    <subfield code="g">1587-1600</subfield>
+  </datafield>
+</record>
+</collection>

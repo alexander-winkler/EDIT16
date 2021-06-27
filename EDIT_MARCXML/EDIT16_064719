@@ -1,0 +1,40 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00616na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\064719</controlfield>
+  <controlfield tag="005">20060802000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20060614             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">De litteris graecis, ac diphthongis, &amp; quemadmodum ad nos ueniant ... Carmina aurea Pythagorae. Phocylidis poema ... Introductio ... ad hebraicam linguam</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Manuzio,</subfield>
+    <subfield code="b">Aldo</subfield>
+    <subfield code="c"> &lt;il vecchio&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000081</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Manutius,</subfield>
+    <subfield code="b">Aldus</subfield>
+    <subfield code="c"> &lt;il vecchio&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014566</subfield>
+    <subfield code="z">Manuzio, Aldo &lt;il vecchio&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Manutius,</subfield>
+    <subfield code="b">Aldus Pius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020961</subfield>
+    <subfield code="z">Manuzio, Aldo &lt;il vecchio&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

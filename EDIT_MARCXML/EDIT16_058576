@@ -1,0 +1,113 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01777nam0a22003251i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\058576</controlfield>
+  <controlfield tag="005">20070423000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">a,o- rai. teli glch (3) 1582 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">,ei, 2826 o.se toti (3) 1582 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">2</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20040607d1582        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Croniche de gli ordini instituiti dal padre s. Francesco. ... Composte prima dal reuerendo p.f. Marco da Lisbona in lingua portughese: poi ridotte in castigliana dal r. padre f. Diego Nauarro. Et hora nella nostra italiana da Horatio Diola bolognese</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Brescia</subfield>
+    <subfield code="c">appresso Pietro Bozzola</subfield>
+    <subfield code="d">1582</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">2 v.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">2: Delle croniche degli ordini instituiti dal padre s. Francesco, volume secondo della prima parte. (In Brescia : appresso Pietro Bozola, 1582)</subfield>
+  </datafield>
+  <datafield tag="423" ind1=" " ind2="0">
+    <subfield code="1">001IT\ICCU\CNCE\065054</subfield>
+    <subfield code="1">2001 </subfield>
+    <subfield code="a">Delle croniche degli ordini instituiti dal padre san Francesco, volume secondo della prima parte</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Brescia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Marcos</subfield>
+    <subfield code="c"> : de#Lisboa</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006826</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Diola,</subfield>
+    <subfield code="b">Orazio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008448</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Navarro,</subfield>
+    <subfield code="b">Diego</subfield>
+    <subfield code="3">IT\ICCU\CNCA\017846</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Bozzola, Pietro</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000735</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Marco</subfield>
+    <subfield code="c"> : da#Lisbona</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020921</subfield>
+    <subfield code="z">Marcos : de#Lisboa</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Lisboa,</subfield>
+    <subfield code="b">Marcos : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026052</subfield>
+    <subfield code="z">Marcos : de#Lisboa</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Silva,</subfield>
+    <subfield code="b">Marcos : da</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026433</subfield>
+    <subfield code="z">Marcos : de#Lisboa</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bozola, Petrus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003650</subfield>
+    <subfield code="z">Bozzola, Pietro</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei frati minori cappuccini. Bologna</subfield>
+    <subfield code="1">BO0342</subfield>
+    <subfield code="2">PBE 94</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Queriniana. Brescia</subfield>
+    <subfield code="1">BS0026</subfield>
+    <subfield code="2">ZBS 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Diocesana Mons. Giuliano Agresti. Lucca</subfield>
+    <subfield code="1">LU0023</subfield>
+    <subfield code="2">PBE 86</subfield>
+  </datafield>
+</record>
+</collection>

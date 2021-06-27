@@ -1,0 +1,75 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00892nam0a22002411i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\072952</controlfield>
+  <controlfield tag="005">20080530000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">s.um e.tu neus i-r. (C) 1587 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20080515d1587        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Anselmus Dandinus prot. apost. vtriu. sig. refer. Perusie Vmbrieque generalis gub</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Perusiae</subfield>
+    <subfield code="g">apud Nicolaum de Amadoris</subfield>
+    <subfield code="h">1587</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\8! c.</subfield>
+    <subfield code="d">4</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Perugia</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Perugia</subfield>
+    <subfield code="3">IT\ICCU\CNCT\006577</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Dandini,</subfield>
+    <subfield code="b">Anselmo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018438</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a"></subfield>
+    <subfield code="3">IT\ICCU\CNCT\000989</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Perusia</subfield>
+    <subfield code="3">22230</subfield>
+    <subfield code="z">Perugia</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Amadoris, Nicolaus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004234</subfield>
+    <subfield code="z"></subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Amadori, Cola</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004235</subfield>
+    <subfield code="z"></subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Augusta. Perugia</subfield>
+    <subfield code="1">PG0109</subfield>
+    <subfield code="2">UM1 01</subfield>
+  </datafield>
+</record>
+</collection>

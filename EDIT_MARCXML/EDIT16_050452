@@ -1,0 +1,62 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00786nam0a22002051i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\050452</controlfield>
+  <controlfield tag="005">20060504000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20000120d1583        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗La ℗Filenia, comedia in tre atti</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Aquila</subfield>
+    <subfield code="c">appresso Marino de Alessandris e Berardino Cacchio</subfield>
+    <subfield code="d">1583</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">12ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">L&apos;Aquila</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Massonio,</subfield>
+    <subfield code="b">Salvatore</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010085</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">D&apos;Alessandri, Marino &amp; Cacchi, Bernardino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003522</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Mausonio,</subfield>
+    <subfield code="b">Salvatore</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020781</subfield>
+    <subfield code="z">Massonio, Salvatore</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Avviluppato</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020782</subfield>
+    <subfield code="z">Massonio, Salvatore</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Cacchi, Bernardino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003523</subfield>
+    <subfield code="z">D&apos;Alessandri, Marino &amp; Cacchi, Bernardino</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

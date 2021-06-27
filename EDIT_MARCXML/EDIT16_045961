@@ -1,0 +1,64 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00883ncm0a22002051i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\045961</controlfield>
+  <controlfield tag="005">20110330000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19990126d1598        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Orphei Vecchi Mediolanensis in ecclesia dive Mariae Scal. reg. duc. musicae et chori magistri, ℗Motectorum quinque vocibus liber secundus</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Milano</subfield>
+    <subfield code="c">erede di Simone Tini e Giovanni Francesco Besozzi</subfield>
+    <subfield code="d">1598</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">5 fasc.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Milano</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Vecchi,</subfield>
+    <subfield code="b">Orfeo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012006</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Tini, Simone - erede &amp; Besozzi, Giovanni Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000541</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Vecchius,</subfield>
+    <subfield code="b">Orpheus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024535</subfield>
+    <subfield code="z">Vecchi, Orfeo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Museo Internazionale e Biblioteca della Musica. Bologna</subfield>
+    <subfield code="z">(A,T,B,5)</subfield>
+    <subfield code="1">BO0310</subfield>
+    <subfield code="2">UBO BM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca capitolare. Verona</subfield>
+    <subfield code="1">VR0056</subfield>
+    <subfield code="2">VIA VC</subfield>
+  </datafield>
+</record>
+</collection>

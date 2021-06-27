@@ -1,0 +1,81 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01386nam0a22002531i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\039404</controlfield>
+  <controlfield tag="005">20000616000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">o-o- 3.1. r-a- teca (3) 1575 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19981031d1575        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Tractatus de emptione et venditione, eorumque omnium quae ad eandem materiam pertinent. Auctoribus claris. iurisc. Fabiano de Monte s. Sabini, &amp; Francisco Zoannetto, vt sequens pagina indicabit. Omnibus aduocatis, causarum patronis, notarijs, atque iusdicentibus ipsis vtilis &amp; necessarius; Nunc recens diligentia recognitus singulari, atque locupletissimo adiutus repertorio</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">ad signum Iurisconsulti 1575</subfield>
+    <subfield code="e">Venetiis</subfield>
+    <subfield code="g">apud Bartholomaeum Rubinum</subfield>
+    <subfield code="h">1575</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\32!, 502, \2! p.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">spostata a Giocchi Fabiano</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Rubini, Bartolomeo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000658</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Robini, Bartolomeo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002578</subfield>
+    <subfield code="z">Rubini, Bartolomeo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Rubinus, Bartolomaeus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005422</subfield>
+    <subfield code="z">Rubini, Bartolomeo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Rubino, Bartholomeo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005423</subfield>
+    <subfield code="z">Rubini, Bartolomeo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Robino, Bartolomeo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005425</subfield>
+    <subfield code="z">Rubini, Bartolomeo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale Frati minori cappuccini. Torino</subfield>
+    <subfield code="1">TO0264</subfield>
+    <subfield code="2">TO0 84</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca diocesana. Viterbo</subfield>
+    <subfield code="1">VT0125</subfield>
+    <subfield code="2">PBE 68</subfield>
+  </datafield>
+</record>
+</collection>

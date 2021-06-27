@@ -1,0 +1,99 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01286nam0a2200289 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\012567</controlfield>
+  <controlfield tag="005">19970101000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">viu- e.e- Sega lire (C) 1519 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1519        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Orationes Erasmi Vitellii episcopi Plocensis ... habitae ...in facto generalis expeditionis contra Turcos</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Romae</subfield>
+    <subfield code="c">per Iacobum Mazochium</subfield>
+    <subfield code="d">1519</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\12! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Roma</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Ciolek,</subfield>
+    <subfield code="b">Erazm</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003179</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Mazzocchi, Giacomo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000067</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Vitellius,</subfield>
+    <subfield code="b">Erasmus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003178</subfield>
+    <subfield code="z">Ciolek, Erazm</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Witelo,</subfield>
+    <subfield code="b">Erasmus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003320</subfield>
+    <subfield code="z">Ciolek, Erazm</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Mazochius, Iacobus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003989</subfield>
+    <subfield code="z">Mazzocchi, Giacomo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Mazochis, Iacobus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005139</subfield>
+    <subfield code="z">Mazzocchi, Giacomo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Mazocchius, Iacobus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005140</subfield>
+    <subfield code="z">Mazzocchi, Giacomo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Genova</subfield>
+    <subfield code="1">GE0038</subfield>
+    <subfield code="2">LIG 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Vallicelliana. Roma</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">RM0281</subfield>
+    <subfield code="2">RML 08</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Accademia nazionale dei Lincei e Corsiniana. Roma</subfield>
+    <subfield code="1">RM0418</subfield>
+    <subfield code="2">RML 10</subfield>
+  </datafield>
+</record>
+</collection>

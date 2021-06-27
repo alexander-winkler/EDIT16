@@ -1,0 +1,43 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00605na 0a22001451i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\059444</controlfield>
+  <controlfield tag="005">20080317000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20041015             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Tauola di tutte le rime de i sonetti e canzoni del Petrarca, ridotte co i versi interi sotto le lettere vocali</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Ridolfi,</subfield>
+    <subfield code="b">Luca Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008967</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Petrarca,</subfield>
+    <subfield code="b">Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001153</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Herber,̈</subfield>
+    <subfield code="b">Claude : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015982</subfield>
+    <subfield code="z">Ridolfi, Luca Antonio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Herber,̌</subfield>
+    <subfield code="b">Claudio : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024265</subfield>
+    <subfield code="z">Ridolfi, Luca Antonio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

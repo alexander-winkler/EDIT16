@@ -1,0 +1,105 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01443nam0a2200301 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\064667</controlfield>
+  <controlfield tag="005">20150722000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">usa. c.um etn- sucr (3) 1550 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20060606d1550        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Mirabilia vrbis Romae noua recognita &amp; emendata atque in verum sensum reducta per Antoninum Pontum virum diligentiss. sicut alias nunquam fuerunt. Quod cognosces, si haec nostra cum aliis conferes. Vbi haec &amp; alia continentur</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Rome</subfield>
+    <subfield code="g">apud Antonium Bladum Asulanum</subfield>
+    <subfield code="h">1550</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">68 c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2="1">
+    <subfield code="3">IT\ICCU\CNCE\031012</subfield>
+    <subfield code="a">Mirabilia Romae</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Roma</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Ponte,</subfield>
+    <subfield code="b">Antonino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006985</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Blado, Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000157</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Pontus,</subfield>
+    <subfield code="b">Antoninus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022945</subfield>
+    <subfield code="z">Ponte, Antonino</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Ponto,</subfield>
+    <subfield code="b">Antonino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022946</subfield>
+    <subfield code="z">Ponte, Antonino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Antonio d&apos;Asola</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003628</subfield>
+    <subfield code="z">Blado, Antonio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bladus, Antonius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004402</subfield>
+    <subfield code="z">Blado, Antonio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bladi, Antonio de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004403</subfield>
+    <subfield code="z">Blado, Antonio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Romolo Spezioli. Fermo</subfield>
+    <subfield code="1">AP0012</subfield>
+    <subfield code="2">UMC FM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Palatina. Parma</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">PR0072</subfield>
+    <subfield code="2">PAR PA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Hertziana. Roma</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">RM0724</subfield>
+    <subfield code="2">ZRM 16</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale del Monumento nazionale. Cava dei Tirreni</subfield>
+    <subfield code="1">SA0088</subfield>
+    <subfield code="2">NAP 95</subfield>
+  </datafield>
+</record>
+</collection>

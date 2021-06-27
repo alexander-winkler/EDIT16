@@ -1,0 +1,32 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00390na 0a22001211i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\064983</controlfield>
+  <controlfield tag="005">20060726000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20060704             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Celsi Martinengi ℗De Methodis commentarius</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Martinengo,</subfield>
+    <subfield code="b">Celso</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009522</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Martinengus,</subfield>
+    <subfield code="b">Celsus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018096</subfield>
+    <subfield code="z">Martinengo, Celso</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

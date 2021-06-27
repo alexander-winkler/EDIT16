@@ -1,0 +1,115 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01729nam0a2200325 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\036317</controlfield>
+  <controlfield tag="005">20071210000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">t.i. e.o- t.r. tiSo (3) 1513 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19980216d1513        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Resolutorium dubiorum circa celebrationem missarum occurrentium, per venerabilem patrem dominum Ioannem de Lapide doctorem theologum Parisiensem ordinis Cartusiensis ex sacrorum canonum probatorumque doctorum sententiis diligenter collectum. Summa dubiorum in hoc opere resolutorum CLXVI</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Venetijs</subfield>
+    <subfield code="g">per Simonem de Luere</subfield>
+    <subfield code="h">1513</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">44 c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Heynlin von Stein,</subfield>
+    <subfield code="b">Johannes</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006506</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">Simone da Lovere</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000598</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Lapide,</subfield>
+    <subfield code="b">Joannes : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006507</subfield>
+    <subfield code="z">Heynlin von Stein, Johannes</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Lapidanus,</subfield>
+    <subfield code="b">Johannes</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019737</subfield>
+    <subfield code="z">Heynlin von Stein, Johannes</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Joannes</subfield>
+    <subfield code="c"> : de#Lapide</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019923</subfield>
+    <subfield code="z">Heynlin von Stein, Johannes</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Heynlin,</subfield>
+    <subfield code="b">Johannes</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019924</subfield>
+    <subfield code="z">Heynlin von Stein, Johannes</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Luere, Simon de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003152</subfield>
+    <subfield code="z">Simone da Lovere</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Simon Luerensis</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005673</subfield>
+    <subfield code="z">Simone da Lovere</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Lovere, Simone de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005674</subfield>
+    <subfield code="z">Simone da Lovere</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica A. Mai. Bergamo</subfield>
+    <subfield code="1">BG0026</subfield>
+    <subfield code="2">LO1 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Queriniana. Brescia</subfield>
+    <subfield code="1">BS0026</subfield>
+    <subfield code="2">ZBS 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Aprosiana. Ventimiglia</subfield>
+    <subfield code="1">IM0038</subfield>
+    <subfield code="2">LI3 VM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Querini Stampalia. Venezia</subfield>
+    <subfield code="1">VE0047</subfield>
+    <subfield code="2">VEA QS</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,115 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01783nam0a2200337 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\011143</controlfield>
+  <controlfield tag="005">20070112000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">++++ ++++ u.s. geIr (3) 1514 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1514        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Breuiarium Romanum nouissime exactissima cura emendatum ac impressum non sine numeris ad omnia &amp; in ipsomet breuiario: et in singulis Biblie libris facillime inuenienda, quod iocundissimis imaginibus excultur</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Venetijs</subfield>
+    <subfield code="g">industria et sumptibus Bernardini de Benaleis impressum fuit</subfield>
+    <subfield code="h">1514 die IIII mensis Madij</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\18!, 518 c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Le note tipografiche si ricavano da c. 452r</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2="0">
+    <subfield code="3">IT\ICCU\CNCE\037193</subfield>
+    <subfield code="a">Breviarium</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Chiesa cattolica</subfield>
+    <subfield code="3">6731</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Benali, Bernardino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000212</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Giunta, Lucantonio</subfield>
+    <subfield code="c"> &lt;1.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002111</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Benagli, Bernardino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003632</subfield>
+    <subfield code="z">Benali, Bernardino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Benalius, Bernardinus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004326</subfield>
+    <subfield code="z">Benali, Bernardino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Benaleis, Bernardinus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004327</subfield>
+    <subfield code="z">Benali, Bernardino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Zontis, Lucas Antonius de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003892</subfield>
+    <subfield code="z">Giunta, Lucantonio &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Giunti, Lucantonio</subfield>
+    <subfield code="c"> &lt;1&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004926</subfield>
+    <subfield code="z">Giunta, Lucantonio &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Gionta, Lucantonio de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004928</subfield>
+    <subfield code="z">Giunta, Lucantonio &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Giuntis, Lucas Antonius de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004929</subfield>
+    <subfield code="z">Giunta, Lucantonio &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Zonta, Lucantonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004930</subfield>
+    <subfield code="z">Giunta, Lucantonio &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del comune e dell&apos;Accademia etrusca. Cortona</subfield>
+    <subfield code="1">AR0034</subfield>
+    <subfield code="2">RT1 QE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario maggiore. Bressanone</subfield>
+    <subfield code="1">BZ0013</subfield>
+    <subfield code="2">ZBZ 05</subfield>
+  </datafield>
+</record>
+</collection>

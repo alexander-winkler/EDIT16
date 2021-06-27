@@ -1,0 +1,136 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01853nam0a2200361 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\035475</controlfield>
+  <controlfield tag="005">20020131000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">1.0. 4.8. res. laue (3) 1550 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19980112d1550        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Institutionum anatomicarum secundum Galeni sententiam ad candidatos medicinae libri quatuor, per Ioannem Guinterium ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Patauii</subfield>
+    <subfield code="c">Iacobus Fabrianus excudebat</subfield>
+    <subfield code="d">1550</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\8!, 76 c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Padova</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Winther,</subfield>
+    <subfield code="b">Johann</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008912</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Fabriano, Giacomo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000154</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Guenther,</subfield>
+    <subfield code="b">Johann</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014298</subfield>
+    <subfield code="z">Winther, Johann</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Guinterius Andernacus,</subfield>
+    <subfield code="b">Joannes</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014310</subfield>
+    <subfield code="z">Winther, Johann</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Andernacus Guinterius,</subfield>
+    <subfield code="b">Joannes</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025235</subfield>
+    <subfield code="z">Winther, Johann</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Guenther,</subfield>
+    <subfield code="b">Johann : von#Andernach</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025236</subfield>
+    <subfield code="z">Winther, Johann</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Guinterius,</subfield>
+    <subfield code="b">Joannes</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025240</subfield>
+    <subfield code="z">Winther, Johann</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Fabrianus, Iacobus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004744</subfield>
+    <subfield code="z">Fabriano, Giacomo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Fabriano, Iacobo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005059</subfield>
+    <subfield code="z">Fabriano, Giacomo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Facolt ̉di lettere e filosofia Amleto Bassi dell&apos;Universit ̉degli studi di Ferrara. Ferrara</subfield>
+    <subfield code="1">FE0152</subfield>
+    <subfield code="2">UFE LF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Matelica</subfield>
+    <subfield code="1">MC0053</subfield>
+    <subfield code="2">UMC MA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Padova</subfield>
+    <subfield code="1">PD0158</subfield>
+    <subfield code="2">PUV 00</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Treviso</subfield>
+    <subfield code="1">TV0114</subfield>
+    <subfield code="2">VIA CT</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">nel front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000208</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000208</subfield>
+    <subfield code="b">Gambero. Ai lati le iniziali A.P. In cornice</subfield>
+    <subfield code="c">Q72</subfield>
+    <subfield code="c">V544</subfield>
+    <subfield code="c">Z585</subfield>
+    <subfield code="d">Con o senza iniziali</subfield>
+    <subfield code="f">AP</subfield>
+    <subfield code="f">GAMBERO</subfield>
+    <subfield code="g">1539-1550</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,70 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00972na 0a22002051i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\054718</controlfield>
+  <controlfield tag="005">20150720000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20031112             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">De literis graecis, ac diphthongis, &amp; quemadmodum ad nos ueniant ... Carmina aurea Pythagorae. Phocylidis poema ... Introductio ... ad hebraicam linguam</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Manuzio,</subfield>
+    <subfield code="b">Aldo</subfield>
+    <subfield code="c"> &lt;il vecchio&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000081</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Pythagoras</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001106</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Phocylides</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005016</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Manutius,</subfield>
+    <subfield code="b">Aldus</subfield>
+    <subfield code="c"> &lt;il vecchio&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014566</subfield>
+    <subfield code="z">Manuzio, Aldo &lt;il vecchio&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Manutius,</subfield>
+    <subfield code="b">Aldus Pius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020961</subfield>
+    <subfield code="z">Manuzio, Aldo &lt;il vecchio&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Pitagora</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014864</subfield>
+    <subfield code="z">Pythagoras</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Pythagoras</subfield>
+    <subfield code="c"> : Samius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023705</subfield>
+    <subfield code="z">Pythagoras</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Phocylides</subfield>
+    <subfield code="c"> : Miliesius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021751</subfield>
+    <subfield code="z">Phocylides</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Focilide</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021752</subfield>
+    <subfield code="z">Phocylides</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

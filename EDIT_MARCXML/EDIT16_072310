@@ -1,0 +1,77 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01094nam0a22002411i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\072310</controlfield>
+  <controlfield tag="005">20080108000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e-do m-li mit- egfu (C) 1551 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20080108d1551        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">CH</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Libro di Giouanni Caluino, del fuggir le superstitioni le quali contrastano con la sincera confessione di fede. Escusatione del medesimo a falsi Nicodemi.  Consigli di Philippo Melantone, di Martin Bucero, di Pietro Martire sopra il medesimo suggetto. L&apos;ultimo consiglio, &amp; due pistole del Caluino</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Basilea</subfield>
+    <subfield code="d">1551</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\54! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">CH</subfield>
+    <subfield code="d">Basilea</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Calvin,</subfield>
+    <subfield code="b">Jean</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002410</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Vermigli,</subfield>
+    <subfield code="b">Pietro Martire</subfield>
+    <subfield code="3">IT\ICCU\CNCA\028662</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Bucer,</subfield>
+    <subfield code="b">Martin</subfield>
+    <subfield code="3">IT\ICCU\CNCA\028755</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Melanchthon,</subfield>
+    <subfield code="b">Philippus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000089</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">s.n.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000002</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Butzer,</subfield>
+    <subfield code="b">Martin</subfield>
+    <subfield code="3">IT\ICCU\CNCA\028756</subfield>
+    <subfield code="z">Bucer, Martin</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Melantone,</subfield>
+    <subfield code="b">Filippo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014651</subfield>
+    <subfield code="z">Melanchthon, Philippus</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

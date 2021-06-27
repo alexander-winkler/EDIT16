@@ -1,0 +1,55 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00723na 0a22001691i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\050909</controlfield>
+  <controlfield tag="005">20071212000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20000612             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Opus de nimia obsoniorum appetentia per Stephanum Nigrum de Musonio graeco excerptum</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Negri,</subfield>
+    <subfield code="b">Stefano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006954</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Musonius Rufus,</subfield>
+    <subfield code="b">Gaius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021759</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Niger,</subfield>
+    <subfield code="b">Stephanus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021703</subfield>
+    <subfield code="z">Negri, Stefano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Musonio Rufo,</subfield>
+    <subfield code="b">Gaio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021765</subfield>
+    <subfield code="z">Musonius Rufus, Gaius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Musonius Rufus,</subfield>
+    <subfield code="b">Caius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021766</subfield>
+    <subfield code="z">Musonius Rufus, Gaius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Musonio Rufo,</subfield>
+    <subfield code="b">Caio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021767</subfield>
+    <subfield code="z">Musonius Rufus, Gaius</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

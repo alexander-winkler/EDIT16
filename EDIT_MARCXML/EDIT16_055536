@@ -1,0 +1,32 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00416na 0a22001211i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\055536</controlfield>
+  <controlfield tag="005">20061103000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20040206             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Oratio in funere ... Gulielmi Gonzagae ... Prima die habita. A Ferrando Mauro</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Mauro,</subfield>
+    <subfield code="b">Ferrante</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005172</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Maurus,</subfield>
+    <subfield code="b">Ferrandus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020566</subfield>
+    <subfield code="z">Mauro, Ferrante</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

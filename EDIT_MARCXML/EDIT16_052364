@@ -1,0 +1,82 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01110nam0a2200253 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\052364</controlfield>
+  <controlfield tag="005">20160309000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">in*- umbu i-is meni (C) 1546 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20010911d1546        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Oratio Germanici Bandinei sacrae lateranensis aulae comitis, ac aurati equitis, de diui Iohannis Baptistae laudibus in Senensi Deipare Virginis metropoli habita</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Senis</subfield>
+    <subfield code="g">apud Franciscum Simeonis</subfield>
+    <subfield code="h">1546</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\4! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Siena</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Bandini,</subfield>
+    <subfield code="b">Germanico</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016382</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Nardi, Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000669</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Bandinus,</subfield>
+    <subfield code="b">Germanicus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\028128</subfield>
+    <subfield code="z">Bandini, Germanico</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">F. di S.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002401</subfield>
+    <subfield code="z">Nardi, Francesco</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Franciscus Simeonis</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002402</subfield>
+    <subfield code="z">Nardi, Francesco</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Francesco di Simeone</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002403</subfield>
+    <subfield code="z">Nardi, Francesco</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bindi, Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002404</subfield>
+    <subfield code="z">Nardi, Francesco</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale degli Intronati. Siena</subfield>
+    <subfield code="1">SI0046</subfield>
+    <subfield code="2">RT1 QI</subfield>
+  </datafield>
+</record>
+</collection>

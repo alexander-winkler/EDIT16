@@ -1,0 +1,38 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00491na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\025456</controlfield>
+  <controlfield tag="005">20110223000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970926             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Matthiae Aquarii ℗Annotationes super quatuor libros sententiarum Ioannis Capreoli</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Aquario,</subfield>
+    <subfield code="b">Mattia</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000809</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Acquario,</subfield>
+    <subfield code="b">Mattia</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007537</subfield>
+    <subfield code="z">Aquario, Mattia</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Ivone,</subfield>
+    <subfield code="b">Mattia</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012578</subfield>
+    <subfield code="z">Aquario, Mattia</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

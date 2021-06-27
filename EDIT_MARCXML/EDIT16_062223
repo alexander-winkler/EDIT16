@@ -1,0 +1,52 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00611nam0a22001811i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\062223</controlfield>
+  <controlfield tag="005">20060615000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20051103d1561        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="140" ind1=" " ind2=" ">
+    <subfield code="a">         YY                 </subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Giovanni Antonio Dosio. Pianta di Roma</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Roma</subfield>
+    <subfield code="c">Faleti</subfield>
+    <subfield code="d">1561</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">1 c. topogr.</subfield>
+    <subfield code="d">folio</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Dosio,</subfield>
+    <subfield code="b">Giovanni Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002255</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Dosi,</subfield>
+    <subfield code="b">Giovanni Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015338</subfield>
+    <subfield code="z">Dosio, Giovanni Antonio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Fondazione Marco Besso. Roma</subfield>
+    <subfield code="1">RM0211</subfield>
+    <subfield code="2">RML 14</subfield>
+  </datafield>
+</record>
+</collection>

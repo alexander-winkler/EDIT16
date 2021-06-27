@@ -1,0 +1,87 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01205nam0a22002651i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\058306</controlfield>
+  <controlfield tag="005">20100315000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20040520d1512        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Incipit Liber cibalis et medicinalis pandectarum Mathei Siluatici medici ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">\Novi Ligure!</subfield>
+    <subfield code="c">pei torchi di Simone Beuilacqua</subfield>
+    <subfield code="c">impensis Nicolai de Girardenghis</subfield>
+    <subfield code="d">1512</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">340 c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Il luogo si ricava dal Dizionario biografico degli italiani, v.51, p.19</subfield>
+  </datafield>
+  <datafield tag="517" ind1="1" ind2=" ">
+    <subfield code="3">IT\ICCU\CNCE\075120</subfield>
+    <subfield code="a">Liber cibalis et medicinalis pandectarum</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Novi Ligure</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Silvatico,</subfield>
+    <subfield code="b">Matteo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008117</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Bevilacqua, Simone</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000690</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a"></subfield>
+    <subfield code="3">IT\ICCU\CNCT\002442</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Sylvaticus,</subfield>
+    <subfield code="b">Matthaeus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009598</subfield>
+    <subfield code="z">Silvatico, Matteo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Silvaticus,</subfield>
+    <subfield code="b">Matthaeus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024792</subfield>
+    <subfield code="z">Silvatico, Matteo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Gabi, Simone</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003778</subfield>
+    <subfield code="z">Bevilacqua, Simone</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Girardenghis, Nicholaus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004897</subfield>
+    <subfield code="z"></subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Girardengus, Nicolaus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004898</subfield>
+    <subfield code="z"></subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,32 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00475na 0a22001211i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\058234</controlfield>
+  <controlfield tag="005">20040517000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20040517             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Oratione del sig. Giacomo Rouiglioni academico illustrato ... detto l&apos;Inuiato. In morte del sig. Francesco Beccio ...</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Roviglioni,</subfield>
+    <subfield code="b">Giacomo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009873</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Roviglione,</subfield>
+    <subfield code="b">Giovanni Giacomo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\017724</subfield>
+    <subfield code="z">Roviglioni, Giacomo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

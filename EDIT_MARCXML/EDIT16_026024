@@ -1,0 +1,44 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00559na 0a22001451i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\026024</controlfield>
+  <controlfield tag="005">19971008000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971008             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Praxis, seu vsus praeceptorum grammatices Graecae</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Antesignanus,</subfield>
+    <subfield code="b">Petrus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003090</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Devantes,</subfield>
+    <subfield code="b">Pierre</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003353</subfield>
+    <subfield code="z">Antesignanus, Petrus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Antesignan,</subfield>
+    <subfield code="b">Pierre</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012467</subfield>
+    <subfield code="z">Antesignanus, Petrus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Petrus</subfield>
+    <subfield code="c"> : Antesignanus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019388</subfield>
+    <subfield code="z">Antesignanus, Petrus</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

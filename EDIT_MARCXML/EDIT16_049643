@@ -1,0 +1,30 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00348na 0a22001211i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\049643</controlfield>
+  <controlfield tag="005">20050406000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19991111             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Trattati diuersi di Sendebad indiano</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Sindbd̂</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004506</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Sendebad</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020784</subfield>
+    <subfield code="z">Sindbd̂</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,38 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00554na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\051098</controlfield>
+  <controlfield tag="005">20001012000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20001012             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Syllabus generalis in quatuor volum. scripti Oxoniensis super Sententias ... redactus per Saluatorem Bartolucium</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Bartolucci,</subfield>
+    <subfield code="b">Salvatore</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001441</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Salvator</subfield>
+    <subfield code="c"> : Bartoluccius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019431</subfield>
+    <subfield code="z">Bartolucci, Salvatore</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Salvatore</subfield>
+    <subfield code="c"> : da#Assisi</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022809</subfield>
+    <subfield code="z">Bartolucci, Salvatore</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

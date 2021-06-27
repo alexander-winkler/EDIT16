@@ -1,0 +1,190 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02893nam0a2200457 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\015769</controlfield>
+  <controlfield tag="005">20100603000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e-us 4002 o-i- qudu (3) 1514 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1514        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Marci Tullij Ciceronis ℗Familiares epistolae, diligenti emendatione castigatae. Commentantibus Ubertino clerico Crescentinate. Martino Philetico. Georgio Merula Alexandrino viris doctissimis. Additis quibusdam in libro miscelanearum per Angelum Politianum interpretatis. Vna cum figuris suis locis apte dispositis, necnon vtilissimis apostillis, regulatissimaque tabula, quae omnia notatu &amp; cognitu digna miro ordine demonstrat</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">\Venezia</subfield>
+    <subfield code="c">Giorgio Rusconi!</subfield>
+    <subfield code="e">Impressum Venetijs</subfield>
+    <subfield code="g">opere &amp; impensa Georgii de Rusconibus Mediolanensis</subfield>
+    <subfield code="h">1514 die XXVII Augusti</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">CCXXIIII \i.e. 230! c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Cicero,</subfield>
+    <subfield code="b">Marcus Tullius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002170</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Ubertino</subfield>
+    <subfield code="c"> : da#Crescentino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003044</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Filetico,</subfield>
+    <subfield code="b">Martino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003045</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Poliziano,</subfield>
+    <subfield code="b">Angelo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000329</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Merula,</subfield>
+    <subfield code="b">Giorgio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001156</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Rusconi, Giorgio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000072</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Tullius Cicero,</subfield>
+    <subfield code="b">Marcus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020042</subfield>
+    <subfield code="z">Cicero, Marcus Tullius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Hubertinus</subfield>
+    <subfield code="c"> : Crescentinas</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003292</subfield>
+    <subfield code="z">Ubertino : da#Crescentino</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Clerico,</subfield>
+    <subfield code="b">Uberto</subfield>
+    <subfield code="3">IT\ICCU\CNCA\017260</subfield>
+    <subfield code="z">Ubertino : da#Crescentino</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Ubertinus</subfield>
+    <subfield code="c"> : Clericus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025013</subfield>
+    <subfield code="z">Ubertino : da#Crescentino</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Phileticus,</subfield>
+    <subfield code="b">Martinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014812</subfield>
+    <subfield code="z">Filetico, Martino</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Ambrogini,</subfield>
+    <subfield code="b">Angelo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005379</subfield>
+    <subfield code="z">Poliziano, Angelo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Politianus,</subfield>
+    <subfield code="b">Angelus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014886</subfield>
+    <subfield code="z">Poliziano, Angelo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Policiano,</subfield>
+    <subfield code="b">Angelo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023052</subfield>
+    <subfield code="z">Poliziano, Angelo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Georgius</subfield>
+    <subfield code="c"> : Alexandrinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014110</subfield>
+    <subfield code="z">Merula, Giorgio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Merula,</subfield>
+    <subfield code="b">Georgius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014655</subfield>
+    <subfield code="z">Merula, Giorgio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Rusconibus, Georgius de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005483</subfield>
+    <subfield code="z">Rusconi, Giorgio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Rusco, Georgius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005485</subfield>
+    <subfield code="z">Rusconi, Giorgio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ruschoni, Zorzi di</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005487</subfield>
+    <subfield code="z">Rusconi, Giorgio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale Salvatore Tommasi. Bazzano</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">AQ0047</subfield>
+    <subfield code="2">ABR PR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Giosu ̈Carducci. Spoleto</subfield>
+    <subfield code="1">PG0168</subfield>
+    <subfield code="2">UM1 08</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Nel coloph.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000444</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000532</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000444</subfield>
+    <subfield code="b">Cerchio con croce doppia e iniziali G.R.M.</subfield>
+    <subfield code="c">K270</subfield>
+    <subfield code="c">Z269</subfield>
+    <subfield code="f">CERCHIO</subfield>
+    <subfield code="f">CROCE</subfield>
+    <subfield code="f">GRM</subfield>
+    <subfield code="g">1508-1522</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000532</subfield>
+    <subfield code="b">S. Giorgio uccide il drago; sullo sfondo donna in preghiera, castello con re e regina. Iniziali: FV.</subfield>
+    <subfield code="c">K272</subfield>
+    <subfield code="c">Z666</subfield>
+    <subfield code="f">CASTELLO</subfield>
+    <subfield code="f">DRAGO</subfield>
+    <subfield code="f">FV</subfield>
+    <subfield code="f">GIORGIO</subfield>
+    <subfield code="f">RE</subfield>
+    <subfield code="g">1508-1524</subfield>
+  </datafield>
+</record>
+</collection>

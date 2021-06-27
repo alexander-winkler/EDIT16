@@ -1,0 +1,79 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01043nam0a22002531i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\057466</controlfield>
+  <controlfield tag="005">20070828000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20040415d1521        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Theologia siue Mistica phylosophia secundum Aegyptios ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Impressit Romae</subfield>
+    <subfield code="c">Ariotus de Trino</subfield>
+    <subfield code="c">impensis Ioannis Mazochi Bergomatis</subfield>
+    <subfield code="d">1521</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Opera falsamente attribuita ad Aristotele</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2="1">
+    <subfield code="3">IT\ICCU\CNCE\023873</subfield>
+    <subfield code="a">Theologia Aristotelis</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Roma</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Aristoteles</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000006</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">Ariotto da Trino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001349</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Mazzocchi, Giovanni</subfield>
+    <subfield code="c"> &lt;di Bergamo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003991</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Aristotele</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018928</subfield>
+    <subfield code="z">Aristoteles</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Ariotus de Trino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004256</subfield>
+    <subfield code="z">Ariotto da Trino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Mazocho, Zuan</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005141</subfield>
+    <subfield code="z">Mazzocchi, Giovanni &lt;di Bergamo&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Mazochus Bergomas, Ioannes</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005142</subfield>
+    <subfield code="z">Mazzocchi, Giovanni &lt;di Bergamo&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

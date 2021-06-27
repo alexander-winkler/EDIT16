@@ -1,0 +1,119 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01718nam0a2200337 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\004000</controlfield>
+  <controlfield tag="005">20140109000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">tide etpe m&amp;ri &amp;cde (C) 1516 (Q)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101f1516        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">De oratione et precibus compendium</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="d">\circa 1516!</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\34! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Stampata a Milano da Alessandro Minuziano; per il tipografo e la data cfr.: Editori e tipografi a Milano nel Cinquecento, a cura di E. Sandal, v. III, p.116. - L&apos;autore si ricava da c. A2r</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Milano</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Ubaldino,</subfield>
+    <subfield code="b">Giorgio Floro</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010074</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Minuziano, Alessandro</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000404</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Florus,</subfield>
+    <subfield code="b">Georgius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010076</subfield>
+    <subfield code="z">Ubaldino, Giorgio Floro</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Florio,</subfield>
+    <subfield code="b">Giorgio</subfield>
+    <subfield code="c"> &lt;giurista&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014164</subfield>
+    <subfield code="z">Ubaldino, Giorgio Floro</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Florus,</subfield>
+    <subfield code="b">Georgius</subfield>
+    <subfield code="c"> &lt;giurista&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014167</subfield>
+    <subfield code="z">Ubaldino, Giorgio Floro</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Baldinus,</subfield>
+    <subfield code="b">Georgius Florius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\029840</subfield>
+    <subfield code="z">Ubaldino, Giorgio Floro</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Fiori,</subfield>
+    <subfield code="b">Giorgio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\029859</subfield>
+    <subfield code="z">Ubaldino, Giorgio Floro</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Floro,</subfield>
+    <subfield code="b">Georgio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\029860</subfield>
+    <subfield code="z">Ubaldino, Giorgio Floro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Minutianus, Alexander</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004001</subfield>
+    <subfield code="z">Minuziano, Alessandro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Officina Minutiana</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005200</subfield>
+    <subfield code="z">Minuziano, Alessandro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Libraria Minutiana</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005201</subfield>
+    <subfield code="z">Minuziano, Alessandro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Minutiano, Alessandro</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005202</subfield>
+    <subfield code="z">Minuziano, Alessandro</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca estera - sterreichische Nationalbibliothek. Wien</subfield>
+    <subfield code="1">AA0010</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica A. Mai. Bergamo</subfield>
+    <subfield code="1">BG0026</subfield>
+    <subfield code="2">LO1 02</subfield>
+  </datafield>
+</record>
+</collection>

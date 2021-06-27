@@ -1,0 +1,121 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02210nam0a2200349 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\017668</controlfield>
+  <controlfield tag="005">20150615000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">m.ua s.ui emi. bari (C) 1532 (Q)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101f1532        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Diuino implorato praesidio. De licentia ac concessione sanctissimi d.n. &amp; ad instantiam praeclari d. excusatoris illustrissimi, ac invictissimi regis Angliae nos Sigismondus Dondolus de Pistorio advocatus concistorialis minimus &amp; Michael de Conradis de Tuderto utriusque iuris docto praescripti illustrissimi regis &amp; d. excusatoris advocati in sacro publico pontificio consistorio, praesidente summo pontifice cum suo sacrosanto senatu infrascriptas conclusiones pro tenui posse nostro sigillatim, ac singulariter defensare conabimur. Die, aut. XVI praesentis mensis, prima ex infrascriptis conclusionibus disputabitur &amp; successive aliae disputabuntur</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="d">\1532!</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\66! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Stampata a Roma da Antonio Blado; per il tipografo e la data cfr.: Catalogo delle edizioni romane di Antonio Blado ed eredi, n. 1402</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Roma</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Dondori,</subfield>
+    <subfield code="b">Sigismondo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004911</subfield>
+  </datafield>
+  <datafield tag="701" ind1=" " ind2="1">
+    <subfield code="a">Corradi,</subfield>
+    <subfield code="b">Michele</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004503</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Blado, Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000157</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Dondoli,</subfield>
+    <subfield code="b">Sigismondo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018340</subfield>
+    <subfield code="z">Dondori, Sigismondo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Dondolus,</subfield>
+    <subfield code="b">Sigismundus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020740</subfield>
+    <subfield code="z">Dondori, Sigismondo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Conradis,</subfield>
+    <subfield code="b">Michael : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013694</subfield>
+    <subfield code="z">Corradi, Michele</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Conradis de Tuderto,</subfield>
+    <subfield code="b">Michael : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023299</subfield>
+    <subfield code="z">Corradi, Michele</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Antonio d&apos;Asola</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003628</subfield>
+    <subfield code="z">Blado, Antonio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bladus, Antonius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004402</subfield>
+    <subfield code="z">Blado, Antonio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bladi, Antonio de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004403</subfield>
+    <subfield code="z">Blado, Antonio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Bologna</subfield>
+    <subfield code="1">BO0098</subfield>
+    <subfield code="2">UBO BU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale dell&apos;Archiginnasio. Bologna</subfield>
+    <subfield code="1">BO0304</subfield>
+    <subfield code="2">UBO GA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Firenze</subfield>
+    <subfield code="1">FI0098</subfield>
+    <subfield code="2">CFI CF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Ambrosiana. Milano</subfield>
+    <subfield code="1">MI0133</subfield>
+    <subfield code="2">VBA 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Casanatense. Roma</subfield>
+    <subfield code="1">RM0313</subfield>
+    <subfield code="2">RML 07</subfield>
+  </datafield>
+</record>
+</collection>

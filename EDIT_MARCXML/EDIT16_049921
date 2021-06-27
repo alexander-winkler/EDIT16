@@ -1,0 +1,69 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00918nam0a22002291i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\049921</controlfield>
+  <controlfield tag="005">20000103000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19991201d1566        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Espositione dell&apos;Inquieto Accademico Pensoso sopra l&apos; sonetto di m. Francesco Petrarca. &apos;Padre del ciel dopo i perduti giorni&apos;</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Milano</subfield>
+    <subfield code="c">appresso Cesare Pozzo</subfield>
+    <subfield code="d">1566</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\24! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">UGUALE A 35930!</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Milano</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Pensoso Accademico Inquieto</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010073</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Pozzo, Cesare</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002785</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Inquieto Accademico Pensoso</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024258</subfield>
+    <subfield code="z">Pensoso Accademico Inquieto</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Puteus, Caesar</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003092</subfield>
+    <subfield code="z">Pozzo, Cesare</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pozzi, Cesare</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005504</subfield>
+    <subfield code="z">Pozzo, Cesare</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Braidense. Milano</subfield>
+    <subfield code="1">MI0185</subfield>
+    <subfield code="2">MIL NB</subfield>
+  </datafield>
+</record>
+</collection>

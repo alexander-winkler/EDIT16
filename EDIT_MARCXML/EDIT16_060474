@@ -1,0 +1,44 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00626na 0a22001451i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\060474</controlfield>
+  <controlfield tag="005">20050428000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20050428             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Espositioni, et introdutioni uniuersali di Girolamo Ruscelli sopra la geografia di Claudio Tolomeo Alessandrino</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Ruscelli,</subfield>
+    <subfield code="b">Girolamo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000226</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Ptolemaeus,</subfield>
+    <subfield code="b">Claudius</subfield>
+    <subfield code="c"> &lt;100-ca. 178&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000300</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Alessio</subfield>
+    <subfield code="c"> : Piemontese</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007018</subfield>
+    <subfield code="z">Ruscelli, Girolamo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Tolomeo,</subfield>
+    <subfield code="b">Claudio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014958</subfield>
+    <subfield code="z">Ptolemaeus, Claudius &lt;100-ca. 178&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

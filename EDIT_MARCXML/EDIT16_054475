@@ -1,0 +1,47 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00521nam0a22001691i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\054475</controlfield>
+  <controlfield tag="005">20031022000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20031022d1560        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">prova.mm</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="d">1560</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">1 v</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Ioachim</subfield>
+    <subfield code="c"> &lt;abbas Florensis&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006621</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Gioacchino</subfield>
+    <subfield code="c"> : da#Fiore</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018770</subfield>
+    <subfield code="z">Ioachim &lt;abbas Florensis&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Fiore,</subfield>
+    <subfield code="b">Gioacchino : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020118</subfield>
+    <subfield code="z">Ioachim &lt;abbas Florensis&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

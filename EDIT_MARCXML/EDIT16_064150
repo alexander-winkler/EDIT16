@@ -1,0 +1,27 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00309na 0a22001091i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\064150</controlfield>
+  <controlfield tag="005">20070606000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20060214             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Epistolae Leonis papae primi, et decreta</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Leo</subfield>
+    <subfield code="c"> &lt;papa</subfield>
+    <subfield code="c"> ; 1.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008438</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

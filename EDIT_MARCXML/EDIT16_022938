@@ -1,0 +1,116 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01633nam0a22003131i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\022938</controlfield>
+  <controlfield tag="005">19991216000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">a-ue a.te t.um nedi (3) 1568 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1568        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Enchiridion totius doctrinae christianae, per quaestiones, et pias catholicasque responsiones succcinta \!! breuitate digestum. Authore m. Ioanne Holthusio Kempensi</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Anconae</subfield>
+    <subfield code="c">per Astulphum de Grandis Veronen.</subfield>
+    <subfield code="d">1568</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\4!, 76 c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Ancona</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Holthusius,</subfield>
+    <subfield code="b">Joannes</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005040</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Grandi, Astolfo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000591</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Holtusen,</subfield>
+    <subfield code="b">Joannes</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006522</subfield>
+    <subfield code="z">Holthusius, Joannes</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Olthusius,</subfield>
+    <subfield code="b">Ioannes</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019940</subfield>
+    <subfield code="z">Holthusius, Joannes</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">De_Grandis, Astolfo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003878</subfield>
+    <subfield code="z">Grandi, Astolfo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Zangrandi, Astolfo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003879</subfield>
+    <subfield code="z">Grandi, Astolfo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Grandis, Astulphus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004952</subfield>
+    <subfield code="z">Grandi, Astolfo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Astulphus Veronensis</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004953</subfield>
+    <subfield code="z">Grandi, Astolfo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Scipione Gentili. San Ginesio</subfield>
+    <subfield code="1">MC0073</subfield>
+    <subfield code="2">UMC CS</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Francesco Antolisei. San Severino Marche</subfield>
+    <subfield code="1">MC0075</subfield>
+    <subfield code="2">UMC FA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Augusta. Perugia</subfield>
+    <subfield code="1">PG0109</subfield>
+    <subfield code="2">UM1 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria Alessandrina. Roma</subfield>
+    <subfield code="1">RM0280</subfield>
+    <subfield code="2">RML 01</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000907</subfield>
+    <subfield code="b">Astolfo a cavallo dell&apos;ippogrifo.</subfield>
+    <subfield code="e">Vitia fugat sic virtus</subfield>
+    <subfield code="c">Q1</subfield>
+    <subfield code="c">T16</subfield>
+    <subfield code="c">Z161</subfield>
+    <subfield code="d">Dimensioni: 7 x 8</subfield>
+    <subfield code="f">ASTOLFO</subfield>
+    <subfield code="f">IPPOGRIFO</subfield>
+    <subfield code="f">VITIAFUGAT</subfield>
+    <subfield code="g">1567-1591</subfield>
+  </datafield>
+</record>
+</collection>

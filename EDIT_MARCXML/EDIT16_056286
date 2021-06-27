@@ -1,0 +1,38 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00519na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\056286</controlfield>
+  <controlfield tag="005">20080926000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20040311             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗R.p.d. Mercurii Viperae ... ℗Apologeticon secundum de diuino et vero numine</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Vipera,</subfield>
+    <subfield code="b">Giovanni Mercurio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008029</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Vipera,</subfield>
+    <subfield code="b">Mercurio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025378</subfield>
+    <subfield code="z">Vipera, Giovanni Mercurio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Vipera,</subfield>
+    <subfield code="b">Mercurius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025379</subfield>
+    <subfield code="z">Vipera, Giovanni Mercurio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

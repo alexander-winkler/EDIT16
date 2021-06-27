@@ -1,0 +1,329 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>05376nam0a2200769 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\041574</controlfield>
+  <controlfield tag="005">20071123000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">9758 tei- r-e. diHa (3) 1563 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">A</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">1oI, 4778 r-e. diHa (3) 1563 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">B</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19981127d1563        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Le ℗metamorfosi di Ouidio, ridotte da Giouanni Andrea dell&apos;Anguillara in ottaua rima ... di nuouo dal proprio auttore riuedute, &amp; corrette; con le annotationi di m. Gioseppe Horologgi</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Venetia</subfield>
+    <subfield code="c">appresso Francesco de Franceschi senese</subfield>
+    <subfield code="d">1563</subfield>
+    <subfield code="e">In Venetia</subfield>
+    <subfield code="g">per Gio. Griffio</subfield>
+    <subfield code="g">ad instanza di m. Francesco senese</subfield>
+    <subfield code="h">1563</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\6!, 266 c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Var. B: epistola ded. di Giuseppe Dondi Dall&apos;Orologio a Margherita di Valois a c. \ast!2 r</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Ovidius Naso,</subfield>
+    <subfield code="b">Publius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003076</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Anguillara,</subfield>
+    <subfield code="b">Giovanni Andrea : dell&apos;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000259</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Orologi,</subfield>
+    <subfield code="b">Giuseppe</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000260</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">De_Franceschi, Francesco</subfield>
+    <subfield code="c"> &lt;senese&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000366</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Griffio, Giovanni</subfield>
+    <subfield code="c"> &lt;1.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002057</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Ovidius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022433</subfield>
+    <subfield code="z">Ovidius Naso, Publius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Publius Ovidius Naso</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022434</subfield>
+    <subfield code="z">Ovidius Naso, Publius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Dondi Dall&apos;Orologio,</subfield>
+    <subfield code="b">Giuseppe</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012592</subfield>
+    <subfield code="z">Orologi, Giuseppe</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Horologgio,</subfield>
+    <subfield code="b">Gioseppe</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014416</subfield>
+    <subfield code="z">Orologi, Giuseppe</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Franceschi, Francesco de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003741</subfield>
+    <subfield code="z">De_Franceschi, Francesco &lt;senese&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Franciscus Senensis</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003742</subfield>
+    <subfield code="z">De_Franceschi, Francesco &lt;senese&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Francesco Senese</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003743</subfield>
+    <subfield code="z">De_Franceschi, Francesco &lt;senese&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Franciscius, Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003744</subfield>
+    <subfield code="z">De_Franceschi, Francesco &lt;senese&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Franciscis, Franciscus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003745</subfield>
+    <subfield code="z">De_Franceschi, Francesco &lt;senese&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Gryphius, Ioannes</subfield>
+    <subfield code="c"> &lt;1.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003549</subfield>
+    <subfield code="z">Griffio, Giovanni &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Grifio, Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005052</subfield>
+    <subfield code="z">Griffio, Giovanni &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Grifi, Giovanni</subfield>
+    <subfield code="c"> &lt;1&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005187</subfield>
+    <subfield code="z">Griffio, Giovanni &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca estera - Biblioteca Nacional de Espaą. Madrid</subfield>
+    <subfield code="z">(Var. B)</subfield>
+    <subfield code="1">AA0001</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Luciano Benincasa. Ancona</subfield>
+    <subfield code="z">(Var. B)</subfield>
+    <subfield code="1">AN0001</subfield>
+    <subfield code="2">URB BA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Bologna</subfield>
+    <subfield code="z">(Var. B)</subfield>
+    <subfield code="1">BO0098</subfield>
+    <subfield code="2">UBO BU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Archivio diocesano S. Giuseppe. Brescia</subfield>
+    <subfield code="1">BS0033</subfield>
+    <subfield code="2">ZBS 10</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Pontificia universit ̉Urbaniana. Citt ̉del Vaticano</subfield>
+    <subfield code="z">(Var. A) - MUTILO</subfield>
+    <subfield code="1">EX0003</subfield>
+    <subfield code="2">ZCV 04</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario arcivescovile. Ferrara</subfield>
+    <subfield code="1">FE0009</subfield>
+    <subfield code="2">PBE L8</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei Cappuccini. Firenze</subfield>
+    <subfield code="1">FI0041</subfield>
+    <subfield code="2">RT1 PC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario arcivescovile maggiore. Firenze</subfield>
+    <subfield code="z">(Var. B)</subfield>
+    <subfield code="1">FI0056</subfield>
+    <subfield code="2">RT1 QM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Firenze</subfield>
+    <subfield code="z">(Var. A)</subfield>
+    <subfield code="1">FI0098</subfield>
+    <subfield code="2">CFI CF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Istituto Calasanzio. Genova</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">GE0129</subfield>
+    <subfield code="2">ZGE 09</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca delle Facolt ̉di giurisprudenza e di lettere e filosofia dell&apos;Universit ̉degli studi di Milano. Milano</subfield>
+    <subfield code="1">MI0190</subfield>
+    <subfield code="2">USM A6</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Collezione privata Gallotti. Milano</subfield>
+    <subfield code="1">MI1178</subfield>
+    <subfield code="2">ZMI 06</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Centro APICE - Archivi della parola, dell&apos;immagine e della comunicazione editoriale dell&apos;Universit ̉degli studi di Milano. Milano</subfield>
+    <subfield code="1">MI1289</subfield>
+    <subfield code="2">USM S6</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Teresiana. Mantova</subfield>
+    <subfield code="z">(Var. B)</subfield>
+    <subfield code="1">MN0035</subfield>
+    <subfield code="2">LO1 12</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Accademia nazionale Virgiliana. Mantova</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">MN0040</subfield>
+    <subfield code="2">LO1 15</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Padova</subfield>
+    <subfield code="z">(Var. B)</subfield>
+    <subfield code="1">PD0090</subfield>
+    <subfield code="2">PUV 55</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Collezione privata L. Serego Alighieri. Castel del Piano Umbro</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">PG0388</subfield>
+    <subfield code="2">ZPG 42</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Palatina. Parma</subfield>
+    <subfield code="z">(Var. B)</subfield>
+    <subfield code="1">PR0072</subfield>
+    <subfield code="2">PAR PA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Benedetto Passionei. Fossombrone</subfield>
+    <subfield code="z">(Var. A) - MUTILO</subfield>
+    <subfield code="1">PU0027</subfield>
+    <subfield code="2">URB FS</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Fondazione Marco Besso. Roma</subfield>
+    <subfield code="1">RM0211</subfield>
+    <subfield code="2">RML 14</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="z">(Var. A) - MUTILO</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria Alessandrina. Roma</subfield>
+    <subfield code="1">RM0280</subfield>
+    <subfield code="2">RML 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca centrale E.R. Caianiello Centro di servizio di Ateneo per le biblioteche dell&apos;Universit ̉degli studi di Salerno. Fondo Ventimiglia. Fisciano</subfield>
+    <subfield code="1">SA0186</subfield>
+    <subfield code="2">ZSA 10</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Pio Rajna. Sondrio</subfield>
+    <subfield code="z">(Var. B)</subfield>
+    <subfield code="1">SO0040</subfield>
+    <subfield code="2">ZSO 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Pietro Acclavio. Taranto</subfield>
+    <subfield code="1">TA0021</subfield>
+    <subfield code="2">TA1 11</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Fardelliana. Trapani</subfield>
+    <subfield code="z">(Var. B)</subfield>
+    <subfield code="1">TP0022</subfield>
+    <subfield code="2">TPS BF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">British Library. London</subfield>
+    <subfield code="1">UK0001</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario arcivescovile di Milano. Venegono Inferiore</subfield>
+    <subfield code="1">VA0122</subfield>
+    <subfield code="2">ZVA 04</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Marciana. Venezia</subfield>
+    <subfield code="z">(Var. B)</subfield>
+    <subfield code="1">VE0049</subfield>
+    <subfield code="2">VEA BM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Liceo ginnasio statale S. Maffei. Verona</subfield>
+    <subfield code="1">VR0179</subfield>
+    <subfield code="2">ZVR 08</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000223</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000223</subfield>
+    <subfield code="b">Pace (donna seduta accanto a colonna, con ramo d&apos;olivo nella sinistra e il braccio destro poggiato su cornucopia). In cornice figurata</subfield>
+    <subfield code="e">Per me qui si riposa e in ciel si gode.</subfield>
+    <subfield code="c">A35</subfield>
+    <subfield code="c">Z915</subfield>
+    <subfield code="d">Dimensioni: 6,2 x 7,6. Con o senza motto, o con motto scritto in modo diverso</subfield>
+    <subfield code="f">CORNUCOPIA</subfield>
+    <subfield code="f">DONNA</subfield>
+    <subfield code="f">OLIVO</subfield>
+    <subfield code="f">PACE</subfield>
+    <subfield code="f">PERMEQUISI</subfield>
+    <subfield code="g">1561-1586</subfield>
+  </datafield>
+</record>
+</collection>

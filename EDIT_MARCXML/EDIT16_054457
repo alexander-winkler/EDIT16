@@ -1,0 +1,38 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00434na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\054457</controlfield>
+  <controlfield tag="005">20080930000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20031010             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Il ℗Ratto d&apos;Helena</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Paolillo,</subfield>
+    <subfield code="b">Anello</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012542</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Paulilli,</subfield>
+    <subfield code="b">Anello</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021486</subfield>
+    <subfield code="z">Paolillo, Anello</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Paolilla,</subfield>
+    <subfield code="b">Anello</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021487</subfield>
+    <subfield code="z">Paolillo, Anello</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

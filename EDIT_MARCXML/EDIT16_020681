@@ -1,0 +1,43 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00567na 0a22001451i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\020681</controlfield>
+  <controlfield tag="005">20080206000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">GRC</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Geoponica</subfield>
+  </datafield>
+  <datafield tag="517" ind1="1" ind2=" ">
+    <subfield code="3">IT\ICCU\CNCE\064314</subfield>
+    <subfield code="a">Geoponika</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Constantinus</subfield>
+    <subfield code="c"> &lt;imperatore d&apos;Oriente</subfield>
+    <subfield code="c"> ; 7&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008159</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Constantinus</subfield>
+    <subfield code="c"> : Porphyrogenetus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026042</subfield>
+    <subfield code="z">Constantinus &lt;imperatore d&apos;Oriente ; 7&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Costantino</subfield>
+    <subfield code="c"> : Porfirogenito</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026043</subfield>
+    <subfield code="z">Constantinus &lt;imperatore d&apos;Oriente ; 7&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

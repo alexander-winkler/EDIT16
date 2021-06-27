@@ -1,0 +1,105 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01824nam0a22002891i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\036103</controlfield>
+  <controlfield tag="005">20160825000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e)la o.o; e.se PeNe (C) 1545 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19980119d1545        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Simolachri, historie, e figure de la morte, oue si contiene, la medicina de l&apos;anima utile, e necessaria, non solo a gli ammalati, ma a tutti i sani. Et appresso il modo, e la uia di consolar gl&apos;infermi. Un sermone di S. Cipriano, de la mortalit.̉ Due orationi, l&apos;una a Dio, e l&apos;altra a Christo de dire appresso l&apos;ammalato oppresso da graue infermit.̉ Un sermone di S. Giouan Chrisostomo che ci efforta a patienta ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">\Venezia!</subfield>
+    <subfield code="c">appresso Vincenzo Vaugris al segno d&apos;Erasmo</subfield>
+    <subfield code="d">1545</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\216! p.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Valgrisi, Vincenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000062</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Vaugris, Vincenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002740</subfield>
+    <subfield code="z">Valgrisi, Vincenzo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Officina Erasmiana</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002921</subfield>
+    <subfield code="z">Valgrisi, Vincenzo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Valgrisius, Vincentius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005845</subfield>
+    <subfield code="z">Valgrisi, Vincenzo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Valgrisio, Vincenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005846</subfield>
+    <subfield code="z">Valgrisi, Vincenzo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Marciana. Venezia</subfield>
+    <subfield code="1">VE0049</subfield>
+    <subfield code="2">VEA BM</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001370</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">In fine</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000130</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001370</subfield>
+    <subfield code="b">Serpente attorcigliato a bastone a forma di tau sostenuto da mani uscenti da nuvole.</subfield>
+    <subfield code="c">U320</subfield>
+    <subfield code="d">Dimensioni: 1,8 x 3</subfield>
+    <subfield code="f">SERPENTE</subfield>
+    <subfield code="f">BASTONE</subfield>
+    <subfield code="f">MANI</subfield>
+    <subfield code="g">1545-1580</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000130</subfield>
+    <subfield code="b">Serpente attorcigliato a bastone a forma di tau sostenuto da mani uscenti da nuvole.</subfield>
+    <subfield code="c">Z1035</subfield>
+    <subfield code="d">Dimensioni: 4 x 6</subfield>
+    <subfield code="f">MANI</subfield>
+    <subfield code="f">NUVOLE</subfield>
+    <subfield code="f">SERPENTE</subfield>
+    <subfield code="f">TAU</subfield>
+    <subfield code="g">1543-1582</subfield>
+  </datafield>
+</record>
+</collection>

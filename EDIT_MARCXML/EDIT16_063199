@@ -1,0 +1,133 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02411nam0a22003611i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\063199</controlfield>
+  <controlfield tag="005">20051222000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">S.o. a.ui r-er sace (3) 1533 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20051221d1533        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Libri de re rustica M. Catonis lib. 1. M. Terentii Varronis lib. 3. L. Iunii Moderati Columellae lib. 12. Eiusdem de arboribus liber separatus ab alijs, quare autem id factum fuerit: ostenditur in epistola ad lectorem. Palladii lib. 14. De duobus dierum generibus: simulque de umbris &amp; horis, quae apud Palladium, in alia epistola ad lectorem. Georgij Alexandrini enarrationes priscarum dictionum, quae in his libris Catonis, Varronis, Columellae</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venezia!</subfield>
+    <subfield code="c">eredi di Aldo Manuzio il vecchio ed Andrea Torresano il vecchio!</subfield>
+    <subfield code="e">Venetiis</subfield>
+    <subfield code="g">in aedibus haeredum Aldi et Andreae soceri</subfield>
+    <subfield code="h">mense Decembri 1533</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">58!, 295,  1! c.</subfield>
+    <subfield code="d">4</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">ANNULLATA  !!!!!  vedi 27203((Marca tip. sul front., a c.A1r., in fine. - A c. A1r. altro front. con la data. - Segn.: ast!8 A-E8 F10 a-z8 A-O8</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Merula,</subfield>
+    <subfield code="b">Giorgio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001156</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Columella,</subfield>
+    <subfield code="b">Lucius Iunius Moderatus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003412</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Palladius,</subfield>
+    <subfield code="b">Rutilius Taurus Aemilianus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009178</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Varro,</subfield>
+    <subfield code="b"> Marcus Terentius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009657</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Cato,</subfield>
+    <subfield code="b">Marcus Porcius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010196</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Manuzio, Aldo &lt;1.&gt; - eredi &amp; Torresano, Andrea &lt;1.&gt; - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000259</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Georgius</subfield>
+    <subfield code="c"> : Alexandrinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014110</subfield>
+    <subfield code="z">Merula, Giorgio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Merula,</subfield>
+    <subfield code="b">Georgius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014655</subfield>
+    <subfield code="z">Merula, Giorgio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Palladio,</subfield>
+    <subfield code="b">Rutilio Tauro Emiliano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021956</subfield>
+    <subfield code="z">Palladius, Rutilius Taurus Aemilianus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Varrone,</subfield>
+    <subfield code="b">Marco Terenzio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024638</subfield>
+    <subfield code="z">Varro,  Marcus Terentius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Cato Censorius,</subfield>
+    <subfield code="b">Marcus Porcius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016740</subfield>
+    <subfield code="z">Cato, Marcus Porcius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Cato  Maior</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018590</subfield>
+    <subfield code="z">Cato, Marcus Porcius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Catone,</subfield>
+    <subfield code="b">Marco Porcio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018591</subfield>
+    <subfield code="z">Cato, Marcus Porcius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Catone</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018592</subfield>
+    <subfield code="z">Cato, Marcus Porcius</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Torresano, Andrea</subfield>
+    <subfield code="c"> &lt;1.&gt; - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000260</subfield>
+    <subfield code="z">Manuzio, Aldo &lt;1.&gt; - eredi &amp; Torresano, Andrea &lt;1.&gt; - eredi</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+</record>
+</collection>

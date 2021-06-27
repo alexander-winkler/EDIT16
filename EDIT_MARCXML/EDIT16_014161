@@ -1,0 +1,67 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00941nam0a2200217 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\014161</controlfield>
+  <controlfield tag="005">20061114000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">ene: ritq undi u-iu (C) 1505 (Q)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101f1505        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Oratio in praestita obedientia solenni sanctissimo domino nostro Iulio II pape. Nomine serenissimi principis Alexandri regis Poloniae... per... Herasmum Vitellium episcopum Plocensem. die lunae mensis Marcii anno salutis MDV</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="d">\1505!</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\4! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Ciolek,</subfield>
+    <subfield code="b">Erazm</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003179</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">s.n.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000002</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Vitellius,</subfield>
+    <subfield code="b">Erasmus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003178</subfield>
+    <subfield code="z">Ciolek, Erazm</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Witelo,</subfield>
+    <subfield code="b">Erasmus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003320</subfield>
+    <subfield code="z">Ciolek, Erazm</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Classense. Ravenna</subfield>
+    <subfield code="1">RA0036</subfield>
+    <subfield code="2">RAV CL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Marciana. Venezia</subfield>
+    <subfield code="1">VE0049</subfield>
+    <subfield code="2">VEA BM</subfield>
+  </datafield>
+</record>
+</collection>

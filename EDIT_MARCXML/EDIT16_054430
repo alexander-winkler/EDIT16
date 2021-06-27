@@ -1,0 +1,43 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00496na 0a22001451i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\054430</controlfield>
+  <controlfield tag="005">20080909000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20030919             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">De bello grammaticali ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud Franciscum Zilettum</subfield>
+    <subfield code="d">1581</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Guarna,</subfield>
+    <subfield code="b">Andrea</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003126</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Guarna,</subfield>
+    <subfield code="b">Andreas</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014295</subfield>
+    <subfield code="z">Guarna, Andrea</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Guarna Salernus,</subfield>
+    <subfield code="b">Andreas</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019709</subfield>
+    <subfield code="z">Guarna, Andrea</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

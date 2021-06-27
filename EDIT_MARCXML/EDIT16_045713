@@ -1,0 +1,97 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01541ncm0a22002891i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\045713</controlfield>
+  <controlfield tag="005">20151201000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19990112d1558        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Opera nuova di musica intitolata Armonia celeste nella quale si contengono 25 madrigali, pieni de ogni dolcezza, et soauit ̉musicale. Composti con dotta arte, et reseruato ordine dallo eccellente musico Vincentio Ruffo, maestro di cappella della inclita citta di Verona. Et da Antonio Gardano diligentemente dati in luce. Libro quarto a cinque voci</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Venetia</subfield>
+    <subfield code="c">appresso Antonio Gardano</subfield>
+    <subfield code="d">1558</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">5 fasc.</subfield>
+    <subfield code="d">8ʻ obl</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">S, A, T, B, 5</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Ruffo,</subfield>
+    <subfield code="b">Vincenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\011982</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Gardane, Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000315</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Ruffus,</subfield>
+    <subfield code="b">Vincentius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023496</subfield>
+    <subfield code="z">Ruffo, Vincenzo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Gardano, Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004837</subfield>
+    <subfield code="z">Gardane, Antonio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Gardanus, Antonius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004839</subfield>
+    <subfield code="z">Gardane, Antonio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca estera - Bayerische StaatsBibliothek. Muenchen</subfield>
+    <subfield code="1">AA0008</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Museo Internazionale e Biblioteca della Musica. Bologna</subfield>
+    <subfield code="z">(S,A,T,B)</subfield>
+    <subfield code="1">BO0310</subfield>
+    <subfield code="2">UBO BM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario maggiore. Bressanone</subfield>
+    <subfield code="1">BZ0013</subfield>
+    <subfield code="2">ZBZ 05</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Firenze</subfield>
+    <subfield code="1">FI0098</subfield>
+    <subfield code="2">CFI CF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="z">(A)</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca capitolare. Verona</subfield>
+    <subfield code="1">VR0056</subfield>
+    <subfield code="2">VIA VC</subfield>
+  </datafield>
+</record>
+</collection>

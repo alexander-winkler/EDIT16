@@ -1,0 +1,68 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00895nam0a22002171i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\056778</controlfield>
+  <controlfield tag="005">20040401000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20040326d1548        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗L&apos;℗operina da imparare di scriuere littera cancellarescha</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Roma</subfield>
+    <subfield code="g">stampato per Valerio Dorico &amp; Louisi fratelli</subfield>
+    <subfield code="g">ad istantia di A. Salamancha</subfield>
+    <subfield code="h">1548</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Roma</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Arrighi,</subfield>
+    <subfield code="b">Ludovico : degli</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000902</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Dorico, Valerio &amp; Dorico, Luigi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000187</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Salamanca, Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000544</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Ludovico</subfield>
+    <subfield code="c"> : Vicentino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012566</subfield>
+    <subfield code="z">Arrighi, Ludovico : degli</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Dorico, Luigi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000188</subfield>
+    <subfield code="z">Dorico, Valerio &amp; Dorico, Luigi</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Martin de Salamanca, Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004080</subfield>
+    <subfield code="z">Salamanca, Antonio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

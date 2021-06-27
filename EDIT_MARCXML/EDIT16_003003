@@ -1,0 +1,307 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>04564nam0a2200757 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\003003</controlfield>
+  <controlfield tag="005">20051207000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">a-le o.,&amp; cose auNa (3) 1594 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1594        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Aristotelis Stagiritae peripateticorum principis ℗Organum nuper ex optimis exemplaribus, cum Graecis, tum Latinis recognitum, ac scholijs, annotationibus, varietatibusque lectionum recens illustratum</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud Minimam Societatem</subfield>
+    <subfield code="d">1594</subfield>
+    <subfield code="e">Venetiis</subfield>
+    <subfield code="g">apud Florauantem Pratum</subfield>
+    <subfield code="h">1594</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">637, \3! p.</subfield>
+    <subfield code="d">24ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Aristoteles</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000006</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Porphyrius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000166</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Boethius,</subfield>
+    <subfield code="b">Anicius Manlius Torquatus Severinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000282</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Diogenes</subfield>
+    <subfield code="c"> : Laertius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004847</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Ioannes</subfield>
+    <subfield code="c"> : Philoponus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008301</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">Compagnia Minima</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000698</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Prati, Fioravante</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000576</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Aristotele</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018928</subfield>
+    <subfield code="z">Aristoteles</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Porfirio</subfield>
+    <subfield code="c"> : di#Tiro</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014929</subfield>
+    <subfield code="z">Porphyrius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Porphyrius</subfield>
+    <subfield code="c"> : Tyrius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018848</subfield>
+    <subfield code="z">Porphyrius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Porphyrios</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022676</subfield>
+    <subfield code="z">Porphyrius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Boethius,</subfield>
+    <subfield code="b">Seuerinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012816</subfield>
+    <subfield code="z">Boethius, Anicius Manlius Torquatus Severinus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Boezio,</subfield>
+    <subfield code="b">Anicio Manlio Torquato Severino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012817</subfield>
+    <subfield code="z">Boethius, Anicius Manlius Torquatus Severinus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Diogenes</subfield>
+    <subfield code="c"> : Laertios</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018433</subfield>
+    <subfield code="z">Diogenes : Laertius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Diogene</subfield>
+    <subfield code="c"> : Laerzio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018529</subfield>
+    <subfield code="z">Diogenes : Laertius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Filopono,</subfield>
+    <subfield code="b">Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014104</subfield>
+    <subfield code="z">Ioannes : Philoponus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Ioannes</subfield>
+    <subfield code="c"> : Alexandrinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014532</subfield>
+    <subfield code="z">Ioannes : Philoponus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Johannes</subfield>
+    <subfield code="c"> : Grammaticus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015601</subfield>
+    <subfield code="z">Ioannes : Philoponus</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Minima Societas</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002734</subfield>
+    <subfield code="z">Compagnia Minima</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Societas Minima</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004654</subfield>
+    <subfield code="z">Compagnia Minima</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Minima Compagnia</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004655</subfield>
+    <subfield code="z">Compagnia Minima</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Prato, Floravans a</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005506</subfield>
+    <subfield code="z">Prati, Fioravante</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pratus, Floravans</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005507</subfield>
+    <subfield code="z">Prati, Fioravante</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca diocesana. Ancona</subfield>
+    <subfield code="1">AN0009</subfield>
+    <subfield code="2">PBE 56</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Patriarcale S. Domenico. Bologna</subfield>
+    <subfield code="1">BO0333</subfield>
+    <subfield code="2">ZBO 05</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteche riunite Civica e A. Ursino Recupero. Catania</subfield>
+    <subfield code="1">CT0063</subfield>
+    <subfield code="2">ZCT 03</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Enna</subfield>
+    <subfield code="1">EN0025</subfield>
+    <subfield code="2">ZEN 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale La Magna Capitana. Foggia</subfield>
+    <subfield code="1">FG0046</subfield>
+    <subfield code="2">FOG FG</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca umanistica. Sede di Lettere. Firenze</subfield>
+    <subfield code="1">FI0211</subfield>
+    <subfield code="2">UFI LT</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Societ ̉economica. Chiavari</subfield>
+    <subfield code="1">GE0011</subfield>
+    <subfield code="2">LI3 30</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Roberto Caracciolo. Lecce</subfield>
+    <subfield code="1">LE0097</subfield>
+    <subfield code="2">LEK LL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a"></subfield>
+    <subfield code="1">LE0132</subfield>
+    <subfield code="2">LEK L9</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale. Lucca</subfield>
+    <subfield code="1">LU0022</subfield>
+    <subfield code="2">LUA BL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Scipione Gentili. San Ginesio</subfield>
+    <subfield code="1">MC0073</subfield>
+    <subfield code="2">UMC CS</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Domus Pasotelli. Bozzolo</subfield>
+    <subfield code="1">MN0153</subfield>
+    <subfield code="2">ZMN 16</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario Vescovile della Facolt ̉Teologica del Triveneto dell&apos;Istituto Filosofico Aloisianum. Padova</subfield>
+    <subfield code="1">PD0073</subfield>
+    <subfield code="2">PUV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale San Benedetto. Norcia</subfield>
+    <subfield code="1">PG0070</subfield>
+    <subfield code="2">UM1 22</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Augusta. Perugia</subfield>
+    <subfield code="1">PG0109</subfield>
+    <subfield code="2">UM1 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Universit ̉italiana per stranieri. Perugia</subfield>
+    <subfield code="1">PG0250</subfield>
+    <subfield code="2">UPG US</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca centrale dell&apos;Area umanistica dell&apos;Universit ̉degli studi di Urbino. Urbino</subfield>
+    <subfield code="1">PU0206</subfield>
+    <subfield code="2">URB AU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Giuseppe Taroni. Bagnacavallo</subfield>
+    <subfield code="1">RA0002</subfield>
+    <subfield code="2">RAV BC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale di Velletri - Fondo antico. Velletri</subfield>
+    <subfield code="1">RM0611</subfield>
+    <subfield code="2">RMS L9</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Trento</subfield>
+    <subfield code="1">TN0121</subfield>
+    <subfield code="2">ZTN 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Diocesana Vigilianum. Trento</subfield>
+    <subfield code="1">TN0132</subfield>
+    <subfield code="2">ZTN 10</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Giovanni Eroli. Narni</subfield>
+    <subfield code="1">TR0020</subfield>
+    <subfield code="2">UM1 18</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Armocida. Ispra</subfield>
+    <subfield code="1">VA0074</subfield>
+    <subfield code="2">ZVA 08</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Collezione privata Casagrande. San Don ̉di Piave</subfield>
+    <subfield code="1">VE0259</subfield>
+    <subfield code="2">ZVE 20</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000062</subfield>
+    <subfield code="b">Colomba con ramoscello di olivo nel becco poggiata su un tronco d&apos;albero. In cornice figurata</subfield>
+    <subfield code="c">V323</subfield>
+    <subfield code="c">Z359</subfield>
+    <subfield code="d">Dimensioni: 4,7 x 3,8</subfield>
+    <subfield code="f">COLOMBA</subfield>
+    <subfield code="f">RAMOSCELLO</subfield>
+    <subfield code="f">TRONCO</subfield>
+    <subfield code="g">1593-1600</subfield>
+  </datafield>
+</record>
+</collection>

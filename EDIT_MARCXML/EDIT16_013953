@@ -1,0 +1,78 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01178nam0a2200253 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\013953</controlfield>
+  <controlfield tag="005">20040830000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">onho hege nie. agon (C) 1517 (Q)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101f1517        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Monitorio per la obseruatione de la reformatione del sacro Concilio Laterano</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="d">\dopo il 1517!</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\4! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Stampato a Roma da Etienne Guillery, cfr.: F. Barberi, Stefano Guillery e le sue edizioni romane. In: Studi offerti a Roberto Ridolfi. A cura di B. Marocchi Bigiarelli e D. E. Rhodes, p. 142</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Roma</subfield>
+  </datafield>
+  <datafield tag="710" ind1="1" ind2="2">
+    <subfield code="a">Concilio Lateranense</subfield>
+    <subfield code="c"> &lt;5.</subfield>
+    <subfield code="c"> ; 1512-1517&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003436</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Guillery, Etienne</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000106</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Guilliretus, Stephanus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003508</subfield>
+    <subfield code="z">Guillery, Etienne</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Guilleretus, Stephanus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005093</subfield>
+    <subfield code="z">Guillery, Etienne</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Guilleri, Stephanus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005094</subfield>
+    <subfield code="z">Guillery, Etienne</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Marciana. Venezia</subfield>
+    <subfield code="1">VE0049</subfield>
+    <subfield code="2">VEA BM</subfield>
+  </datafield>
+</record>
+</collection>

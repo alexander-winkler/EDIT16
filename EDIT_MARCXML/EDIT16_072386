@@ -1,0 +1,38 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00534na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\072386</controlfield>
+  <controlfield tag="005">20080128000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20080128             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Tractatus iste continet primam contradictionem, de qua abunde in primo Apologiae nostrae uoluminae disputauimus</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Contarini,</subfield>
+    <subfield code="b">Gaspare</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003458</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Contareni,</subfield>
+    <subfield code="b">Gaspare</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013708</subfield>
+    <subfield code="z">Contarini, Gaspare</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Contarenus,</subfield>
+    <subfield code="b">Gaspar</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013712</subfield>
+    <subfield code="z">Contarini, Gaspare</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,65 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00840nam0a22002051i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\030426</controlfield>
+  <controlfield tag="005">20101213000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971127f1517        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Pronostico di miser Luca Gaurico neapolitano doctor nele arte medicinale alli speculatiui ingegni. Del MDXVIII</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="d">\1517?!</subfield>
+    <subfield code="e">Stampato in Roma</subfield>
+    <subfield code="g">per Zuan Mazocho</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\4! c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Roma</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Gaurico,</subfield>
+    <subfield code="b">Luca</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000133</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Mazzocchi, Giovanni</subfield>
+    <subfield code="c"> &lt;di Bergamo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003991</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Gauricus,</subfield>
+    <subfield code="b">Lucas</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019109</subfield>
+    <subfield code="z">Gaurico, Luca</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Mazocho, Zuan</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005141</subfield>
+    <subfield code="z">Mazzocchi, Giovanni &lt;di Bergamo&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Mazochus Bergomas, Ioannes</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005142</subfield>
+    <subfield code="z">Mazzocchi, Giovanni &lt;di Bergamo&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

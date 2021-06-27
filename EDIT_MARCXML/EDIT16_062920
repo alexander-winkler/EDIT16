@@ -1,0 +1,101 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01478nam0a22002891i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\062920</controlfield>
+  <controlfield tag="005">20090817000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">n.m. adt. r,o. masu (3) 1594 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20051213d1594        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Constitutiones synodi Mutinensis a perillustri, et reuerensis. d. domino Gaspare Sillingardo Dei, et Apostolicae Sedis gratia episcopo Mutinensi, habitae in ecclesia cathedrali sub die XV mensis Iunij MDLXXXXIIII</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Mutinae</subfield>
+    <subfield code="c">apud Franciscum Gadaldinum typographum episcopalem</subfield>
+    <subfield code="d">1594</subfield>
+    <subfield code="e">In Modona</subfield>
+    <subfield code="g">appresso Francesco Gadaldino</subfield>
+    <subfield code="h">1594</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\4!, 30, \2!, 19, \5! p.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Modena</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Modena</subfield>
+    <subfield code="c"> &lt;Diocesi&gt;</subfield>
+    <subfield code="3">10472</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Silingardi,</subfield>
+    <subfield code="b">Gasparo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026507</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Gadaldini, Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000842</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Sillingardus,</subfield>
+    <subfield code="b">Gaspar</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026843</subfield>
+    <subfield code="z">Silingardi, Gasparo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Sillingardi,</subfield>
+    <subfield code="b">Gasparo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026845</subfield>
+    <subfield code="z">Silingardi, Gasparo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Gadaldino, Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004808</subfield>
+    <subfield code="z">Gadaldini, Francesco</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Gadaldinus, Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004809</subfield>
+    <subfield code="z">Gadaldini, Francesco</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Lucchesiana. Agrigento</subfield>
+    <subfield code="1">AG0085</subfield>
+    <subfield code="2">AGR 28</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca capitolare e archivio. Modena</subfield>
+    <subfield code="1">MO0036</subfield>
+    <subfield code="2">ZMO 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+</record>
+</collection>

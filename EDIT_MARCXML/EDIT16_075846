@@ -1,0 +1,77 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01058nam0a22002411i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\075846</controlfield>
+  <controlfield tag="005">20110406000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">saor 0.ne m-an momi (C) 1574 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20110406d1574        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">\Editti del vescovo!</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">In Perugia</subfield>
+    <subfield code="g">per Andrea Bresciano</subfield>
+    <subfield code="g">ad instanza di m. Giouan&apos; Battista Buttelli</subfield>
+    <subfield code="h">libraro in Agubbio</subfield>
+    <subfield code="h">1574</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\32! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Contiene editti relativi a varie materie: pubblicazioni di matrimonio, divieto di addossare altre costruzioni agli edifici sacri, ecc</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Perugia</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Gubbio</subfield>
+    <subfield code="c"> &lt;Diocesi&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\006345</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Bresciano, Andrea</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000299</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Butelli, Giovanni Battista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002752</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Fracassini,  Andrea</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003063</subfield>
+    <subfield code="z">Bresciano, Andrea</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Brixianus, Andreas</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004773</subfield>
+    <subfield code="z">Bresciano, Andrea</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+</record>
+</collection>

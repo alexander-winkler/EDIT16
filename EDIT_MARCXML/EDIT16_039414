@@ -1,0 +1,130 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01845nam0a2200349 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\039414</controlfield>
+  <controlfield tag="005">20100223000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">t.c- note o,a- drch (3) 1585 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19981031d1585        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Francisci a Sale Rauen. ℗Votum super mutatione, emendatione, seu correctione facta in extracto processu post motiua excitata a iudice. Cum subscriptionibus, &amp; approbationibus multorum celeberrimorum iurisconsultorum</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Bononiae</subfield>
+    <subfield code="c">apud Io. Rossium</subfield>
+    <subfield code="d">1585</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">40 p.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Bologna</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Dal_Sale,</subfield>
+    <subfield code="b">Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010926</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Rossi, Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000046</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">Tipografo non identificato</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003341</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Sale,</subfield>
+    <subfield code="b">Francesco</subfield>
+    <subfield code="c"> &lt;1554-1624&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016391</subfield>
+    <subfield code="z">Dal_Sale, Francesco</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Franciscus</subfield>
+    <subfield code="c"> : a#Sale</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020856</subfield>
+    <subfield code="z">Dal_Sale, Francesco</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Rubeus, Ioannes</subfield>
+    <subfield code="c"> &lt;1556-1595&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002305</subfield>
+    <subfield code="z">Rossi, Giovanni</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Officina Mercuriana</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002306</subfield>
+    <subfield code="z">Rossi, Giovanni</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">℗al segno del ℗Mercurio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002635</subfield>
+    <subfield code="z">Rossi, Giovanni</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Rossius, Ioannes</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005402</subfield>
+    <subfield code="z">Rossi, Giovanni</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Rubrius, Ioannes</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005403</subfield>
+    <subfield code="z">Rossi, Giovanni</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Roscius, Ioannes</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005404</subfield>
+    <subfield code="z">Rossi, Giovanni</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Rubeis, Ioannes de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005405</subfield>
+    <subfield code="z">Rossi, Giovanni</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Aurelio Saffi. Forl</subfield>
+    <subfield code="1">FC0018</subfield>
+    <subfield code="2">RAV FO</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca e Archivio della curia vescovile. Piacenza</subfield>
+    <subfield code="1">PC0070</subfield>
+    <subfield code="2">ZPC 07</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001313</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001313</subfield>
+    <subfield code="b">Albero illuminato dal sole. In cornice</subfield>
+    <subfield code="e">Cras quod hodie</subfield>
+    <subfield code="c">U287</subfield>
+    <subfield code="d">Dimensioni: 9,5 x 10</subfield>
+    <subfield code="f">CRASQUODHO</subfield>
+    <subfield code="f">ALBERO</subfield>
+    <subfield code="f">SOLE</subfield>
+    <subfield code="g">1585</subfield>
+  </datafield>
+</record>
+</collection>

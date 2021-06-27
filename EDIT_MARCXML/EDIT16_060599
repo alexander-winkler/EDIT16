@@ -1,0 +1,160 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02331nam0a22004211i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\060599</controlfield>
+  <controlfield tag="005">20181203000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">u-a. 54ga a,in itre (3) 1570 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20050610d1570        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Vita di Alessandro Magno, con la particolare descrittione della diuisione dell&apos;imperio, &amp; delle guerre fra i suoi successori. Raccolta per Mambrino Roseo</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Venetia</subfield>
+    <subfield code="c">appresso Francesco Ziletti</subfield>
+    <subfield code="d">1570</subfield>
+    <subfield code="e">\Venezia</subfield>
+    <subfield code="g">Francesco Ziletti!</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\60!, 275, \1! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Esiste altra emissione dello stesso anno, con titolo diverso</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Roseo,</subfield>
+    <subfield code="b">Mambrino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000153</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Ziletti, Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000247</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Roseo,</subfield>
+    <subfield code="b">Mambrino : da#Fabriano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023587</subfield>
+    <subfield code="z">Roseo, Mambrino</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Mambrino</subfield>
+    <subfield code="c"> : da#Fabriano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023588</subfield>
+    <subfield code="z">Roseo, Mambrino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ziletus, Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004189</subfield>
+    <subfield code="z">Ziletti, Francesco</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Zilettus, Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005830</subfield>
+    <subfield code="z">Ziletti, Francesco</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale di Montevergine. Mercogliano</subfield>
+    <subfield code="1">AV0045</subfield>
+    <subfield code="2">NAP MV</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Firenze</subfield>
+    <subfield code="1">FI0098</subfield>
+    <subfield code="2">CFI CF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Liceo ginnasio statale Ludovico Antonio Muratori. Modena</subfield>
+    <subfield code="1">MO0174</subfield>
+    <subfield code="2">MOD MU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Augusta. Perugia</subfield>
+    <subfield code="1">PG0109</subfield>
+    <subfield code="2">UM1 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Palatina. Parma</subfield>
+    <subfield code="1">PR0072</subfield>
+    <subfield code="2">PAR PA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Oliveriana. Pesaro</subfield>
+    <subfield code="1">PU0061</subfield>
+    <subfield code="2">URB OL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Casanatense. Roma</subfield>
+    <subfield code="1">RM0313</subfield>
+    <subfield code="2">RML 07</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Salvatore Struppa. Marsala</subfield>
+    <subfield code="1">TP0010</subfield>
+    <subfield code="2">TPS MS</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">British Library. London</subfield>
+    <subfield code="1">UK0001</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Querini Stampalia. Venezia</subfield>
+    <subfield code="1">VE0047</subfield>
+    <subfield code="2">VEA QS</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\002315</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\002315</subfield>
+    <subfield code="b">Orfeo in piedi suona la viola (lira da braccio) circondato dagli animali (cervo, leone, uccelli, ecc.). In cornice .</subfield>
+    <subfield code="e">Non vi</subfield>
+    <subfield code="c">U846</subfield>
+    <subfield code="d">Dimensioni: 4,3 x 5,4</subfield>
+    <subfield code="f">NONVI</subfield>
+    <subfield code="f">ORFEO</subfield>
+    <subfield code="f">VIOLA</subfield>
+    <subfield code="f">CERVO</subfield>
+    <subfield code="f">LEONE</subfield>
+    <subfield code="g">1570</subfield>
+  </datafield>
+</record>
+</collection>

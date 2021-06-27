@@ -1,0 +1,41 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00591na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\064651</controlfield>
+  <controlfield tag="005">20061018000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20060531             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Castigationes plurimorum ex Terentio locorum, adiecta quorundam obiter explicatione, per Ioannem Riuium Atthendoriensem</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Rivius,</subfield>
+    <subfield code="b">Johann</subfield>
+    <subfield code="c"> &lt;1500-1553&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022688</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Rivius,</subfield>
+    <subfield code="b">Joannes</subfield>
+    <subfield code="c"> &lt;1500-1553&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024313</subfield>
+    <subfield code="z">Rivius, Johann &lt;1500-1553&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Rivius,</subfield>
+    <subfield code="b">Johannes</subfield>
+    <subfield code="c"> &lt;1500-1553&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024314</subfield>
+    <subfield code="z">Rivius, Johann &lt;1500-1553&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

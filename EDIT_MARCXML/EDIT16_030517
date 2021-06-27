@@ -1,0 +1,109 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01739nam0a22003251i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\030517</controlfield>
+  <controlfield tag="005">20060406000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e.is moco hehe rire (C) 1504 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971127d1504        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Legenda de sancta Clara da Montefalcho del Ordene de sancto Augustino in forma de dialogo vulgare</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Mediolani</subfield>
+    <subfield code="g">ad expensas Joannis Angeli de la Rupore</subfield>
+    <subfield code="h">die XX Aprilis 1504</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\86! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Stampata a Milano da Alessandro Minuziano. Cfr.: Sandal, Editori e tipografi a Milano nel Cinquecento, II, p. 29, nr. 174</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Milano</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Della_Rovere, Giovanni Angelo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001516</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Minuziano, Alessandro</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000404</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Rogora, Giovanni Angelo della</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002738</subfield>
+    <subfield code="z">Della_Rovere, Giovanni Angelo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Rovera, Giovanni Angelo della</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003752</subfield>
+    <subfield code="z">Della_Rovere, Giovanni Angelo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Rupore, Ioannes Angelus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003753</subfield>
+    <subfield code="z">Della_Rovere, Giovanni Angelo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Rovere, Giovanni Angelo della</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004586</subfield>
+    <subfield code="z">Della_Rovere, Giovanni Angelo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Rog., Io. Ang. de la</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004588</subfield>
+    <subfield code="z">Della_Rovere, Giovanni Angelo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Minutianus, Alexander</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004001</subfield>
+    <subfield code="z">Minuziano, Alessandro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Officina Minutiana</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005200</subfield>
+    <subfield code="z">Minuziano, Alessandro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Libraria Minutiana</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005201</subfield>
+    <subfield code="z">Minuziano, Alessandro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Minutiano, Alessandro</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005202</subfield>
+    <subfield code="z">Minuziano, Alessandro</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Ambrosiana. Milano</subfield>
+    <subfield code="1">MI0133</subfield>
+    <subfield code="2">VBA 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Passerini Landi. Piacenza</subfield>
+    <subfield code="1">PC0030</subfield>
+    <subfield code="2">PIA PL</subfield>
+  </datafield>
+</record>
+</collection>

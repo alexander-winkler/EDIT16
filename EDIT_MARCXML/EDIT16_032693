@@ -1,0 +1,176 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02411nam0a2200457 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\032693</controlfield>
+  <controlfield tag="005">20150223000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">      </subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">INR</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971215d1516        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">GRC</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Tade enestin, ente garou se biblo. Theokritou eidyllia, ex kai triakonta. Tou autou epigrammata ennea kai deka ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">\Roma!</subfield>
+    <subfield code="g">analomasi ... Korneliou Benignou ... pono de kai dexioteti</subfield>
+    <subfield code="h">Zachariou Kalliergou tou kretos</subfield>
+    <subfield code="h">Ianuariou 1516</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">2 v.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Roma</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Theocritus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003096</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Benigno, Cornelio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002681</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Calliergi, Zaccaria</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000265</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Theocritus</subfield>
+    <subfield code="c"> : Syracusanus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024869</subfield>
+    <subfield code="z">Theocritus</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Benignos, Kornelios</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004338</subfield>
+    <subfield code="z">Benigno, Cornelio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Kallierges, Zacharias</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003070</subfield>
+    <subfield code="z">Calliergi, Zaccaria</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Callierges, Zacharias</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004401</subfield>
+    <subfield code="z">Calliergi, Zaccaria</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Calergi, Zacharias</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004404</subfield>
+    <subfield code="z">Calliergi, Zaccaria</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Bologna</subfield>
+    <subfield code="1">BO0098</subfield>
+    <subfield code="2">UBO BU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Queriniana. Brescia</subfield>
+    <subfield code="1">BS0026</subfield>
+    <subfield code="2">ZBS 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Firenze</subfield>
+    <subfield code="1">FI0098</subfield>
+    <subfield code="2">CFI CF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Medicea Laurenziana. Firenze</subfield>
+    <subfield code="1">FI0100</subfield>
+    <subfield code="2">CFI ML</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Padova</subfield>
+    <subfield code="1">PD0158</subfield>
+    <subfield code="2">PUV 00</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Pisa</subfield>
+    <subfield code="1">PI0112</subfield>
+    <subfield code="2">PIS R1</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Oliveriana. Pesaro</subfield>
+    <subfield code="1">PU0061</subfield>
+    <subfield code="2">URB OL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Vallicelliana. Roma</subfield>
+    <subfield code="1">RM0281</subfield>
+    <subfield code="2">RML 08</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Angelica. Roma</subfield>
+    <subfield code="1">RM0290</subfield>
+    <subfield code="2">RML 06</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">British Library. London</subfield>
+    <subfield code="1">UK0001</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Marciana. Venezia</subfield>
+    <subfield code="1">VE0049</subfield>
+    <subfield code="2">VEA BM</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">In fine</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001262</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000538</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001262</subfield>
+    <subfield code="b">Caduceo (bastone su cui si attorcigliano simmetricamente due serpenti)</subfield>
+    <subfield code="c">V199</subfield>
+    <subfield code="d">Dimensioni: 4,1 x 6,1</subfield>
+    <subfield code="f">SERPENTI</subfield>
+    <subfield code="f">ALI</subfield>
+    <subfield code="f">STELLA</subfield>
+    <subfield code="g">1515-1516</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000538</subfield>
+    <subfield code="b">Aquila bicipite coronata con scudo sul petto con le iniziali ZK.</subfield>
+    <subfield code="c">K206</subfield>
+    <subfield code="c">Z111</subfield>
+    <subfield code="d">Dimensioni: 4,2 x 5,7</subfield>
+    <subfield code="f">AQUILA</subfield>
+    <subfield code="f">CORONA</subfield>
+    <subfield code="f">ZK</subfield>
+    <subfield code="g">1515-1523</subfield>
+  </datafield>
+</record>
+</collection>

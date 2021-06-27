@@ -1,0 +1,188 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02600nam0a2200493 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\045089</controlfield>
+  <controlfield tag="005">20080103000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e.ii uois ueCv buda (3) 1520 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19990120d1520        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Trogi Pompeii ℗Historia per Iustinum in compendium redacta proxime quam emendatissime aedita</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Mediolani</subfield>
+    <subfield code="g">\Niccol ̣Gorgonzola!</subfield>
+    <subfield code="g">ex Minutiana officina</subfield>
+    <subfield code="h">1520. Pridie Kalendas Augustas</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\4!, CXXII c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Milano</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Iustinus,</subfield>
+    <subfield code="b">Marcus Iunianus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006587</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Pompeius Trogus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\011843</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Beroaldo,</subfield>
+    <subfield code="b">Filippo</subfield>
+    <subfield code="c"> &lt;il vecchio&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000228</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Rufus Festus,</subfield>
+    <subfield code="b">Sextus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004488</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Florus,</subfield>
+    <subfield code="b">Lucius Annaeus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005445</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a"></subfield>
+    <subfield code="3">IT\ICCU\CNCT\000205</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Minuziano, Alessandro</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000404</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Iustinus</subfield>
+    <subfield code="c"> &lt;Historicus&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016266</subfield>
+    <subfield code="z">Iustinus, Marcus Iunianus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Giustino</subfield>
+    <subfield code="c"> &lt;Istorico&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016267</subfield>
+    <subfield code="z">Iustinus, Marcus Iunianus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Justinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023040</subfield>
+    <subfield code="z">Iustinus, Marcus Iunianus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Trogus Pompeius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024942</subfield>
+    <subfield code="z">Pompeius Trogus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Beroaldus,</subfield>
+    <subfield code="b">Philippus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026331</subfield>
+    <subfield code="z">Beroaldo, Filippo &lt;il vecchio&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Rufus,</subfield>
+    <subfield code="b">Sextus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004875</subfield>
+    <subfield code="z">Rufus Festus, Sextus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Rufius Festus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015389</subfield>
+    <subfield code="z">Rufus Festus, Sextus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Festus,</subfield>
+    <subfield code="b">Rufus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018493</subfield>
+    <subfield code="z">Rufus Festus, Sextus</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Nicolo da Gorgonzola</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004950</subfield>
+    <subfield code="z"></subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Minutianus, Alexander</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004001</subfield>
+    <subfield code="z">Minuziano, Alessandro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Officina Minutiana</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005200</subfield>
+    <subfield code="z">Minuziano, Alessandro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Libraria Minutiana</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005201</subfield>
+    <subfield code="z">Minuziano, Alessandro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Minutiano, Alessandro</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005202</subfield>
+    <subfield code="z">Minuziano, Alessandro</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Bologna</subfield>
+    <subfield code="1">BO0098</subfield>
+    <subfield code="2">UBO BU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Giovanni Battista Adriani. Cherasco</subfield>
+    <subfield code="1">CN0030</subfield>
+    <subfield code="2">TO0 47</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Firenze</subfield>
+    <subfield code="1">FI0098</subfield>
+    <subfield code="2">CFI CF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Braidense. Milano</subfield>
+    <subfield code="1">MI0185</subfield>
+    <subfield code="2">MIL NB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Piacenza</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">PC0028</subfield>
+    <subfield code="2">PBE G9</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della collegiata S. Pietro Apostolo. Broni</subfield>
+    <subfield code="1">PV0012</subfield>
+    <subfield code="2">ZPV 05</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Verona</subfield>
+    <subfield code="1">VR0059</subfield>
+    <subfield code="2">ZVR 02</subfield>
+  </datafield>
+</record>
+</collection>

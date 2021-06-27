@@ -1,0 +1,200 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>03122nam0a2200529 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\013884</controlfield>
+  <controlfield tag="005">20180129000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">o-lo iaua lisi saso (3) 1535 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1535        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Quinto Curtio Ruffo historico, nel quale si trattano i fatti, e le guerre di Alessandro Magno tradotto di latino nella uolgar lingua per P. Candido. Aggiuntoui una comparatione di Giulio Cesare e di Alessandro, composta per esso Candido. Nuouamente con gran diligenza stampato</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">In Vineggia</subfield>
+    <subfield code="g">per Vettor q. Piero Rauano della Serena &amp; compagni</subfield>
+    <subfield code="h">1535 del mese di setembrio</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">196 c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Curtius Rufus,</subfield>
+    <subfield code="b">Quintus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003611</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Decembrio,</subfield>
+    <subfield code="b">Pier Candido</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003141</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Ravani, Vittore &amp; C.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002928</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Rufus,</subfield>
+    <subfield code="b">Quintus Curtius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013917</subfield>
+    <subfield code="z">Curtius Rufus, Quintus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Decembrius,</subfield>
+    <subfield code="b">Petrus Candidus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015299</subfield>
+    <subfield code="z">Decembrio, Pier Candido</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Rabanis, Victor a &amp; C.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005313</subfield>
+    <subfield code="z">Ravani, Vittore &amp; C.</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ravano della Serena, Vettor &amp; C.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005314</subfield>
+    <subfield code="z">Ravani, Vittore &amp; C.</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Serena, Vittore della &amp; C.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005315</subfield>
+    <subfield code="z">Ravani, Vittore &amp; C.</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ravanis, Victor de &amp; C.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005316</subfield>
+    <subfield code="z">Ravani, Vittore &amp; C.</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ravaniani, Vettor de &amp; C.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005317</subfield>
+    <subfield code="z">Ravani, Vittore &amp; C.</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Rabani, Vettor de &amp; C.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005318</subfield>
+    <subfield code="z">Ravani, Vittore &amp; C.</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica A. Mai. Bergamo</subfield>
+    <subfield code="1">BG0026</subfield>
+    <subfield code="2">LO1 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Bologna</subfield>
+    <subfield code="1">BO0098</subfield>
+    <subfield code="2">UBO BU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale dell&apos;Archiginnasio. Bologna</subfield>
+    <subfield code="1">BO0304</subfield>
+    <subfield code="2">UBO GA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale Angelo Camillo De Meis. Chieti</subfield>
+    <subfield code="1">CH0020</subfield>
+    <subfield code="2">ABR ME</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Ariostea. Ferrara</subfield>
+    <subfield code="1">FE0017</subfield>
+    <subfield code="2">UFE AR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Societ ̉economica. Chiavari</subfield>
+    <subfield code="1">GE0011</subfield>
+    <subfield code="2">LI3 30</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale. Lucca</subfield>
+    <subfield code="1">LU0022</subfield>
+    <subfield code="2">LUA BL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale centrale. Milano</subfield>
+    <subfield code="1">MI0162</subfield>
+    <subfield code="2">LO1 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Braidense. Milano</subfield>
+    <subfield code="1">MI0185</subfield>
+    <subfield code="2">MIL NB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Istituto Leone XIII. Milano</subfield>
+    <subfield code="1">MI0307</subfield>
+    <subfield code="2">LO1 32</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Ichnussa - Biblioteca digitale della poesia sarda. Ulassai</subfield>
+    <subfield code="1">OG0029</subfield>
+    <subfield code="2">ZOG01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Passerini Landi. Piacenza</subfield>
+    <subfield code="1">PC0030</subfield>
+    <subfield code="2">PIA PL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca cardinale Gaetano Cicognani. Faenza</subfield>
+    <subfield code="1">RA0017</subfield>
+    <subfield code="2">RAV SC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Classense. Ravenna</subfield>
+    <subfield code="1">RA0036</subfield>
+    <subfield code="2">RAV CL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Bertoliana. Vicenza</subfield>
+    <subfield code="1">VI0096</subfield>
+    <subfield code="2">VIA BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca capitolare. Verona</subfield>
+    <subfield code="1">VR0056</subfield>
+    <subfield code="2">VIA VC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Verona</subfield>
+    <subfield code="1">VR0059</subfield>
+    <subfield code="2">ZVR 02</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">In fine</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001390</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001390</subfield>
+    <subfield code="b">Sirena coronata, bicaudata, che tiene le due code alzate con le mani. In cornice quadrata</subfield>
+    <subfield code="c">U336</subfield>
+    <subfield code="d">Dimensioni: 4,5 x 5,2</subfield>
+    <subfield code="f">SIRENA</subfield>
+    <subfield code="g">1528-1536</subfield>
+  </datafield>
+</record>
+</collection>

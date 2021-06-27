@@ -1,0 +1,278 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>04035nam0a2200661 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\011001</controlfield>
+  <controlfield tag="005">20110509000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">geiu nepe tutn vabr (3) 1519 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1519        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Cyrurgia Guidonis de Cauliaco. Et Cyrurgia Bruni.Teodorici. Rolandi. Lanfranci. Rogerii. Bertapalie. Nouiter impressus</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Venetijs</subfield>
+    <subfield code="g">\Giovanni Maria Boselli!</subfield>
+    <subfield code="g">per Bernardinum Venetum de Vitalibus</subfield>
+    <subfield code="h">1519 die XX mensis Februarij</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">267, \1! c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Chauliac,</subfield>
+    <subfield code="b">Guy : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002974</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Lanfranco</subfield>
+    <subfield code="c"> : da#Milano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019741</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Bertapaglia,</subfield>
+    <subfield code="b">Leonardo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020132</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Bruno</subfield>
+    <subfield code="c"> : da#Longobucco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002076</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Rolando</subfield>
+    <subfield code="c"> : da#Parma</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002279</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Borgognoni,</subfield>
+    <subfield code="b">Teodorico</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002280</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Ruggiero</subfield>
+    <subfield code="c"> : da#Parma</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002282</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Vitali, Bernardino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000068</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Boselli, Giovanni Maria</subfield>
+    <subfield code="3">IT\ICCU\CNCT\006336</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Cauliacus,</subfield>
+    <subfield code="b">Guido</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007932</subfield>
+    <subfield code="z">Chauliac, Guy : de</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Cauliaco,</subfield>
+    <subfield code="b">Guido : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013084</subfield>
+    <subfield code="z">Chauliac, Guy : de</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Guy</subfield>
+    <subfield code="c"> : de#Chauliac</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013201</subfield>
+    <subfield code="z">Chauliac, Guy : de</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Lanfrancus</subfield>
+    <subfield code="c"> : Mediolanensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019742</subfield>
+    <subfield code="z">Lanfranco : da#Milano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Bertipaglia,</subfield>
+    <subfield code="b">Leonardo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020133</subfield>
+    <subfield code="z">Bertapaglia, Leonardo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Betrapalia,</subfield>
+    <subfield code="b">Leonardus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020134</subfield>
+    <subfield code="z">Bertapaglia, Leonardo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Brunus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015970</subfield>
+    <subfield code="z">Bruno : da#Longobucco</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Capelluti,</subfield>
+    <subfield code="b">Rolando</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002976</subfield>
+    <subfield code="z">Rolando : da#Parma</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Rolandus</subfield>
+    <subfield code="c"> : Parmensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015185</subfield>
+    <subfield code="z">Rolando : da#Parma</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Capezzuti,</subfield>
+    <subfield code="b">Rolando</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023707</subfield>
+    <subfield code="z">Rolando : da#Parma</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Theodoricus</subfield>
+    <subfield code="c"> &lt;vescovo di Cervia&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002977</subfield>
+    <subfield code="z">Borgognoni, Teodorico</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Rogerius</subfield>
+    <subfield code="c"> : Parmensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002979</subfield>
+    <subfield code="z">Ruggiero : da#Parma</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Parma,</subfield>
+    <subfield code="b">Ruggero : da</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015141</subfield>
+    <subfield code="z">Ruggiero : da#Parma</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Ruggiero</subfield>
+    <subfield code="c"> : Frugardo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023644</subfield>
+    <subfield code="z">Ruggiero : da#Parma</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Frugardo,</subfield>
+    <subfield code="b">Ruggiero</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023645</subfield>
+    <subfield code="z">Ruggiero : da#Parma</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Rogerius</subfield>
+    <subfield code="c"> : Salernitanus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023646</subfield>
+    <subfield code="z">Ruggiero : da#Parma</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">B. V.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002949</subfield>
+    <subfield code="z">Vitali, Bernardino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Bernardinus Venetus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003178</subfield>
+    <subfield code="z">Vitali, Bernardino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Vidali, Bernardino de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004172</subfield>
+    <subfield code="z">Vitali, Bernardino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Vitalibus, Bernardinus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005902</subfield>
+    <subfield code="z">Vitali, Bernardino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Vitalis, Bernardinus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005903</subfield>
+    <subfield code="z">Vitali, Bernardino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Vitalli, Bernardino di</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005904</subfield>
+    <subfield code="z">Vitali, Bernardino</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca estera - Biblioteca Universidad Complutense de Madrid. Madrid</subfield>
+    <subfield code="1">AA0002</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario Vescovile della Facolt ̉Teologica del Triveneto dell&apos;Istituto Filosofico Aloisianum. Padova</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">PD0073</subfield>
+    <subfield code="2">PUV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Ludovico Jacobilli del Seminario vescovile. Foligno</subfield>
+    <subfield code="1">PG0040</subfield>
+    <subfield code="2">UM1 39</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Federiciana. Fano</subfield>
+    <subfield code="1">PU0018</subfield>
+    <subfield code="2">URB FN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Pavia</subfield>
+    <subfield code="1">PV0291</subfield>
+    <subfield code="2">MIL UP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Vallicelliana. Roma</subfield>
+    <subfield code="1">RM0281</subfield>
+    <subfield code="2">RML 08</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Gambalunghiana. Rimini</subfield>
+    <subfield code="1">RN0013</subfield>
+    <subfield code="2">RAV RI</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Nel coloph.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000671</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">In fine</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001024</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000671</subfield>
+    <subfield code="b">S. Marco in cattedra scrive il Vangelo, ai piedi il leone alato stringe fra gli artigli il libro. Nella targa in basso le iniziali del tipografo B.V.</subfield>
+    <subfield code="c">V508</subfield>
+    <subfield code="c">Z823</subfield>
+    <subfield code="d">Dimensioni: 5 z 6,5</subfield>
+    <subfield code="f">INIZIALI</subfield>
+    <subfield code="f">LEONE</subfield>
+    <subfield code="f">MARCO</subfield>
+    <subfield code="f">VANGELO</subfield>
+    <subfield code="g">1519-1521</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001024</subfield>
+    <subfield code="b">Guerriero che cavalca un bue. Ai quattro lati del rettangolo le iniziali Z.M.B.B.</subfield>
+    <subfield code="c">V403</subfield>
+    <subfield code="c">Z719</subfield>
+    <subfield code="d">Dimensioni: 3,3 x 3</subfield>
+    <subfield code="f">GUERRIERO</subfield>
+    <subfield code="f">BUE</subfield>
+    <subfield code="f">Z.M.B.B.</subfield>
+    <subfield code="g">1518-1532</subfield>
+  </datafield>
+</record>
+</collection>

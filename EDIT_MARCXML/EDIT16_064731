@@ -1,0 +1,108 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01871nam0a22003131i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\064731</controlfield>
+  <controlfield tag="005">20110608000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">lau- heo- lea- onto (C) 1585 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20060615d1585        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Vita et martirio di s. Eleuterio vescouo et di s. Genesio caualiere, martiri romani. Come si truouan in Simone Metafraste, &amp; ne gli antichi libri scritti a mano, a quali conformano i vecchi martirologi di Beda, Vsuardo, Adone, &amp; anco li moderni. Tradottadalla lingua latina in italiana dal r.m. Pietro Fuluio ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Roma</subfield>
+    <subfield code="c">appresso Giacomo Ruffinelli</subfield>
+    <subfield code="d">1585</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\8! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Roma</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Fulvio,</subfield>
+    <subfield code="b">Pietro</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002220</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">Arciconfraternita della Piet ̉dei Carcerati in S. Giovanni della Pigna</subfield>
+    <subfield code="c"> &lt;Roma&gt;</subfield>
+    <subfield code="3">3267</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Ruffinelli, Giacomo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000138</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Arciconfraternita della Piet ̉dei Carcerati</subfield>
+    <subfield code="c"> &lt;Roma&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004142</subfield>
+    <subfield code="z">Arciconfraternita della Piet ̉dei Carcerati in S. Giovanni della Pigna &lt;Roma&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Archicompagnia della Piet ̉dei Carcerati</subfield>
+    <subfield code="c"> &lt;Roma&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004143</subfield>
+    <subfield code="z">Arciconfraternita della Piet ̉dei Carcerati in S. Giovanni della Pigna &lt;Roma&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Roffinello, Giacomo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002579</subfield>
+    <subfield code="z">Ruffinelli, Giacomo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ruffinello, Giacomo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005430</subfield>
+    <subfield code="z">Ruffinelli, Giacomo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ruffinellus, Iacobus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005433</subfield>
+    <subfield code="z">Ruffinelli, Giacomo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Malatestiana. Cesena</subfield>
+    <subfield code="1">FC0011</subfield>
+    <subfield code="2">RAV CS</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Augusta. Perugia</subfield>
+    <subfield code="1">PG0109</subfield>
+    <subfield code="2">UM1 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Collezione privata Tiezzi Mazzoni Della Stella Maestri. Torrita di Siena</subfield>
+    <subfield code="1">SI0161</subfield>
+    <subfield code="2">ZSI 14</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Treviso</subfield>
+    <subfield code="1">TV0114</subfield>
+    <subfield code="2">VIA CT</subfield>
+  </datafield>
+</record>
+</collection>

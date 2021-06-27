@@ -1,0 +1,112 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01695nam0a2200313 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\062233</controlfield>
+  <controlfield tag="005">20100729000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">usm- 51us o-s, ptza (3) 1567 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20051103d1567        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Modus examinandi sacrorum ordinum candidatos, instar Catechismi, per quaestiones, &amp; pias catholicasque responsiones, succinta breuitate digestus. Authore m. Ioanne Holthusio Kempensi</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Brixiae</subfield>
+    <subfield code="c">\Vincenzo Sabbio!</subfield>
+    <subfield code="c">apud Franciscum &amp; Pe. Mariam fratres de Marchettis</subfield>
+    <subfield code="d">1567</subfield>
+    <subfield code="e">Brixiae</subfield>
+    <subfield code="g">apud Vincentium Sabiensem</subfield>
+    <subfield code="g">sumptibus Francisci &amp; Petri Mariae fratrum de Marchettis</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\12!, 149, \1! c.</subfield>
+    <subfield code="d">12ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Brescia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Holthusius,</subfield>
+    <subfield code="b">Joannes</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005040</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Sabbio, Vincenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000044</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Marchetti, Francesco &amp; Marchetti, Pietro Maria</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000789</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Holtusen,</subfield>
+    <subfield code="b">Joannes</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006522</subfield>
+    <subfield code="z">Holthusius, Joannes</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Olthusius,</subfield>
+    <subfield code="b">Ioannes</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019940</subfield>
+    <subfield code="z">Holthusius, Joannes</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Sabiensis, Vincentius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002587</subfield>
+    <subfield code="z">Sabbio, Vincenzo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Sabius, Vincentius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005508</subfield>
+    <subfield code="z">Sabbio, Vincenzo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Sabbius, Vincentius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005511</subfield>
+    <subfield code="z">Sabbio, Vincenzo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Da Sabbio, Vincenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005515</subfield>
+    <subfield code="z">Sabbio, Vincenzo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Ariostea. Ferrara</subfield>
+    <subfield code="1">FE0017</subfield>
+    <subfield code="2">UFE AR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Francesco Melosio. Citt ̉della Pieve</subfield>
+    <subfield code="1">PG0031</subfield>
+    <subfield code="2">UM1 14</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Oliveriana. Pesaro</subfield>
+    <subfield code="1">PU0061</subfield>
+    <subfield code="2">URB OL</subfield>
+  </datafield>
+</record>
+</collection>

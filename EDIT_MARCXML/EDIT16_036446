@@ -1,0 +1,105 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01447nam0a2200301 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\036446</controlfield>
+  <controlfield tag="005">20140410000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">ecc. e.um u-n- unti (3) 1522 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19980504d1522        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Missale Patauiensis cum additionibus benedictionum cereorum, cinerum, palmarum, ignis paschalis, ec</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">\Venezia!</subfield>
+    <subfield code="c">Leonardi Allantse bibliopole Viennensis</subfield>
+    <subfield code="e">Venetijs</subfield>
+    <subfield code="g">in edibus Petri Liechtenstein</subfield>
+    <subfield code="g">impensis egregii viri Luce Allantse bibliopole Viennensis</subfield>
+    <subfield code="h">1522</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\8!, 361, \1! c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Passau</subfield>
+    <subfield code="c"> &lt;Diocesi&gt;</subfield>
+    <subfield code="3">6977</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Liechtenstein, Peter</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000403</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Alantsee, Leonhard</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001253</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Alantsee, Lucas</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003011</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Ecclesia Pataviensis</subfield>
+    <subfield code="3">21827</subfield>
+    <subfield code="z">Passau &lt;Diocesi&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Diocesis Pataviensis</subfield>
+    <subfield code="3">21828</subfield>
+    <subfield code="z">Passau &lt;Diocesi&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Lucidus Lapis, Petrus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004962</subfield>
+    <subfield code="z">Liechtenstein, Peter</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Alantse, Leonardus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004275</subfield>
+    <subfield code="z">Alantsee, Leonhard</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Alantse, Lucas</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004276</subfield>
+    <subfield code="z">Alantsee, Lucas</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Palatina. Sezione musicale. Parma</subfield>
+    <subfield code="1">PR0071</subfield>
+    <subfield code="2">PAR SM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Castello del Buonconsiglio. Fondo Laurence Feininger. Trento</subfield>
+    <subfield code="1">TN0212</subfield>
+    <subfield code="2">ZTN 13</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca capitolare. Udine</subfield>
+    <subfield code="1">UD0102</subfield>
+    <subfield code="2">ZUD 13</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,109 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01427nam0a22003131i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\039665</controlfield>
+  <controlfield tag="005">19990208000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">u-os i-i- m.e- anzi (3) 1589 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19981111d1589        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Novae coelestium orbium Theoricae congruentes cum observationibus N. Copernici</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">ex officina Damiani Zenarii</subfield>
+    <subfield code="d">1589</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">115 c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Magini,</subfield>
+    <subfield code="b">Giovanni Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007049</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Copernicus,</subfield>
+    <subfield code="b">Nicolaus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010989</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Zenaro, Damiano</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000294</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Maginus,</subfield>
+    <subfield code="b">Johannes Antonius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020744</subfield>
+    <subfield code="z">Magini, Giovanni Antonio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Copernico,</subfield>
+    <subfield code="b"></subfield>
+    <subfield code="3">IT\ICCU\CNCA\017872</subfield>
+    <subfield code="z">Copernicus, Nicolaus</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">℗al segno della ℗Salamandra</subfield>
+    <subfield code="c"> &lt;1563-1600&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002327</subfield>
+    <subfield code="z">Zenaro, Damiano</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Genarus, Damianus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002957</subfield>
+    <subfield code="z">Zenaro, Damiano</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Zenarus, Damianus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005823</subfield>
+    <subfield code="z">Zenaro, Damiano</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Zenarius, Damianus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005824</subfield>
+    <subfield code="z">Zenaro, Damiano</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Cuneo</subfield>
+    <subfield code="1">CN0037</subfield>
+    <subfield code="2">TO0 50</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Salvatore Quasimodo. Modica</subfield>
+    <subfield code="1">RG0007</subfield>
+    <subfield code="2">ZRG 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Siracusa</subfield>
+    <subfield code="1">SR0026</subfield>
+    <subfield code="2">SBS SR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Leonardo Centonze. Castelvetrano</subfield>
+    <subfield code="1">TP0059</subfield>
+    <subfield code="2">TPS CV</subfield>
+  </datafield>
+</record>
+</collection>

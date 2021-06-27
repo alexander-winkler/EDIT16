@@ -1,0 +1,107 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01483nam0a2200301 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\034551</controlfield>
+  <controlfield tag="005">20121227000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">s.m. o,s. a,s. AuDe (3) 1566 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19980105d1566        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Publij Ouidij Nasonis poetae Sulmonensis ℗Heroides Epistolae. Cum argumentis ac scholiis diuersorum eruditissimorum uirorum, ac postremo Guidonis Morillonij et Iacobi Micylli diligentia emendatiores dilucidioresque factae</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Monte Regali</subfield>
+    <subfield code="c">excudebat Leonardus Torrentinus</subfield>
+    <subfield code="d">1566</subfield>
+    <subfield code="e">In Monte Regali</subfield>
+    <subfield code="g">ex Officina Torrentiniana</subfield>
+    <subfield code="h">1566</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">139, \3! p.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Mondov</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Ovidius Naso,</subfield>
+    <subfield code="b">Publius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003076</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Moltzer,</subfield>
+    <subfield code="b">Jacob</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012454</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Morillon,</subfield>
+    <subfield code="b">Gui</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012458</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Torrentino, Leonardo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000365</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Ovidius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022433</subfield>
+    <subfield code="z">Ovidius Naso, Publius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Publius Ovidius Naso</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022434</subfield>
+    <subfield code="z">Ovidius Naso, Publius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Micyllus,</subfield>
+    <subfield code="b">Jacobus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022781</subfield>
+    <subfield code="z">Moltzer, Jacob</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Morillonus,</subfield>
+    <subfield code="b">Guido</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021186</subfield>
+    <subfield code="z">Morillon, Gui</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Morillon,</subfield>
+    <subfield code="b">Guy</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021810</subfield>
+    <subfield code="z">Morillon, Gui</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Torrentinus, Leonardus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005584</subfield>
+    <subfield code="z">Torrentino, Leonardo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Cagliari</subfield>
+    <subfield code="1">CA0194</subfield>
+    <subfield code="2">CAG UC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Reale. Torino</subfield>
+    <subfield code="1">TO0263</subfield>
+    <subfield code="2">TO0 07</subfield>
+  </datafield>
+</record>
+</collection>

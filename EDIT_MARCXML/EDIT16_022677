@@ -1,0 +1,160 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02115nam0a2200421 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\022677</controlfield>
+  <controlfield tag="005">20070419000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">t.or etlu r-co rain (3) 1508 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1508        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Horatius cum quattuor commentarius videlicet, Porfirio Agrono Oratio Landino Mancinello</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">\Milano</subfield>
+    <subfield code="c">Da Legnano Giovanni Giacomo e fratelli!</subfield>
+    <subfield code="e">Impressum Mediolani</subfield>
+    <subfield code="g">per magistrum Leonardum Pachel</subfield>
+    <subfield code="h">1508 die XXIV Augusti</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\5!, 257 \i.e. 258! c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Milano</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Horatius Flaccus,</subfield>
+    <subfield code="b">Quintus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001212</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Porphyrio,</subfield>
+    <subfield code="b">Pomponius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006423</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Acron,</subfield>
+    <subfield code="b">Helenius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006424</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Landino,</subfield>
+    <subfield code="b">Cristoforo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000138</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Mancinelli,</subfield>
+    <subfield code="b">Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001005</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Da_Legnano, Giovanni Giacomo &amp; fratelli</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001554</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Pachel, Leonhard</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000080</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Orazio Flacco,</subfield>
+    <subfield code="b">Quinto</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014413</subfield>
+    <subfield code="z">Horatius Flaccus, Quintus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Porfirione,</subfield>
+    <subfield code="b">Pomponio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022990</subfield>
+    <subfield code="z">Porphyrio, Pomponius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Porfirius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022991</subfield>
+    <subfield code="z">Porphyrio, Pomponius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Pomponius,</subfield>
+    <subfield code="b">Porphyrio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022992</subfield>
+    <subfield code="z">Porphyrio, Pomponius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Porphyrion,</subfield>
+    <subfield code="b">Pomponius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022993</subfield>
+    <subfield code="z">Porphyrio, Pomponius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Acro,</subfield>
+    <subfield code="b">Helenius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\027229</subfield>
+    <subfield code="z">Acron, Helenius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Helenius Acro</subfield>
+    <subfield code="3">IT\ICCU\CNCA\027313</subfield>
+    <subfield code="z">Acron, Helenius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Landinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023016</subfield>
+    <subfield code="z">Landino, Cristoforo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Landinus,</subfield>
+    <subfield code="b">Christophorus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023018</subfield>
+    <subfield code="z">Landino, Cristoforo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Mancinellus,</subfield>
+    <subfield code="b">Antonius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019612</subfield>
+    <subfield code="z">Mancinelli, Antonio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Cuneo</subfield>
+    <subfield code="1">CN0037</subfield>
+    <subfield code="2">TO0 50</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Como</subfield>
+    <subfield code="1">CO0059</subfield>
+    <subfield code="2">ZCO 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale. Cremona</subfield>
+    <subfield code="1">CR0062</subfield>
+    <subfield code="2">LO1 28</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Berio. Genova</subfield>
+    <subfield code="1">GE0036</subfield>
+    <subfield code="2">SGE BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Archivio storico civico e Biblioteca Trivulziana. Milano</subfield>
+    <subfield code="1">MI0327</subfield>
+    <subfield code="2">LO1 13</subfield>
+  </datafield>
+</record>
+</collection>

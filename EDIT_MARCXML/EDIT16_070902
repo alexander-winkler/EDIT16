@@ -1,0 +1,137 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02266nam0a22003611i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\070902</controlfield>
+  <controlfield tag="005">20070607000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">erin maic tera ququ (3) 1537 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20070606d1537        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Aristo. ℗Posteriorum libri qui modo concisi mendosique visebantur, ita nuperrime ad integritatem pristinam reuocati, vt Aristotelicam illam maiestatem  ... obtineant ... Adsunt interpretes fidissimi Lynconiensis, atque Burleus, per consummatissimum doct.Pamphilum Montium Bononiensem ... omnibus mendis expurgati. His adiecimus glossemata ab eodem in marginibus appositas ad studiosorum memoriam confirmandam. Habes preterea questiones de mixta. S. Sylli ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetijs</subfield>
+    <subfield code="c">\Scoto</subfield>
+    <subfield code="d">Ottaviano &lt;2.&gt;!</subfield>
+    <subfield code="d">1537</subfield>
+    <subfield code="e">Venetijs</subfield>
+    <subfield code="g">apud Octauianum Scotum</subfield>
+    <subfield code="h">1537</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">54 c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">ANNULLATA !!!! vedi 21863Marche sul front. (V465) e in fine (V466). -  Iniziali xilogr. -  Got. -  Segn.: a-íœ. - In fine. IT\ICCU\BVEM\000012. - Sul front. IT\ICCU\RMLM\000155</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Aristoteles</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000006</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Monti,</subfield>
+    <subfield code="b">Panfilo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000018</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Burley,</subfield>
+    <subfield code="b">Walter</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002139</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Grosseteste,</subfield>
+    <subfield code="b">Robert</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006315</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Scoto, Ottaviano</subfield>
+    <subfield code="c"> &lt;1.&gt; - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000130</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Aristotele</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018928</subfield>
+    <subfield code="z">Aristoteles</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">De_Monte,</subfield>
+    <subfield code="b">Pamphilus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014689</subfield>
+    <subfield code="z">Monti, Panfilo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Montius,</subfield>
+    <subfield code="b">Pamphilus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021418</subfield>
+    <subfield code="z">Monti, Panfilo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Burleus,</subfield>
+    <subfield code="b">Gualterius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012900</subfield>
+    <subfield code="z">Burley, Walter</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Burlaeus,</subfield>
+    <subfield code="b">Gualterus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026279</subfield>
+    <subfield code="z">Burley, Walter</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Linconiensis,</subfield>
+    <subfield code="b">Robertus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014556</subfield>
+    <subfield code="z">Grosseteste, Robert</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Roberto</subfield>
+    <subfield code="c"> : Grossatesta</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020275</subfield>
+    <subfield code="z">Grosseteste, Robert</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Scotus, Octavianus</subfield>
+    <subfield code="c"> &lt;1.&gt; - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005636</subfield>
+    <subfield code="z">Scoto, Ottaviano &lt;1.&gt; - eredi</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Scotti, Ottaviano</subfield>
+    <subfield code="c"> &lt;1.&gt; - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005637</subfield>
+    <subfield code="z">Scoto, Ottaviano &lt;1.&gt; - eredi</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca consorziale di Viterbo. Viterbo</subfield>
+    <subfield code="1">VT0116</subfield>
+    <subfield code="2">RMS B3</subfield>
+  </datafield>
+</record>
+</collection>

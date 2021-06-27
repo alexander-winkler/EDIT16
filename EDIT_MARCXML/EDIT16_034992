@@ -1,0 +1,83 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01071nam0a22002531i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\034992</controlfield>
+  <controlfield tag="005">20160517000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19980108f1589        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">\Tractatum de praesuntionibus!</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="d">\1589?!</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">218 p.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Stampata a Torino da Domenico Tarino; il tipografo, il luogo e la data si ricavano dalla prefazione</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Torino</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Menochio,</subfield>
+    <subfield code="b">Giacomo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001045</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Tarino, Giovanni Domenico</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000675</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Menochio,</subfield>
+    <subfield code="b">Iacopo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019627</subfield>
+    <subfield code="z">Menochio, Giacomo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Menochius,</subfield>
+    <subfield code="b">Jacobus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019628</subfield>
+    <subfield code="z">Menochio, Giacomo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Menocchio,</subfield>
+    <subfield code="b">Iacopo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019669</subfield>
+    <subfield code="z">Menochio, Giacomo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Tarinus, Ioannes Dominicus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005573</subfield>
+    <subfield code="z">Tarino, Giovanni Domenico</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Giovanni Bovio. Trani</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">BA0124</subfield>
+    <subfield code="2">BAT 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca diocesana mons. Alessandro Piazza. Albenga</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">SV0226</subfield>
+    <subfield code="2">PBE Q8</subfield>
+  </datafield>
+</record>
+</collection>

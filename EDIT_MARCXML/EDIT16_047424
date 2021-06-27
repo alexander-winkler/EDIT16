@@ -1,0 +1,63 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00721nam0a22002051i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\047424</controlfield>
+  <controlfield tag="005">19990303000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">t,u: o.us s:us VrNy (C) 1508 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19990222d1508        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Pyladae ℗Genealogia</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\30! c.</subfield>
+    <subfield code="d">4o</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Rosso, Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000904</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Rubeus, Ioannes</subfield>
+    <subfield code="c"> &lt;1480-1519&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002576</subfield>
+    <subfield code="z">Rosso, Giovanni</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Rossi, Giovanni</subfield>
+    <subfield code="c"> &lt;1480-1519&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005407</subfield>
+    <subfield code="z">Rosso, Giovanni</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Belluno</subfield>
+    <subfield code="1">BL0006</subfield>
+    <subfield code="2">VIA CB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+</record>
+</collection>

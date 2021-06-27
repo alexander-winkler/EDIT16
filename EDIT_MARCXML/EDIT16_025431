@@ -1,0 +1,67 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00958nam0a22002171i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\025431</controlfield>
+  <controlfield tag="005">20130326000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970926d1590        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Canzone di d. Giulio Nicoletti nelle nozze del molto illustre signore, il sig. marchese Giouan&apos;Antonio Malaspina et della sig. Valeria Pedemonte</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Verona</subfield>
+    <subfield code="c">appresso Sebastiano delle Donne</subfield>
+    <subfield code="d">1590</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\4! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Verona</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Nicoletti,</subfield>
+    <subfield code="b">Giulio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007436</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Dalle_Donne, Sebastiano</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000563</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Donnis, Sebastianus a</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003704</subfield>
+    <subfield code="z">Dalle_Donne, Sebastiano</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Donne, Sebastiano dalle</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004480</subfield>
+    <subfield code="z">Dalle_Donne, Sebastiano</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Donne, Bastiano dalle</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004481</subfield>
+    <subfield code="z">Dalle_Donne, Sebastiano</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Accademia filarmonica di Verona. Verona</subfield>
+    <subfield code="1">VR0070</subfield>
+    <subfield code="2">ZVR 03</subfield>
+  </datafield>
+</record>
+</collection>

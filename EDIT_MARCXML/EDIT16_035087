@@ -1,0 +1,128 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01714nam0a22003611i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\035087</controlfield>
+  <controlfield tag="005">20080520000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19980108d1515        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Infinita nature secreta ... Physionomie summi Aristotelis, Physionomie Michaeles Scoti, Physionomie Coclitis, Chyromantia eiusdem</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Papiae</subfield>
+    <subfield code="c">per Jacob. Paucidrapius de Burgofranco</subfield>
+    <subfield code="d">1515</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">fol</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Opera falsamente attribuita ad Aristotele</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2="1">
+    <subfield code="3">IT\ICCU\CNCE\023869</subfield>
+    <subfield code="a">Physiognomica</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Pavia</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Aristoteles</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000006</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Cocles,</subfield>
+    <subfield code="b">Bartholomaeus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003731</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Scott,</subfield>
+    <subfield code="b">Michael</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006552</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Pocatela, Giacomo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000347</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Aristotele</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018928</subfield>
+    <subfield code="z">Aristoteles</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Della_Rocca,</subfield>
+    <subfield code="b">Bartolomeo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003732</subfield>
+    <subfield code="z">Cocles, Bartholomaeus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Coclite,</subfield>
+    <subfield code="b">Bartolomeo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009945</subfield>
+    <subfield code="z">Cocles, Bartholomaeus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Cocle,</subfield>
+    <subfield code="b">Bartholomeo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013769</subfield>
+    <subfield code="z">Cocles, Bartholomaeus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Scotto,</subfield>
+    <subfield code="b">Michael</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015214</subfield>
+    <subfield code="z">Scott, Michael</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Scotus,</subfield>
+    <subfield code="b">Michael</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015215</subfield>
+    <subfield code="z">Scott, Michael</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Scot,</subfield>
+    <subfield code="b">Michael</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024065</subfield>
+    <subfield code="z">Scott, Michael</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Burgofrancho, Iacob de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002277</subfield>
+    <subfield code="z">Pocatela, Giacomo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Paucisdrapis, Iacob de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002278</subfield>
+    <subfield code="z">Pocatela, Giacomo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pulchridrapensis, Iacob</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002279</subfield>
+    <subfield code="z">Pocatela, Giacomo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Paucidrapensis, Iacob</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005452</subfield>
+    <subfield code="z">Pocatela, Giacomo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Paucisdrapius, Iacob</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005454</subfield>
+    <subfield code="z">Pocatela, Giacomo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

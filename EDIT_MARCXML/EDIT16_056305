@@ -1,0 +1,89 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01362nam0a22002771i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\056305</controlfield>
+  <controlfield tag="005">20170301000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">s.d- t.v* t.to edim (C) 1553 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20040312d1553        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Omnium Caesarum verissimae imagines ex antiquis numismatis desumptae. Addita per breui cuiusque vitae descriptione ac diligenti eorum, quae reperiri potuerunt numismatum auersae partis delineatione. Libri primi. Editio altera</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">\Venezia!</subfield>
+    <subfield code="c">Aeneas Vicus Parm. f.</subfield>
+    <subfield code="d">1553</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\76! c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Autore del testo Antonio Zantani, il cui nome figura nella pref. - Stampata a Venezia da Paolo Manuzio, cfr. A.A. Renouard, Annales de l&apos;imprimerie des Alde, p. 158, n. 21</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Vico,</subfield>
+    <subfield code="b">Enea</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007974</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Manuzio, Paolo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000570</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Vico, Enea</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003313</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Manutius, Paulus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005020</subfield>
+    <subfield code="z">Manuzio, Paolo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Manutio, Paolo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005021</subfield>
+    <subfield code="z">Manuzio, Paolo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Enea Parm.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004162</subfield>
+    <subfield code="z">Vico, Enea</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Firenze</subfield>
+    <subfield code="1">FI0098</subfield>
+    <subfield code="2">CFI CF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Braidense. Milano</subfield>
+    <subfield code="1">MI0185</subfield>
+    <subfield code="2">MIL NB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">British Library. London</subfield>
+    <subfield code="1">UK0001</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,95 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01251nam0a22002771i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\030825</controlfield>
+  <controlfield tag="005">19990225000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">hoam tuon y.if ququ (3) 1578 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971201d1578        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Opuscola ... Simonis Portii Neapol. cum Iacobi antonii Martae ... Apologia de immortalitate animae aduersus opusculum de mente humana</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Neapoli</subfield>
+    <subfield code="c">apud Horatium Saluianum</subfield>
+    <subfield code="d">1578</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\2!, 56 c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Napoli</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Porzio,</subfield>
+    <subfield code="b">Simone</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004354</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Salviani, Orazio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000065</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Portius,</subfield>
+    <subfield code="b">Simon</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018664</subfield>
+    <subfield code="z">Porzio, Simone</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Porta,</subfield>
+    <subfield code="b">Simone</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018665</subfield>
+    <subfield code="z">Porzio, Simone</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Portio,</subfield>
+    <subfield code="b">Simone</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022679</subfield>
+    <subfield code="z">Porzio, Simone</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Officina Salviana</subfield>
+    <subfield code="c"> &lt;Napoli&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003024</subfield>
+    <subfield code="z">Salviani, Orazio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Salvianus, Horatius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005547</subfield>
+    <subfield code="z">Salviani, Orazio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Charitas della Basilica di S. Francesco. Paola</subfield>
+    <subfield code="1">CS0080</subfield>
+    <subfield code="2">CSA PS</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Pietro De Nava. Reggio Calabria</subfield>
+    <subfield code="1">RC0058</subfield>
+    <subfield code="2">RCA RN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+</record>
+</collection>

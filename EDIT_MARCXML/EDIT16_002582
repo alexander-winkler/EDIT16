@@ -1,0 +1,145 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02324nam0a2200361 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\002582</controlfield>
+  <controlfield tag="005">20070827000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">o.co e.e; e;ra egep (3) 1535 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1535        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Orlando furioso di messer Lodouico Ariosto con la giunta, nouissimamente stampato e corretto. Con vna apologia di m. Lodouico Dolcio contra ai detrattori dell&apos;autore, &amp; vn modo breuissimo di trouar le cose aggiunte; e tauola di tutto quello, ch&apos; ̈contenuto nel libro. Aggiuntoui vna breue espositione dei luoghi difficili</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">\Venezia!</subfield>
+    <subfield code="c">appresso Mapheo Pasini</subfield>
+    <subfield code="d">1535</subfield>
+    <subfield code="e">Impresso in Vinegia</subfield>
+    <subfield code="g">appresso di Mapheo Pasini</subfield>
+    <subfield code="h">&amp; Francesco di Alessandro Bindoni compagni</subfield>
+    <subfield code="h">negli anni del Signore 1535</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">244, \12! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Ariosto,</subfield>
+    <subfield code="b">Ludovico</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000866</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Dolce,</subfield>
+    <subfield code="b">Lodovico</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000014</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Pasini, Maffeo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000061</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Bindoni, Francesco &lt;1.&gt; &amp; Pasini, Maffeo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000060</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Dulcius,</subfield>
+    <subfield code="b">Ludovicus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018398</subfield>
+    <subfield code="z">Dolce, Lodovico</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Dolci,</subfield>
+    <subfield code="b">Lodovico</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018400</subfield>
+    <subfield code="z">Dolce, Lodovico</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pasinus, Mapheus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005293</subfield>
+    <subfield code="z">Pasini, Maffeo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">℗al segno dell&apos;℗Angelo Raffaele</subfield>
+    <subfield code="c"> &lt;1531-1546&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002984</subfield>
+    <subfield code="z">Bindoni, Francesco &lt;1.&gt; &amp; Pasini, Maffeo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Ariostea. Ferrara</subfield>
+    <subfield code="1">FE0017</subfield>
+    <subfield code="2">UFE AR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Firenze</subfield>
+    <subfield code="1">FI0098</subfield>
+    <subfield code="2">CFI CF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Napoli</subfield>
+    <subfield code="1">NA0070</subfield>
+    <subfield code="2">NAP BU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Bertoliana. Vicenza</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">VI0096</subfield>
+    <subfield code="2">VIA BE</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001198</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">nel coloph.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000297</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001198</subfield>
+    <subfield code="b">Due serpenti intrecciati. In alto mano con forbice</subfield>
+    <subfield code="e">Dilexisti malitiam super benignitatem</subfield>
+    <subfield code="c">Z1055</subfield>
+    <subfield code="d">Dimensione: 5 x 7. Con o senza motto</subfield>
+    <subfield code="f">DILEXISTIM</subfield>
+    <subfield code="f">SERPENTI</subfield>
+    <subfield code="f">MANO</subfield>
+    <subfield code="g">1535-1550</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000297</subfield>
+    <subfield code="b">Arcangelo Raffaele e Tobiolo (angelo che tiene per mano un bambino con un pesce). A destra un cane</subfield>
+    <subfield code="c">Z91</subfield>
+    <subfield code="d">Dimensioni: 3,5 x 4,8</subfield>
+    <subfield code="f">ANGELO</subfield>
+    <subfield code="f">CANE</subfield>
+    <subfield code="f">PESCE</subfield>
+    <subfield code="f">BAMBINO</subfield>
+    <subfield code="g">1529-1546</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,83 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01119nam0a2200253 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\005477</controlfield>
+  <controlfield tag="005">20150409000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1510        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Confessione del beato fra Bernardino da Feltro</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Impresso in Milano</subfield>
+    <subfield code="g">per Alexandro Pelizono de fora de Porta Romana per mezo la croxeta</subfield>
+    <subfield code="h">adi xiiii de marzo 1510</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\8! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Milano</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Bernardino</subfield>
+    <subfield code="c"> : da#Feltre</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001651</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Pellizzoni, Alessandro</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000997</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Tomitano,</subfield>
+    <subfield code="b">Martino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012725</subfield>
+    <subfield code="z">Bernardino : da#Feltre</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pelizono, Alexandro</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002477</subfield>
+    <subfield code="z">Pellizzoni, Alessandro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pilizonus, Alexander</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004032</subfield>
+    <subfield code="z">Pellizzoni, Alessandro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pellizonus, Alexander</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005354</subfield>
+    <subfield code="z">Pellizzoni, Alessandro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pelizonus, Alexander</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005355</subfield>
+    <subfield code="z">Pellizzoni, Alessandro</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Augusta. Perugia</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">PG0109</subfield>
+    <subfield code="2">UM1 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">British Library. London</subfield>
+    <subfield code="1">UK0001</subfield>
+  </datafield>
+</record>
+</collection>

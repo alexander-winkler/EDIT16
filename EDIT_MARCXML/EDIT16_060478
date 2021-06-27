@@ -1,0 +1,93 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02009nam0a22002771i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\060478</controlfield>
+  <controlfield tag="005">20060209000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">0.js i.0. usM. adAD (3) 1570 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20050429d1570        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Selecti tractatus iuris varii, vere aurei, de successione tam a testato quam ab intestato, materia frequentissima et utilissima, et quae cum eadem symbolizant, diuersorum clarissimorum u. i. luminum, veterum &amp; recentium, iura testamentorum et aliarum ultimarum voluntatum, substitutionum, aditionum, suitatis legitimae, inuentarij successionum, collationum, et quae eiusdem generis sunt omnia, exactissime complectentes. Quorum catalogum sequens pagina indicabit. In studiosorum ac practicum iuris gratia simul in unum corpus collecti, &amp; emendatius multo, quam ante vnquam, editi, cum summarijs &amp; additionibus ac indice locupletissimo</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud Franciscum Franciscium Senensem</subfield>
+    <subfield code="d">1570</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\56!, 777 \i.e. 775! p.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">De_Franceschi, Francesco</subfield>
+    <subfield code="c"> &lt;senese&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000366</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Franceschi, Francesco de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003741</subfield>
+    <subfield code="z">De_Franceschi, Francesco &lt;senese&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Franciscus Senensis</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003742</subfield>
+    <subfield code="z">De_Franceschi, Francesco &lt;senese&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Francesco Senese</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003743</subfield>
+    <subfield code="z">De_Franceschi, Francesco &lt;senese&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Franciscius, Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003744</subfield>
+    <subfield code="z">De_Franceschi, Francesco &lt;senese&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Franciscis, Franciscus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003745</subfield>
+    <subfield code="z">De_Franceschi, Francesco &lt;senese&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Dipartimento di diritto privato e storia del diritto dell&apos;Universit ̉degli studi di Milano. Milano</subfield>
+    <subfield code="1">MI1334</subfield>
+    <subfield code="2">USM L1</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca e Archivio della curia vescovile. Piacenza</subfield>
+    <subfield code="1">PC0070</subfield>
+    <subfield code="2">ZPC 07</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca centrale dell&apos;Universit ̉degli studi di Perugia. Perugia</subfield>
+    <subfield code="1">PG0251</subfield>
+    <subfield code="2">ZPG 08</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Trento</subfield>
+    <subfield code="1">TN0121</subfield>
+    <subfield code="2">ZTN 01</subfield>
+  </datafield>
+</record>
+</collection>

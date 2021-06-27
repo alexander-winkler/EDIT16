@@ -1,0 +1,133 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02036nam0a2200349 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\016838</controlfield>
+  <controlfield tag="005">20150603000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">u-ci i&amp;is e-n- quco (3) 1574 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1574        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Ioannis Nicolai Rogerii Salernitani. Philosophi ac medici ordinariam medicinam publice profitentis. ℗In Gimnasio Salernitano quaesitum difficillimum accurate explicatum de sede animae, membrorumque principatu ex Galeni Hippocratis, Platonisque placitis aduersus philosophos nunc primum in lucem editum</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Neapoli</subfield>
+    <subfield code="c">apud Iosephum Cachium Aquilanum</subfield>
+    <subfield code="d">1574</subfield>
+    <subfield code="e">Neapoli</subfield>
+    <subfield code="g">apud Iosephum Cachium</subfield>
+    <subfield code="h">1574</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">31, \1! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Napoli</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">De_Roggiero,</subfield>
+    <subfield code="b">Giovanni Nicola</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004772</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Cacchi, Giuseppe</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000064</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Rogerius,</subfield>
+    <subfield code="b">Ioannes Nicolaus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015155</subfield>
+    <subfield code="z">De_Roggiero, Giovanni Nicola</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Roggiero,</subfield>
+    <subfield code="b">Giovanni Nicola : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015168</subfield>
+    <subfield code="z">De_Roggiero, Giovanni Nicola</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Rogiero,</subfield>
+    <subfield code="b">Giovanni Niccol ̣: de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015314</subfield>
+    <subfield code="z">De_Roggiero, Giovanni Nicola</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Cacchius, Iosephus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004389</subfield>
+    <subfield code="z">Cacchi, Giuseppe</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Cacchio, Giuseppe</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004390</subfield>
+    <subfield code="z">Cacchi, Giuseppe</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica A. Mai. Bergamo</subfield>
+    <subfield code="1">BG0026</subfield>
+    <subfield code="2">LO1 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Firenze</subfield>
+    <subfield code="1">FI0098</subfield>
+    <subfield code="2">CFI CF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Marucelliana. Firenze</subfield>
+    <subfield code="1">FI0101</subfield>
+    <subfield code="2">CFI MF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Berio. Genova</subfield>
+    <subfield code="1">GE0036</subfield>
+    <subfield code="2">SGE BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Augusta. Perugia</subfield>
+    <subfield code="1">PG0109</subfield>
+    <subfield code="2">UM1 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Lancisiana. Roma</subfield>
+    <subfield code="1">RM0260</subfield>
+    <subfield code="2">RMS H8</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">su front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000379</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000379</subfield>
+    <subfield code="b">Uomo (Sansone) che trasporta sulle spalle due colonne incrociate</subfield>
+    <subfield code="e">Nihil difficile volenti</subfield>
+    <subfield code="c">V121</subfield>
+    <subfield code="c">Z1022</subfield>
+    <subfield code="d">Dimensioni: 4 x 5</subfield>
+    <subfield code="f">COLONNE</subfield>
+    <subfield code="f">NIHILDIFFI</subfield>
+    <subfield code="f">UOMO</subfield>
+    <subfield code="g">1554-1574</subfield>
+  </datafield>
+</record>
+</collection>

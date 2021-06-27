@@ -1,0 +1,52 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00686ncm0a22001811i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\044556</controlfield>
+  <controlfield tag="005">19990312000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19990115d1596        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">BE</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Madrigali a otto voci. De diversi eccellenti e famosi autori. Con alcuni dialoghi, et echo, per cantar e sonar  ̉due chori</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Anversa</subfield>
+    <subfield code="c">Pierre Phals̈e</subfield>
+    <subfield code="d">1596</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">RISM: Recueils I, 1596/8</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">BE</subfield>
+    <subfield code="d">Anversa</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Phals̈e, Pierre</subfield>
+    <subfield code="c"> &lt;2.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003238</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Phalesio, Pietro</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005416</subfield>
+    <subfield code="z">Phals̈e, Pierre &lt;2.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Phalesius, Petrus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005417</subfield>
+    <subfield code="z">Phals̈e, Pierre &lt;2.&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

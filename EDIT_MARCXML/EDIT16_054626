@@ -1,0 +1,46 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00612na 0a22001451i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\054626</controlfield>
+  <controlfield tag="005">20031112000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20031103             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">De dormitione Beatae Mariae Virginis sermones duo</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Ioannes</subfield>
+    <subfield code="c"> : Damascenus</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004373</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Giovanni</subfield>
+    <subfield code="c"> : Damasceno</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016209</subfield>
+    <subfield code="z">Ioannes : Damascenus &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Johannes</subfield>
+    <subfield code="c"> : Damascenus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026047</subfield>
+    <subfield code="z">Ioannes : Damascenus &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Joannes</subfield>
+    <subfield code="c"> : Damascenus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026048</subfield>
+    <subfield code="z">Ioannes : Damascenus &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,38 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00513na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\068515</controlfield>
+  <controlfield tag="005">20071024000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20061019             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Stanze del sig Torquato Tasso per le lagrime de Maria vergine santissima, &amp; di Giesu Christo nostro signore</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Tasso,</subfield>
+    <subfield code="b">Torquato</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002182</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Uranio,</subfield>
+    <subfield code="b">Felice</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008878</subfield>
+    <subfield code="z">Tasso, Torquato</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Fenice,</subfield>
+    <subfield code="b">Uranio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\017207</subfield>
+    <subfield code="z">Tasso, Torquato</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

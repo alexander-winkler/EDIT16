@@ -1,0 +1,104 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01581nam0a22003011i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\033229</controlfield>
+  <controlfield tag="005">20100315000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">s-s, a.i- m.q; inqu (3) 1601 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">i-s, s.q; ijI. Se7S (3) 1600 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">2</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971217d1600        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Itinerarium nobiliorum Italiae regionum, urbium, oppidorum, et locorum, nunc serio auctum, &amp; tabellis chorographicis, &amp; topographicis locupletatum ... auctoribus Francisco Schotto Antuerpiensi ... et f. Hieronymo ex Capugnano Bonon. praedicatorio</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Vicentiae</subfield>
+    <subfield code="c">apud Petrum Bertellium bibliopolam Patauij</subfield>
+    <subfield code="d">1600-1601</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">2 v.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Il v. 1  ̈pubblicato nel 16012: Itinerarii Italiae pars secunda ... - 1600.Edizione del XVII s</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Vicenza</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Schott,</subfield>
+    <subfield code="b">Franz</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009622</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Giovannini,</subfield>
+    <subfield code="b">Girolamo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000381</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Bertelli, Pietro</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001007</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Schottus,</subfield>
+    <subfield code="b">Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024036</subfield>
+    <subfield code="z">Schott, Franz</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Girolamo</subfield>
+    <subfield code="c"> : da#Capugnano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006127</subfield>
+    <subfield code="z">Giovannini, Girolamo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Capugnano,</subfield>
+    <subfield code="b">Girolamo : da</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007867</subfield>
+    <subfield code="z">Giovannini, Girolamo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Giovannini da Capugnano,</subfield>
+    <subfield code="b">Girolamo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022161</subfield>
+    <subfield code="z">Giovannini, Girolamo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bertellius, Petrus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004359</subfield>
+    <subfield code="z">Bertelli, Pietro</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Girolamo Tartarotti. Rovereto</subfield>
+    <subfield code="1">TN0103</subfield>
+    <subfield code="2">ZTN 08</subfield>
+  </datafield>
+</record>
+</collection>

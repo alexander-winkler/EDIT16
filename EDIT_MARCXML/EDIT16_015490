@@ -1,0 +1,134 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02349nam0a2200361 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\015490</controlfield>
+  <controlfield tag="005">20071004000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e-ro a-** iar- puno (C) 1573 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1573        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Summario de le gratie, indulgentie, et remissioni. Di nuouo concesse, et confermate per ... papa Paolo III &amp; Giulio III alla Santa Compagnia, &amp; scuola del Santissimo Sacramento. Quale nuouamente  ̈stata instituita in Roma, nel monasterio di S. Maria detta Minerua, et successiuamente alla chiesa Cathedrale di Como</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">In Milano</subfield>
+    <subfield code="g">appresso Pacifico Pontio</subfield>
+    <subfield code="h">1573</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\11! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Milano</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Confraternita del SS. Sacramento in Cattedrale</subfield>
+    <subfield code="c"> &lt;Como&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003981</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">Arciconfraternita del SS. Sacramento in S. Maria sopra Minerva</subfield>
+    <subfield code="c"> &lt;Roma&gt;</subfield>
+    <subfield code="3">13560</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Iulius</subfield>
+    <subfield code="c"> &lt;papa</subfield>
+    <subfield code="c"> ; 3.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003087</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Paulus</subfield>
+    <subfield code="c"> &lt;papa</subfield>
+    <subfield code="c"> ; 3.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003227</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Da_Ponte, Pacifico</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000162</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Compagnia del SS. Sacramento in Cattedrale</subfield>
+    <subfield code="c"> &lt;Como&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003982</subfield>
+    <subfield code="z">Confraternita del SS. Sacramento in Cattedrale &lt;Como&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Compagnia e scuola del ss. Sacramento in cattedrale</subfield>
+    <subfield code="c"> &lt;Como&gt;</subfield>
+    <subfield code="3">15500</subfield>
+    <subfield code="z">Confraternita del SS. Sacramento in Cattedrale &lt;Como&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Archiconfraternita del SS. Sacramento in S. Maria sopra Minerva</subfield>
+    <subfield code="c"> &lt;Roma&gt;</subfield>
+    <subfield code="3">13561</subfield>
+    <subfield code="z">Arciconfraternita del SS. Sacramento in S. Maria sopra Minerva &lt;Roma&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Compagnia del Sacr.mo Corpo di Christo, posta nella chiesa di S. Maria sopra Minerua della citt ̉di Roma</subfield>
+    <subfield code="3">28424</subfield>
+    <subfield code="z">Arciconfraternita del SS. Sacramento in S. Maria sopra Minerva &lt;Roma&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Ciocchi Del_Monte,</subfield>
+    <subfield code="b">Giovanni Maria</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014543</subfield>
+    <subfield code="z">Iulius &lt;papa ; 3.&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Farnese,</subfield>
+    <subfield code="b">Alessandro</subfield>
+    <subfield code="c"> &lt;1468-1549&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020800</subfield>
+    <subfield code="z">Paulus &lt;papa ; 3.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pontius, Pacificus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003713</subfield>
+    <subfield code="z">Da_Ponte, Pacifico</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ponte, Pacifico da</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003714</subfield>
+    <subfield code="z">Da_Ponte, Pacifico</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pontio, Pacifico</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004493</subfield>
+    <subfield code="z">Da_Ponte, Pacifico</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ponticus, Pacificus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004494</subfield>
+    <subfield code="z">Da_Ponte, Pacifico</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ponzio, Pacifico</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004496</subfield>
+    <subfield code="z">Da_Ponte, Pacifico</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Como</subfield>
+    <subfield code="1">CO0059</subfield>
+    <subfield code="2">ZCO 01</subfield>
+  </datafield>
+</record>
+</collection>

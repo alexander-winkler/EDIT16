@@ -1,0 +1,45 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00527na 0a22001571i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\016126</controlfield>
+  <controlfield tag="005">20050608000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">De arte magna</subfield>
+  </datafield>
+  <datafield tag="517" ind1="1" ind2=" ">
+    <subfield code="3">IT\ICCU\CNCE\024299</subfield>
+    <subfield code="a">De arte sacra</subfield>
+  </datafield>
+  <datafield tag="517" ind1="1" ind2=" ">
+    <subfield code="3">IT\ICCU\CNCE\052924</subfield>
+    <subfield code="a">Physika kai mystika</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Democritus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004352</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Bolus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016464</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Democrito</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019691</subfield>
+    <subfield code="z">Democritus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Bolus</subfield>
+    <subfield code="c"> : Mendesius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016465</subfield>
+    <subfield code="z">Bolus</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

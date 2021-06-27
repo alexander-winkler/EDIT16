@@ -1,0 +1,108 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01670nam0a2200313 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\055225</controlfield>
+  <controlfield tag="005">20130419000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">buci uduo sama umag (C) 1507 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20040109d1507        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">\Phyladae vocabularium cum eiusdem interpretamento: &amp; Georgi Vallae De orthographia opusculum quam accuratissime compilatum!</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Impressum Mediolani</subfield>
+    <subfield code="g">per magistrum Petrum Martirem &amp; fratres de Mantegatiis</subfield>
+    <subfield code="g">ad impensas presbiteri Nicolai Gorgonzolis</subfield>
+    <subfield code="h">1507 die xix Iulii</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\12! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Deescrizione basata su esemplare mutilo della prima parte contenente il Vocabolarium di Boccardo. - Il tit. si ricava da c.b4r</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Milano</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Valla,</subfield>
+    <subfield code="b">Giorgio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000102</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Boccardo,</subfield>
+    <subfield code="b">Giovanni Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000125</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a"></subfield>
+    <subfield code="3">IT\ICCU\CNCT\000205</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Mantegazza, Pietro Martire &amp; fratelli</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000903</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Valla,</subfield>
+    <subfield code="b">Georgius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024507</subfield>
+    <subfield code="z">Valla, Giorgio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Pylades</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002350</subfield>
+    <subfield code="z">Boccardo, Giovanni Francesco</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Pilade</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012800</subfield>
+    <subfield code="z">Boccardo, Giovanni Francesco</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Buccardus,</subfield>
+    <subfield code="b">Joannes Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012801</subfield>
+    <subfield code="z">Boccardo, Giovanni Francesco</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Pilade,</subfield>
+    <subfield code="b">Giovanni Francesco Boccardo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\027218</subfield>
+    <subfield code="z">Boccardo, Giovanni Francesco</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Nicolo da Gorgonzola</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004950</subfield>
+    <subfield code="z"></subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Archivio storico civico e Biblioteca Trivulziana. Milano</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">MI0327</subfield>
+    <subfield code="2">LO1 13</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">British Library. London</subfield>
+    <subfield code="1">UK0001</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,44 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00580na 0a22001451i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\077753</controlfield>
+  <controlfield tag="005">20121204000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20121204             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Tractatus de duodecim persecutionibus ...</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Vivaldi,</subfield>
+    <subfield code="b">Giovanni Ludovico</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007025</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Vivaldus,</subfield>
+    <subfield code="b">Joannes Ludovicus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025522</subfield>
+    <subfield code="z">Vivaldi, Giovanni Ludovico</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Vivaldi,</subfield>
+    <subfield code="b">Lodovico</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025523</subfield>
+    <subfield code="z">Vivaldi, Giovanni Ludovico</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Vivaldo,</subfield>
+    <subfield code="b">Ludovico</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025524</subfield>
+    <subfield code="z">Vivaldi, Giovanni Ludovico</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,79 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01044nam0a2200241 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\069114</controlfield>
+  <controlfield tag="005">20130408000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">s.e: ceas asis VrEt (C) 1523 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20061218d1523        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Diui Sebastiani encomion a Macario Mutio Camerti</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Camerini</subfield>
+    <subfield code="g">excussit Io. Iacobus de Benedictis Bononiensis</subfield>
+    <subfield code="h">suis &amp; Lodouici Placidi socii sumptibus</subfield>
+    <subfield code="h">4 Kal. Aug. 1523</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\12! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Camerino</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Muzio,</subfield>
+    <subfield code="b">Macario</subfield>
+    <subfield code="3">IT\ICCU\CNCA\011232</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Benedetti, Giovanni Giacomo &amp; Placidio, Luigi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003226</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Mutio,</subfield>
+    <subfield code="b">Macario</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021328</subfield>
+    <subfield code="z">Muzio, Macario</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Mutius,</subfield>
+    <subfield code="b">Macarius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022616</subfield>
+    <subfield code="z">Muzio, Macario</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Placidio, Luigi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003227</subfield>
+    <subfield code="z">Benedetti, Giovanni Giacomo &amp; Placidio, Luigi</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Angelica. Roma</subfield>
+    <subfield code="1">RM0290</subfield>
+    <subfield code="2">RML 06</subfield>
+  </datafield>
+</record>
+</collection>

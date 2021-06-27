@@ -1,0 +1,40 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00455nam0a22001451i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\021855</controlfield>
+  <controlfield tag="005">20080206000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101f1555        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Commento sopra la grammatica d&apos;Alessandro di Villa Dei</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">\Biella</subfield>
+    <subfield code="c">Antonio Mondella</subfield>
+    <subfield code="d">1555!</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Biella</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Groppo,</subfield>
+    <subfield code="b">Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006311</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Mondella, Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000237</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

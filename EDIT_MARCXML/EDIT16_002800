@@ -1,0 +1,141 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02064nam0a2200373 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\002800</controlfield>
+  <controlfield tag="005">20100614000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">1230 sele nii. DeRe (3) 1581 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">o.o: o.re i,i, QuLa (3) 1581 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">2</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1581        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Rime et satire di m. Lodouico Ariosto. Da lui scritte nella sua giouent.̮ Con l&apos;annotationi intorno a&apos; concetti; et con breui dichiarationi d&apos;alcune historie, che in esse si contengono. Di m. Francesco Turchi treuigiano</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Venetia</subfield>
+    <subfield code="c">appresso Oratio de&apos; Gobbi</subfield>
+    <subfield code="d">1581</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">2 v.</subfield>
+    <subfield code="d">12ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Ariosto,</subfield>
+    <subfield code="b">Ludovico</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000866</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Turchi,</subfield>
+    <subfield code="b">Francesco</subfield>
+    <subfield code="c"> &lt;trevigiano&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000205</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Gobbi, Orazio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000755</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Francesco</subfield>
+    <subfield code="c"> : da#Treuigi</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015063</subfield>
+    <subfield code="z">Turchi, Francesco &lt;trevigiano&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Accademico viterbese</subfield>
+    <subfield code="3">IT\ICCU\CNCA\029332</subfield>
+    <subfield code="z">Turchi, Francesco &lt;trevigiano&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">De_Gobbi, Orazio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003157</subfield>
+    <subfield code="z">Gobbi, Orazio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Gobbis, Horatius de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004949</subfield>
+    <subfield code="z">Gobbi, Orazio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Ariostea. Ferrara</subfield>
+    <subfield code="1">FE0017</subfield>
+    <subfield code="2">UFE AR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Firenze</subfield>
+    <subfield code="1">FI0098</subfield>
+    <subfield code="2">CFI CF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Genova</subfield>
+    <subfield code="1">GE0038</subfield>
+    <subfield code="2">LIG 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Ambrosiana. Milano</subfield>
+    <subfield code="1">MI0133</subfield>
+    <subfield code="2">VBA 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Braidense. Milano</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">MI0185</subfield>
+    <subfield code="2">MIL NB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Michele Leoni. Fidenza</subfield>
+    <subfield code="1">PR0013</subfield>
+    <subfield code="2">PAR LE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Forteguerriana. Pistoia</subfield>
+    <subfield code="1">PT0025</subfield>
+    <subfield code="2">RT1 IE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca capitolare Fabroniana. Pistoia</subfield>
+    <subfield code="1">PT0026</subfield>
+    <subfield code="2">RT1 LB</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sui front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000380</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000380</subfield>
+    <subfield code="b">Tempo (vecchio alato, con clessidra sul capo, e  frusta nella mano destra). In alto sole e luna.</subfield>
+    <subfield code="e">Dum tempus habemus operemur bonum.</subfield>
+    <subfield code="c">V334</subfield>
+    <subfield code="d">Dimensioni : 4 x 3,5</subfield>
+    <subfield code="f">CLESSIDRA</subfield>
+    <subfield code="f">DUMTEMPUSH</subfield>
+    <subfield code="f">TEMPO</subfield>
+    <subfield code="f">VECCHI0</subfield>
+    <subfield code="g">[dopo il 1553]-1581</subfield>
+  </datafield>
+</record>
+</collection>

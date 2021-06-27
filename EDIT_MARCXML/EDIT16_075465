@@ -1,0 +1,128 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01822nam0a2200337 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\075465</controlfield>
+  <controlfield tag="005">20110228000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">iss* m:*, tes, InDe (3) 1573 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20101104d1573        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">De hortorum cultura libri III Iosephi Milii Voltolinae. Ad Isabellam sociam</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">ex officina Iosephi Zenari</subfield>
+    <subfield code="c">\eredi di Giovanni Maria Bonelli!</subfield>
+    <subfield code="d">1573</subfield>
+    <subfield code="e">Venetiis</subfield>
+    <subfield code="g">ex officina Iosephi Zenari</subfield>
+    <subfield code="h">1573</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">35, \1! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Milio,</subfield>
+    <subfield code="b">Girolamo Giuseppe</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010243</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Zenaro, Giuseppe</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003806</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Bonelli, Giovanni Maria</subfield>
+    <subfield code="c"> &lt;1.&gt; - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000992</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Milio,</subfield>
+    <subfield code="b">Giuseppe</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010244</subfield>
+    <subfield code="z">Milio, Girolamo Giuseppe</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Milius,</subfield>
+    <subfield code="b">Iosephus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022788</subfield>
+    <subfield code="z">Milio, Girolamo Giuseppe</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Mylius,</subfield>
+    <subfield code="b">Josephus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026553</subfield>
+    <subfield code="z">Milio, Girolamo Giuseppe</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Voltolina,</subfield>
+    <subfield code="b">Giuseppe Mejo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026554</subfield>
+    <subfield code="z">Milio, Girolamo Giuseppe</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Genaro, Giuseppe</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003807</subfield>
+    <subfield code="z">Zenaro, Giuseppe</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Teresiana. Mantova</subfield>
+    <subfield code="1">MN0035</subfield>
+    <subfield code="2">LO1 12</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Carlo Negroni. Novara</subfield>
+    <subfield code="1">NO0054</subfield>
+    <subfield code="2">TO0 08</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario Vescovile della Facolt ̉Teologica del Triveneto dell&apos;Istituto Filosofico Aloisianum. Padova</subfield>
+    <subfield code="1">PD0073</subfield>
+    <subfield code="2">PUV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Augusta. Perugia</subfield>
+    <subfield code="1">PG0109</subfield>
+    <subfield code="2">UM1 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Querini Stampalia. Venezia</subfield>
+    <subfield code="1">VE0047</subfield>
+    <subfield code="2">VEA QS</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001271</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001271</subfield>
+    <subfield code="b">Minerva con elmo, lancia e scudo cavalca un leone. In cornice figurata.</subfield>
+    <subfield code="e">Virtuti omnia parent</subfield>
+    <subfield code="c">U258</subfield>
+    <subfield code="d">Dimensioni: 3,8 x 5</subfield>
+    <subfield code="f">MINERVA</subfield>
+    <subfield code="g">1573-1599</subfield>
+  </datafield>
+</record>
+</collection>

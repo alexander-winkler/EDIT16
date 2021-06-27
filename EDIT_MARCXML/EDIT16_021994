@@ -1,0 +1,75 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00975nam0a22002291i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\021994</controlfield>
+  <controlfield tag="005">20121013000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101f1520        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">GRC</subfield>
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Guarini Veronensis viri peritissimi ℗Grammaticales regule incipiunt</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Tusculani</subfield>
+    <subfield code="g">per Alexandrum de Paganinis apud Lacum Benacensem</subfield>
+    <subfield code="h">\circa 1520!</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\18! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Toscolano</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Guarino</subfield>
+    <subfield code="c"> : Veronese</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003041</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Paganini, Alessandro</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000192</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Guarini,</subfield>
+    <subfield code="b">Guarino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014293</subfield>
+    <subfield code="z">Guarino : Veronese</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Guarinus</subfield>
+    <subfield code="c"> : Veronensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014294</subfield>
+    <subfield code="z">Guarino : Veronese</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Paganino, Alessandro</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005250</subfield>
+    <subfield code="z">Paganini, Alessandro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Paganinis, Alexander de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005251</subfield>
+    <subfield code="z">Paganini, Alessandro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Paganinus, Alexander</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005252</subfield>
+    <subfield code="z">Paganini, Alessandro</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

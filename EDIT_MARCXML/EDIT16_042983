@@ -1,0 +1,32 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00442na 0a22001211i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\042983</controlfield>
+  <controlfield tag="005">20071001000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19981222             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Libro secondo delle Indie occidentali</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Fernandez de Oviedo y Valdš,</subfield>
+    <subfield code="b">Gonzalo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000191</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Oviedo y Valdes,</subfield>
+    <subfield code="b">Gonzalo Fernandez : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014866</subfield>
+    <subfield code="z">Fernandez de Oviedo y Valdš, Gonzalo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

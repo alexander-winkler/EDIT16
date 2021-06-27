@@ -1,0 +1,77 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01332nam0a2200253 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\014812</controlfield>
+  <controlfield tag="005">20040224000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">ntli i.ri o.o. esIo (7) 156. (Q)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101f15601569    0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Collegii Mediolanensis doctorum. Inuocato Christi nomine. In causa vertente inter illustrissimos duces Florentie, &amp; Ferrarie, in qua queritur cui eorum illustrissimorum ducum ius precedentie de iure competat plura adduci possunt fundamenta que prima fronte pro illustrissimo duce Ferrarie vrgere videntur</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="d">\156.!</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">17, \3! p.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Parere sulla questione della precedenza fra il duca di Ferrara e il duca di Firenze. - Stampato presumibilmente a Firenze</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Firenze</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Collegio dei giureconsulti</subfield>
+    <subfield code="c"> &lt;Milano&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003375</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">s.n.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000002</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Collegium iureconsultorum Mediolanensium</subfield>
+    <subfield code="3">8280</subfield>
+    <subfield code="z">Collegio dei giureconsulti &lt;Milano&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Collegium Mediolanense doctorum</subfield>
+    <subfield code="3">8282</subfield>
+    <subfield code="z">Collegio dei giureconsulti &lt;Milano&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Riccardiana. Firenze</subfield>
+    <subfield code="1">FI0094</subfield>
+    <subfield code="2">CFI RF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Moreniana. Firenze</subfield>
+    <subfield code="1">FI0099</subfield>
+    <subfield code="2">RT1 BP</subfield>
+  </datafield>
+</record>
+</collection>

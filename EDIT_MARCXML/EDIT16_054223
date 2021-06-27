@@ -1,0 +1,123 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01574nam0a2200349 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\054223</controlfield>
+  <controlfield tag="005">20060406000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">o*pe neo- i,et nequ (C) 1535 (Q)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20030410f1535        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Libro de l&apos;amore diuino et humano</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="d">\non dopo il 1535!</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\48! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Stampato presumibilmente a Roma da Benedetto Giunta, come si ricava dalla prefazione del curatore</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Roma</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Leone</subfield>
+    <subfield code="c"> : Ebreo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006802</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Marsi,</subfield>
+    <subfield code="b">Leonardo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007174</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Giunta, Benedetto</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000746</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Abrabanel,</subfield>
+    <subfield code="b">Juda ben Isaac</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007525</subfield>
+    <subfield code="z">Leone : Ebreo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Abravanel,</subfield>
+    <subfield code="b">Jehudah ben Ishaq</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012308</subfield>
+    <subfield code="z">Leone : Ebreo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Abravanel,</subfield>
+    <subfield code="b">Judah</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020544</subfield>
+    <subfield code="z">Leone : Ebreo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Abarbanel,</subfield>
+    <subfield code="b"></subfield>
+    <subfield code="3">IT\ICCU\CNCA\020545</subfield>
+    <subfield code="z">Leone : Ebreo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Leo</subfield>
+    <subfield code="c"> : Hebraeus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021291</subfield>
+    <subfield code="z">Leone : Ebreo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Marsus,</subfield>
+    <subfield code="b">Leonardus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021096</subfield>
+    <subfield code="z">Marsi, Leonardo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Iunta, Benedictus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003882</subfield>
+    <subfield code="z">Giunta, Benedetto</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Gionta, Benedetto</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004908</subfield>
+    <subfield code="z">Giunta, Benedetto</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Giunti, Benedetto</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004909</subfield>
+    <subfield code="z">Giunta, Benedetto</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale dell&apos;Archiginnasio. Bologna</subfield>
+    <subfield code="1">BO0304</subfield>
+    <subfield code="2">UBO GA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale degli Intronati. Siena</subfield>
+    <subfield code="1">SI0046</subfield>
+    <subfield code="2">RT1 QI</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,189 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02965nam0a2200481 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\055260</controlfield>
+  <controlfield tag="005">20150715000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">5451 ephy n-it pipo (3) 1514 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20040112d1514        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Has Terentii comoedias cum expositoribus Guidone Iuuenale &amp; Iodoco Badio Ascensio: eiusdemque prenotamentis Vincentius Minutianus Alexandri filius recognouit: cum tam elegantis poete calamitatem miseratus in quo nullus versus  suis rationibus constabat tum vt ven. viro presbytero Nicolao Gorgonzole obsequeretur cuius impensa sic castigatum hoc opus habes studiosa cohors ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">\Milano</subfield>
+    <subfield code="c">Niccol ̣Gorgonzola!</subfield>
+    <subfield code="e">\Milano!</subfield>
+    <subfield code="g">diligenti cura et impensa vene. presbyteri Nicolai de Gorgonzola</subfield>
+    <subfield code="g">iterum educt. ex libraria Minutiani</subfield>
+    <subfield code="h">1514 Id. Aprilis</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\6!, 170 \i.e. 172! c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Milano</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Terentius Afer,</subfield>
+    <subfield code="b">Publius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003195</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Jouennaux,</subfield>
+    <subfield code="b">Guy</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013327</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Minuziano,</subfield>
+    <subfield code="b">Vincenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024984</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Bade,</subfield>
+    <subfield code="b">Josse</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001185</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Minuziano, Alessandro</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000404</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a"></subfield>
+    <subfield code="3">IT\ICCU\CNCT\000205</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Terenzio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014983</subfield>
+    <subfield code="z">Terentius Afer, Publius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Iuvenalis,</subfield>
+    <subfield code="b">Guido</subfield>
+    <subfield code="3">IT\ICCU\CNCA\017034</subfield>
+    <subfield code="z">Jouennaux, Guy</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Jouanneaux,</subfield>
+    <subfield code="b">Guy</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019516</subfield>
+    <subfield code="z">Jouennaux, Guy</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Jouenneaux,</subfield>
+    <subfield code="b">Guy</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019517</subfield>
+    <subfield code="z">Jouennaux, Guy</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Guido</subfield>
+    <subfield code="c"> : a Iuvenale</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019519</subfield>
+    <subfield code="z">Jouennaux, Guy</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Minutianus,</subfield>
+    <subfield code="b">Vincentius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024986</subfield>
+    <subfield code="z">Minuziano, Vincenzo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Badius Ascensius Jodocus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003294</subfield>
+    <subfield code="z">Bade, Josse</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Ascensius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026332</subfield>
+    <subfield code="z">Bade, Josse</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Minutianus, Alexander</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004001</subfield>
+    <subfield code="z">Minuziano, Alessandro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Officina Minutiana</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005200</subfield>
+    <subfield code="z">Minuziano, Alessandro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Libraria Minutiana</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005201</subfield>
+    <subfield code="z">Minuziano, Alessandro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Minutiano, Alessandro</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005202</subfield>
+    <subfield code="z">Minuziano, Alessandro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Nicolo da Gorgonzola</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004950</subfield>
+    <subfield code="z"></subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica A. Mai. Bergamo</subfield>
+    <subfield code="1">BG0026</subfield>
+    <subfield code="2">LO1 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Queriniana. Brescia</subfield>
+    <subfield code="1">BS0026</subfield>
+    <subfield code="2">ZBS 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale. Cremona</subfield>
+    <subfield code="1">CR0062</subfield>
+    <subfield code="2">LO1 28</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario arcivescovile maggiore. Firenze</subfield>
+    <subfield code="1">FI0056</subfield>
+    <subfield code="2">RT1 QM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Accademia nazionale dei Lincei e Corsiniana. Roma</subfield>
+    <subfield code="1">RM0418</subfield>
+    <subfield code="2">RML 10</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">British Library. London</subfield>
+    <subfield code="1">UK0001</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front. e nel coloph.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000436</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000436</subfield>
+    <subfield code="b">Nastro con nome di Nicolaus Gorgonzola avvolge uno scettro che ha alla base una P e all&apos;apice una stella. Intorno ornamenti floreali.</subfield>
+    <subfield code="c">K70</subfield>
+    <subfield code="c">Z913</subfield>
+    <subfield code="f">GORGONZOLA</subfield>
+    <subfield code="f">LETTERAP</subfield>
+    <subfield code="f">NASTRO</subfield>
+    <subfield code="f">NICOLAUS</subfield>
+    <subfield code="f">STELLA</subfield>
+    <subfield code="g">1509-1523</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,90 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01512nam0a2200265 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\058921</controlfield>
+  <controlfield tag="005">20150910000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e.le o.ra raa- n-he (C) 1567 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20040802d1567        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Extraordinario libro di architettura di Sebastiano Serlio, architetto del re christianissimo. Nel quale si dimostrano trenta porte di opera rustica mista con diuersi ordini: &amp; uenti di opera dilicata di diuerse specie, con la scrittura dauanti, che narrail tutto</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Venetia</subfield>
+    <subfield code="c">appresso Giouambattista</subfield>
+    <subfield code="d">Marchio Sessa</subfield>
+    <subfield code="d">&amp; fratelli</subfield>
+    <subfield code="d">1567</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\6! c., \50! c. di tav.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Serlio,</subfield>
+    <subfield code="b">Sebastiano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008601</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Sessa, Giovanni Battista &lt;2.&gt; &amp; Sessa, Melchiorre &lt;2.&gt; &amp; fratelli</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000497</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Serlius,</subfield>
+    <subfield code="b">Sebastianus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025766</subfield>
+    <subfield code="z">Serlio, Sebastiano</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Sessa, Melchiorre &lt;2.&gt; &amp; fratelli</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000498</subfield>
+    <subfield code="z">Sessa, Giovanni Battista &lt;2.&gt; &amp; Sessa, Melchiorre &lt;2.&gt; &amp; fratelli</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Firenze</subfield>
+    <subfield code="1">FI0098</subfield>
+    <subfield code="2">CFI CF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Archivio Museo. Bassano del Grappa</subfield>
+    <subfield code="1">VI0005</subfield>
+    <subfield code="2">VIA BA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Centro internazionale di studi di architettura Andrea Palladio. Vicenza</subfield>
+    <subfield code="1">VI0095</subfield>
+    <subfield code="2">VIA AP</subfield>
+  </datafield>
+</record>
+</collection>

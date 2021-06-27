@@ -1,0 +1,108 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01601nam0a2200289 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\051406</controlfield>
+  <controlfield tag="005">20080327000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">i-s. o.:&amp; m.i- Siti (3) 1590 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20010104d1590        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Grammaticae rudimenta in tyronum gratiam ex Donato &amp; alijs grammaticis quam accuratissime collecta, multisque adnotationibus causa studiosorum locupletata a Christophoro Garnerio</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Taurini</subfield>
+    <subfield code="c">apud Ioan. Michaelem &amp; Ioan. Franciscum</subfield>
+    <subfield code="d">fratres de Cauallerijs</subfield>
+    <subfield code="d">1590.</subfield>
+    <subfield code="e">Taurini</subfield>
+    <subfield code="g">apud Io. Baptistam Beuilaquam</subfield>
+    <subfield code="h">1590</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\2!, 16 p.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Torino</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Donatus,</subfield>
+    <subfield code="b">Aelius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000324</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Garnier,</subfield>
+    <subfield code="b">Christophe</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016104</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Cavalleri, Giovanni Michele &amp; Cavalleri, Giovanni Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001602</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Bevilacqua, Giovanni Battista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001147</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Dionisius,</subfield>
+    <subfield code="b">Appollonius Donatus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004906</subfield>
+    <subfield code="z">Donatus, Aelius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Aelius</subfield>
+    <subfield code="c"> : Donatus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009367</subfield>
+    <subfield code="z">Donatus, Aelius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Garnerius,</subfield>
+    <subfield code="b">Christophorus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020694</subfield>
+    <subfield code="z">Garnier, Christophe</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Cavalleri, Giovanni Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001603</subfield>
+    <subfield code="z">Cavalleri, Giovanni Michele &amp; Cavalleri, Giovanni Francesco</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Reale. Torino</subfield>
+    <subfield code="1">TO0263</subfield>
+    <subfield code="2">TO0 07</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001114</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001114</subfield>
+    <subfield code="b">Due cavalli alati affrontati con al centro il caduceo</subfield>
+    <subfield code="e">A Pegaso in Parnassum</subfield>
+    <subfield code="c">Z946</subfield>
+    <subfield code="d">Con o senza motto</subfield>
+    <subfield code="f">PEGASO</subfield>
+    <subfield code="f">CAVALLO</subfield>
+    <subfield code="f">CADUCEO</subfield>
+    <subfield code="g">1590-1598</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,94 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01249nam0a2200265 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\011588</controlfield>
+  <controlfield tag="005">20070911000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e.ro 8988 o-e- ripr (3) 1559 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1559        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Missale Romanum</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">\Venezia</subfield>
+    <subfield code="c">Giovanni Varisco &amp; C.!</subfield>
+    <subfield code="e">In inclyta Venetiarum urbe</subfield>
+    <subfield code="g">apud Ioannem Variscum &amp; socios</subfield>
+    <subfield code="h">1559. Mense Ianuario</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\8!, 248 c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2="0">
+    <subfield code="3">IT\ICCU\CNCE\037213</subfield>
+    <subfield code="a">Missale</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Chiesa cattolica</subfield>
+    <subfield code="3">6731</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Varisco, Giovanni &amp; C.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002997</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Guarisco, Giovanni &amp; C.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\006428</subfield>
+    <subfield code="z">Varisco, Giovanni &amp; C.</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">nel front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000303</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">nel coloph.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001289</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000303</subfield>
+    <subfield code="b">Sirena coronata, bicaudata, che tiene le due code alzate con le mani. In cornice figurata</subfield>
+    <subfield code="c">Z1096</subfield>
+    <subfield code="d">Dimensioni: 6,2 x 7,2</subfield>
+    <subfield code="f">CODE</subfield>
+    <subfield code="f">CORNICE</subfield>
+    <subfield code="f">CORONA</subfield>
+    <subfield code="f">SIRENA</subfield>
+    <subfield code="g">1558-1595</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001289</subfield>
+    <subfield code="b">Sirena  bicaudata tiene le due code alzate con le mani.</subfield>
+    <subfield code="c">U270</subfield>
+    <subfield code="d">Dimensioni:6,5 x 8</subfield>
+    <subfield code="f">SIRENA</subfield>
+    <subfield code="g">1537-1580</subfield>
+  </datafield>
+</record>
+</collection>

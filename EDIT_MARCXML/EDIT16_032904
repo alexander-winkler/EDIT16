@@ -1,0 +1,114 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01694nam0a22003251i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\032904</controlfield>
+  <controlfield tag="005">19990302000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">a,e- s.o- loum fivn (3) 1537 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971216d1537        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Fratris Ambrosii Quistellii ... ℗De verbo Dei, non in sublimitate sermonis, nec inani scientia praedicando libellus ... Nunc primum in lucem prodiens</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Venetiis</subfield>
+    <subfield code="g">Stephanus Sabiensis excudebat</subfield>
+    <subfield code="h">1537</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\8!, 114, \2! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Quistellio,</subfield>
+    <subfield code="b">Ambrogio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012746</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Nicolini da Sabbio, Stefano</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000217</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Quistelli,</subfield>
+    <subfield code="b">Ambrogio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\028118</subfield>
+    <subfield code="z">Quistellio, Ambrogio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Quistellius,</subfield>
+    <subfield code="b">Ambrosius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\028119</subfield>
+    <subfield code="z">Quistellio, Ambrogio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Quistelli,</subfield>
+    <subfield code="b">Ambrosius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\028422</subfield>
+    <subfield code="z">Quistellio, Ambrogio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Sabiensis, Stephanus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002440</subfield>
+    <subfield code="z">Nicolini da Sabbio, Stefano</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Sabio, Stephanus a</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002441</subfield>
+    <subfield code="z">Nicolini da Sabbio, Stefano</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Nicolini, Stefano</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005125</subfield>
+    <subfield code="z">Nicolini da Sabbio, Stefano</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Nicolinus Sabiensis, Stephanus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005126</subfield>
+    <subfield code="z">Nicolini da Sabbio, Stefano</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei Cappuccini di Puglia. Bari</subfield>
+    <subfield code="1">BA0017</subfield>
+    <subfield code="2">BA1 21</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario arcivescovile. Oristano</subfield>
+    <subfield code="1">OR0035</subfield>
+    <subfield code="2">PBE 91</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Padova</subfield>
+    <subfield code="1">PD0158</subfield>
+    <subfield code="2">PUV 00</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Ludovico Jacobilli del Seminario vescovile. Foligno</subfield>
+    <subfield code="1">PG0040</subfield>
+    <subfield code="2">UM1 39</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca S. Francesco della Vigna. Venezia</subfield>
+    <subfield code="1">VE0031</subfield>
+    <subfield code="2">VIA SF</subfield>
+  </datafield>
+</record>
+</collection>

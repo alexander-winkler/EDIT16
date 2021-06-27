@@ -1,0 +1,188 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02791nam0a2200469 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\002154</controlfield>
+  <controlfield tag="005">20090218000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">tot, a4.9 uen- quAt (3) 1600 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1600        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Aphthonij sophistae ℗Progymnasmata. Partim a Rodulpho Agricola, partim a Ioanne Maria Catanaeo latinitate donata. Cum scholijs Rheinardi Lorichij Hadamarij damnati auctoris, olim aeditis, ac prohibitis, nunc iussu superiorum expurgatis,&amp; permissis</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Brixiae</subfield>
+    <subfield code="c">in aedibus Polycreti Turlini</subfield>
+    <subfield code="e">Brixiae</subfield>
+    <subfield code="g">in aedibus Polycreti Turlini</subfield>
+    <subfield code="h">1600</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\16!, 390, \2! p.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Brescia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Aphthonius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000796</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Lorich,</subfield>
+    <subfield code="b">Reinhard</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026292</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Cattaneo,</subfield>
+    <subfield code="b">Giovanni Maria</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000212</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Agricola,</subfield>
+    <subfield code="b">Rudolf</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000214</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Turlino, Policreto</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000250</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Aphthonius</subfield>
+    <subfield code="c"> : Antiochenus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026276</subfield>
+    <subfield code="z">Aphthonius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Lorichius,</subfield>
+    <subfield code="b">Reinhardus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026293</subfield>
+    <subfield code="z">Lorich, Reinhard</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Catanaeus,</subfield>
+    <subfield code="b">Ioannes Maria</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013071</subfield>
+    <subfield code="z">Cattaneo, Giovanni Maria</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Huusman,</subfield>
+    <subfield code="b">Roelof</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014480</subfield>
+    <subfield code="z">Agricola, Rudolf</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Huisman,</subfield>
+    <subfield code="b">Roelof</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014481</subfield>
+    <subfield code="z">Agricola, Rudolf</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Agricola,</subfield>
+    <subfield code="b">Rodolphus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026807</subfield>
+    <subfield code="z">Agricola, Rudolf</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Huysman,</subfield>
+    <subfield code="b">Roelof</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026808</subfield>
+    <subfield code="z">Agricola, Rudolf</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Turlinus, Polycretus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005609</subfield>
+    <subfield code="z">Turlino, Policreto</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Turlini, Polycreto</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005610</subfield>
+    <subfield code="z">Turlino, Policreto</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei frati minori cappuccini. Bologna</subfield>
+    <subfield code="1">BO0342</subfield>
+    <subfield code="2">PBE 94</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Fondazione Ugo da Como. Lonato</subfield>
+    <subfield code="1">BS0092</subfield>
+    <subfield code="2">LO1 18</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale. Lucca</subfield>
+    <subfield code="1">LU0022</subfield>
+    <subfield code="2">LUA BL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Carlo Negroni. Novara</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">NO0054</subfield>
+    <subfield code="2">TO0 08</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Passerini Landi. Piacenza</subfield>
+    <subfield code="1">PC0030</subfield>
+    <subfield code="2">PIA PL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario Vescovile della Facolt ̉Teologica del Triveneto dell&apos;Istituto Filosofico Aloisianum. Padova</subfield>
+    <subfield code="1">PD0073</subfield>
+    <subfield code="2">PUV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Accademia dei Concordi. Rovigo</subfield>
+    <subfield code="1">RO0049</subfield>
+    <subfield code="2">ROV AC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Marciana. Venezia</subfield>
+    <subfield code="1">VE0049</subfield>
+    <subfield code="2">VEA BM</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">In fine</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000601</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000601</subfield>
+    <subfield code="b">Aquila ad ali spiegate tiene negli artigli un libro aperto</subfield>
+    <subfield code="e">Plus sapies si sapis me sequere.</subfield>
+    <subfield code="c">V30</subfield>
+    <subfield code="c">Z117</subfield>
+    <subfield code="d">Dimensioni: 3,2 x 4,5. Con o senza motto</subfield>
+    <subfield code="f">ALI</subfield>
+    <subfield code="f">AQUILA</subfield>
+    <subfield code="f">ARTIGLI</subfield>
+    <subfield code="f">LIBRO</subfield>
+    <subfield code="f">PLUSSAPIES</subfield>
+    <subfield code="g">1557-1600</subfield>
+  </datafield>
+</record>
+</collection>

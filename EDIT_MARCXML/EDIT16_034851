@@ -1,0 +1,206 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>03354nam0a2200529 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\034851</controlfield>
+  <controlfield tag="005">20101116000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">R.18 35i- i.o. acac (3) 1519 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19980107d1519        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Laurentii Vallae linguae Latinae reparatoris, &amp; illustratoris eximii ℗Elegantiarum libri sex. Antonii Mancinelli Lima locis congruis, &amp; opportunis in fine apposita. Iodoci Badii Ascensii epitomatis capitibus singulis in fine appositis. Et recenter (quia breuitatis nimiae occasione obscuritatem causabant) non importune adauctis. Eiusdem in Antonium Raudensem annotationes. Apologus in Pogium Florentinum. Alia quoque haud contemnenda in Benedictum Morandum ad finem operis. Et quaedam utilia de usu negationum. Sex quoque quaestiones grammaticales, cum annotationibus marginalibus. Multa postremo nuperrime ex Prisciano, aliisque grammaticis auctoribus ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Venetiis</subfield>
+    <subfield code="g">in aedibus Ioannis Tacuini de Tridino</subfield>
+    <subfield code="h">1519 die XXIIII Decembris</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\8!, XC, 91-145, \1! c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Valla,</subfield>
+    <subfield code="b">Lorenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000045</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Mancinelli,</subfield>
+    <subfield code="b">Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001005</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Bade,</subfield>
+    <subfield code="b">Josse</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001185</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Bracciolini,</subfield>
+    <subfield code="b">Poggio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001244</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Priscianus</subfield>
+    <subfield code="c"> : Caesariensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004467</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Morandi,</subfield>
+    <subfield code="b">Benedetto</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007078</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Antonio</subfield>
+    <subfield code="c"> : da#Rho</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018751</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Tacuino, Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000206</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Mancinellus,</subfield>
+    <subfield code="b">Antonius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019612</subfield>
+    <subfield code="z">Mancinelli, Antonio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Badius Ascensius Jodocus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003294</subfield>
+    <subfield code="z">Bade, Josse</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Ascensius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026332</subfield>
+    <subfield code="z">Bade, Josse</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Pogius</subfield>
+    <subfield code="c"> : Florentinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\027191</subfield>
+    <subfield code="z">Bracciolini, Poggio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Bracciolini Poggio,</subfield>
+    <subfield code="b">Gian Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\027192</subfield>
+    <subfield code="z">Bracciolini, Poggio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Poggio</subfield>
+    <subfield code="c"> : fiorentino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\027193</subfield>
+    <subfield code="z">Bracciolini, Poggio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Prisciano</subfield>
+    <subfield code="c"> : di#Cesarea</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018674</subfield>
+    <subfield code="z">Priscianus : Caesariensis</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Morando,</subfield>
+    <subfield code="b">Benedetto</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021449</subfield>
+    <subfield code="z">Morandi, Benedetto</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Morandus,</subfield>
+    <subfield code="b">Benedictus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021450</subfield>
+    <subfield code="z">Morandi, Benedetto</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Antonius</subfield>
+    <subfield code="c"> : Raudensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025880</subfield>
+    <subfield code="z">Antonio : da#Rho</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Rho,</subfield>
+    <subfield code="b">Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\027475</subfield>
+    <subfield code="z">Antonio : da#Rho</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Cereto, Ioannes de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002713</subfield>
+    <subfield code="z">Tacuino, Giovanni</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Ioannes de Cereto de Tridino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002724</subfield>
+    <subfield code="z">Tacuino, Giovanni</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Tacuinus, Ioannes</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005546</subfield>
+    <subfield code="z">Tacuino, Giovanni</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Romolo Spezioli. Fermo</subfield>
+    <subfield code="1">AP0012</subfield>
+    <subfield code="2">UMC FM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica A. Mai. Bergamo</subfield>
+    <subfield code="1">BG0026</subfield>
+    <subfield code="2">LO1 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Bandiniana. Fiesole</subfield>
+    <subfield code="1">FI0015</subfield>
+    <subfield code="2">ZFI 38</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Collegio cardinale Giulio Alberoni. Piacenza</subfield>
+    <subfield code="1">PC0032</subfield>
+    <subfield code="2">PIA AB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Giulio Einaudi. Correggio</subfield>
+    <subfield code="1">RE0031</subfield>
+    <subfield code="2">RE2 13</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale. Salerno</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">SA0063</subfield>
+    <subfield code="2">CAM PS</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Fondazione Biblioteca S. Bernardino. Trento</subfield>
+    <subfield code="1">TN0122</subfield>
+    <subfield code="2">ZTN 18</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Accademia filarmonica di Verona. Verona</subfield>
+    <subfield code="1">VR0070</subfield>
+    <subfield code="2">ZVR 03</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,100 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01523nam0a2200265 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\011896</controlfield>
+  <controlfield tag="005">20041129000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">i-21 s.a. m.on Inca (3) 1566 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1566        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Psalmista iuxta sacro Sancte Romane Ecclesie consuetudinem, una cum hymnario nouissime impressum, &amp; ab erroribus plurimis vndique scatentibus diligentiori studio fideliter emendatum</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">in officina Petri Liechtenstein Agrippinensis</subfield>
+    <subfield code="d">1566</subfield>
+    <subfield code="e">Venetiis</subfield>
+    <subfield code="g">in officina Petri Liechtenstein Agrippinensis</subfield>
+    <subfield code="h">1566</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\8!, 132 c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2="0">
+    <subfield code="3">IT\ICCU\CNCE\030347</subfield>
+    <subfield code="a">Psalterium</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Chiesa cattolica</subfield>
+    <subfield code="3">6731</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Liechtenstein, Peter</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000403</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Lucidus Lapis, Petrus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004962</subfield>
+    <subfield code="z">Liechtenstein, Peter</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Forteguerriana. Pistoia</subfield>
+    <subfield code="1">PT0025</subfield>
+    <subfield code="2">RT1 IE</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000434</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">In fine</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001609</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000434</subfield>
+    <subfield code="b">Agnello pasquale che stringe nella zampa una croce da cui pende uno stendardo. In cornice tonda</subfield>
+    <subfield code="e">Agnus Dei qui tollis peccata mundi miserere nobis</subfield>
+    <subfield code="c">V385</subfield>
+    <subfield code="c">Z6</subfield>
+    <subfield code="d">Dimensioni: 4,2 x 4,2</subfield>
+    <subfield code="f">AGNELLO</subfield>
+    <subfield code="f">AGNUS</subfield>
+    <subfield code="f">CROCE</subfield>
+    <subfield code="f">DEI</subfield>
+    <subfield code="f">QUI</subfield>
+    <subfield code="g">1547-1567</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001609</subfield>
+    <subfield code="b">Due sfere armillari in scudo sovrastato da elmo che ha per cimiero un&apos;altra sfera armillare.</subfield>
+    <subfield code="c">U504</subfield>
+    <subfield code="d">Dimensioni: 7,2 x 10</subfield>
+    <subfield code="f">SFERE</subfield>
+    <subfield code="f">SCUDO</subfield>
+    <subfield code="f">ELMO</subfield>
+    <subfield code="g">1532-1566</subfield>
+  </datafield>
+</record>
+</collection>

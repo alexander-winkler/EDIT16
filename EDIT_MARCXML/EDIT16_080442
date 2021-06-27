@@ -1,0 +1,52 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00633nam0a22001811i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\080442</controlfield>
+  <controlfield tag="005">20201019000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20201008d1548        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Aridosio comedia del sig. Lorenzino de&apos; Medici. Nouellamente posta in luce</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">In Bologna</subfield>
+    <subfield code="h">a&apos; gli XXII di febraro 1548</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">51, \1! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Bologna</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Medici,</subfield>
+    <subfield code="b">Lorenzino : de&apos;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008656</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">s.n.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000002</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Medici,</subfield>
+    <subfield code="b">Lorenzo di Pier&apos; Francesco : de&apos;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021057</subfield>
+    <subfield code="z">Medici, Lorenzino : de&apos;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

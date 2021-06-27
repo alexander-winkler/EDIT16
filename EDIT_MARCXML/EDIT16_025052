@@ -1,0 +1,141 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02576nam0a22003851i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\025052</controlfield>
+  <controlfield tag="005">20121220000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">s.m, iqns u.e. AtAr (7) 1567 (A)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">VAR.A</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">s.m, s.t, u.e. AtAr (7) 1567 (A)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">VAR.B</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970923d1567        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Marci Hieronymi Vidae Cremonensis Albae episcopi ℗Poemata omnia tam quae ad Christi veritatem pertinent, quam ea quae haud plane disiunxit a fabula, vtraque seorsum ab alteris. Primo loco continentur. Hymni de rebus diuinis. Christiados. Lib. VI. Secundo autem volumine. De arte poetica lib. III. De bombyce lib. II. Scacchia. Lib. I. Bucolica eglogae. III. Nunc denuo edita, ac diligentius emendata</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Cremonae</subfield>
+    <subfield code="c">apud Vincentium Comitem</subfield>
+    <subfield code="d">1567</subfield>
+    <subfield code="e">Cremonae</subfield>
+    <subfield code="g">in ciuitatis palatio apud Vincentium Comitem</subfield>
+    <subfield code="h">1568</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">647, \1! p.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Front. a c. A2r; a c. A1r antiporta: Marci Hieronymi Vidae Cremonen. Albae episcopi Poemata omnia nunc denuo edita, ac diligentius emendata. - Var.B: il fasc.A risulta ricomposto, 25 righe di testo invece di 24 a p.9 e 27 righe invece di 26 alle p.10-16</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Cremona</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Vida,</subfield>
+    <subfield code="b">Marco Girolamo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003563</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Conti, Vincenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000118</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Vida,</subfield>
+    <subfield code="b">Marcus Hieronymus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025738</subfield>
+    <subfield code="z">Vida, Marco Girolamo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Comes, Vincentius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003108</subfield>
+    <subfield code="z">Conti, Vincenzo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Conctus, Vincentius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003109</subfield>
+    <subfield code="z">Conti, Vincenzo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Novi Ligure</subfield>
+    <subfield code="1">AL0060</subfield>
+    <subfield code="2">TO0 33</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica A. Mai. Bergamo</subfield>
+    <subfield code="z">(Var.B)</subfield>
+    <subfield code="1">BG0026</subfield>
+    <subfield code="2">LO1 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Bologna</subfield>
+    <subfield code="1">BO0098</subfield>
+    <subfield code="2">UBO BU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei Frati minori dell&apos;Emilia. Sezione Biblioteca dell&apos;Osservanza. Bologna</subfield>
+    <subfield code="1">BO0336</subfield>
+    <subfield code="2">ZBO 41</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale. Cremona</subfield>
+    <subfield code="z">(Var.A e B) - MUTILO</subfield>
+    <subfield code="1">CR0062</subfield>
+    <subfield code="2">LO1 28</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Luigi Parazzi. Viadana</subfield>
+    <subfield code="1">MN0089</subfield>
+    <subfield code="2">ZMN 07</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Passerini Landi. Piacenza</subfield>
+    <subfield code="1">PC0030</subfield>
+    <subfield code="2">PIA PL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Canonico Aniello Avallone. Cava dei Tirreni</subfield>
+    <subfield code="1">SA0091</subfield>
+    <subfield code="2">CAM S8</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca monastica dell&apos;Abbazia S. Maria. Finale Ligure</subfield>
+    <subfield code="1">SV0054</subfield>
+    <subfield code="2">LIG 40</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Istituto filosofico Aloisianum. Gallarate</subfield>
+    <subfield code="1">VA0060</subfield>
+    <subfield code="2">ZVA 12</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario arcivescovile di Milano. Venegono Inferiore</subfield>
+    <subfield code="1">VA0122</subfield>
+    <subfield code="2">ZVA 04</subfield>
+  </datafield>
+</record>
+</collection>

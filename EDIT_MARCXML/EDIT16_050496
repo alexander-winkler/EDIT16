@@ -1,0 +1,112 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01693nam0a22003251i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\050496</controlfield>
+  <controlfield tag="005">20100518000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">,ema emis am*- ases (C) 1544 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20000124d1544        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">De Puteolani aeris natura ad illustriss. principem Petrum a&apos; Toleto marchionem Villae Franchae et in regno neapolitano pro regem Petri Iacobi &apos;a Toleto epistola</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Neapoli </subfield>
+    <subfield code="h">XV Calen. Aprilis 1544</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\4! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Stampato da Giovanni Sultzbach, cfr.P. Manzi, Annali di Giovanni Sultzbach, p.104</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Napoli</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Toleto,</subfield>
+    <subfield code="b">Pietro Giacomo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006850</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Sultzbach, Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000421</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Toletus,</subfield>
+    <subfield code="b">Petrus Iacobus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016004</subfield>
+    <subfield code="z">Toleto, Pietro Giacomo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Toledus,</subfield>
+    <subfield code="b">Petrus Iacobus : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025063</subfield>
+    <subfield code="z">Toleto, Pietro Giacomo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Petrus Iacobus</subfield>
+    <subfield code="c"> : a#Toleto</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025064</subfield>
+    <subfield code="z">Toleto, Pietro Giacomo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Pietro Giacomo</subfield>
+    <subfield code="c"> : da#Toledo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025065</subfield>
+    <subfield code="z">Toleto, Pietro Giacomo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Sultzbacchius, Ioannes</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005760</subfield>
+    <subfield code="z">Sultzbach, Giovanni</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Sulsbacchius, Ioannes</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005761</subfield>
+    <subfield code="z">Sultzbach, Giovanni</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Sultzbachius, Ioannes</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005762</subfield>
+    <subfield code="z">Sultzbach, Giovanni</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Sulsbach, Ioanne</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005763</subfield>
+    <subfield code="z">Sultzbach, Giovanni</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Sulzbach, Joannes</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005764</subfield>
+    <subfield code="z">Sultzbach, Giovanni</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Societ ̉napoletana di storia patria. Napoli</subfield>
+    <subfield code="1">NA0097</subfield>
+    <subfield code="2">NAP SP</subfield>
+  </datafield>
+</record>
+</collection>

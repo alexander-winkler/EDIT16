@@ -1,0 +1,50 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00627na 0a22001571i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\054021</controlfield>
+  <controlfield tag="005">20030122000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20030122             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Cornucopiae quo continentur loca diuersis rebus per orbem abundantia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Tixier,</subfield>
+    <subfield code="b">Jean</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006995</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Ravisius Textor,</subfield>
+    <subfield code="b">Ioannes</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013593</subfield>
+    <subfield code="z">Tixier, Jean</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Textor,</subfield>
+    <subfield code="b">Jean Ravisius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\017073</subfield>
+    <subfield code="z">Tixier, Jean</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Tixier de Ravisi,</subfield>
+    <subfield code="b">Jean</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023980</subfield>
+    <subfield code="z">Tixier, Jean</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Ravisius,</subfield>
+    <subfield code="b">Joannes</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023981</subfield>
+    <subfield code="z">Tixier, Jean</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

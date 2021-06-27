@@ -1,0 +1,179 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02815nam0a2200445 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\068100</controlfield>
+  <controlfield tag="005">20140326000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">t.ti doo* u.ra Disi (3) 1541 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">eri- s.r- i.ic teC. (3) 1541 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">2</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20060921d1541        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Alexander de Imola ℗In primam \-secundam! Infortiati. Prima \-secunda! pars commentariorum Alexandri Tartagni Imolensis ... super Infortiato Digesti, exactissima uigilantia castigata, ac typis elegantiusculis denuo excussa. Cui accesserunt annotationes praeclarissimorum uirorum domini Francisci de curte, domini Bernardini de landriano, ac domini Francisci de doctoribus ... Adiecto insuper amplissimo domini Hieronymi Loreti Repertorio ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">\al segno della corona!</subfield>
+    <subfield code="d">1541</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">2 v.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Tartagni,</subfield>
+    <subfield code="b">Alessandro</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001036</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Landriani,</subfield>
+    <subfield code="b">Bernardino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001041</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Corti,</subfield>
+    <subfield code="b">Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001245</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Lloret,</subfield>
+    <subfield code="b">Jern̤imo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013318</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">℗al segno della ℗Corona</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001579</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Alessandro</subfield>
+    <subfield code="c"> : d&apos;Imola</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007562</subfield>
+    <subfield code="z">Tartagni, Alessandro</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Tartagna,</subfield>
+    <subfield code="b">Alessandro</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014966</subfield>
+    <subfield code="z">Tartagni, Alessandro</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Alexander</subfield>
+    <subfield code="c"> : Imolensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014967</subfield>
+    <subfield code="z">Tartagni, Alessandro</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Tartagnus,</subfield>
+    <subfield code="b">Alexander</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020820</subfield>
+    <subfield code="z">Tartagni, Alessandro</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Landrianus,</subfield>
+    <subfield code="b">Bernardinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022865</subfield>
+    <subfield code="z">Landriani, Bernardino</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Curtius,</subfield>
+    <subfield code="b">Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013913</subfield>
+    <subfield code="z">Corti, Francesco</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Franciscus</subfield>
+    <subfield code="c"> : de#Curte</subfield>
+    <subfield code="3">IT\ICCU\CNCA\027178</subfield>
+    <subfield code="z">Corti, Francesco</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Lauretus,</subfield>
+    <subfield code="b">Hieronymus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015963</subfield>
+    <subfield code="z">Lloret, Jern̤imo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Lloret,</subfield>
+    <subfield code="b">Jeroni</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025933</subfield>
+    <subfield code="z">Lloret, Jern̤imo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Lorete,</subfield>
+    <subfield code="b">Geronymo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026261</subfield>
+    <subfield code="z">Lloret, Jern̤imo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Societ ̉della Corona</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003156</subfield>
+    <subfield code="z">℗al segno della ℗Corona</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Giuridica Antonio Cicu - Alma Mater Studiorum - Universit ̉di Bologna. Bologna</subfield>
+    <subfield code="1">BO0036</subfield>
+    <subfield code="2">UBO IG</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Valentiniana. Camerino</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">MC0004</subfield>
+    <subfield code="2">UMC BV</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Assisi</subfield>
+    <subfield code="1">PG0001</subfield>
+    <subfield code="2">UM1 10</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Convento di Montesanto. Todi</subfield>
+    <subfield code="1">PG0174</subfield>
+    <subfield code="2">ZPG 23</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Guarneriana. San Daniele del Friuli</subfield>
+    <subfield code="1">UD0075</subfield>
+    <subfield code="2">ZUD 05</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sui front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000879</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000879</subfield>
+    <subfield code="b">Corona. Intorno cornice architettonica nella quale sono inserite, in scudi sostenuti da uomini, quattro marche raffiguranti: giglio, fenice, ancora e torre</subfield>
+    <subfield code="c">U14</subfield>
+    <subfield code="d">Dimensioni: 8,5 x 4,8</subfield>
+    <subfield code="f">CORONA</subfield>
+    <subfield code="f">GIGLIO</subfield>
+    <subfield code="f">FENICE</subfield>
+    <subfield code="f">ANCORA</subfield>
+    <subfield code="f">TORRE</subfield>
+    <subfield code="g">1541-1552</subfield>
+  </datafield>
+</record>
+</collection>

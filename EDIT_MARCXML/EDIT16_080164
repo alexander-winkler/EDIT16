@@ -1,0 +1,83 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01207nam0a22002531i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\080164</controlfield>
+  <controlfield tag="005">20191118000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">o-s, a-s. emsi sc*D (3) 1593 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20191118d1593        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Bibla sacra vulgatae editionis Sixti quinti pont. max. iussu recognita atque edita</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Romae</subfield>
+    <subfield code="d">1593</subfield>
+    <subfield code="e">Romae</subfield>
+    <subfield code="g">ex Typographia Apostolica Vaticana</subfield>
+    <subfield code="h">1593</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\20!, 1088, 20, \34! p.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2="1">
+    <subfield code="3">IT\ICCU\CNCE\005753</subfield>
+    <subfield code="a">Bibbia</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Roma</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">Stamperia Apostolica Vaticana</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000290</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Tipografia Apostolica Vaticana</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001476</subfield>
+    <subfield code="z">Stamperia Apostolica Vaticana</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Typographia Vaticana</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005738</subfield>
+    <subfield code="z">Stamperia Apostolica Vaticana</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Stamperia Vaticana</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005739</subfield>
+    <subfield code="z">Stamperia Apostolica Vaticana</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Pio IX della Pontificia Universit ̉Lateranense. Citt ̉del Vaticano</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">EX0006</subfield>
+    <subfield code="2">ZCV 03</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Casa Madre - Chierici Regolari Somaschi. Somasca di Vercurago</subfield>
+    <subfield code="1">LC0098</subfield>
+    <subfield code="2">ZLC 04</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Convento di S. Francesco. Urbino</subfield>
+    <subfield code="1">PU0144</subfield>
+    <subfield code="2">ZPU 03</subfield>
+  </datafield>
+</record>
+</collection>

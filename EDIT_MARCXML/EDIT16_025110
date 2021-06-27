@@ -1,0 +1,35 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00458na 0a22001211i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\025110</controlfield>
+  <controlfield tag="005">19970924000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970924             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Aegidianae constitutiones</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Albornoz,</subfield>
+    <subfield code="b">Gil : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000030</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Alvarez Carrillo de Albornoz,</subfield>
+    <subfield code="b">Gil</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007576</subfield>
+    <subfield code="z">Albornoz, Gil : de</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Carrillo de Albornoz,</subfield>
+    <subfield code="b">Gil Alvarez</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007905</subfield>
+    <subfield code="z">Albornoz, Gil : de</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

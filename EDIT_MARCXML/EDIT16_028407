@@ -1,0 +1,191 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>03086nam0a22004931i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\028407</controlfield>
+  <controlfield tag="005">20041213000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">u-am in.I o-ta teti (3) 1588 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">r-um adm- i-a- ueAn (3) 1588 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">2</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971106d1588        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Summa totius artis notariae Rolandini Rudulphi Bononiensis ... una cum solenni tract. Angeli a Gambilionibus de testamentis. Index quoque ... in studiosorum gratiam accessit ... Hac noviss. vero editione ab erroribus ... vindicata</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">ex officina Francisci de Franciscis Senensis</subfield>
+    <subfield code="d">1588</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">2 v.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">2: Rolandini Rodulphi ... tomus secundus, sive apparatus Petri de Unzola in nonum cap. de iudicijs summae Rolandinae ... Hac novissima vero editione a m.d. Leonardo a Lege ... recognitus ...</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Rolandino</subfield>
+    <subfield code="c"> : de&apos;#Passaggeri</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000001</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Pietro</subfield>
+    <subfield code="c"> : d&apos;Anzola</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000002</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Legge,</subfield>
+    <subfield code="b">Leonardo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002166</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Gambiglioni,</subfield>
+    <subfield code="b">Angelo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005861</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">De_Franceschi, Francesco</subfield>
+    <subfield code="c"> &lt;senese&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000366</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Orlandinus,</subfield>
+    <subfield code="b">Rudulphinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006656</subfield>
+    <subfield code="z">Rolandino : de&apos;#Passaggeri</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Rolandinus Rodulphinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008154</subfield>
+    <subfield code="z">Rolandino : de&apos;#Passaggeri</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Passeggeri,</subfield>
+    <subfield code="b">Rolandino : de&apos;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014697</subfield>
+    <subfield code="z">Rolandino : de&apos;#Passaggeri</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Rudolphinus de Passageriis,</subfield>
+    <subfield code="b">Rolandinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015181</subfield>
+    <subfield code="z">Rolandino : de&apos;#Passaggeri</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Passaggeri,</subfield>
+    <subfield code="b">Rolandino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023840</subfield>
+    <subfield code="z">Rolandino : de&apos;#Passaggeri</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Petrus</subfield>
+    <subfield code="c"> : de#Unciola</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014803</subfield>
+    <subfield code="z">Pietro : d&apos;Anzola</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Pietro</subfield>
+    <subfield code="c"> : de#Unzola</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014804</subfield>
+    <subfield code="z">Pietro : d&apos;Anzola</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Unciola,</subfield>
+    <subfield code="b">Pietro : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022502</subfield>
+    <subfield code="z">Pietro : d&apos;Anzola</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Leonardus</subfield>
+    <subfield code="c"> : a#Lege</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014498</subfield>
+    <subfield code="z">Legge, Leonardo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Lege,</subfield>
+    <subfield code="b">Leonardus : a</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016508</subfield>
+    <subfield code="z">Legge, Leonardo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Gambilionibus,</subfield>
+    <subfield code="b">Angelus : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018951</subfield>
+    <subfield code="z">Gambiglioni, Angelo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Franceschi, Francesco de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003741</subfield>
+    <subfield code="z">De_Franceschi, Francesco &lt;senese&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Franciscus Senensis</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003742</subfield>
+    <subfield code="z">De_Franceschi, Francesco &lt;senese&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Francesco Senese</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003743</subfield>
+    <subfield code="z">De_Franceschi, Francesco &lt;senese&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Franciscius, Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003744</subfield>
+    <subfield code="z">De_Franceschi, Francesco &lt;senese&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Franciscis, Franciscus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003745</subfield>
+    <subfield code="z">De_Franceschi, Francesco &lt;senese&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca don Giovanni Verit ̉del Comune e dell&apos;Accademia degli Incamminati. Modigliana</subfield>
+    <subfield code="1">FC0038</subfield>
+    <subfield code="2">RAV MD</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Ariostea. Ferrara</subfield>
+    <subfield code="1">FE0017</subfield>
+    <subfield code="2">UFE AR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca delle Facolt ̉di giurisprudenza e di lettere e filosofia dell&apos;Universit ̉degli studi di Milano. Milano</subfield>
+    <subfield code="1">MI0190</subfield>
+    <subfield code="2">USM A6</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca diocesana. Todi</subfield>
+    <subfield code="1">PG0173</subfield>
+    <subfield code="2">PBE 33</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Ala</subfield>
+    <subfield code="1">TN0001</subfield>
+    <subfield code="2">ZTN 05</subfield>
+  </datafield>
+</record>
+</collection>

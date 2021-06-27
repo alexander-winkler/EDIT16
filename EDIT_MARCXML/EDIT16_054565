@@ -1,0 +1,44 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00500na 0a22001451i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\054565</controlfield>
+  <controlfield tag="005">20031112000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20031028             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">De elephante carmen</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Sereni,</subfield>
+    <subfield code="b">Aurelio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016963</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Sereno,</subfield>
+    <subfield code="b">Aurelio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025739</subfield>
+    <subfield code="z">Sereni, Aurelio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Serenus,</subfield>
+    <subfield code="b">Aurelius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025740</subfield>
+    <subfield code="z">Sereni, Aurelio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Severo,</subfield>
+    <subfield code="b">Aurelio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025741</subfield>
+    <subfield code="z">Sereni, Aurelio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

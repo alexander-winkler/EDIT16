@@ -1,0 +1,32 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00400na 0a22001211i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\071156</controlfield>
+  <controlfield tag="005">20070702000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20070620             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Oratione necessaria habenda non verbis, sed corde</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Francesco</subfield>
+    <subfield code="c"> : da#Mede</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005535</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Mede,</subfield>
+    <subfield code="b">Francesco : da</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026512</subfield>
+    <subfield code="z">Francesco : da#Mede</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

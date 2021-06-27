@@ -1,0 +1,81 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01218nam0a22002411i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\074401</controlfield>
+  <controlfield tag="005">20090810000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">,&amp;Sa insa o,a- paso (C) 1597 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20090807d1597        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Modo, et ordine che gia si solea tenere nella incoronatione della serenissima dogaressa di Venetia. Raccolto dai libri di Francesco Sansouino, per Gio. Battista Lossa</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Venetia</subfield>
+    <subfield code="c">appresso Domenico Imberti</subfield>
+    <subfield code="c">a istantia di Simon Venzon</subfield>
+    <subfield code="d">1597</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\4! c.</subfield>
+    <subfield code="d">4</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Lossa,</subfield>
+    <subfield code="b">Giovanni Battista</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018025</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Venzoni, Simone</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003354</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Imberti, Domenico</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000603</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Imbertis, Dominicus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004846</subfield>
+    <subfield code="z">Imberti, Domenico</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Passerini Landi. Piacenza</subfield>
+    <subfield code="1">PC0030</subfield>
+    <subfield code="2">PIA PL</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001232</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001232</subfield>
+    <subfield code="b">Speranza (Donna appoggiata a due scudi, uno con le iniziali D.I., l&apos;altro con una colomba posata su un monte a tre cime)</subfield>
+    <subfield code="e">Spes mea in Deo est</subfield>
+    <subfield code="c">Z1125</subfield>
+    <subfield code="d">Dimensioni: 7,8 x 8,3</subfield>
+    <subfield code="f">SPESMEAIND</subfield>
+    <subfield code="f">DONNA</subfield>
+    <subfield code="g">1593-1600</subfield>
+  </datafield>
+</record>
+</collection>

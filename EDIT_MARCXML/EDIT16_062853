@@ -1,0 +1,144 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02435nam0a22003971i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\062853</controlfield>
+  <controlfield tag="005">20051219000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">immy s-am ado- seni (3) 1522 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20051207d1522        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Trogi Pompei Externae historiae in compendium ab Iustino redactae. Externo rum imperatorum vitae authore Aemylio Probo</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venezia</subfield>
+    <subfield code="c">eredi di Aldo Manuzio &lt;1.&gt; &amp; Andrea Torresano &lt;1.&gt;!</subfield>
+    <subfield code="e">Venetiis</subfield>
+    <subfield code="g">in aedibus Aldi et Andreae Asulani soceri</subfield>
+    <subfield code="h">mense Ian. 1522</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">204 c.</subfield>
+    <subfield code="d">8o</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">ANNULLATA  !!!!  vedi 51989((Cfr. Adams, Catalogue ..., I, J723. - Aut. della seconda opera, falsamente attrib. a Emilio Probo, e Cornelio Nepote. - Ediz. a cura di Francesco Torresano, il cui nome figura nella prefaz. - Marca sul front. e in fine. - Cors.</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Iustinus,</subfield>
+    <subfield code="b">Marcus Iunianus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006587</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Pompeius Trogus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\011843</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Torresano,</subfield>
+    <subfield code="b">Giovanni Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012201</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Cornelius Nepos</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003068</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Manuzio, Aldo &lt;1.&gt; - eredi &amp; Torresano, Andrea &lt;1.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000194</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Manuzio, Aldo &lt;1.&gt; &amp; Torresano, Andrea &lt;1.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000452</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Iustinus</subfield>
+    <subfield code="c"> &lt;Historicus&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016266</subfield>
+    <subfield code="z">Iustinus, Marcus Iunianus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Giustino</subfield>
+    <subfield code="c"> &lt;Istorico&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016267</subfield>
+    <subfield code="z">Iustinus, Marcus Iunianus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Justinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023040</subfield>
+    <subfield code="z">Iustinus, Marcus Iunianus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Trogus Pompeius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024942</subfield>
+    <subfield code="z">Pompeius Trogus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Asulanus,</subfield>
+    <subfield code="b">Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025155</subfield>
+    <subfield code="z">Torresano, Giovanni Francesco</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Torresano,</subfield>
+    <subfield code="b">Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025156</subfield>
+    <subfield code="z">Torresano, Giovanni Francesco</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Cornelio Nepote</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013971</subfield>
+    <subfield code="z">Cornelius Nepos</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Nepos,</subfield>
+    <subfield code="b">Cornelius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013974</subfield>
+    <subfield code="z">Cornelius Nepos</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale del Monumento nazionale di Montecassino. Cassino</subfield>
+    <subfield code="1">FR0084</subfield>
+    <subfield code="2">RML 25</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario Vescovile della Facolt ̉Teologica del Triveneto dell&apos;Istituto Filosofico Aloisianum. Padova</subfield>
+    <subfield code="1">PD0073</subfield>
+    <subfield code="2">PUV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Padova</subfield>
+    <subfield code="1">PD0158</subfield>
+    <subfield code="2">PUV 00</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Augusta. Perugia</subfield>
+    <subfield code="1">PG0109</subfield>
+    <subfield code="2">UM1 01</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,142 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02151nam0a2200373 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\008230</controlfield>
+  <controlfield tag="005">20160914000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">n-e- e.m. r.s. MaMa (3) 1569 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1569        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Ciceronianae phrases ad rectam Latine loquendi normam apprime vtiles, auctore Hieronymo Capharo Salernitano, nunc primum in lucem editae</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud Io. Andream Valuassorem</subfield>
+    <subfield code="d">1569</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">323, \37! p.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Cafaro,</subfield>
+    <subfield code="b">Girolamo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002332</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Valvassori, Giovanni Andrea</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000431</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Capharus,</subfield>
+    <subfield code="b">Hieronymus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012960</subfield>
+    <subfield code="z">Cafaro, Girolamo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Vavassor, Ioannes Andreas</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004148</subfield>
+    <subfield code="z">Valvassori, Giovanni Andrea</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Guadagninus de Vavassoribus, Ioannes Andreas</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005847</subfield>
+    <subfield code="z">Valvassori, Giovanni Andrea</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Vavassore, Guadagnino di</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005848</subfield>
+    <subfield code="z">Valvassori, Giovanni Andrea</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Vavassori, Giovan Andrea</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005849</subfield>
+    <subfield code="z">Valvassori, Giovanni Andrea</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Valvassore, Giovanni Andrea</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005850</subfield>
+    <subfield code="z">Valvassori, Giovanni Andrea</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Tommaso Fazello. Sciacca</subfield>
+    <subfield code="1">AG0042</subfield>
+    <subfield code="2">AGR 23</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale Salvatore Tommasi. Bazzano</subfield>
+    <subfield code="1">AQ0047</subfield>
+    <subfield code="2">ABR PR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del comune e dell&apos;Accademia etrusca. Cortona</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">AR0034</subfield>
+    <subfield code="2">RT1 QE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Sansepolcro</subfield>
+    <subfield code="1">AR0060</subfield>
+    <subfield code="2">RT1 QS</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Bologna</subfield>
+    <subfield code="1">BO0098</subfield>
+    <subfield code="2">UBO BU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Archivio di Stato di Perugia. Perugia</subfield>
+    <subfield code="1">PG0103</subfield>
+    <subfield code="2">UM1 50</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Collezione privata L. Serego Alighieri. Castel del Piano Umbro</subfield>
+    <subfield code="1">PG0388</subfield>
+    <subfield code="2">ZPG 42</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000259</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000259</subfield>
+    <subfield code="b">Serpente e ramo d&apos;edera attorcigliati a lancia sostenuta da mani uscenti da nubi</subfield>
+    <subfield code="e">IN VTRVNQVE</subfield>
+    <subfield code="c">V500</subfield>
+    <subfield code="c">Z1042</subfield>
+    <subfield code="d">Dimensioni: 2,8 x 5,5. Con o senza motto</subfield>
+    <subfield code="f">INVTRVNQVE</subfield>
+    <subfield code="f">SERPENTE</subfield>
+    <subfield code="f">RAMO</subfield>
+    <subfield code="f">LANCIA</subfield>
+    <subfield code="f">MANI</subfield>
+    <subfield code="g">1557-1589</subfield>
+  </datafield>
+</record>
+</collection>

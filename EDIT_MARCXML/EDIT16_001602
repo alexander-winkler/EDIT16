@@ -1,0 +1,171 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02411nam0a2200445 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\001602</controlfield>
+  <controlfield tag="005">20051206000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e.n- e-o- o-eq ctsu (3) 1544 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1544        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Hammonii Hermeae ℗In Praedicamenta Aristotelis commentarii, per Bartholomaeum Syluanium nuper Latine conuersi</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetijs</subfield>
+    <subfield code="c">apud Hieronymum Scotum</subfield>
+    <subfield code="d">1544</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">54 c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Ammonius</subfield>
+    <subfield code="c"> : Hermiae</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000676</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Aristoteles</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000006</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Silvani,</subfield>
+    <subfield code="b">Bartolomeo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000168</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Scoto, Girolamo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000134</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Ammonio</subfield>
+    <subfield code="c"> : di#Alessandria</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026308</subfield>
+    <subfield code="z">Ammonius : Hermiae</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Aristotele</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018928</subfield>
+    <subfield code="z">Aristoteles</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Sylvanius,</subfield>
+    <subfield code="b">Bartholomaeus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014878</subfield>
+    <subfield code="z">Silvani, Bartolomeo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Scotto, Girolamo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002826</subfield>
+    <subfield code="z">Scoto, Girolamo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Schottus, Hieronymus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004087</subfield>
+    <subfield code="z">Scoto, Girolamo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Scotus, Hieronymus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005629</subfield>
+    <subfield code="z">Scoto, Girolamo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Scottus, Hieronymus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005630</subfield>
+    <subfield code="z">Scoto, Girolamo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Schotus, Hieronymus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005631</subfield>
+    <subfield code="z">Scoto, Girolamo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Scotti, Girolamo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005632</subfield>
+    <subfield code="z">Scoto, Girolamo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Luciano Benincasa. Ancona</subfield>
+    <subfield code="1">AN0001</subfield>
+    <subfield code="2">URB BA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Eustachio Rogadeo. Bitonto</subfield>
+    <subfield code="1">BA0078</subfield>
+    <subfield code="2">BA1 13</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Pietro Siciliani. Galatina</subfield>
+    <subfield code="1">LE0209</subfield>
+    <subfield code="2">LEK SF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Assisi</subfield>
+    <subfield code="1">PG0001</subfield>
+    <subfield code="2">UM1 10</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale del Monumento nazionale. Cava dei Tirreni</subfield>
+    <subfield code="1">SA0088</subfield>
+    <subfield code="2">NAP 95</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Trento</subfield>
+    <subfield code="1">TN0121</subfield>
+    <subfield code="2">ZTN 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Acquapendente</subfield>
+    <subfield code="1">VT0002</subfield>
+    <subfield code="2">RMS B4</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000122</subfield>
+    <subfield code="b">Ancora tra un ramo di olivo e un ramo di palma germoglianti da un tronco con favi e api, e congiunti dalle iniziali S.O.S.</subfield>
+    <subfield code="e">In tenebris fulget.</subfield>
+    <subfield code="c">V459</subfield>
+    <subfield code="c">Z67</subfield>
+    <subfield code="d">Dimensioni: 10 x 10,6</subfield>
+    <subfield code="f">ANCORA</subfield>
+    <subfield code="f">API</subfield>
+    <subfield code="f">INTENEBRIS</subfield>
+    <subfield code="f">SOS</subfield>
+    <subfield code="f">TRONCO</subfield>
+    <subfield code="g">1541-1577</subfield>
+  </datafield>
+</record>
+</collection>

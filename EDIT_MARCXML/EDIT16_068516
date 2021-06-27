@@ -1,0 +1,37 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00482na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\068516</controlfield>
+  <controlfield tag="005">20071024000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20061019             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Raccolta di lagrime, cioe, di Maria Maddalena. Di Maria vergine. Del penitente</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Grillo,</subfield>
+    <subfield code="b">Angelo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006298</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Valvason,</subfield>
+    <subfield code="b">Erasmo : da</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009529</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Valvasone,</subfield>
+    <subfield code="b">Erasmo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024603</subfield>
+    <subfield code="z">Valvason, Erasmo : da</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

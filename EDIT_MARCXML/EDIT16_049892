@@ -1,0 +1,114 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01747nam0a2200325 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\049892</controlfield>
+  <controlfield tag="005">20151111000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">a.um net. e-s. cies (C) 1517 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19991201d1517        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Memoriale medicorum canonice practicantium a Rustico medicine cultore ordinatum continens. Canones communes medicationem perficientes. Canones pro curatione febrium necessarios. Canones ad usum medicinarum requisitos. Centum egritudinum ultimas curationes. Quingentarum dispositionum optima medicamenta</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="d">Impressum in almo Papiensi gymnasio</subfield>
+    <subfield code="e">Papiae</subfield>
+    <subfield code="g">per Bernardinum de Garaldis</subfield>
+    <subfield code="h">1517 die 18 mensis Augusti</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\228! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Precede il tit.: Soli Deo</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Pavia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Rustico,</subfield>
+    <subfield code="b">Pietro Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007486</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Mesue</subfield>
+    <subfield code="c"> &lt;m. 1015&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\029795</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Garaldi, Bernardino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000275</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Rusticus</subfield>
+    <subfield code="c"> : Placentinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023541</subfield>
+    <subfield code="z">Rustico, Pietro Antonio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Rusticus,</subfield>
+    <subfield code="b">Petrus Antonius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023542</subfield>
+    <subfield code="z">Rustico, Pietro Antonio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Mesue</subfield>
+    <subfield code="c"> &lt;il giovane&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\029796</subfield>
+    <subfield code="z">Mesue &lt;m. 1015&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Garaldis, Bernardinus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004828</subfield>
+    <subfield code="z">Garaldi, Bernardino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Garaldus, Bernardinus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004830</subfield>
+    <subfield code="z">Garaldi, Bernardino</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Bologna</subfield>
+    <subfield code="1">BO0098</subfield>
+    <subfield code="2">UBO BU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Braidense. Milano</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">MI0185</subfield>
+    <subfield code="2">MIL NB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Augusta. Perugia</subfield>
+    <subfield code="1">PG0109</subfield>
+    <subfield code="2">UM1 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Pavia</subfield>
+    <subfield code="1">PV0291</subfield>
+    <subfield code="2">MIL UP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale degli Intronati. Siena</subfield>
+    <subfield code="1">SI0046</subfield>
+    <subfield code="2">RT1 QI</subfield>
+  </datafield>
+</record>
+</collection>

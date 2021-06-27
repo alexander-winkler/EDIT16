@@ -1,0 +1,118 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01721nam0a2200349 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\023622</controlfield>
+  <controlfield tag="005">20070403000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">rele s,o, t,e, r,a- (C) 1525 (Q)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970710f1525        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Plutarchi Chaeronei ℗De vitanda vsura libellus aureus, interprete Bilibaldo Pirchimerio patritio Nurenbergensi ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="d">\1525?!</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\6! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Stampato a Roma da Francesco Minizio Calvo. Per il tipografo e la data, cfr.: F. Barberi, Tipografi Romani del Cinquecento. Guillery, Ginnasio Mediceo, Calvo, Dorico, Cartolari, pag. 93</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Roma</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Plutarchus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000103</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Pirckheimer,</subfield>
+    <subfield code="b">Willibald</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016675</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Calvo, Francesco Minizio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000007</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Plutarco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018845</subfield>
+    <subfield code="z">Plutarchus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Plutarchus</subfield>
+    <subfield code="c"> : Chaeroneus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018846</subfield>
+    <subfield code="z">Plutarchus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Plutarco</subfield>
+    <subfield code="c"> : Cheroneo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022661</subfield>
+    <subfield code="z">Plutarchus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Ploutarchos</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022664</subfield>
+    <subfield code="z">Plutarchus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Pirckheimer,</subfield>
+    <subfield code="b">Bilibaldus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022974</subfield>
+    <subfield code="z">Pirckheimer, Willibald</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Calvus, Franciscus Minitius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004412</subfield>
+    <subfield code="z">Calvo, Francesco Minizio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Napoli</subfield>
+    <subfield code="1">NA0070</subfield>
+    <subfield code="2">NAP BU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Pietro De Nava. Reggio Calabria</subfield>
+    <subfield code="1">RC0058</subfield>
+    <subfield code="2">RCA RN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale degli Intronati. Siena</subfield>
+    <subfield code="1">SI0046</subfield>
+    <subfield code="2">RT1 QI</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">British Library. London</subfield>
+    <subfield code="1">UK0001</subfield>
+  </datafield>
+</record>
+</collection>

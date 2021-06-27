@@ -1,0 +1,65 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00838nam0a2200217 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\005846</controlfield>
+  <controlfield tag="005">20150608000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">74o- i.u- i.I. Pero (3) 1562 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1562        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">FR</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗I ℗Salmi di Dauid. tradotti dalla lingua hebrea nella italiana</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Parigi</subfield>
+    <subfield code="c">appresso Martino Giouene</subfield>
+    <subfield code="d">1562</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\6!, 113, \1! c.</subfield>
+    <subfield code="d">12ʻ lungo</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2="1">
+    <subfield code="3">IT\ICCU\CNCE\005831</subfield>
+    <subfield code="a">Bibbia. Vecchio Testamento. Salmi</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="d">Parigi</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Le_Jeune, Martin</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001023</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Giovene, Martino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003922</subfield>
+    <subfield code="z">Le_Jeune, Martin</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Iuvenis, Martinus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003923</subfield>
+    <subfield code="z">Le_Jeune, Martin</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Giovanni Canna. Casale Monferrato</subfield>
+    <subfield code="1">AL0114</subfield>
+    <subfield code="2">TO0 49</subfield>
+  </datafield>
+</record>
+</collection>

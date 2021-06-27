@@ -1,0 +1,37 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00485na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\041237</controlfield>
+  <controlfield tag="005">19991013000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19981124             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Psafone. Trattato d&apos;amore del Caliginoso Gelato Melchiorre Zoppio</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Zoppio,</subfield>
+    <subfield code="b">Melchiorre</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006920</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Caliginoso Gelato</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006921</subfield>
+    <subfield code="z">Zoppio, Melchiorre</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Zoppius,</subfield>
+    <subfield code="b">Melchior</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025603</subfield>
+    <subfield code="z">Zoppio, Melchiorre</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

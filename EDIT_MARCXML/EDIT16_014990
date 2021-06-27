@@ -1,0 +1,109 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01767nam0a2200313 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\014990</controlfield>
+  <controlfield tag="005">20160205000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101g15221523    0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Breuiarium patriarchale</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Comi</subfield>
+    <subfield code="g">impressum per magistrum Gotardum de Ponte vsque ad quinternionem duorum SS inclusiue</subfield>
+    <subfield code="h">\non dopo il 1522!</subfield>
+    <subfield code="e">reliquum Mediolani absolutum fuit</subfield>
+    <subfield code="g">impensis domini Christophori de Castello Menasii tertii Ordinis min.</subfield>
+    <subfield code="h">1523 XXX Aprilis</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\12!, 396 c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Per la datazione cfr.: Editori e tipografi a Milano nel Cinquecento. A cura di Ennio Sandal, n. 344 e 346. - Per il coloph. cfr. : F. J. Norton, Italian printers, 1501-1520. An annotated list with an introduction n. 20</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Como</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Como</subfield>
+    <subfield code="c"> &lt;Diocesi&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003419</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Da_Ponte, Gottardo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001661</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Castello, Cristoforo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001662</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ponticus, Gotardus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003707</subfield>
+    <subfield code="z">Da_Ponte, Gottardo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pontius, Gotardus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003708</subfield>
+    <subfield code="z">Da_Ponte, Gottardo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pontanus, Gotardus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003709</subfield>
+    <subfield code="z">Da_Ponte, Gottardo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ponte, Gottardo da</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003710</subfield>
+    <subfield code="z">Da_Ponte, Gottardo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ponzio, Gottardo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004488</subfield>
+    <subfield code="z">Da_Ponte, Gottardo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a"> Castello, Christophorus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004520</subfield>
+    <subfield code="z">Castello, Cristoforo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Cristoforo da Castello</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004521</subfield>
+    <subfield code="z">Castello, Cristoforo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Cristoforo da Menaggio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004522</subfield>
+    <subfield code="z">Castello, Cristoforo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Castello Menasii, Christophorus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004523</subfield>
+    <subfield code="z">Castello, Cristoforo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Ambrosiana. Milano</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">MI0133</subfield>
+    <subfield code="2">VBA 01</subfield>
+  </datafield>
+</record>
+</collection>

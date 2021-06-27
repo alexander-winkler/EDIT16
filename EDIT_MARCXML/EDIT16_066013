@@ -1,0 +1,38 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00455na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\066013</controlfield>
+  <controlfield tag="005">20060803000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20060803             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Oratio de humanae industriae praestantia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Medici,</subfield>
+    <subfield code="b">Sisto : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009965</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Medices,</subfield>
+    <subfield code="b">Sixtus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\017892</subfield>
+    <subfield code="z">Medici, Sisto : de</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Medici,</subfield>
+    <subfield code="b">Sisto</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024776</subfield>
+    <subfield code="z">Medici, Sisto : de</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

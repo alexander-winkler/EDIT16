@@ -1,0 +1,111 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01746nam0a2200313 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\018367</controlfield>
+  <controlfield tag="005">20060302000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">diia i-r- i-ve Idad (3) 1587 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1587        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Duo tituli, qui iuris tyronibus magis sunt necessarii. De verborum &amp; rerum significatione, ex Pandectis. De regulis iuris, ex Pandectis. Decretalibus, &amp; Sexto. Cum apostillis, emendationibus, ac notis, ex antiquis collectis, &amp; de nouo additis per d. Fuluium Eugenium i.c. Perusinum</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Perusiae</subfield>
+    <subfield code="c">apud Petrumpaulum Orlandum</subfield>
+    <subfield code="d">1587</subfield>
+    <subfield code="e">Perusiae</subfield>
+    <subfield code="g">apud Petrum Paulum Orlandum</subfield>
+    <subfield code="h">1587</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">160 p.</subfield>
+    <subfield code="d">16ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Perugia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Eugeni,</subfield>
+    <subfield code="b">Fulvio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005107</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Orlando, Pietro Paolo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000812</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Eugenius,</subfield>
+    <subfield code="b">Fulvius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022555</subfield>
+    <subfield code="z">Eugeni, Fulvio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Orlandi, Pietro Paolo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002449</subfield>
+    <subfield code="z">Orlando, Pietro Paolo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Orlandus, Petruspaulus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005162</subfield>
+    <subfield code="z">Orlando, Pietro Paolo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Orlandius, Petrus Paulus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005163</subfield>
+    <subfield code="z">Orlando, Pietro Paolo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale. Lucca</subfield>
+    <subfield code="1">LU0022</subfield>
+    <subfield code="2">LUA BL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Diocesana Mons. Giuliano Agresti. Lucca</subfield>
+    <subfield code="1">LU0023</subfield>
+    <subfield code="2">PBE 86</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Sperelliana. Gubbio</subfield>
+    <subfield code="1">PG0049</subfield>
+    <subfield code="2">UM1 11</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca delle facolt ̉di Giurisprudenza e Scienze politiche dell&apos;Universit ̉degli studi di Urbino. Urbino</subfield>
+    <subfield code="1">PU0127</subfield>
+    <subfield code="2">URB AG</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Gambalunghiana. Rimini</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">RN0013</subfield>
+    <subfield code="2">RAV RI</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Nuova biblioteca pubblica Luigi Fumi. Orvieto</subfield>
+    <subfield code="1">TR0022</subfield>
+    <subfield code="2">UM1 06</subfield>
+  </datafield>
+</record>
+</collection>

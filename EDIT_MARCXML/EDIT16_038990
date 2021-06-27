@@ -1,0 +1,121 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02018nam0a22003371i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\038990</controlfield>
+  <controlfield tag="005">20000204000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">etre sTde ate- naad (3) 1515 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19981104d1515        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Dominici de Flandria Ordinis predicatorum artium et theologie doctoris ℗In Diui Thome de Aquino commentaria super libris posteriorum Aristotelis perutiles questiones. Nec non ipsius quaestiones in eiusdem diui Thome fallaciarum opus, nunc primum recognite infinitisque erroribus emendate</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Venetijs</subfield>
+    <subfield code="g">mandato et sumptibus heredum Octauiani Scoti Modoetiensis et sociorum</subfield>
+    <subfield code="h">1515 quarto februarij</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">2 pt (78</subfield>
+    <subfield code="d">60 c.)</subfield>
+    <subfield code="d">fol.E&apos; LA 17607(1ʻ) E LA 32937</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1: (Mandato et impensis heredum nobilis viri Octauiani Scoti et sociorum summa diligentia impresse Venetijs per Georgium Arriuabenum, 1514 die 25 January.)</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Dominique</subfield>
+    <subfield code="c"> : de#Flandre</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004898</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Aristoteles</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000006</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Tommaso</subfield>
+    <subfield code="c"> : d&apos;Aquino</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000195</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Scoto, Ottaviano &lt;1.&gt; - eredi &amp; C.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002931</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Arrivabene, Giorgio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000599</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Dominicus</subfield>
+    <subfield code="c"> : de#Flandria</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004899</subfield>
+    <subfield code="z">Dominique : de#Flandre</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Domenico</subfield>
+    <subfield code="c"> : di#Fiandra</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010220</subfield>
+    <subfield code="z">Dominique : de#Flandre</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Flandria,</subfield>
+    <subfield code="b">Dominicus : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018509</subfield>
+    <subfield code="z">Dominique : de#Flandre</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Dominicus</subfield>
+    <subfield code="c"> : Flandrensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022618</subfield>
+    <subfield code="z">Dominique : de#Flandre</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Aristotele</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018928</subfield>
+    <subfield code="z">Aristoteles</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Thomas</subfield>
+    <subfield code="c"> : de#Aquino</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009350</subfield>
+    <subfield code="z">Tommaso : d&apos;Aquino &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Arrivabenis, Georgius de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004264</subfield>
+    <subfield code="z">Arrivabene, Giorgio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Arrivabenus, Georgius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004265</subfield>
+    <subfield code="z">Arrivabene, Giorgio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Feltre</subfield>
+    <subfield code="1">BL0026</subfield>
+    <subfield code="2">ZBL 04</subfield>
+  </datafield>
+</record>
+</collection>

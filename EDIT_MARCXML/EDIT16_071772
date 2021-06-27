@@ -1,0 +1,134 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01986nam0a22003611i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\071772</controlfield>
+  <controlfield tag="005">20100607000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">zado nene s.o. QuCh (C) 1516 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20070911d1516        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Opera moralissima de diuersi auctori homini dignissimi &amp; de eloquentia perspicaci: de liquali el nome loro per suo contento dalcuni non e diuulgato: diuisa in sonetti: capitoli: strambotti: egloghe: comedie: barzellette: &amp; una confessione damor: nouamente stampata</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Stampata in Venetia</subfield>
+    <subfield code="g">per Georgio di Ruschoni</subfield>
+    <subfield code="g">ad instantia di Nicolo Zopino &amp; Vicentio compagni</subfield>
+    <subfield code="h">1516 adi xxyiii nouembre</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\40! c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Bruni,</subfield>
+    <subfield code="b">Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002072</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Campani,</subfield>
+    <subfield code="b"></subfield>
+    <subfield code="3">IT\ICCU\CNCA\002465</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Faustino,</subfield>
+    <subfield code="b">Pietro Saul</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009556</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Zoppino, Niccol ̣&amp; Vincenzo di Paolo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000070</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Rusconi, Giorgio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000072</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Bruni de&apos; Parcitati,</subfield>
+    <subfield code="b">Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008193</subfield>
+    <subfield code="z">Bruni, Giovanni</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Bruno,</subfield>
+    <subfield code="b">Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012863</subfield>
+    <subfield code="z">Bruni, Giovanni</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Strascino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002466</subfield>
+    <subfield code="z"></subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Faustinus,</subfield>
+    <subfield code="b">Perisaulus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014016</subfield>
+    <subfield code="z">Faustino, Pietro Saul</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Faustino</subfield>
+    <subfield code="c"> : da#Tredozio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022452</subfield>
+    <subfield code="z">Faustino, Pietro Saul</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Vincenzo di Paolo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000071</subfield>
+    <subfield code="z">Zoppino, Niccol ̣&amp; Vincenzo di Paolo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Rusconibus, Georgius de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005483</subfield>
+    <subfield code="z">Rusconi, Giorgio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Rusco, Georgius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005485</subfield>
+    <subfield code="z">Rusconi, Giorgio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ruschoni, Zorzi di</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005487</subfield>
+    <subfield code="z">Rusconi, Giorgio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Riccardiana. Firenze</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">FI0094</subfield>
+    <subfield code="2">CFI RF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Marciana. Venezia</subfield>
+    <subfield code="1">VE0049</subfield>
+    <subfield code="2">VEA BM</subfield>
+  </datafield>
+</record>
+</collection>

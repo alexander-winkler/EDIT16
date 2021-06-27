@@ -1,0 +1,78 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01133nam0a22002291i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\047880</controlfield>
+  <controlfield tag="005">20200512000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">i,o. lea- o,ta tano (3) 1578 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19990304d1578        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Le ℗tredici piaceuoli notti del s. Gio. Francesco Straparola, ... diuise in due libri. Nouamente ristampate, et con somma diligenza reuiste, &amp; corrette</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Vinegia</subfield>
+    <subfield code="c">presso Giouanni de&apos; Picchi</subfield>
+    <subfield code="d">&amp; fratelli</subfield>
+    <subfield code="d">1578</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">322, \6! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Straparola,</subfield>
+    <subfield code="b">Gianfrancesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008098</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Picchi, Giovanni &amp; fratelli</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001128</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pichi, Giovanni &amp; fratelli</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002512</subfield>
+    <subfield code="z">Picchi, Giovanni &amp; fratelli</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\002424</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\002424</subfield>
+    <subfield code="b">Stemma ovale diviso in due parti: in alto uccello (picchio) ad ali spiegate, in basso mano che impugna una lancia (picca).</subfield>
+    <subfield code="c">U953</subfield>
+    <subfield code="f">STEMMA</subfield>
+    <subfield code="f">UCCELLO</subfield>
+    <subfield code="f">MANO</subfield>
+    <subfield code="f">PICCA</subfield>
+    <subfield code="f">LANCIA</subfield>
+    <subfield code="g">1578</subfield>
+  </datafield>
+</record>
+</collection>

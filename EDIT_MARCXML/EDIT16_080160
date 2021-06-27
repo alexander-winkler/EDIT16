@@ -1,0 +1,83 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01041nam0a22002411i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\080160</controlfield>
+  <controlfield tag="005">20191107000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">eter s.da s.um t,os (C) 1546 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20191107d1546        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Oratio de principis officio et reipublicae statu</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">\Venezia!</subfield>
+    <subfield code="c">\Bernardino Bindoni!</subfield>
+    <subfield code="e">Venetiis</subfield>
+    <subfield code="h">1546</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\4! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Ludovicus</subfield>
+    <subfield code="c"> : Polypius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\030074</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Bindoni, Bernardino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000319</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bindonis, Bernardinus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004380</subfield>
+    <subfield code="z">Bindoni, Bernardino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bendoni, Bernardin de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004381</subfield>
+    <subfield code="z">Bindoni, Bernardino</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Marciana. Venezia</subfield>
+    <subfield code="1">VE0049</subfield>
+    <subfield code="2">VEA BM</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000042</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000042</subfield>
+    <subfield code="b">San Pietro in cattedra con triregno, chiavi e libro. In alto iniziali : SP</subfield>
+    <subfield code="c">V284</subfield>
+    <subfield code="c">Z963</subfield>
+    <subfield code="d">Dimensioni: 5,4 x 8,2</subfield>
+    <subfield code="f">CHIAVI</subfield>
+    <subfield code="f">LIBRO</subfield>
+    <subfield code="f">PIETRO</subfield>
+    <subfield code="f">SP</subfield>
+    <subfield code="g">1533-1546</subfield>
+  </datafield>
+</record>
+</collection>

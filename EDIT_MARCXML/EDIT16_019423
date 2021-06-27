@@ -1,0 +1,144 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02062nam0a2200385 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\019423</controlfield>
+  <controlfield tag="005">20160517000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e-a, t.*- a-co sune (3) 1597 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1597        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Institutionum dialecticarum libri octo, auctore Petro a Fonseco ex Societate Iesu. Nunc quidem pluribus purgata mendis</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud Marci Antonij Bonibelli \!!</subfield>
+    <subfield code="d">1597</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">390 \i.e. 392, 8! p.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Fonseca,</subfield>
+    <subfield code="b">Pedro : da</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005472</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Bonibello, Marcantonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000597</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Fonseca,</subfield>
+    <subfield code="b">Petrus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019197</subfield>
+    <subfield code="z">Fonseca, Pedro : da</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bonibellus, Marcus Antonius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004738</subfield>
+    <subfield code="z">Bonibello, Marcantonio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bonibelli, Marc&apos;Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004739</subfield>
+    <subfield code="z">Bonibello, Marcantonio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Tommaso Fazello. Sciacca</subfield>
+    <subfield code="1">AG0042</subfield>
+    <subfield code="2">AGR 23</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale G. Parente. Aversa</subfield>
+    <subfield code="1">CE0068</subfield>
+    <subfield code="2">NAP CP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dei Frati minori. Commenda di Rende</subfield>
+    <subfield code="1">CS0217</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Pietro Mineo. Agira</subfield>
+    <subfield code="1">EN0002</subfield>
+    <subfield code="2">ZEN 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Pontificia Biblioteca Antoniana. Padova</subfield>
+    <subfield code="1">EX0020</subfield>
+    <subfield code="2">PUV 78</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Lodi</subfield>
+    <subfield code="1">LO0023</subfield>
+    <subfield code="2">PBE 28</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Braidense. Milano</subfield>
+    <subfield code="1">MI0185</subfield>
+    <subfield code="2">MIL NB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Palatina. Parma</subfield>
+    <subfield code="1">PR0072</subfield>
+    <subfield code="2">PAR PA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Giuseppe Taroni. Bagnacavallo</subfield>
+    <subfield code="1">RA0002</subfield>
+    <subfield code="2">RAV BC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Giovanni Verga. Ragusa</subfield>
+    <subfield code="1">RG0010</subfield>
+    <subfield code="2">ZRG 04</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca arcivescovile Giuseppe Capecelatro. Taranto</subfield>
+    <subfield code="1">TA0020</subfield>
+    <subfield code="2">PBE 02</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000347</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000347</subfield>
+    <subfield code="b">Umilt ̉(donna schiaccia con un piede un leone). In cornice figurata.</subfield>
+    <subfield code="e">Sic omnia cedunt humilitati.</subfield>
+    <subfield code="c">V494</subfield>
+    <subfield code="c">Z1182</subfield>
+    <subfield code="d">Dimensioni: 3,2 x 3,8</subfield>
+    <subfield code="f">DONNA</subfield>
+    <subfield code="f">LEONE</subfield>
+    <subfield code="f">SICOMNIACE</subfield>
+    <subfield code="f">SUPERBIA</subfield>
+    <subfield code="f">UMILTA</subfield>
+    <subfield code="g">1583-1600</subfield>
+  </datafield>
+</record>
+</collection>

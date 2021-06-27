@@ -1,0 +1,44 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00551na 0a22001451i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\052854</controlfield>
+  <controlfield tag="005">20020325000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20020325             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Index primae partis in quaestiones ac delucidationes ...</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Rocca,</subfield>
+    <subfield code="b">Angelo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001154</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Angelus</subfield>
+    <subfield code="c"> : Rocchensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018717</subfield>
+    <subfield code="z">Rocca, Angelo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Angelo</subfield>
+    <subfield code="c"> : de#Rocca Contrada</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018718</subfield>
+    <subfield code="z">Rocca, Angelo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Camerino,</subfield>
+    <subfield code="b">Angelo : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018719</subfield>
+    <subfield code="z">Rocca, Angelo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

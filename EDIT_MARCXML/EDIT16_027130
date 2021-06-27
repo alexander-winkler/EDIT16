@@ -1,0 +1,82 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01091nam0a22002531i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\027130</controlfield>
+  <controlfield tag="005">20010202000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971024d1565        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Prediche di varij soggetti spirituali, fatti alle sacre vergini nel monasterio di S. Cosimo, et Damiano di Brescia ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Brescia</subfield>
+    <subfield code="c">appresso Gio. Battista Bozzola</subfield>
+    <subfield code="d">1565</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">239 f.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">E&apos; LA 30103</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Brescia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Ilarione</subfield>
+    <subfield code="c"> : da#Genova</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008231</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Bozzola, Giovanni Battista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000790</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Hilarion</subfield>
+    <subfield code="c"> : Genuensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014385</subfield>
+    <subfield code="z">Ilarione : da#Genova</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Buschetto,</subfield>
+    <subfield code="b">Ilario : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016161</subfield>
+    <subfield code="z">Ilarione : da#Genova</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bozola, Ioannes Baptista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003649</subfield>
+    <subfield code="z">Bozzola, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Fondazione Biblioteca Morcelli. Chiari</subfield>
+    <subfield code="1">BS0060</subfield>
+    <subfield code="2">LO1 6B</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Giovanni Verga. Ragusa</subfield>
+    <subfield code="1">RG0010</subfield>
+    <subfield code="2">ZRG 04</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Teresianum. Roma</subfield>
+    <subfield code="1">RM0716</subfield>
+    <subfield code="2">ZRM 46</subfield>
+  </datafield>
+</record>
+</collection>

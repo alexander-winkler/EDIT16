@@ -1,0 +1,135 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02033nam0a22003611i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\041250</controlfield>
+  <controlfield tag="005">20150513000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e.an a-o- e-di labe (3) 1578 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19981105d1578        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Dante con l&apos;esposizioni di Cristoforo Landino e d&apos;Alessandro Vellutello e le allegorie del Sansouino</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Venezia</subfield>
+    <subfield code="c">appresso Gio. Batista Marchio Sessa e fratelli</subfield>
+    <subfield code="d">1578</subfield>
+    <subfield code="e">In Venetia</subfield>
+    <subfield code="g">appresso gli heredi di Francesco Rampazetto. Ad instantia di Giouambattista</subfield>
+    <subfield code="h">Marchio Sessa</subfield>
+    <subfield code="h">et fratelli</subfield>
+    <subfield code="h">1578</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\14!, 1-163, \4!, 164-392 c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">ANNULLATA  ̈la 1177!!</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Alighieri,</subfield>
+    <subfield code="b">Dante</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000318</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Landino,</subfield>
+    <subfield code="b">Cristoforo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000138</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Vellutello,</subfield>
+    <subfield code="b">Alessandro</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000139</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Sansovino,</subfield>
+    <subfield code="b">Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000140</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Sessa, Giovanni Battista &lt;2.&gt; &amp; Sessa, Melchiorre &lt;2.&gt; &amp; fratelli</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000497</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Rampazetto, Francesco</subfield>
+    <subfield code="c"> &lt;1.&gt; - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000171</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Landinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023016</subfield>
+    <subfield code="z">Landino, Cristoforo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Landinus,</subfield>
+    <subfield code="b">Christophorus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023018</subfield>
+    <subfield code="z">Landino, Cristoforo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Tatti,</subfield>
+    <subfield code="b">Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018531</subfield>
+    <subfield code="z">Sansovino, Francesco</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Guisconi,</subfield>
+    <subfield code="b">Anselmo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026417</subfield>
+    <subfield code="z">Sansovino, Francesco</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Sessa, Melchiorre &lt;2.&gt; &amp; fratelli</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000498</subfield>
+    <subfield code="z">Sessa, Giovanni Battista &lt;2.&gt; &amp; Sessa, Melchiorre &lt;2.&gt; &amp; fratelli</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Typographia Rampazetta</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005288</subfield>
+    <subfield code="z">Rampazetto, Francesco &lt;1.&gt; - eredi</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Stamperia de&apos; Rampazetti</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005289</subfield>
+    <subfield code="z">Rampazetto, Francesco &lt;1.&gt; - eredi</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei Cappuccini. Firenze</subfield>
+    <subfield code="1">FI0041</subfield>
+    <subfield code="2">RT1 PC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca centrale Giorgio Petrocchi dell&apos;Universit ̉degli studi di Roma Tre. Roma</subfield>
+    <subfield code="1">RM1046</subfield>
+    <subfield code="2">ZRM 05</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Bartoliniana. Udine</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">UD0243</subfield>
+    <subfield code="2">ZUD 12</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,61 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00813na 0a22001811i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\026094</controlfield>
+  <controlfield tag="005">20060929000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971008             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Index generalis in omnes d. Bonauenturae, super quatuor libros sententiarum Petri Lombardi dilucidati</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Ballaini,</subfield>
+    <subfield code="b">Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001205</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Petrus</subfield>
+    <subfield code="c"> : Lombardus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001200</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Balanius,</subfield>
+    <subfield code="b">Joannes</subfield>
+    <subfield code="3">IT\ICCU\CNCA\027271</subfield>
+    <subfield code="z">Ballaini, Giovanni</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Balainius,</subfield>
+    <subfield code="b">Ioannes</subfield>
+    <subfield code="3">IT\ICCU\CNCA\027272</subfield>
+    <subfield code="z">Ballaini, Giovanni</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Giovanni</subfield>
+    <subfield code="c"> : da#Andria</subfield>
+    <subfield code="3">IT\ICCU\CNCA\027273</subfield>
+    <subfield code="z">Ballaini, Giovanni</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Lombardo,</subfield>
+    <subfield code="b">Pietro</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014805</subfield>
+    <subfield code="z">Petrus : Lombardus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Pietro</subfield>
+    <subfield code="c"> : Lombardo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014843</subfield>
+    <subfield code="z">Petrus : Lombardus</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

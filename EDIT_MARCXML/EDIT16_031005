@@ -1,0 +1,119 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01777nam0a22003491i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\031005</controlfield>
+  <controlfield tag="005">20080225000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e.is ess: osde uda- (C) 1505 (Q)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971201f1505        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Obedientia potentissimi Emanuelis Lusitaniae regis et cetera per clarissimum iuris. v. consultum Dieghum Pacettum oratorem ad Iulium II pontificem maximum. Anno Domini MDV pridie No. Iunii</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="d">\1505?!</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\4! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Stampato a Roma da Eucario Silber, cfr. A. Tinto, Gli annali tipografici di Eucario e Marcello Silber (1501-1527), p. 26, n. 29. - La data si ricava dal testo</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Roma</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Pacheco,</subfield>
+    <subfield code="b">Diego</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009181</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Silber, Eucario</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000450</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Pacecchus,</subfield>
+    <subfield code="b">Dieghus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\017338</subfield>
+    <subfield code="z">Pacheco, Diego</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Pacecho,</subfield>
+    <subfield code="b">Diogo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\017339</subfield>
+    <subfield code="z">Pacheco, Diego</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Pacecchi,</subfield>
+    <subfield code="b">Diego</subfield>
+    <subfield code="3">IT\ICCU\CNCA\017340</subfield>
+    <subfield code="z">Pacheco, Diego</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Pacettus,</subfield>
+    <subfield code="b">Dieghus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\017341</subfield>
+    <subfield code="z">Pacheco, Diego</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Franck, Eucharius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002878</subfield>
+    <subfield code="z">Silber, Eucario</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca estera - Biblioteca Universitaria de Santiago de Compostela. Santiago de Compostela</subfield>
+    <subfield code="1">AA0005</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Braidense. Milano</subfield>
+    <subfield code="1">MI0185</subfield>
+    <subfield code="2">MIL NB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Manfrediana. Faenza</subfield>
+    <subfield code="1">RA0016</subfield>
+    <subfield code="2">RAV FA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Casanatense. Roma</subfield>
+    <subfield code="1">RM0313</subfield>
+    <subfield code="2">RML 07</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Nuova biblioteca pubblica Luigi Fumi. Orvieto</subfield>
+    <subfield code="1">TR0022</subfield>
+    <subfield code="2">UM1 06</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica A. Hortis. Trieste</subfield>
+    <subfield code="1">TS0013</subfield>
+    <subfield code="2">TSA BC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">British Library. London</subfield>
+    <subfield code="1">UK0001</subfield>
+  </datafield>
+</record>
+</collection>

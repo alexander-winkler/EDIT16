@@ -1,0 +1,41 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00512na 0a22001451i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\054631</controlfield>
+  <controlfield tag="005">20031112000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20031103             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Sacrae historiae libri duo</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Sulpicius Severus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009425</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Severus,</subfield>
+    <subfield code="b">Sulpicius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009426</subfield>
+    <subfield code="z">Sulpicius Severus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Sulpice Severe</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024895</subfield>
+    <subfield code="z">Sulpicius Severus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Sulpicio Severo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024896</subfield>
+    <subfield code="z">Sulpicius Severus</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

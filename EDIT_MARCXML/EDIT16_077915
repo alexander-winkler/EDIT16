@@ -1,0 +1,105 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01572nam0a2200289 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\077915</controlfield>
+  <controlfield tag="005">20121219000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e.ro e.ec lei. lee- (C) 1581 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20121219d1581        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Predittione de gli effetti futuri dalla prima eclisse lunare dell&apos;anno commune 1581. Calcolata secondo i nuoui, &amp; piu veri moti copernici nel meridiano della inuitta citta di Vinegia, con molti futuri accidenti dalla cometa ultimamente apparsa. Da Mario Vergieri da Legnago</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Vinegia</subfield>
+    <subfield code="c">appresso Giorgio Angelieri</subfield>
+    <subfield code="d">1581</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\8! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Vergieri,</subfield>
+    <subfield code="b">Mario</subfield>
+    <subfield code="3">IT\ICCU\CNCA\017790</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Angelieri, Giorgio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000385</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">Tipografo non identificato</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003341</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Vergeri,</subfield>
+    <subfield code="b">Mario</subfield>
+    <subfield code="3">IT\ICCU\CNCA\017816</subfield>
+    <subfield code="z">Vergieri, Mario</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Vergerio,</subfield>
+    <subfield code="b">Mario</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024647</subfield>
+    <subfield code="z">Vergieri, Mario</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Angelerius, Georgius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004246</subfield>
+    <subfield code="z">Angelieri, Giorgio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Marciana. Venezia</subfield>
+    <subfield code="1">VE0049</subfield>
+    <subfield code="2">VEA BM</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\002365</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001422</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\002365</subfield>
+    <subfield code="b">Anfora inclinata da cui cadono gocce su una pianta. In fregio.</subfield>
+    <subfield code="e">A poco a poco</subfield>
+    <subfield code="c">U896</subfield>
+    <subfield code="d">Dimensioni: 2,2 x 10</subfield>
+    <subfield code="f">ANFORA</subfield>
+    <subfield code="f">APOCOAPOCO</subfield>
+    <subfield code="g">1581-1599</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001422</subfield>
+    <subfield code="b">Leone rampante sormontato da corona. In cornice</subfield>
+    <subfield code="c">U363</subfield>
+    <subfield code="d">Dimensioni: 5 x 5,7</subfield>
+    <subfield code="f">LEONE</subfield>
+    <subfield code="f">CORONA</subfield>
+    <subfield code="g">[non prima del 1571]-1593</subfield>
+  </datafield>
+</record>
+</collection>

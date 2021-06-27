@@ -1,0 +1,87 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01360ncm0a22002651i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\044814</controlfield>
+  <controlfield tag="005">19990402000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19990105d1566        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Costatii \sic! Portae Cremonensis ℗quinque vocum musica in Introitus missarum, quae in solemnitatibus sanctorum omnium toto anno celebrantur, iuxta morem Sanctae Romanae Ecclesiae; nunc primum a Claudio Coregiate in lucem edita</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venezia</subfield>
+    <subfield code="c">Claudio Merulo e Fausto Betanio</subfield>
+    <subfield code="d">1566</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">5 fasc.</subfield>
+    <subfield code="d">4ʻ obl</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">S, A, T, B, 5</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Porta,</subfield>
+    <subfield code="b">Costanzo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\011768</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Merulo, Claudio &amp; Betanio, Fausto</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003424</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Betanio, Fausto</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003425</subfield>
+    <subfield code="z">Merulo, Claudio &amp; Betanio, Fausto</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Correggio, Claudio da &amp; Bethanio, Fausto</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003591</subfield>
+    <subfield code="z">Merulo, Claudio &amp; Betanio, Fausto</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Claudio da Correggio &amp; Bethanio, Fausto</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003592</subfield>
+    <subfield code="z">Merulo, Claudio &amp; Betanio, Fausto</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Bologna</subfield>
+    <subfield code="z">(S)</subfield>
+    <subfield code="1">BO0098</subfield>
+    <subfield code="2">UBO BU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Museo Internazionale e Biblioteca della Musica. Bologna</subfield>
+    <subfield code="1">BO0310</subfield>
+    <subfield code="2">UBO BM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Assisi</subfield>
+    <subfield code="1">PG0001</subfield>
+    <subfield code="2">UM1 10</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Archivio - Biblioteca capitolare. Faenza</subfield>
+    <subfield code="z">(A,T,B,5)</subfield>
+    <subfield code="1">RA0046</subfield>
+    <subfield code="2">ZRA 15</subfield>
+  </datafield>
+</record>
+</collection>

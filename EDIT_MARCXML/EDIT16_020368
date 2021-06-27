@@ -1,0 +1,160 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02486nam0a22004091i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\020368</controlfield>
+  <controlfield tag="005">20191126000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">28s. *-am stu- ture (3) 1574 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1574        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Angeli a Gambilionibus de Aretio ℗In quatuor Institutionum Iustiniani libros commentaria ... Adiecto indice ... Accesserunt Antonij Caij, ac Francisci Purpurati eruditissimae adnotationes, ac eiusdem Caij subtilissimus substitutionum tracta</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">\al segno della Fontana!</subfield>
+    <subfield code="d">1574</subfield>
+    <subfield code="e">Venetiis</subfield>
+    <subfield code="g">apud Hieronymum Polum</subfield>
+    <subfield code="h">1574</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">365, \1!, 32 c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Gambiglioni,</subfield>
+    <subfield code="b">Angelo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005861</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Porporato,</subfield>
+    <subfield code="b">Giovanni Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004411</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Caius,</subfield>
+    <subfield code="b">Antonius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005653</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Polo, Girolamo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000547</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">℗al segno della ℗Fontana</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000186</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Gambilionibus,</subfield>
+    <subfield code="b">Angelus : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018951</subfield>
+    <subfield code="z">Gambiglioni, Angelo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Purpuratus,</subfield>
+    <subfield code="b">Ioannes Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004734</subfield>
+    <subfield code="z">Porporato, Giovanni Francesco</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Purpuratus,</subfield>
+    <subfield code="b">Joannes Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022677</subfield>
+    <subfield code="z">Porporato, Giovanni Francesco</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Purpuratus,</subfield>
+    <subfield code="b">Johannes Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022678</subfield>
+    <subfield code="z">Porporato, Giovanni Francesco</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Polus, Hieronymus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005464</subfield>
+    <subfield code="z">Polo, Girolamo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Polis, Hieronymus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005465</subfield>
+    <subfield code="z">Polo, Girolamo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Antonelliana. Senigallia</subfield>
+    <subfield code="1">AN0069</subfield>
+    <subfield code="2">URB BS</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Planettiana. Jesi</subfield>
+    <subfield code="1">AN0092</subfield>
+    <subfield code="2">URB BC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Romolo Spezioli. Fermo</subfield>
+    <subfield code="1">AP0012</subfield>
+    <subfield code="2">UMC FM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei Cappuccini liguri. Genova</subfield>
+    <subfield code="1">GE0039</subfield>
+    <subfield code="2">LIG 27</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale Gabriele D&apos;Annunzio. Pescara</subfield>
+    <subfield code="1">PE0018</subfield>
+    <subfield code="2">ABR R7</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca diocesana  Beata Lucia Broccadelli. Narni</subfield>
+    <subfield code="1">TR0059</subfield>
+    <subfield code="2">UM1 77</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Coloph. a c. ZZ6</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000567</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000979</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000567</subfield>
+    <subfield code="b">Sfera armillare con indicazione dei poli (Polus Arcticus, Polus Antarcticus) e segni dello zodiaco. In cornice figurata</subfield>
+    <subfield code="c">Z1065</subfield>
+    <subfield code="f">POLI</subfield>
+    <subfield code="f">POLUSANTAR</subfield>
+    <subfield code="f">POLUSARCTI</subfield>
+    <subfield code="f">SFERA</subfield>
+    <subfield code="f">ZODIACO</subfield>
+    <subfield code="g">1570-1594</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000979</subfield>
+    <subfield code="b">Fontana zampillante con busti di donne e teste di puttini. In cornice figurata</subfield>
+    <subfield code="c">U76</subfield>
+    <subfield code="d">Dimensioni: 9 x 11</subfield>
+    <subfield code="f">FONTANA</subfield>
+    <subfield code="g">1558-1588</subfield>
+  </datafield>
+</record>
+</collection>

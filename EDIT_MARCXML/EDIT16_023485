@@ -1,0 +1,127 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02226nam0a2200337 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\023485</controlfield>
+  <controlfield tag="005">20071029000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">t.is C.vt rion stco (3) 1553 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970708d1553        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Tractatus de ordine iudiciorum excellentissimi i.v.d domini Roberti Marante Venusini, intitulatus Speculum aureum &amp; lumen aduocatorum: opus solemne &amp; omnibus iudicibus &amp; aduocatis valde vtile diligenti correctione ad infinitis pene erroribus expurgatus &amp;pristino candori suo restitutus, summariisque ac repertorio rerum principalium atque materiarum copiosissimo per d. Io. Baptistam Zilletum Venetum exornatus</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">Francis. Bindonis excudebat</subfield>
+    <subfield code="d">1553</subfield>
+    <subfield code="e">Venetiis</subfield>
+    <subfield code="g">Francis. Bindonis excudebat</subfield>
+    <subfield code="h">1553</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">182, \42! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Maranta,</subfield>
+    <subfield code="b">Roberto</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006538</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Ziletti,</subfield>
+    <subfield code="b">Giovanni Battista</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001116</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Bindoni, Francesco</subfield>
+    <subfield code="c"> &lt;1.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001037</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Zilletus,</subfield>
+    <subfield code="b">Iohannes Baptista</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015099</subfield>
+    <subfield code="z">Ziletti, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bindonis, Franciscus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004384</subfield>
+    <subfield code="z">Bindoni, Francesco &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bindonus, Franciscus</subfield>
+    <subfield code="c"> &lt;1&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004385</subfield>
+    <subfield code="z">Bindoni, Francesco &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Antonelliana. Senigallia</subfield>
+    <subfield code="1">AN0069</subfield>
+    <subfield code="2">URB BS</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Diocesana Mons. Giuliano Agresti. Lucca</subfield>
+    <subfield code="1">LU0023</subfield>
+    <subfield code="2">PBE 86</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Montefalco</subfield>
+    <subfield code="1">PG0058</subfield>
+    <subfield code="2">UM1 17</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Atri</subfield>
+    <subfield code="1">TE0003</subfield>
+    <subfield code="2">ABR RB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Nuova biblioteca pubblica Luigi Fumi. Orvieto</subfield>
+    <subfield code="1">TR0022</subfield>
+    <subfield code="2">UM1 06</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001266</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001266</subfield>
+    <subfield code="b">Arcangelo Raffaele e Tobiolo (angelo che tiene per mano un bambino con un pesce). A destra un cane</subfield>
+    <subfield code="e">1) Psyche d&apos;athanatos kai ageros, zei dia pantos. 2) Ouden aneu kamatou pelei andrasin eupetes ergon, oud&apos;autois makaressi ponos d&apos;areten meg&apos;ophellei</subfield>
+    <subfield code="c">U254</subfield>
+    <subfield code="d">Dimensioni: 4,8 x 5,5</subfield>
+    <subfield code="f">ANGELO</subfield>
+    <subfield code="f">BAMBINO</subfield>
+    <subfield code="f">CANE</subfield>
+    <subfield code="g">1549-1558</subfield>
+  </datafield>
+</record>
+</collection>

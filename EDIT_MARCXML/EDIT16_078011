@@ -1,0 +1,73 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01075nam0a2200241 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\078011</controlfield>
+  <controlfield tag="005">20140411000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">reD. m,de i-n. asn- (C) 1599 (Q)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20130219f1599        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Declaratio senatus excell.mi circa initium fatalis causae appellationis, Cum annotationibus Petri Cantoni iuriscons. Philippus III. Hispaniarum &amp;c. rex, et Mediolani dux II</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="d">\1599!</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\4! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">La data si ricava dalla pubblicazione. - Stampata presumibilmente da Comino Ventura, come si evince dal confronto del materiale tipografico</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Bergamo</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Milano</subfield>
+    <subfield code="c"> &lt;Ducato&gt;</subfield>
+    <subfield code="b"> : Senato</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008496</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Ventura, Comino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000028</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Senatus Mediolanensis</subfield>
+    <subfield code="3">26359</subfield>
+    <subfield code="z">Milano &lt;Ducato&gt; : Senato</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Senato di Milano</subfield>
+    <subfield code="3">26360</subfield>
+    <subfield code="z">Milano &lt;Ducato&gt; : Senato</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Palatina. Parma</subfield>
+    <subfield code="1">PR0072</subfield>
+    <subfield code="2">PAR PA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Pavia</subfield>
+    <subfield code="1">PV0291</subfield>
+    <subfield code="2">MIL UP</subfield>
+  </datafield>
+</record>
+</collection>

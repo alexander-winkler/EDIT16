@@ -1,0 +1,107 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01488nam0a22003011i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\020488</controlfield>
+  <controlfield tag="005">20120427000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1539        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Tractatus valde utilis  et necessarius de reseruationibus apostolicis compositus per r.d.p. Gasparem de Perusio quondam episcopum frequentinum. Nunc primum in lucem aeditus, per r.p.d. Ludouicum Gomes episcopum Sarnensem</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Romae</subfield>
+    <subfield code="g">impensis Michaelis Tramezini</subfield>
+    <subfield code="h">1539 mense Octobri</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\4!, XXII c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">ANNULLATA:  ̈20487</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Roma</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Gaspare</subfield>
+    <subfield code="c"> : da#Perugia</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005896</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Gomez,</subfield>
+    <subfield code="b">Luis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001003</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Tramezzino, Michele</subfield>
+    <subfield code="c"> &lt;1.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000227</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Rossi,</subfield>
+    <subfield code="b">Gaspare</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005897</subfield>
+    <subfield code="z">Gaspare : da#Perugia</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Gaspar</subfield>
+    <subfield code="c"> : de#Perusio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014072</subfield>
+    <subfield code="z">Gaspare : da#Perugia</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Mansueti,</subfield>
+    <subfield code="b">Gaspare</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014561</subfield>
+    <subfield code="z">Gaspare : da#Perugia</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Gomesius,</subfield>
+    <subfield code="b">Ludovicus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014229</subfield>
+    <subfield code="z">Gomez, Luis</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Tramezinus, Michael</subfield>
+    <subfield code="c"> &lt;1&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005599</subfield>
+    <subfield code="z">Tramezzino, Michele &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Tramezino, Michiel</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005600</subfield>
+    <subfield code="z">Tramezzino, Michele &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica A. Mai. Bergamo</subfield>
+    <subfield code="1">BG0026</subfield>
+    <subfield code="2">LO1 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei cappuccini. Palermo</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">PA0092</subfield>
+    <subfield code="2">PAL 66</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Montefalco</subfield>
+    <subfield code="1">PG0058</subfield>
+    <subfield code="2">UM1 17</subfield>
+  </datafield>
+</record>
+</collection>

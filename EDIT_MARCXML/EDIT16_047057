@@ -1,0 +1,86 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00982nam0a22002531i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\047057</controlfield>
+  <controlfield tag="005">19991202000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19990209d1573        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Noctes Atticae</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud Io. Gryphium</subfield>
+    <subfield code="d">1573</subfield>
+    <subfield code="e">excudebat Georgius de Caballis</subfield>
+    <subfield code="h">1575</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\48!, 629 p.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">SIGLATA ALLA 20613</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Gellius,</subfield>
+    <subfield code="b">Aulus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005928</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Griffio, Giovanni</subfield>
+    <subfield code="c"> &lt;2.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000552</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Cavalli, Giorgio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000626</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Gellio,</subfield>
+    <subfield code="b">Aulo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019156</subfield>
+    <subfield code="z">Gellius, Aulus</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Gryphius, Ioannes</subfield>
+    <subfield code="c"> &lt;2.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003896</subfield>
+    <subfield code="z">Griffio, Giovanni &lt;2.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Grifi, Giovanni</subfield>
+    <subfield code="c"> &lt;2&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005188</subfield>
+    <subfield code="z">Griffio, Giovanni &lt;2.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Caballis, Georgius de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004566</subfield>
+    <subfield code="z">Cavalli, Giorgio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Urbania</subfield>
+    <subfield code="1">PU0095</subfield>
+    <subfield code="2">URB UR</subfield>
+  </datafield>
+</record>
+</collection>

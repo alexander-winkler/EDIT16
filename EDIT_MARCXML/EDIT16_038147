@@ -1,0 +1,120 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01761nam0a22003371i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\038147</controlfield>
+  <controlfield tag="005">20131115000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e-ui nio- o.le a.o- (C) 1600 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19981027d1600        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Pronostichi et discorsi sopra il presente anno bisestile, 1600 di diuersi eccellent. autori li quali sono. L&apos;eccellente M. Filippo Nostradamo francese. L&apos;eccellente M. Michiele Nostradamo. L&apos;eccellente M. Flaminio Cicogna. L&apos;eccellente M. Gio. Andrea de&apos;Rossi, nobile senese. L&apos;eccellente M. Bernardino Anselmi da Pesaro. L&apos;eccellente Casa Fatta</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Raccolti</subfield>
+    <subfield code="d">&amp; stampati in Cesena</subfield>
+    <subfield code="c">per Francesco Rauerij</subfield>
+    <subfield code="d">1600</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\4! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Cesena</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Cicogna,</subfield>
+    <subfield code="b">Flaminio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003300</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Nostradamus,</subfield>
+    <subfield code="b">Philippe</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010586</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Nostradamus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010587</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Rossi,</subfield>
+    <subfield code="b">Giovanni Andrea : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010589</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Anselmi,</subfield>
+    <subfield code="b">Bernardino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010590</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Casa Fatta</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024217</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Raverio, Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001416</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Cicogna,</subfield>
+    <subfield code="b">Fulgenzio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008019</subfield>
+    <subfield code="z">Cicogna, Flaminio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Ciconia,</subfield>
+    <subfield code="b">Flaminius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013257</subfield>
+    <subfield code="z">Cicogna, Flaminio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Nostradamo,</subfield>
+    <subfield code="b">Filippo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016653</subfield>
+    <subfield code="z">Nostradamus, Philippe</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Notredame,</subfield>
+    <subfield code="b">Michel : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016652</subfield>
+    <subfield code="z">Nostradamus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Nostradamo,</subfield>
+    <subfield code="b">Michele</subfield>
+    <subfield code="3">IT\ICCU\CNCA\017666</subfield>
+    <subfield code="z">Nostradamus</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Raverius, Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005327</subfield>
+    <subfield code="z">Raverio, Francesco</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Raverii, Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005330</subfield>
+    <subfield code="z">Raverio, Francesco</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Marciana. Venezia</subfield>
+    <subfield code="1">VE0049</subfield>
+    <subfield code="2">VEA BM</subfield>
+  </datafield>
+</record>
+</collection>

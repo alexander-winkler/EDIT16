@@ -1,0 +1,72 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01012nam0a22002291i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\038391</controlfield>
+  <controlfield tag="005">20010608000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">ere- .bo- a.o- podo (3) 1600 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19981029d1600        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Noua descrittione di Terra Santa dove si descriuono i luoghi di essa nominati nella Scrittura sacra pertinenti all&apos;istoria della vita e morte di Christo ... Tradotto di spagnuolo in italiano ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Venetia</subfield>
+    <subfield code="c">appresso Marc&apos;Antonio Zaltieri</subfield>
+    <subfield code="d">1600</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\8!, 224 c.</subfield>
+    <subfield code="d">12ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Jepes,</subfield>
+    <subfield code="b">Rodrigo : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010637</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Zaltieri, Marcantonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000631</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Yepes,</subfield>
+    <subfield code="b">Rodrigo : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019659</subfield>
+    <subfield code="z">Jepes, Rodrigo : de</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Zalterius, Marcus Antonius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004177</subfield>
+    <subfield code="z">Zaltieri, Marcantonio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale. Lucca</subfield>
+    <subfield code="1">LU0022</subfield>
+    <subfield code="2">LUA BL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca vescovile. Assisi</subfield>
+    <subfield code="1">PG0011</subfield>
+    <subfield code="2">PBE 59</subfield>
+  </datafield>
+</record>
+</collection>

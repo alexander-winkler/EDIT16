@@ -1,0 +1,110 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01542nam0a22003131i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\045000</controlfield>
+  <controlfield tag="005">20000411000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">r-o- ntt. s.s, VeAs (3) 1552 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19990120d1552        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Aphorismorum Hippocratis sectiones septem, nuper e graeco in latinum carmen hexametrum versae ab Aloysio Luisino Vtinensi. Quibus accessit ex Antonij Musae Brasauoli ... comment. octaua sectio ... Graecas dictiones, quae adhibitae in metro sunt, index operis calci appositus, declarat</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetijs</subfield>
+    <subfield code="c">apud Iuntas</subfield>
+    <subfield code="d">1552</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">35, \1! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Hippocrates</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000096</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Brasavola,</subfield>
+    <subfield code="b">Antonio Musa</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002008</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Luigini,</subfield>
+    <subfield code="b">Luigi</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007020</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Giunta, Lucantonio</subfield>
+    <subfield code="c"> &lt;1.&gt; - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000312</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Hippokrates</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005430</subfield>
+    <subfield code="z">Hippocrates</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Ippocrate</subfield>
+    <subfield code="c"> : di#Cos</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014391</subfield>
+    <subfield code="z">Hippocrates</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Luisinus,</subfield>
+    <subfield code="b">Aloysius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018279</subfield>
+    <subfield code="z">Luigini, Luigi</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Lovisini,</subfield>
+    <subfield code="b">Luigi</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020848</subfield>
+    <subfield code="z">Luigini, Luigi</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Luvigini,</subfield>
+    <subfield code="b">Luigi</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020849</subfield>
+    <subfield code="z">Luigini, Luigi</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Firenze</subfield>
+    <subfield code="1">FI0098</subfield>
+    <subfield code="2">CFI CF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca  Panizzi. Reggio Emilia</subfield>
+    <subfield code="1">RE0052</subfield>
+    <subfield code="2">RE2 PA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Marciana. Venezia</subfield>
+    <subfield code="1">VE0049</subfield>
+    <subfield code="2">VEA BM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Verona</subfield>
+    <subfield code="1">VR0061</subfield>
+    <subfield code="2">PBE 83</subfield>
+  </datafield>
+</record>
+</collection>

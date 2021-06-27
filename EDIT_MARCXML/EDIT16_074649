@@ -1,0 +1,38 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00508na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\074649</controlfield>
+  <controlfield tag="005">20090922000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20090922             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Pedagogus, in quo docet quodnam sit Christiani hominis officium</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Clemens</subfield>
+    <subfield code="c"> :  Alexandrinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000171</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Clemens,</subfield>
+    <subfield code="b">Titus Flavius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008253</subfield>
+    <subfield code="z">Clemens :  Alexandrinus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Clemens,</subfield>
+    <subfield code="b">Tito Flacco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013749</subfield>
+    <subfield code="z">Clemens :  Alexandrinus</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

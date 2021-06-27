@@ -1,0 +1,116 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02125nam0a22003251i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\024253</controlfield>
+  <controlfield tag="005">20110916000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">V.di 11r- i;co tido (3) 1599 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970730d1599        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Nuouo leggendario della vita di Maria Vergine immacolata madre di Dio et delli santi patriarchi, et profeti dell&apos;Antico Testamento et delli quali tratta, et fa mentione la Sacra Scrittura ... Dato per auanti in luce in lingua spagnuola, sotto titolo di Flos Sanctorum seconda parte; per il reuerendo signor Alfonso de Villegas di Toledo teologo, e predicatore. Et nouamente con molto studio dalla spagnuola nella volgar lingua italiana tradotto per il reuer. don Giulio Cesare Valentino, piouano di Carpeneto ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Venetia</subfield>
+    <subfield code="c">presso Gio. Battista Ciotti senese</subfield>
+    <subfield code="d">1599</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\40!, 796 p.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Villegas Selvago,</subfield>
+    <subfield code="b">Alonso : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007065</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Valentino,</subfield>
+    <subfield code="b">Giulio Cesare</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005157</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Ciotti, Giovanni Battista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000140</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Villegas,</subfield>
+    <subfield code="b">Alonso : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015103</subfield>
+    <subfield code="z">Villegas Selvago, Alonso : de</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Villegas Selvago,</subfield>
+    <subfield code="b">Alfonso : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025131</subfield>
+    <subfield code="z">Villegas Selvago, Alonso : de</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Villegas,</subfield>
+    <subfield code="b">Alfonso</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025133</subfield>
+    <subfield code="z">Villegas Selvago, Alonso : de</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Valentini,</subfield>
+    <subfield code="b">Giulio Cesare</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022670</subfield>
+    <subfield code="z">Valentino, Giulio Cesare</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ciottus, Ioannes Baptista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004610</subfield>
+    <subfield code="z">Ciotti, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Eremo di Camaldoli. Camaldoli - Poppi</subfield>
+    <subfield code="1">AR0101</subfield>
+    <subfield code="2">CFI EC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei Frati minori dell&apos;Emilia. Sezione Biblioteca dell&apos;Osservanza. Bologna</subfield>
+    <subfield code="1">BO0336</subfield>
+    <subfield code="2">ZBO 41</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Queriniana. Brescia</subfield>
+    <subfield code="1">BS0026</subfield>
+    <subfield code="2">ZBS 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei frati minori cappuccini Madonna di Pompei. Messina</subfield>
+    <subfield code="1">ME0179</subfield>
+    <subfield code="2">MES FC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei cappuccini. Palermo</subfield>
+    <subfield code="1">PA0092</subfield>
+    <subfield code="2">PAL 66</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Oliveriana. Pesaro</subfield>
+    <subfield code="1">PU0061</subfield>
+    <subfield code="2">URB OL</subfield>
+  </datafield>
+</record>
+</collection>

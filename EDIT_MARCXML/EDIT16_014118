@@ -1,0 +1,88 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01310nam0a2200265 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\014118</controlfield>
+  <controlfield tag="005">20001205000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">a,s, r-do usu- agsu (3) 1525 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1525        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Institutiones imperiales sine quibus legum humanarum sacrorumque canonum amator mancus est. Cum bonis ambula. Mors peccatorum pessima. Sic vtere tuo vt alieno non egeas</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Tuschulani apud Benachum</subfield>
+    <subfield code="g">in edibus Alexandri Paganini</subfield>
+    <subfield code="h">1525</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">114, \2! c.</subfield>
+    <subfield code="d">24ʻ</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2="1">
+    <subfield code="3">IT\ICCU\CNCE\013462</subfield>
+    <subfield code="a">Corpus iuris civilis. Institutiones</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Toscolano</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Iustinianus</subfield>
+    <subfield code="c"> &lt;imperatore d&apos;Oriente</subfield>
+    <subfield code="c"> ; 1.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003125</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Paganini, Alessandro</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000192</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Giustiniano</subfield>
+    <subfield code="c"> &lt;imperatore d&apos;Oriente</subfield>
+    <subfield code="c"> ; 1.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020200</subfield>
+    <subfield code="z">Iustinianus &lt;imperatore d&apos;Oriente ; 1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Paganino, Alessandro</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005250</subfield>
+    <subfield code="z">Paganini, Alessandro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Paganinis, Alexander de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005251</subfield>
+    <subfield code="z">Paganini, Alessandro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Paganinus, Alexander</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005252</subfield>
+    <subfield code="z">Paganini, Alessandro</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Queriniana. Brescia</subfield>
+    <subfield code="1">BS0026</subfield>
+    <subfield code="2">ZBS 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Padova</subfield>
+    <subfield code="1">PD0158</subfield>
+    <subfield code="2">PUV 00</subfield>
+  </datafield>
+</record>
+</collection>

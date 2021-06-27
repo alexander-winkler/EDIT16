@@ -1,0 +1,125 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01951ncm0a22003491i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\044816</controlfield>
+  <controlfield tag="005">20110805000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19990118d1591        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Missarum cum quatuor quinque, ac sex vocibus, liber primus auctore Io. Petro Aloysio Praenestino. Nunc recens in lucem editus</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Romae</subfield>
+    <subfield code="c">apud Alexandrum Gardanum</subfield>
+    <subfield code="c">impensis Jacobi Tornerij</subfield>
+    <subfield code="d">1591</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">5 fasc.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">S, A, T, B, 5/6</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Roma</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Palestrina,</subfield>
+    <subfield code="b">Giovanni Pierluigi : da</subfield>
+    <subfield code="3">IT\ICCU\CNCA\011746</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Gardane, Alessandro</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000583</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Tornieri, Giacomo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000137</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Praenestinus,</subfield>
+    <subfield code="b">Ioannes Petrus Aloysius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021937</subfield>
+    <subfield code="z">Palestrina, Giovanni Pierluigi : da</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Giannetto</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021938</subfield>
+    <subfield code="z">Palestrina, Giovanni Pierluigi : da</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Praenestinus,</subfield>
+    <subfield code="b">Ioannes Petraloysius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021939</subfield>
+    <subfield code="z">Palestrina, Giovanni Pierluigi : da</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Praenestinus,</subfield>
+    <subfield code="b">Joannes Petrus Aloysius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021940</subfield>
+    <subfield code="z">Palestrina, Giovanni Pierluigi : da</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Gardano, Alessandro</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004832</subfield>
+    <subfield code="z">Gardane, Alessandro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Gardanus, Alexander</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004833</subfield>
+    <subfield code="z">Gardane, Alessandro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Tornerius, Iacobus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004126</subfield>
+    <subfield code="z">Tornieri, Giacomo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Museo Internazionale e Biblioteca della Musica. Bologna</subfield>
+    <subfield code="1">BO0310</subfield>
+    <subfield code="2">UBO BM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="z">(S,A,T,B,5)</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Archivio musicale della Basilica di S. Giovanni in Laterano. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0004</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Mozzi-Borgetti. Macerata</subfield>
+    <subfield code="z">(S,A,5/6)</subfield>
+    <subfield code="1">MC0049</subfield>
+    <subfield code="2">UMC CM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca musicale governativa del Conservatorio di musica S. Cecilia. Roma</subfield>
+    <subfield code="1">RM0266</subfield>
+    <subfield code="2">RMR SC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Accademia nazionale dei Lincei e Corsiniana. Roma</subfield>
+    <subfield code="1">RM0418</subfield>
+    <subfield code="2">RML 10</subfield>
+  </datafield>
+</record>
+</collection>

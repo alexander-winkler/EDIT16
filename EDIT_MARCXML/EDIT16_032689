@@ -1,0 +1,129 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02301nam0a2200361 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\032689</controlfield>
+  <controlfield tag="005">20101004000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">ite- ono. s.i- Etnu (3) 1518 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971215d1518        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">In hoc volumine contenta. Isagoge ad scansionem carminum alias corrupte emissa in lucem nunc emendatissime impressa. Collectanea sententiarum Seuerini Boetii. Collectanea sententiarum Valerii Martialis. Collectanea sententiarium Ioannis Cantalycii. Collectanea sententiarum ex libris Ouidii nasonis uidelicet Metamorphoseon: de Tristibus: de ponto: de arte amandi: de Remedio amoris: Epistolarum heroidum: epistolae Sapphus: in ibin &amp; fastorum quae omnia forte inuidio: iucunda fore reor</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Impressum Taurini</subfield>
+    <subfield code="g">per Nicolaum Benedictum &amp; Antonium Ranotum calcographos uigilantes</subfield>
+    <subfield code="h">1518 die XV mensis Aprilis</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">LXXXII c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Il nome dell&apos;autore si ricava da c. A2v</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Torino</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Truchi,</subfield>
+    <subfield code="b">Vincenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009513</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Boethius,</subfield>
+    <subfield code="b">Anicius Manlius Torquatus Severinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000282</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Cantalicio,</subfield>
+    <subfield code="b">Giovanni Battista</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002526</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Ovidius Naso,</subfield>
+    <subfield code="b">Publius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003076</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Martialis,</subfield>
+    <subfield code="b">Marcus Valerius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007686</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Benedict, Nicolas &amp; Ranoto, Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001561</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Boethius,</subfield>
+    <subfield code="b">Seuerinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012816</subfield>
+    <subfield code="z">Boethius, Anicius Manlius Torquatus Severinus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Boezio,</subfield>
+    <subfield code="b">Anicio Manlio Torquato Severino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012817</subfield>
+    <subfield code="z">Boethius, Anicius Manlius Torquatus Severinus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Valentini,</subfield>
+    <subfield code="b">Giovanni Battista</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015983</subfield>
+    <subfield code="z">Cantalicio, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Ovidius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022433</subfield>
+    <subfield code="z">Ovidius Naso, Publius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Publius Ovidius Naso</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022434</subfield>
+    <subfield code="z">Ovidius Naso, Publius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Marziale,</subfield>
+    <subfield code="b">Marco Valerio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\017880</subfield>
+    <subfield code="z">Martialis, Marcus Valerius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Valerius Martialis,</subfield>
+    <subfield code="b">Marcus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020472</subfield>
+    <subfield code="z">Martialis, Marcus Valerius</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Sagarriga Visconti-Volpi. Bari</subfield>
+    <subfield code="1">BA0018</subfield>
+    <subfield code="2">BA1 BA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Reale. Torino</subfield>
+    <subfield code="1">TO0263</subfield>
+    <subfield code="2">TO0 07</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale universitaria. Torino</subfield>
+    <subfield code="1">TO0265</subfield>
+    <subfield code="2">TO0 02</subfield>
+  </datafield>
+</record>
+</collection>

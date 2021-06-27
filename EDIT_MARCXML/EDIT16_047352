@@ -1,0 +1,100 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01518nam0a22002891i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\047352</controlfield>
+  <controlfield tag="005">20080310000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">um5. n-is umto adob (3) 1526 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19990222d1526        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Primum volumen statutorum augustae Perusiae magistratum ordines et auctoritatem aliaque egregia ciuitatis ordinamenta continens nuper emendatum auctum et impressum ad publicam vtilitatem</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Perusiae</subfield>
+    <subfield code="g">in aedibus Hieronymi Francisci Chartularii</subfield>
+    <subfield code="h">Augusto mense</subfield>
+    <subfield code="h">1526</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\8!, CXXXI, \1! c.</subfield>
+    <subfield code="d">in fol</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">ANNULLATA !!! Vedi CNCE 23860</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Perugia</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Perugia</subfield>
+    <subfield code="3">IT\ICCU\CNCT\006577</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Cartolari, Girolamo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000424</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Perusia</subfield>
+    <subfield code="3">22230</subfield>
+    <subfield code="z">Perugia</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Carthulariis, Hieronimo de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004499</subfield>
+    <subfield code="z">Cartolari, Girolamo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Cartolaio, Hieronymus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004502</subfield>
+    <subfield code="z">Cartolari, Girolamo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria Alessandrina. Roma</subfield>
+    <subfield code="1">RM0280</subfield>
+    <subfield code="2">RML 01</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000933</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Nel coloph.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000609</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000933</subfield>
+    <subfield code="b">Grifone coronato rampante sormontato da due chiavi. Su un cartiglio in basso: Augusta Perusia.</subfield>
+    <subfield code="c">T29</subfield>
+    <subfield code="f">AUGUSTAPER</subfield>
+    <subfield code="f">GRIFONE</subfield>
+    <subfield code="f">CHIAVI</subfield>
+    <subfield code="g">1529-1530</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000609</subfield>
+    <subfield code="b">Croce doppia su semicerchio che si prolunga in basso formando un triangolo. All&apos;interno le iniziali I.E.C.</subfield>
+    <subfield code="c">K143</subfield>
+    <subfield code="c">T28</subfield>
+    <subfield code="f">CROCE</subfield>
+    <subfield code="f">IEC</subfield>
+    <subfield code="g">1523-1543</subfield>
+  </datafield>
+</record>
+</collection>

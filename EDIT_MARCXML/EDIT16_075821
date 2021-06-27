@@ -1,0 +1,38 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00501na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\075821</controlfield>
+  <controlfield tag="005">20110330000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20110330             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">De successionum resolutione ...</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Vz̀quez Menchaca,</subfield>
+    <subfield code="b">Fernando</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013418</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Vz̀quez de Menchaca,</subfield>
+    <subfield code="b">Fernando</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024531</subfield>
+    <subfield code="z">Vz̀quez Menchaca, Fernando</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Vazquez y Menchaca,</subfield>
+    <subfield code="b">Ferdinando</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024532</subfield>
+    <subfield code="z">Vz̀quez Menchaca, Fernando</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

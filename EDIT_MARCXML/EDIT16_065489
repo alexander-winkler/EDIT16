@@ -1,0 +1,57 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00705na 0a22001811i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\065489</controlfield>
+  <controlfield tag="005">20060725000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20060725             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a"></subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Minimi</subfield>
+    <subfield code="3">7496</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Passarello,</subfield>
+    <subfield code="b">Gaspare</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008311</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Ordo Minimorum</subfield>
+    <subfield code="3">15542</subfield>
+    <subfield code="z">Minimi</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Fratres Minimi sancti Francisci de Paula</subfield>
+    <subfield code="3">21181</subfield>
+    <subfield code="z">Minimi</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Paolotti</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024600</subfield>
+    <subfield code="z">Minimi</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Passarelli,</subfield>
+    <subfield code="b">Gaspare</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021825</subfield>
+    <subfield code="z">Passarello, Gaspare</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Passarellus,</subfield>
+    <subfield code="b">Gaspar</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021826</subfield>
+    <subfield code="z">Passarello, Gaspare</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

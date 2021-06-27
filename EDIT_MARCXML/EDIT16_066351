@@ -1,0 +1,65 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00787nam0a22002171i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\066351</controlfield>
+  <controlfield tag="005">20080327000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20060905f1524        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Iudicio de maestro Joanne bolognese del MCCCCCXXIIII</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="d">\1524?!</subfield>
+    <subfield code="e">Impresso in Milano</subfield>
+    <subfield code="g">per Rocho da valle</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\4! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">La data presunta si ricava dal titolo</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Milano</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Giovanni</subfield>
+    <subfield code="c"> : Bolognese</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026899</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Da_Valle, Rocco</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000473</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Valle, Rocco da</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003722</subfield>
+    <subfield code="z">Da_Valle, Rocco</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Valle, Rochus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004510</subfield>
+    <subfield code="z">Da_Valle, Rocco</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Della_Valle, Rocco</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004511</subfield>
+    <subfield code="z">Da_Valle, Rocco</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

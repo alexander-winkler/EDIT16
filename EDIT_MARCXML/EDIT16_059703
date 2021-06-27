@@ -1,0 +1,38 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00606na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\059703</controlfield>
+  <controlfield tag="005">20041209000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20041209             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Anicii Manlii Torquati Severini Boetii, ℗De consolatione philosophiae libri V</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Boethius,</subfield>
+    <subfield code="b">Anicius Manlius Torquatus Severinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000282</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Boethius,</subfield>
+    <subfield code="b">Seuerinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012816</subfield>
+    <subfield code="z">Boethius, Anicius Manlius Torquatus Severinus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Boezio,</subfield>
+    <subfield code="b">Anicio Manlio Torquato Severino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012817</subfield>
+    <subfield code="z">Boethius, Anicius Manlius Torquatus Severinus</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,102 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01546nam0a2200301 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\000239</controlfield>
+  <controlfield tag="005">20180220000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">s:ue upii cuSi sidi (C) 1522 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1522        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">\Expositionis orationis dominicae Pater Noster libri duo et homiliae, sive interpretationes quorundam Davidis psalmorum!</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Neapoli</subfield>
+    <subfield code="c">per Ioannem Antonium de Caneto</subfield>
+    <subfield code="d">1522</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\92! c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Il titolo  ̈tratto da E. D&apos;Afflitto, Memorie degli scrittori del regno di Napoli</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Napoli</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Acquaviva d&apos;Aragona,</subfield>
+    <subfield code="b">Belisario</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000451</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">De_Caneto, Giovanni Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000144</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Caneto, Giovanni Antonio de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002880</subfield>
+    <subfield code="z">De_Caneto, Giovanni Antonio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Canneto, Giovanni Antonio da</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003731</subfield>
+    <subfield code="z">De_Caneto, Giovanni Antonio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Canetus, Ioannes Antonius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004530</subfield>
+    <subfield code="z">De_Caneto, Giovanni Antonio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pavia, Ioanne Antonio de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004532</subfield>
+    <subfield code="z">De_Caneto, Giovanni Antonio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Caneto, Ioannes Antonius de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004533</subfield>
+    <subfield code="z">De_Caneto, Giovanni Antonio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca citt ̉di Arezzo. Arezzo</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">AR0070</subfield>
+    <subfield code="2">RT1 QA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Collezione privata Casamarte. Loreto Aprutino</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">PE0013</subfield>
+    <subfield code="2">ZPE 07</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Augusta. Perugia</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">PG0109</subfield>
+    <subfield code="2">UM1 01</subfield>
+  </datafield>
+</record>
+</collection>

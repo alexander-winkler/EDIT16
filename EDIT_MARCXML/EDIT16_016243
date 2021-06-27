@@ -1,0 +1,41 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00496na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\016243</controlfield>
+  <controlfield tag="005">20010918000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">De verginitate</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Ambrosius</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000660</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Ambrogio</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018899</subfield>
+    <subfield code="z">Ambrosius &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Ambrosius</subfield>
+    <subfield code="c"> : Mediolanensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018900</subfield>
+    <subfield code="z">Ambrosius &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Ambrose</subfield>
+    <subfield code="c"> &lt;saint&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018901</subfield>
+    <subfield code="z">Ambrosius &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

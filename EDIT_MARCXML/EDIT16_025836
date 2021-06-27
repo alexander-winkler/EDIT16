@@ -1,0 +1,167 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02524nam0a2200433 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\025836</controlfield>
+  <controlfield tag="005">20080522000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">ril- e-m. iaid tita (3) 1555 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971002d1555        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Andreae Tiraquelli in Curia Parisiensi senatoris ℗Commentarii. In l. boues ʹ hoc sermone ff. de uerbor. signif</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud Dominicum Lilium</subfield>
+    <subfield code="d">1555</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\30!, 84 c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Tiraqueau,</subfield>
+    <subfield code="b"></subfield>
+    <subfield code="3">IT\ICCU\CNCA\006740</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Giglio, Domenico</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000655</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Tiraquello,</subfield>
+    <subfield code="b">Andrea</subfield>
+    <subfield code="3">IT\ICCU\CNCA\017802</subfield>
+    <subfield code="z"></subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Tiraquellus,</subfield>
+    <subfield code="b">Andreas</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024906</subfield>
+    <subfield code="z"></subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Lilius, Dominicus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002808</subfield>
+    <subfield code="z">Giglio, Domenico</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Zio, Domenico</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003839</subfield>
+    <subfield code="z">Giglio, Domenico</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca diocesana. Ancona</subfield>
+    <subfield code="1">AN0009</subfield>
+    <subfield code="2">PBE 56</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Antonelliana. Senigallia</subfield>
+    <subfield code="1">AN0069</subfield>
+    <subfield code="2">URB BS</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale Salvatore Tommasi. Bazzano</subfield>
+    <subfield code="1">AQ0047</subfield>
+    <subfield code="2">ABR PR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Sansepolcro</subfield>
+    <subfield code="1">AR0060</subfield>
+    <subfield code="2">RT1 QS</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Archivio biblioteca museo civico. ABMC. Altamura</subfield>
+    <subfield code="1">BA0004</subfield>
+    <subfield code="2">BA1 34</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Labronica Francesco Domenico Guerrazzi. Sezione dei Bottini dell&apos;olio. Livorno</subfield>
+    <subfield code="1">LI0074</subfield>
+    <subfield code="2">LIA LA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Accademia Georgica. Treia</subfield>
+    <subfield code="1">MC0251</subfield>
+    <subfield code="2">UMC AG</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Gabinetto di lettura. Este</subfield>
+    <subfield code="1">PD0040</subfield>
+    <subfield code="2">ZPD 18</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Ludovico Jacobilli del Seminario vescovile. Foligno</subfield>
+    <subfield code="1">PG0040</subfield>
+    <subfield code="2">UM1 39</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Pisa</subfield>
+    <subfield code="1">PI0112</subfield>
+    <subfield code="2">PIS R1</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca delle facolt ̉di Giurisprudenza e Scienze politiche dell&apos;Universit ̉degli studi di Urbino. Urbino</subfield>
+    <subfield code="1">PU0127</subfield>
+    <subfield code="2">URB AG</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Montalcino</subfield>
+    <subfield code="1">SI0023</subfield>
+    <subfield code="2">RT1 QO</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Ubaldo Mazzini. Fondi antichi. La Spezia</subfield>
+    <subfield code="1">SP0110</subfield>
+    <subfield code="2">LI2 L8</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Collezione privata Casagrande. San Don ̉di Piave</subfield>
+    <subfield code="1">VE0259</subfield>
+    <subfield code="2">ZVE 20</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000296</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000296</subfield>
+    <subfield code="b">Uccello con scorpione nel becco su anfora con iniz. D.G., sorretta dalle code di due animali alati con testa caprina. Nel nastro le iniziali N.S.C.C.F .</subfield>
+    <subfield code="e">Non sine quare, sic facio</subfield>
+    <subfield code="c">A134</subfield>
+    <subfield code="c">V360</subfield>
+    <subfield code="c">Z957</subfield>
+    <subfield code="d">Dimensioni: 5 x 5,5</subfield>
+    <subfield code="f">ANFORA</subfield>
+    <subfield code="f">DG</subfield>
+    <subfield code="f">NONSINEQUA</subfield>
+    <subfield code="f">SCORPIONE</subfield>
+    <subfield code="f">UCCELLO</subfield>
+    <subfield code="g">[circa 1550]-1564</subfield>
+  </datafield>
+</record>
+</collection>

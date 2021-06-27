@@ -1,0 +1,102 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01486nam0a22002771i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\075758</controlfield>
+  <controlfield tag="005">20110309000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">nira o,no r-no alra (C) 1592 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20110309d1592        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Canzone enimmatica sopra la scrittura, et la scultura; laquale \!! Ottauiano Ridolfi, scultore veronese per suo diporto faceua</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Verona</subfield>
+    <subfield code="c">per Sebastiano dalle Donne</subfield>
+    <subfield code="d">1592</subfield>
+    <subfield code="e">\Verona</subfield>
+    <subfield code="g">Sebastiano dalle Donne!</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">15, \1! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Verona</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Ridolfi,</subfield>
+    <subfield code="b">Ottaviano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\029403</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Dalle_Donne, Sebastiano</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000563</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Donnis, Sebastianus a</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003704</subfield>
+    <subfield code="z">Dalle_Donne, Sebastiano</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Donne, Sebastiano dalle</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004480</subfield>
+    <subfield code="z">Dalle_Donne, Sebastiano</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Donne, Bastiano dalle</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004481</subfield>
+    <subfield code="z">Dalle_Donne, Sebastiano</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Palatina. Parma</subfield>
+    <subfield code="1">PR0072</subfield>
+    <subfield code="2">PAR PA</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000665</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">In fine</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001220</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000665</subfield>
+    <subfield code="b">Pace (donna seduta con un ramo d&apos;olivo in mano). In cornice figurata</subfield>
+    <subfield code="e">Virtus fortuna, et opera</subfield>
+    <subfield code="c">V536</subfield>
+    <subfield code="d">Dimensioni: 3,8 x 4,5. Con o senza motto</subfield>
+    <subfield code="f">MANO</subfield>
+    <subfield code="f">OLIVO</subfield>
+    <subfield code="f">PACE</subfield>
+    <subfield code="g">1572-1599</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001220</subfield>
+    <subfield code="b">S. Michele con lancia e bilancia, ai piedi il diavolo. In cornice figurata.</subfield>
+    <subfield code="e">Tandem rependet</subfield>
+    <subfield code="c">T38</subfield>
+    <subfield code="d">Con o senza motto</subfield>
+    <subfield code="f">MICHELE</subfield>
+    <subfield code="f">BILANCIA</subfield>
+    <subfield code="g">1551-1592</subfield>
+  </datafield>
+</record>
+</collection>

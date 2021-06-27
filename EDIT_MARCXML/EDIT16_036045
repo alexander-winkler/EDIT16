@@ -1,0 +1,111 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01599nam0a22003131i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\036045</controlfield>
+  <controlfield tag="005">20090901000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">vte. leum amis ag&amp;l (3) 1513 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19980116d1513        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Gentilis Fulginatis ℗De proportionibus medicinarum, &amp; de modo inuestigandi complexiones earum &amp; ad sciendum conuenientem dosim cuiuslibet medicinae</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Impressum Bononie</subfield>
+    <subfield code="g">per Benedictum Hectoris bibliopolam Bononiensem</subfield>
+    <subfield code="h">1513</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">14, \2! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Bologna</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Gentile</subfield>
+    <subfield code="c"> : da#Foligno</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000362</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Faelli, Benedetto</subfield>
+    <subfield code="c"> &lt;1.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000129</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Gentili,</subfield>
+    <subfield code="b">Gentile</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018711</subfield>
+    <subfield code="z">Gentile : da#Foligno</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Gentilis</subfield>
+    <subfield code="c"> : Fulginas</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018713</subfield>
+    <subfield code="z">Gentile : da#Foligno</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Gentilibus,</subfield>
+    <subfield code="b">Gentilis : de#Fulgineo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022158</subfield>
+    <subfield code="z">Gentile : da#Foligno</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Benedictus Hectoris</subfield>
+    <subfield code="c"> &lt;1.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002712</subfield>
+    <subfield code="z">Faelli, Benedetto &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Hectoris, Benedictus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002721</subfield>
+    <subfield code="z">Faelli, Benedetto &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Benedictus Bononiensis</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003789</subfield>
+    <subfield code="z">Faelli, Benedetto &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Benedetto di Hettore</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005101</subfield>
+    <subfield code="z">Faelli, Benedetto &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Hectoreus, Benedictus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005102</subfield>
+    <subfield code="z">Faelli, Benedetto &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Passerini Landi. Piacenza</subfield>
+    <subfield code="1">PC0030</subfield>
+    <subfield code="2">PIA PL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Pavia</subfield>
+    <subfield code="1">PV0291</subfield>
+    <subfield code="2">MIL UP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale degli Intronati. Siena</subfield>
+    <subfield code="1">SI0046</subfield>
+    <subfield code="2">RT1 QI</subfield>
+  </datafield>
+</record>
+</collection>

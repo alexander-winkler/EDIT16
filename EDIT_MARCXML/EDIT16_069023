@@ -1,0 +1,44 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00564na 0a22001451i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\069023</controlfield>
+  <controlfield tag="005">20080930000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20061207             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Dialogo intitolato il Grammatico ouero delle false essercitationi delle scuole</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Paleario,</subfield>
+    <subfield code="b">Aonio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008932</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Della_Paglia,</subfield>
+    <subfield code="b">Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021888</subfield>
+    <subfield code="z">Paleario, Aonio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Palearius,</subfield>
+    <subfield code="b">Aonius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021889</subfield>
+    <subfield code="z">Paleario, Aonio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Paleari,</subfield>
+    <subfield code="b">Aonio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021891</subfield>
+    <subfield code="z">Paleario, Aonio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

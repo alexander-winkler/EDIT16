@@ -1,0 +1,108 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01916nam0a2200301 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\039762</controlfield>
+  <controlfield tag="005">20140325000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">s,re 9241 o-i- manu (3) 1595 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19981111d1595        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Ioachimi Mynsingeri a Frundek, iureconsulti clarissimi ℗Apotelesma, siue corpus perfectum scoliorum, ad quatuor libros institutionum iuris ciuilis. Hac nouissima editione multo vberius et emendatius quam antea excusum: atque, quod studiosorum maxime interest, iuris allegationibus, (quae in prioribus fuerunt in nonnullis locis corruptae) restitutis, vt merito caeteris antecellat. Adiectis rerum memorabilium, &amp; paragraphorum indicibus singularibus; necnon elencho locorum codicis atque pandectarum, quae inter explicandum enucleantur</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud Damianum Zenarium</subfield>
+    <subfield code="d">1595</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\76!, 706, \2! p.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Mynsinger von Frndeck,</subfield>
+    <subfield code="b">Joachim</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005622</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Zenaro, Damiano</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000294</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Minsinger,</subfield>
+    <subfield code="b">Joachim</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021238</subfield>
+    <subfield code="z">Mynsinger von Frndeck, Joachim</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">℗al segno della ℗Salamandra</subfield>
+    <subfield code="c"> &lt;1563-1600&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002327</subfield>
+    <subfield code="z">Zenaro, Damiano</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Genarus, Damianus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002957</subfield>
+    <subfield code="z">Zenaro, Damiano</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Zenarus, Damianus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005823</subfield>
+    <subfield code="z">Zenaro, Damiano</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Zenarius, Damianus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005824</subfield>
+    <subfield code="z">Zenaro, Damiano</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale di Montevergine. Mercogliano</subfield>
+    <subfield code="1">AV0045</subfield>
+    <subfield code="2">NAP MV</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale. Cremona</subfield>
+    <subfield code="1">CR0062</subfield>
+    <subfield code="2">LO1 28</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Oristano</subfield>
+    <subfield code="1">OR0037</subfield>
+    <subfield code="2">CAG CO</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000889</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000889</subfield>
+    <subfield code="b">Salamandra coronata, tra le fiamme. In cornice figurata</subfield>
+    <subfield code="e">Virtuti sic cedit invidia.</subfield>
+    <subfield code="c">Q60</subfield>
+    <subfield code="d">Dimensioni: 9 x 7</subfield>
+    <subfield code="f">SALAMANDRA</subfield>
+    <subfield code="f">FIAMME</subfield>
+    <subfield code="f">VIRTUTISIC</subfield>
+    <subfield code="g">1565-1596</subfield>
+  </datafield>
+</record>
+</collection>

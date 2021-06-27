@@ -1,0 +1,67 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00860nam0a2200217 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\014920</controlfield>
+  <controlfield tag="005">19981014000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">ioe; r-ij tera chch (3) 1593 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1593        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">CZ</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Scotographia ouero, Scienza di scriuere oscuro, facilissima, &amp; sicurissima, per qual si voglia lingua. Opera di Abram Colorni</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Praga</subfield>
+    <subfield code="c">presso Giouani Sciuman</subfield>
+    <subfield code="d">1593</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\4!, 16, \27! c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">CZ</subfield>
+    <subfield code="d">Praga</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Colorni,</subfield>
+    <subfield code="b">Abramo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003408</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Schumann, Johannes</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001523</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Sciuman, Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002824</subfield>
+    <subfield code="z">Schumann, Johannes</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Sciumano, Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005619</subfield>
+    <subfield code="z">Schumann, Johannes</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale. Cremona</subfield>
+    <subfield code="1">CR0062</subfield>
+    <subfield code="2">LO1 28</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,132 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02485nam0a22003611i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\049365</controlfield>
+  <controlfield tag="005">20110616000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e-se goit deec ffex (3) 1521 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">asns 293. j.o- pebe (C) 1521 (A)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">2</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19991018d1521        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Consilia ac questiones famosissimi vtriusque iuris monarche domini Signoroli de Homodeis Mediola. equitis ac comitis meritissimi nouiter impressa ac reuisa per dominum Hieroni. Chucalon Hispanum cum nonnullis additionibus per eundem additis, numeris ac summarjis materias consiliorum continentibus ac nouo repertorio pro faciliori in eis contentorum inuentione</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="d">1521</subfield>
+    <subfield code="e">Impressa Mediolani</subfield>
+    <subfield code="g">per Io. Angelum Scinzenzeler</subfield>
+    <subfield code="g">impensis nobilium mercatorum domi. Iohanis Iacobi et fratrum de Lignano</subfield>
+    <subfield code="h">1521 die 27 Iulij</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">2 pt.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">2: Tabula seu repertorium consiliorum ac questionum et allegationum vtriusque iuris monarche domini Signoroli de Homodeis de Mediolano equitis ac comitis meritissimi nouiter impressa ac reuisa</subfield>
+  </datafield>
+  <datafield tag="423" ind1=" " ind2="0">
+    <subfield code="1">001IT\ICCU\CNCE\054786</subfield>
+    <subfield code="1">2001 </subfield>
+    <subfield code="a">Tabula seu repertorium consiliorum ac questionum et allegationum vtriusque iuris monarche domini Signoroli de Homodeis de Mediolano equitis ac comitis meritissimi nouiter impressa ac reuisa.</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Milano</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Omodei,</subfield>
+    <subfield code="b">Signorolo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015622</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Cucalon,</subfield>
+    <subfield code="b">Jeronimo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004378</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Scinzenzeler, Giovanni Angelo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000084</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Da_Legnano, Giovanni Giacomo &amp; fratelli</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001554</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Homodeis,</subfield>
+    <subfield code="b">Signorolus : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022362</subfield>
+    <subfield code="z">Omodei, Signorolo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Degli_Omodei,</subfield>
+    <subfield code="b">Signorollo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022363</subfield>
+    <subfield code="z">Omodei, Signorolo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Homodeus,</subfield>
+    <subfield code="b">Signorinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022364</subfield>
+    <subfield code="z">Omodei, Signorolo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Signorollo</subfield>
+    <subfield code="c"> : degli#Omodei</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022365</subfield>
+    <subfield code="z">Omodei, Signorolo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Chucalon,</subfield>
+    <subfield code="b">Hieronymus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013235</subfield>
+    <subfield code="z">Cucalon, Jeronimo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Cucalon,</subfield>
+    <subfield code="b">Hieronymus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018599</subfield>
+    <subfield code="z">Cucalon, Jeronimo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Schinzenzeler, Giovanni Angelo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005621</subfield>
+    <subfield code="z">Scinzenzeler, Giovanni Angelo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Romolo Spezioli. Fermo</subfield>
+    <subfield code="1">AP0012</subfield>
+    <subfield code="2">UMC FM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Dipartimento di diritto privato e storia del diritto dell&apos;Universit ̉degli studi di Milano. Milano</subfield>
+    <subfield code="1">MI1334</subfield>
+    <subfield code="2">USM L1</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">British Library. London</subfield>
+    <subfield code="1">UK0001</subfield>
+  </datafield>
+</record>
+</collection>

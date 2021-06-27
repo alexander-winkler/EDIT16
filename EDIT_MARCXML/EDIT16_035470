@@ -1,0 +1,112 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01643nam0a22003251i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\035470</controlfield>
+  <controlfield tag="005">19990524000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">uoa- r*le xidu ettu (7) 1521 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19980112d1521        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Xenophontis ℗De factis &amp; dictis Socratis memoratu dignis Bessarione cardinale Niceno interprete. Libri quatuor</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Romae</subfield>
+    <subfield code="g">impressit Ariottus de Trino</subfield>
+    <subfield code="g">impensis Ioannis Mazochi Bergomatis</subfield>
+    <subfield code="h">1521</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">58 c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Roma</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Xenophon</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004423</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">Ariotto da Trino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001349</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Mazzocchi, Giovanni</subfield>
+    <subfield code="c"> &lt;di Bondeno&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000736</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Senofonte</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018649</subfield>
+    <subfield code="z">Xenophon</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Ariotus de Trino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004256</subfield>
+    <subfield code="z">Ariotto da Trino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Maciochius, Ioannes</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003992</subfield>
+    <subfield code="z">Mazzocchi, Giovanni &lt;di Bondeno&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Mazochius Bondenus, Ioannes</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005143</subfield>
+    <subfield code="z">Mazzocchi, Giovanni &lt;di Bondeno&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Mazocco dal Bondeno, Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005144</subfield>
+    <subfield code="z">Mazzocchi, Giovanni &lt;di Bondeno&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Macciocchus, Ioannes</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005145</subfield>
+    <subfield code="z">Mazzocchi, Giovanni &lt;di Bondeno&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Mazzoccho, Ioane</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005146</subfield>
+    <subfield code="z">Mazzocchi, Giovanni &lt;di Bondeno&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Fondazione Biblioteca Morcelli. Chiari</subfield>
+    <subfield code="1">BS0060</subfield>
+    <subfield code="2">LO1 6B</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Pontificia universit ̉Urbaniana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0003</subfield>
+    <subfield code="2">ZCV 04</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della collegiata S. Pietro Apostolo. Broni</subfield>
+    <subfield code="1">PV0012</subfield>
+    <subfield code="2">ZPV 05</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Vercelli</subfield>
+    <subfield code="1">VC0073</subfield>
+    <subfield code="2">TO0 A2</subfield>
+  </datafield>
+</record>
+</collection>

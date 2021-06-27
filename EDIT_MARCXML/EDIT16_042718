@@ -1,0 +1,122 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01582nam0a22003491i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\042718</controlfield>
+  <controlfield tag="005">20070810000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19981215d1518        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Homeri Batrachomyomachia a Karolo Aretino Latinitate donata, cum Alexandri Gabuardi Tursellani notis</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Pisauri</subfield>
+    <subfield code="c">per Hieronymum Soncinum</subfield>
+    <subfield code="d">1518</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Opera attribuita falsamente a Omero</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2="1">
+    <subfield code="3">IT\ICCU\CNCE\037295</subfield>
+    <subfield code="a">Batrachomyomachia</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Pesaro</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Homerus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005036</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Marsuppini,</subfield>
+    <subfield code="b">Carlo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010451</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Gaboardo,</subfield>
+    <subfield code="b">Alessandro</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020519</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Soncino, Girolamo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000277</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Omero</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018611</subfield>
+    <subfield code="z">Homerus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Karolus</subfield>
+    <subfield code="c"> : Aretinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\011405</subfield>
+    <subfield code="z">Marsuppini, Carlo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Aretino,</subfield>
+    <subfield code="b">Carlo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012673</subfield>
+    <subfield code="z">Marsuppini, Carlo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Carlo</subfield>
+    <subfield code="c"> : Aretino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013185</subfield>
+    <subfield code="z">Marsuppini, Carlo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Carolus</subfield>
+    <subfield code="c"> : Aretinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013191</subfield>
+    <subfield code="z">Marsuppini, Carlo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Gabuardus,</subfield>
+    <subfield code="b">Alexander</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021120</subfield>
+    <subfield code="z">Gaboardo, Alessandro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Soncino, Gershom ben Mosheh</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002888</subfield>
+    <subfield code="z">Soncino, Girolamo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Soncinus, Hieronymus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005713</subfield>
+    <subfield code="z">Soncino, Girolamo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Soncinas, Hieronymus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005714</subfield>
+    <subfield code="z">Soncino, Girolamo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Suncinus, Hieronymus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005715</subfield>
+    <subfield code="z">Soncino, Girolamo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Sonzino, Hieronymo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005716</subfield>
+    <subfield code="z">Soncino, Girolamo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

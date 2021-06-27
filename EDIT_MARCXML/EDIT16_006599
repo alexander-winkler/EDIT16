@@ -1,0 +1,124 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01759nam0a2200361 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\006599</controlfield>
+  <controlfield tag="005">20100611000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">toto coti lase DeAf (C) 1518 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1518        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Comedia de Timone per el magnifico conte Matheo Maria Boyardo conte de Scandiano traducta de uno dialogo de Luciano a conpiacentia de lo illustris. principe signore Hercule estense duca de Ferrara &amp;c</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Stampata in Venetia</subfield>
+    <subfield code="g">per Georgio di Rusconi milanese</subfield>
+    <subfield code="h">1518. adi III dies decembris</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\40! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Colophon a c. E2r</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Boiardo,</subfield>
+    <subfield code="b">Matteo Maria</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000229</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Lucianus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000211</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Rusconi, Giorgio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000072</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Lucianus</subfield>
+    <subfield code="c"> : Samosatensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008636</subfield>
+    <subfield code="z">Lucianus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Luciano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020665</subfield>
+    <subfield code="z">Lucianus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Luciano</subfield>
+    <subfield code="c"> : di#Samosata</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020666</subfield>
+    <subfield code="z">Lucianus</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Rusconibus, Georgius de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005483</subfield>
+    <subfield code="z">Rusconi, Giorgio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Rusco, Georgius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005485</subfield>
+    <subfield code="z">Rusconi, Giorgio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ruschoni, Zorzi di</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005487</subfield>
+    <subfield code="z">Rusconi, Giorgio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Durazzo. Genova</subfield>
+    <subfield code="1">GE0047</subfield>
+    <subfield code="2">ZGE 24</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca oratoriana del Monumento nazionale dei Girolamini. Napoli</subfield>
+    <subfield code="1">NA0075</subfield>
+    <subfield code="2">NAP GE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Augusta. Perugia</subfield>
+    <subfield code="1">PG0109</subfield>
+    <subfield code="2">UM1 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca  Panizzi. Reggio Emilia</subfield>
+    <subfield code="1">RE0052</subfield>
+    <subfield code="2">RE2 PA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Storica di Ateneo &quot;Arturo Graf&quot;. Torino</subfield>
+    <subfield code="1">TO0529</subfield>
+    <subfield code="2">UTO 23</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">British Library. London</subfield>
+    <subfield code="1">UK0001</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Marciana. Venezia</subfield>
+    <subfield code="1">VE0049</subfield>
+    <subfield code="2">VEA BM</subfield>
+  </datafield>
+</record>
+</collection>

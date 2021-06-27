@@ -1,0 +1,32 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00515na 0a22001211i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\043046</controlfield>
+  <controlfield tag="005">19991011000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19981222             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">In cantica canticorum enarrationes. Enarrationes in euangelium Matthaei d.Anselmi archiepiscopi Cantuariensis. Anselmi Laudanensis in Apocalypsim enarrationes</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Anselmus</subfield>
+    <subfield code="c"> :  Laudunensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000202</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Anselmo</subfield>
+    <subfield code="c"> : di#Laon</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012463</subfield>
+    <subfield code="z">Anselmus :  Laudunensis</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

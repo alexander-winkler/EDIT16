@@ -1,0 +1,52 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00695na 0a22001691i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\072555</controlfield>
+  <controlfield tag="005">20080310000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20080310             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Seconda parte delle cose morali di Plutarco, recata pur hora in questa nostra lingua da m. Giouanni Tarchagnota</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Plutarchus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000103</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Tarcagnota,</subfield>
+    <subfield code="b">Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001157</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Plutarco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018845</subfield>
+    <subfield code="z">Plutarchus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Plutarchus</subfield>
+    <subfield code="c"> : Chaeroneus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018846</subfield>
+    <subfield code="z">Plutarchus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Plutarco</subfield>
+    <subfield code="c"> : Cheroneo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022661</subfield>
+    <subfield code="z">Plutarchus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Ploutarchos</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022664</subfield>
+    <subfield code="z">Plutarchus</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

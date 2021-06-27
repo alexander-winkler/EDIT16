@@ -1,0 +1,41 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00521na 0a22001451i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\051947</controlfield>
+  <controlfield tag="005">20120919000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20010407             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">De merito animarum purgatorii, &amp; cognitioe, propriae beatitudinis futurae</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Isocrates</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005015</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Isokrates</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020255</subfield>
+    <subfield code="z">Isocrates</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Isocrate</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020256</subfield>
+    <subfield code="z">Isocrates</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Isocrates</subfield>
+    <subfield code="c"> : Atheniensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020257</subfield>
+    <subfield code="z">Isocrates</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,107 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01727nam0a2200313 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\016269</controlfield>
+  <controlfield tag="005">20050622000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">ran- teo- a-i- made (3) 1595 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1595        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Trattato del santissimo sacramento dell&apos;altare, et del modo di riceuerlo fruttuosamente, con vn&apos;altro trattato della santissima messa, &amp; del modo d&apos;vdirla con frutto; et con vno specchio di confessione. Composti per il r. p. Emerio de Bonis della Compagnia di Giesu. Di nuouo con diligenza ricorretti</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Roma</subfield>
+    <subfield code="c">appresso Domenico Basa</subfield>
+    <subfield code="d">1595</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">240 p.</subfield>
+    <subfield code="d">12ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">A p. 129 altro front.: Trattato della messa et del modo d&apos;vdirla con frutto. - A p. 175 altro front.: Specchio di confessione per tutti</subfield>
+  </datafield>
+  <datafield tag="423" ind1=" " ind2="0">
+    <subfield code="1">001IT\ICCU\CNCE\051449</subfield>
+    <subfield code="1">2001 </subfield>
+    <subfield code="a">Trattato della messa ...</subfield>
+  </datafield>
+  <datafield tag="423" ind1=" " ind2="0">
+    <subfield code="1">001IT\ICCU\CNCE\051450</subfield>
+    <subfield code="1">2001 </subfield>
+    <subfield code="a">Specchio di confessione ...</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Roma</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">De_Bonis,</subfield>
+    <subfield code="b">Emerio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Basa, Domenico</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000287</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Bonis,</subfield>
+    <subfield code="b">Emerio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004651</subfield>
+    <subfield code="z">De_Bonis, Emerio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Bonis,</subfield>
+    <subfield code="b">Emerio : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008179</subfield>
+    <subfield code="z">De_Bonis, Emerio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">De_Bonis,</subfield>
+    <subfield code="b">Emerius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022743</subfield>
+    <subfield code="z">De_Bonis, Emerio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale dell&apos;Archiginnasio. Bologna</subfield>
+    <subfield code="1">BO0304</subfield>
+    <subfield code="2">UBO GA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Francesco Melosio. Citt ̉della Pieve</subfield>
+    <subfield code="1">PG0031</subfield>
+    <subfield code="2">UM1 14</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Ludovico Jacobilli del Seminario vescovile. Foligno</subfield>
+    <subfield code="1">PG0040</subfield>
+    <subfield code="2">UM1 39</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Lorenzo Leonj. Todi</subfield>
+    <subfield code="1">PG0172</subfield>
+    <subfield code="2">UM1 20</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Paroniana. Rieti</subfield>
+    <subfield code="1">RI0126</subfield>
+    <subfield code="2">RMS B5</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,49 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00686nam0a22001811i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\059593</controlfield>
+  <controlfield tag="005">20041117000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20041117f1555        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Taurinae vrbis Aug. academia reviviscens</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">\Torino!</subfield>
+    <subfield code="c">excudebat Ioannes Maria Colonus Salucianus</subfield>
+    <subfield code="d">\1555!</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">1 foglio</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Stampata a Torino; per il luogo e la data cfr.: M. Bersano Begey - G. Dondi, Le cinquecentine piemontesi, p. 403, n. 570</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Torino</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Coloni, Giovanni Maria</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000779</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Colonus, Ioannes Maria</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004641</subfield>
+    <subfield code="z">Coloni, Giovanni Maria</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

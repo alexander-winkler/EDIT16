@@ -1,0 +1,185 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>03052nam0a2200469 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\005704</controlfield>
+  <controlfield tag="005">20120426000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">cmin o-n* l-et tuil (3) 1520 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1520        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Mengus super Logicam Pauli Veneti. Summule magistri Pauli Veneti cum antiquis expositionibus ac questionibus Mengi Fauentini &amp; Jacobi Ricij seriatim insertis. Itidemque eiusdem Mengi quam plures tractatus et opuscula nunc primum in lucem edita quae infraordine posita sunt videlicet Scripta resoluta super toto organo Tractatus de primis et secundis intentionibus Tractatus de vero et falso Tractatus de scire et dubitare Tractatus de primo et ultimo instanti Tractatus de maximo et minimo Tractatus de tribus predicamentis Annotationes Manfredi. Item infinite alie annexe questiones que omnia ab eodem Mengo nouissime fuere recognita cunctisque mendis et erroribus expurgata</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Venetijs</subfield>
+    <subfield code="g">impensis nobilis viri Luceantonij de Giunta Florentini</subfield>
+    <subfield code="h">1520 die ij mensis Ianuarij</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">205 c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Bianchelli,</subfield>
+    <subfield code="b">Mengo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001704</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Paolo</subfield>
+    <subfield code="c"> : Veneto</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001113</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Ricci,</subfield>
+    <subfield code="b">Giacomo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001114</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Medici,</subfield>
+    <subfield code="b">Manfredo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001115</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Giunta, Lucantonio</subfield>
+    <subfield code="c"> &lt;1.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002111</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Mengo</subfield>
+    <subfield code="c"> : da#Faenza</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005366</subfield>
+    <subfield code="z">Bianchelli, Mengo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Blanchellus,</subfield>
+    <subfield code="b">Menghus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007985</subfield>
+    <subfield code="z">Bianchelli, Mengo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Menghus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012784</subfield>
+    <subfield code="z">Bianchelli, Mengo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Nicoletti,</subfield>
+    <subfield code="b">Paolo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005499</subfield>
+    <subfield code="z">Paolo : Veneto</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Paulus</subfield>
+    <subfield code="c"> : Venetus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014707</subfield>
+    <subfield code="z">Paolo : Veneto</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Paolo</subfield>
+    <subfield code="c"> : da#Venezia</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021500</subfield>
+    <subfield code="z">Paolo : Veneto</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Riccius,</subfield>
+    <subfield code="b">Iacobus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023745</subfield>
+    <subfield code="z">Ricci, Giacomo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Riccius,</subfield>
+    <subfield code="b">Jacobus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023746</subfield>
+    <subfield code="z">Ricci, Giacomo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Medicis,</subfield>
+    <subfield code="b">Manfredus : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022633</subfield>
+    <subfield code="z">Medici, Manfredo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Zontis, Lucas Antonius de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003892</subfield>
+    <subfield code="z">Giunta, Lucantonio &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Giunti, Lucantonio</subfield>
+    <subfield code="c"> &lt;1&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004926</subfield>
+    <subfield code="z">Giunta, Lucantonio &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Gionta, Lucantonio de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004928</subfield>
+    <subfield code="z">Giunta, Lucantonio &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Giuntis, Lucas Antonius de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004929</subfield>
+    <subfield code="z">Giunta, Lucantonio &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Zonta, Lucantonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004930</subfield>
+    <subfield code="z">Giunta, Lucantonio &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Convento di S. Chiara. L&apos;Aquila</subfield>
+    <subfield code="1">AQ0045</subfield>
+    <subfield code="2">ZAQ 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Pasquale Testini. Ruvo di Puglia</subfield>
+    <subfield code="1">BA0115</subfield>
+    <subfield code="2">BA1 17</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Ariostea. Ferrara</subfield>
+    <subfield code="1">FE0017</subfield>
+    <subfield code="2">UFE AR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale. Lucca</subfield>
+    <subfield code="1">LU0022</subfield>
+    <subfield code="2">LUA BL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Nel coloph.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000012</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000012</subfield>
+    <subfield code="b">Giglio fiorentino e iniziali L.A. In cornice.</subfield>
+    <subfield code="c">K217</subfield>
+    <subfield code="c">Z616</subfield>
+    <subfield code="d">Dimensioni: 6 x 8,5</subfield>
+    <subfield code="f">GIGLIO</subfield>
+    <subfield code="g">1501-1551</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,111 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01623nam0a2200313 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\014717</controlfield>
+  <controlfield tag="005">20010703000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">,&amp;ne m-is t,en riti (3) 1591 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">loi- s,ac a-a. chIo (C) 1591 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">2</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1591        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">\Concilium Tridentinum ... Cum Indice librorum prohibitorum!</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">ad signum Columbae</subfield>
+    <subfield code="d">1591</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">2 v.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Le note tipografiche si ricavano dal front del 2. v. Il 1. v.  ̈mutilo del front. Nel coloph. del 1. v.: Venetiis, apud Florauantem Pratum, 1591</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="710" ind1="1" ind2="2">
+    <subfield code="a">Concilio di Trento</subfield>
+    <subfield code="c"> &lt;1545-1563&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003434</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">℗Al segno della ℗Colomba</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002083</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Prati, Fioravante</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000576</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Concilium Tridentinum</subfield>
+    <subfield code="c"> &lt;1545-1563&gt;</subfield>
+    <subfield code="3">8382</subfield>
+    <subfield code="z">Concilio di Trento &lt;1545-1563&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">℗ad signum ℗Columbae</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004638</subfield>
+    <subfield code="z">℗Al segno della ℗Colomba</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Prato, Floravans a</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005506</subfield>
+    <subfield code="z">Prati, Fioravante</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pratus, Floravans</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005507</subfield>
+    <subfield code="z">Prati, Fioravante</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Giulio Gabrielli. Ascoli Piceno</subfield>
+    <subfield code="1">AP0006</subfield>
+    <subfield code="2">UMC AP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Gaetano Badii. Massa Marittima</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">GR0024</subfield>
+    <subfield code="2">RT1 FI</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front. del v. 2</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000266</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000266</subfield>
+    <subfield code="b">Colomba con ramoscello di olivo nel becco poggiata su un tronco d&apos;albero. In cornice figurata</subfield>
+    <subfield code="c">Z360</subfield>
+    <subfield code="d">Dimensioni: 5,7 x 5,2</subfield>
+    <subfield code="f">COLOMBA</subfield>
+    <subfield code="f">TRONCO</subfield>
+    <subfield code="f">ULIVO</subfield>
+    <subfield code="g">1591-1600</subfield>
+  </datafield>
+</record>
+</collection>

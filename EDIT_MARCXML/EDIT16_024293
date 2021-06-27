@@ -1,0 +1,78 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01139nam0a22002531i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\024293</controlfield>
+  <controlfield tag="005">20040508000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">loon ++++ ++++ ++++ (C) 1570 (Q)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970731f1570        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Il ℗Belissimo ordine tenuto nella solenne e magnanima intrata nella elicissima \sic! Citt ̉di Roma, dal Serenissimo Gran Duca di Toscana il d 28 di Febraro</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Viterbo</subfield>
+    <subfield code="d">\dopo il 1570!</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">6 c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Stampata da Agostino Colaldo. Per la data e il tipografo cfr.: A. Carosi, Librai cartai e tipografi in Viterbo,  n.4</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Viterbo</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Torello,</subfield>
+    <subfield code="b">Sebastiano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007088</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Colaldi, Agostino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000505</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Colaldus, Augustinus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004628</subfield>
+    <subfield code="z">Colaldi, Agostino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Colaldo, Agostino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004629</subfield>
+    <subfield code="z">Colaldi, Agostino</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Moreniana. Firenze</subfield>
+    <subfield code="1">FI0099</subfield>
+    <subfield code="2">RT1 BP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Collezione privata Carosi. Viterbo</subfield>
+    <subfield code="1">VT0106</subfield>
+    <subfield code="2">ZVT 10</subfield>
+  </datafield>
+</record>
+</collection>

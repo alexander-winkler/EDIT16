@@ -1,0 +1,76 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00992nam0a22002411i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\054753</controlfield>
+  <controlfield tag="005">20040811000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">o*i: rail esia tuat (C) 1518 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20031114d1518        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Orationes tres Alphonsi de Valdeuieso</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">\Roma!</subfield>
+    <subfield code="g">apud Stephanum Guillireti de Lunariuilla Tullen. dioc.</subfield>
+    <subfield code="h">1518 die prima mensis Ianuarii</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\22! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Roma</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Valdivieso,</subfield>
+    <subfield code="b">Alfonso : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016998</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Guillery, Etienne</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000106</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Guilliretus, Stephanus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003508</subfield>
+    <subfield code="z">Guillery, Etienne</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Guilleretus, Stephanus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005093</subfield>
+    <subfield code="z">Guillery, Etienne</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Guilleri, Stephanus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005094</subfield>
+    <subfield code="z">Guillery, Etienne</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale dell&apos;Archiginnasio. Bologna</subfield>
+    <subfield code="1">BO0304</subfield>
+    <subfield code="2">UBO GA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Augusta. Perugia</subfield>
+    <subfield code="1">PG0109</subfield>
+    <subfield code="2">UM1 01</subfield>
+  </datafield>
+</record>
+</collection>

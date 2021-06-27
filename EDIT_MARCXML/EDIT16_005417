@@ -1,0 +1,136 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01998nam0a2200361 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\005417</controlfield>
+  <controlfield tag="005">20200403000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">s,e* b-o- esi- neCo (3) 1553 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1553        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Compillatio \!! statutorum et ordinum Bercetti, ex eorum consensu aboletis statutis antiquis, nouiter aedita per illust. d. comitem Sancti Secundi Troilum II</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Parmae</subfield>
+    <subfield code="c">apud Seth de Viottis</subfield>
+    <subfield code="d">1553</subfield>
+    <subfield code="e">Impressa Parmae</subfield>
+    <subfield code="g">apud Seth Viottum</subfield>
+    <subfield code="h">ad instantiam Dominorum Octo Praesidentium regimiis</subfield>
+    <subfield code="h">&amp; Communis Bercetti</subfield>
+    <subfield code="h">die XXX mensis Maii</subfield>
+    <subfield code="h">1553</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">109, \7! p.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="517" ind1="1" ind2=" ">
+    <subfield code="3">IT\ICCU\CNCE\079416</subfield>
+    <subfield code="a">Compilatio statutorum et ordinum Bercett.</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Parma</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Berceto</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001631</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Viotti, Seth</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000228</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Viotto, Sette</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004169</subfield>
+    <subfield code="z">Viotti, Seth</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Viottus, Septimus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004170</subfield>
+    <subfield code="z">Viotti, Seth</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Vioto, Seth</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005899</subfield>
+    <subfield code="z">Viotti, Seth</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Viottis, Seth de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005900</subfield>
+    <subfield code="z">Viotti, Seth</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Badia dei Benedettini di S. Andrea della Castagna. Genova</subfield>
+    <subfield code="1">GE0031</subfield>
+    <subfield code="2">ZGE 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Archivio di Stato di Massa. Massa</subfield>
+    <subfield code="1">MS0025</subfield>
+    <subfield code="2">ZMS 04</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Palatina. Parma</subfield>
+    <subfield code="1">PR0072</subfield>
+    <subfield code="2">PAR PA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Angelica. Roma</subfield>
+    <subfield code="1">RM0290</subfield>
+    <subfield code="2">RML 06</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Reale. Torino</subfield>
+    <subfield code="1">TO0263</subfield>
+    <subfield code="2">TO0 07</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000833</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">A carta N2r e O4r</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001005</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000833</subfield>
+    <subfield code="b">Liocorno che immerge il corno in un corso d&apos;acqua.</subfield>
+    <subfield code="c">Z811</subfield>
+    <subfield code="f">LIOCORNO</subfield>
+    <subfield code="f">RIVO</subfield>
+    <subfield code="g">1549-1597</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001005</subfield>
+    <subfield code="b">Liocorno affrontato da tre serpenti in scudo ovale appeso ad una palma. Ai lati due putti alati</subfield>
+    <subfield code="c">U87</subfield>
+    <subfield code="d">Dimensioni: 8 x 11,5.</subfield>
+    <subfield code="f">LIOCORNO</subfield>
+    <subfield code="f">PALMA</subfield>
+    <subfield code="f">PUTTI</subfield>
+    <subfield code="g">1547-1581</subfield>
+  </datafield>
+</record>
+</collection>

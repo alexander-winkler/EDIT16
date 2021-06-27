@@ -1,0 +1,105 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01541nam0a22003011i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\037889</controlfield>
+  <controlfield tag="005">20100430000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">ase- e:es o-nt Glpr (3) 1582 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19981023d1582        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗P. Terentii Afri ℗Comoediae sex. A M. Ant. Mureto locis prope innumeris suo nitori restitutae: tum aliquot scholijs, et in singulas scenas argumentis illustratae: maiore quam hactenus vnquam diligentia emendatae</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Augustae Taurinorum</subfield>
+    <subfield code="c">apud Io. Baptistam Ratterium</subfield>
+    <subfield code="d">1582</subfield>
+    <subfield code="e">Augustae Taurinorum</subfield>
+    <subfield code="g">ex typographia haeredum Nicolai Beuilaquae</subfield>
+    <subfield code="h">1582</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\1!, 167 c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Torino</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Terentius Afer,</subfield>
+    <subfield code="b">Publius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003195</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Muret,</subfield>
+    <subfield code="b">Marc Antoine</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000118</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Ratteri, Giovanni Battista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000582</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Bevilacqua, Niccol ̣- eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000513</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Terenzio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014983</subfield>
+    <subfield code="z">Terentius Afer, Publius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Muretus,</subfield>
+    <subfield code="b">Marcus Antonius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014739</subfield>
+    <subfield code="z">Muret, Marc Antoine</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ratterius, Ioannes Baptista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005308</subfield>
+    <subfield code="z">Ratteri, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Bra</subfield>
+    <subfield code="1">CN0013</subfield>
+    <subfield code="2">TO0 46</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca vescovile. Assisi</subfield>
+    <subfield code="1">PG0011</subfield>
+    <subfield code="2">PBE 59</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Sperelliana. Gubbio</subfield>
+    <subfield code="1">PG0049</subfield>
+    <subfield code="2">UM1 11</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Enrico de&apos; Bartolomei. Susa</subfield>
+    <subfield code="1">TO0235</subfield>
+    <subfield code="2">TO1 D9</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica centrale. Torino</subfield>
+    <subfield code="1">TO0240</subfield>
+    <subfield code="2">BCT 01</subfield>
+  </datafield>
+</record>
+</collection>

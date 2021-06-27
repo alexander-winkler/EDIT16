@@ -1,0 +1,300 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>04390nam0a22007331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\035606</controlfield>
+  <controlfield tag="005">20161207000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">370. a-2. todu fvno (3) 1501 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19980112d1501        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Problemata Aristotelis cum duplici translatione antiqua videlicet. &amp; noua .s. Theodori gaze. cum expositione Petri  Aponi. Tabula secundum magistrum Petrum de tussignano per alphabetum. Problemata Alexandri aphrodisei. Problemata Plutarchi. Cum gratia</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Venetijs</subfield>
+    <subfield code="g">per Bonetum Locatellum presbyterum</subfield>
+    <subfield code="g">\eredi di Ottaviano Scoto il vecchio!</subfield>
+    <subfield code="h">1501 tertio Kalendas sextiles</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\22!, 296 c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Opera falsamente attribuita ad Aristotele</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2="1">
+    <subfield code="3">IT\ICCU\CNCE\023275</subfield>
+    <subfield code="a">Problemata Aristotelis</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Aristoteles</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000006</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Gaza,</subfield>
+    <subfield code="b">Theodorus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000101</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Plutarchus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000103</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Alexander</subfield>
+    <subfield code="c"> :  Aphrodisiensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000270</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Pietro</subfield>
+    <subfield code="c"> : d&apos;#Abano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004476</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Pietro</subfield>
+    <subfield code="c"> : da#Tossignano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010015</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Locatello, Boneto</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000131</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Scoto, Ottaviano</subfield>
+    <subfield code="c"> &lt;1.&gt; - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000130</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Aristotele</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018928</subfield>
+    <subfield code="z">Aristoteles</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Gazes,</subfield>
+    <subfield code="b">Theodoros</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008766</subfield>
+    <subfield code="z">Gaza, Theodorus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Gaza,</subfield>
+    <subfield code="b">Teodoro</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014082</subfield>
+    <subfield code="z">Gaza, Theodorus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Plutarco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018845</subfield>
+    <subfield code="z">Plutarchus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Plutarchus</subfield>
+    <subfield code="c"> : Chaeroneus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018846</subfield>
+    <subfield code="z">Plutarchus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Plutarco</subfield>
+    <subfield code="c"> : Cheroneo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022661</subfield>
+    <subfield code="z">Plutarchus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Ploutarchos</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022664</subfield>
+    <subfield code="z">Plutarchus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Alexander</subfield>
+    <subfield code="c"> : Aphrodisaeus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026284</subfield>
+    <subfield code="z">Alexander :  Aphrodisiensis</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Petrus</subfield>
+    <subfield code="c"> : Paduanensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004857</subfield>
+    <subfield code="z">Pietro : d&apos;#Abano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Abano,</subfield>
+    <subfield code="b">Pietro : d&apos;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007521</subfield>
+    <subfield code="z">Pietro : d&apos;#Abano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Petrus</subfield>
+    <subfield code="c"> : Aponensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008767</subfield>
+    <subfield code="z">Pietro : d&apos;#Abano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Petrus</subfield>
+    <subfield code="c"> : de#Apono</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014800</subfield>
+    <subfield code="z">Pietro : d&apos;#Abano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Petrus</subfield>
+    <subfield code="c"> : de#Abano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022641</subfield>
+    <subfield code="z">Pietro : d&apos;#Abano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Petrus</subfield>
+    <subfield code="c"> : Apponus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022642</subfield>
+    <subfield code="z">Pietro : d&apos;#Abano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Tussignano,</subfield>
+    <subfield code="b">Pietro</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022458</subfield>
+    <subfield code="z">Pietro : da#Tossignano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Da_Tossignano,</subfield>
+    <subfield code="b">Pietro</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022459</subfield>
+    <subfield code="z">Pietro : da#Tossignano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Tossignano,</subfield>
+    <subfield code="b">Pietro : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025279</subfield>
+    <subfield code="z">Pietro : da#Tossignano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Tussignano,</subfield>
+    <subfield code="b">Petrus : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026077</subfield>
+    <subfield code="z">Pietro : da#Tossignano</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Locatellus, Bonetus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004971</subfield>
+    <subfield code="z">Locatello, Boneto</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Locatellis, Bonetus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004972</subfield>
+    <subfield code="z">Locatello, Boneto</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Scotus, Octavianus</subfield>
+    <subfield code="c"> &lt;1.&gt; - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005636</subfield>
+    <subfield code="z">Scoto, Ottaviano &lt;1.&gt; - eredi</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Scotti, Ottaviano</subfield>
+    <subfield code="c"> &lt;1.&gt; - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005637</subfield>
+    <subfield code="z">Scoto, Ottaviano &lt;1.&gt; - eredi</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca estera - Biblioteca Universidad Complutense de Madrid. Madrid</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">AA0002</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale dell&apos;Archiginnasio. Bologna</subfield>
+    <subfield code="1">BO0304</subfield>
+    <subfield code="2">UBO GA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a"></subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">BS0156</subfield>
+    <subfield code="2">ZBS 07</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca regionale universitaria. Messina</subfield>
+    <subfield code="1">ME0050</subfield>
+    <subfield code="2">PAL BM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Braidense. Milano</subfield>
+    <subfield code="1">MI0185</subfield>
+    <subfield code="2">MIL NB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario teologico filosofico di S. Gaudenzio. Novara</subfield>
+    <subfield code="1">NO0064</subfield>
+    <subfield code="2">TO0 Y5</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteche del Polo di medicina legale, anatomia patologica e storia della medicina dell&apos;Universit ̉degli Studi di Padova. Padova</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">PD0403</subfield>
+    <subfield code="2">PUV 43</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Lancisiana. Roma</subfield>
+    <subfield code="1">RM0260</subfield>
+    <subfield code="2">RMS H8</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Giuseppe Bianca. Avola</subfield>
+    <subfield code="1">SR0003</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Trento</subfield>
+    <subfield code="1">TN0121</subfield>
+    <subfield code="2">ZTN 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Treviso</subfield>
+    <subfield code="1">TV0114</subfield>
+    <subfield code="2">VIA CT</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">British Library. London</subfield>
+    <subfield code="1">UK0001</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Nel colophon</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000020</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000020</subfield>
+    <subfield code="b">Cerchio con croce doppia e iniziali O.S.M. su sfondo nero</subfield>
+    <subfield code="c">K281</subfield>
+    <subfield code="c">Z272</subfield>
+    <subfield code="d">Dimensioni: 5,8 x 9,3</subfield>
+    <subfield code="f">CERCHIO</subfield>
+    <subfield code="f">OSM</subfield>
+    <subfield code="f">CROCE</subfield>
+    <subfield code="g">[150.]-1517</subfield>
+  </datafield>
+</record>
+</collection>

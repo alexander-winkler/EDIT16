@@ -1,0 +1,31 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00454na 0a22001211i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\078086</controlfield>
+  <controlfield tag="005">20131218000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20130506             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Rgula \!!sanctissimi domini nostri domini Adriani ... super expeditionibus litterarum</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Santa Sede</subfield>
+    <subfield code="b"> : Cancelleria apostolica</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006935</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Cancellaria Apostolica</subfield>
+    <subfield code="3">7818</subfield>
+    <subfield code="z">Santa Sede : Cancelleria apostolica</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,114 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01643nam0a22003131i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\040358</controlfield>
+  <controlfield tag="005">19981125000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">uium s.re t.ri masu (3) 1582 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19981117d1582        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Martyrologium secundum Ordinem fratrum Praedicatorum cum eiusdem ordinis Constitutionibus. Et Regula beati Augustini. Autoritate ... P.F. Seraphini Caualli ... impressum &amp; denuo correctum. Per quendam fratrem eiusdem professionis in coenobio Diui Stephani Salmanticensis -</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud Iuntas</subfield>
+    <subfield code="d">1582</subfield>
+    <subfield code="e">Venetiis</subfield>
+    <subfield code="g">apud Iuntas</subfield>
+    <subfield code="h">1582</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\20!, 136, \8! c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Domenicani</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003443</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Palencia,</subfield>
+    <subfield code="b">Juan : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\011102</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Cavalli,</subfield>
+    <subfield code="b">Serafino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002873</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Giunta, Lucantonio</subfield>
+    <subfield code="c"> &lt;2.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000089</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Ordo fratrum praedicatorum</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004887</subfield>
+    <subfield code="z">Domenicani</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Congregatio Lombardiae Ordinis Praedicatorum</subfield>
+    <subfield code="3">15559</subfield>
+    <subfield code="z">Domenicani</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Frati del Terzo Ordine di S. Domenico</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018843</subfield>
+    <subfield code="z">Domenicani</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Predicatori</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018844</subfield>
+    <subfield code="z">Domenicani</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Ioannes</subfield>
+    <subfield code="c"> : de#Palentia</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016222</subfield>
+    <subfield code="z">Palencia, Juan : de</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Caballus,</subfield>
+    <subfield code="b">Seraphinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020742</subfield>
+    <subfield code="z">Cavalli, Serafino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Iunta, Lucas Antonius</subfield>
+    <subfield code="c"> &lt;2.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003893</subfield>
+    <subfield code="z">Giunta, Lucantonio &lt;2.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Giunti, Lucantonio</subfield>
+    <subfield code="c"> &lt;2.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004932</subfield>
+    <subfield code="z">Giunta, Lucantonio &lt;2.&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+</record>
+</collection>

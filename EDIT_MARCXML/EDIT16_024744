@@ -1,0 +1,241 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>03789nam0a2200577 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\024744</controlfield>
+  <controlfield tag="005">20140114000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">i-n- o-n- r,t. siin (3) 1557 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970910d1557        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Singularia praeclarissima ac imprimis omnibus iurisperitis pernecessaria, ac utilissima. Plurimorum insigniorum doctorum nunc ab omnibus mendis, quibus scatebant expurgata. Omnia, praesertimque do. Ludouici Romani, multis singularibus ex manuscriptis exemplaribus nunc primum locupletata: nouisque d. Nicolai Pignolati in Ludo. Rom. &amp; D. Gabrielis Saraynae in Do. Matthaeum Mathesilanum ... additionibus decorata, summarijsque &amp; duplici repertorio nouissime illustrata, summo studio, labore, et diligentia eiusdem domini Gabrielis omnia correcta &amp; elaborata, ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">\al segno della Fontana!</subfield>
+    <subfield code="d">1557</subfield>
+    <subfield code="e">Venetiis</subfield>
+    <subfield code="g">apud Cominum de Tridino Montisferrati</subfield>
+    <subfield code="g">\al segno della Fontana!</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\100!, 382, \2! c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Mattesillani,</subfield>
+    <subfield code="b">Matteo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002159</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Saraina,</subfield>
+    <subfield code="b">Gabriele</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002206</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Pontano,</subfield>
+    <subfield code="b">Ludovico</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009718</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Pignolati,</subfield>
+    <subfield code="b"></subfield>
+    <subfield code="3">IT\ICCU\CNCA\012647</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">Comin da Trino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000112</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">℗al segno della ℗Fontana</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000186</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Mathesilanus,</subfield>
+    <subfield code="b">Matthaeus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014615</subfield>
+    <subfield code="z">Mattesillani, Matteo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Matthesilanus,</subfield>
+    <subfield code="b">Matthaeus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020539</subfield>
+    <subfield code="z">Mattesillani, Matteo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Matesilanus,</subfield>
+    <subfield code="b">Matheus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023031</subfield>
+    <subfield code="z">Mattesillani, Matteo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Mathesilani,</subfield>
+    <subfield code="b">Matthaeus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023033</subfield>
+    <subfield code="z">Mattesillani, Matteo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Sarayna,</subfield>
+    <subfield code="b">Gabriel</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003323</subfield>
+    <subfield code="z">Saraina, Gabriele</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">De_Ponte,</subfield>
+    <subfield code="b">Ludovicus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010453</subfield>
+    <subfield code="z">Pontano, Ludovico</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Ludovicus</subfield>
+    <subfield code="c"> : Romanus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022886</subfield>
+    <subfield code="z">Pontano, Ludovico</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Pontanus,</subfield>
+    <subfield code="b">Ludovicus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022887</subfield>
+    <subfield code="z">Pontano, Ludovico</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Pignolatus,</subfield>
+    <subfield code="b">Nicolaus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022339</subfield>
+    <subfield code="z"></subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Cominus de Tridino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004645</subfield>
+    <subfield code="z">Comin da Trino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Trino, Comin</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004646</subfield>
+    <subfield code="z">Comin da Trino</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Antonelliana. Senigallia</subfield>
+    <subfield code="1">AN0069</subfield>
+    <subfield code="2">URB BS</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale Salvatore Tommasi. Bazzano</subfield>
+    <subfield code="1">AQ0047</subfield>
+    <subfield code="2">ABR PR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Bologna</subfield>
+    <subfield code="1">BO0098</subfield>
+    <subfield code="2">UBO BU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca diocesana Cardinal Cesare Baronio. Sora</subfield>
+    <subfield code="1">FR0104</subfield>
+    <subfield code="2">RMS Q5</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Societ ̉economica. Chiavari</subfield>
+    <subfield code="1">GE0011</subfield>
+    <subfield code="2">LI3 30</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Assisi</subfield>
+    <subfield code="1">PG0001</subfield>
+    <subfield code="2">UM1 10</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Augusta. Perugia</subfield>
+    <subfield code="1">PG0109</subfield>
+    <subfield code="2">UM1 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca diocesana. Todi</subfield>
+    <subfield code="1">PG0173</subfield>
+    <subfield code="2">PBE 33</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Roncioniana - Fondazione Eredit ̉Marco Roncioni (ONLUS). Prato</subfield>
+    <subfield code="1">PO0005</subfield>
+    <subfield code="2">RT1 EB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Oliveriana. Pesaro</subfield>
+    <subfield code="1">PU0061</subfield>
+    <subfield code="2">URB OL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Urbania</subfield>
+    <subfield code="1">PU0095</subfield>
+    <subfield code="2">URB UR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Paroniana. Rieti</subfield>
+    <subfield code="1">RI0126</subfield>
+    <subfield code="2">RMS B5</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Trento</subfield>
+    <subfield code="1">TN0121</subfield>
+    <subfield code="2">ZTN 01</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000119</subfield>
+    <subfield code="b">Fontana zampillante a forma di anfora sorretta da puttini.</subfield>
+    <subfield code="c">Q38</subfield>
+    <subfield code="c">Z559</subfield>
+    <subfield code="d">Dimensioni: 5,3 x 5,8</subfield>
+    <subfield code="f">FONTANA</subfield>
+    <subfield code="f">PUTTO</subfield>
+    <subfield code="f">VASO</subfield>
+    <subfield code="g">1551-1600</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000875</subfield>
+    <subfield code="b">Fontana zampillante a forma di anfora con in cima una donna e intorno teste di puttini sostenuta da satiri</subfield>
+    <subfield code="c">U20</subfield>
+    <subfield code="d">Dimensioni: 7 x 8</subfield>
+    <subfield code="f">FONTANA</subfield>
+    <subfield code="f">PUTTI</subfield>
+    <subfield code="f">SATIRI</subfield>
+    <subfield code="g">1543-1567</subfield>
+  </datafield>
+</record>
+</collection>

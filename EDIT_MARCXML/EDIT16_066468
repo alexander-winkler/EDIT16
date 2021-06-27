@@ -1,0 +1,136 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02155nam0a22003731i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\066468</controlfield>
+  <controlfield tag="005">20060920000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">s,ce maSi m,us tumi (3) 1555 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20060907d1555        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Publii Ouidii Nasonis poetae sulmonensis ℗De pontificis elegiis libri 4. Cum et accuratissima et absolutissima Bartholomaei Merulae enarratione \sic!. Nec non Viti Amerpachii, Iacobi Mycilli, ac Philippi Melanchtonis loculentis annotationibus deprauata loca elucidantibus. Additis candidissimis omnium elegiarion argumentis. Quibus praeterea post teutonicam impressionem oculatior accessit castigatio. Adest et in fine locuples memorabilium, et verborum index</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Brixiae</subfield>
+    <subfield code="c">Ludouicus Britannicus</subfield>
+    <subfield code="d">1555</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">160 p., \4! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">ANNULLATA: E&apos; CNCE 23259</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Brescia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Ovidius Naso,</subfield>
+    <subfield code="b">Publius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003076</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Merula,</subfield>
+    <subfield code="b">Bartolomeo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009897</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Moltzer,</subfield>
+    <subfield code="b">Jacob</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012454</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Amerbach,</subfield>
+    <subfield code="b">Veit</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020498</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Melanchthon,</subfield>
+    <subfield code="b">Philippus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000089</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Britannico, Lodovico</subfield>
+    <subfield code="c"> &lt;1.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000930</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Ovidius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022433</subfield>
+    <subfield code="z">Ovidius Naso, Publius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Publius Ovidius Naso</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022434</subfield>
+    <subfield code="z">Ovidius Naso, Publius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Merula,</subfield>
+    <subfield code="b">Bartholomaeus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022768</subfield>
+    <subfield code="z">Merula, Bartolomeo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Micyllus,</subfield>
+    <subfield code="b">Jacobus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022781</subfield>
+    <subfield code="z">Moltzer, Jacob</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Amerbachius,</subfield>
+    <subfield code="b">Vitus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021039</subfield>
+    <subfield code="z">Amerbach, Veit</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Melantone,</subfield>
+    <subfield code="b">Filippo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014651</subfield>
+    <subfield code="z">Melanchthon, Philippus</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">℗In aedibus ℗Divae Margaritae</subfield>
+    <subfield code="c"> &lt;1535&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003052</subfield>
+    <subfield code="z">Britannico, Lodovico &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Britanico, Lodovico</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004780</subfield>
+    <subfield code="z">Britannico, Lodovico &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Britannicus, Ludovicus</subfield>
+    <subfield code="c"> &lt;1&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004781</subfield>
+    <subfield code="z">Britannico, Lodovico &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Chalcographia Britannica</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004782</subfield>
+    <subfield code="z">Britannico, Lodovico &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Teresiana. Mantova</subfield>
+    <subfield code="1">MN0035</subfield>
+    <subfield code="2">LO1 12</subfield>
+  </datafield>
+</record>
+</collection>

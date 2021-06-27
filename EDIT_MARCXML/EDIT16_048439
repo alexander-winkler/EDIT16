@@ -1,0 +1,35 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00397na 0a22001211i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\048439</controlfield>
+  <controlfield tag="005">19990930000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19990408             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Problemata</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Gaza,</subfield>
+    <subfield code="b">Theodorus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000101</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Gazes,</subfield>
+    <subfield code="b">Theodoros</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008766</subfield>
+    <subfield code="z">Gaza, Theodorus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Gaza,</subfield>
+    <subfield code="b">Teodoro</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014082</subfield>
+    <subfield code="z">Gaza, Theodorus</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

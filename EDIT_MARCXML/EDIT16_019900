@@ -1,0 +1,112 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01652nam0a2200313 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\019900</controlfield>
+  <controlfield tag="005">20071119000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">o-hi ism. s..&amp; inQu (3) 1598 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1598        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">E diui Iustiniani Institutionibus erotemata, seu Interrogationes, in legalis militiae Tyronum vsum, per Christophorum Phreyslebium Lincensem collecta. Recens  ad ipsarum Institutionum litteram fideliter emendata, et locupletata</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Bononiae</subfield>
+    <subfield code="c">apud haeredes Io. Rossij</subfield>
+    <subfield code="c">ad instantiam Simonis Parlaschae</subfield>
+    <subfield code="d">1598</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">183, \7! p.</subfield>
+    <subfield code="d">24ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Bologna</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Freisleben,</subfield>
+    <subfield code="b">Christoph</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005584</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Rossi, Giovanni - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000047</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Parlasca, Simone</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001187</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Eleutherobion,</subfield>
+    <subfield code="b">Stoffel</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019220</subfield>
+    <subfield code="z">Freisleben, Christoph</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Phreislebius,</subfield>
+    <subfield code="b">Christophorus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019221</subfield>
+    <subfield code="z">Freisleben, Christoph</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Freiesleben,</subfield>
+    <subfield code="b">Christoph</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019222</subfield>
+    <subfield code="z">Freisleben, Christoph</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Freisleben,</subfield>
+    <subfield code="b">Christoph Heinrich</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019223</subfield>
+    <subfield code="z">Freisleben, Christoph</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Phreisleben,</subfield>
+    <subfield code="b">Christoph</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022237</subfield>
+    <subfield code="z">Freisleben, Christoph</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Perlasca, Simone</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002271</subfield>
+    <subfield code="z">Parlasca, Simone</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Parlascha, Simon</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005278</subfield>
+    <subfield code="z">Parlasca, Simone</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Parlaschi, Simone</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005279</subfield>
+    <subfield code="z">Parlasca, Simone</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Ludovico Jacobilli del Seminario vescovile. Foligno</subfield>
+    <subfield code="1">PG0040</subfield>
+    <subfield code="2">UM1 39</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Verona</subfield>
+    <subfield code="1">VR0059</subfield>
+    <subfield code="2">ZVR 02</subfield>
+  </datafield>
+</record>
+</collection>

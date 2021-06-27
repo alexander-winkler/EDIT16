@@ -1,0 +1,130 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01884nam0a22003611i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\078602</controlfield>
+  <controlfield tag="005">20190409000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">++++ ++++ e.n- qutu (3) 1598 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20140619d1598        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">CH</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Praxis grammatices italicae lentulianae: hoc est, Catonis disticha moralia, italice ita reddita et exposita, ut quiuis linguae italicae studiosus eam simul cum latina una et eadem opera facile addiscere possit. A Scipione Lentulo, Neapolitano</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">\Ginevra!</subfield>
+    <subfield code="c">apud Jacobum Chout͡</subfield>
+    <subfield code="d">1598</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\16!, 207, \1! p.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Stampato a Ginevra da Antoine Blanc per Jacques Chouet; per il luogo e il tipografo cfr.: GLN15-16</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">CH</subfield>
+    <subfield code="d">Ginevra</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Lentolo,</subfield>
+    <subfield code="b">Scipione</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009075</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Cato,</subfield>
+    <subfield code="b">Marcus Porcius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010196</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Cato Dionysius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013740</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Chouet, Jacques</subfield>
+    <subfield code="3">IT\ICCU\CNCT\006456</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Blanc, Antoine</subfield>
+    <subfield code="3">IT\ICCU\CNCT\006457</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Lentulo,</subfield>
+    <subfield code="b">Scipione</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020509</subfield>
+    <subfield code="z">Lentolo, Scipione</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Lentulus,</subfield>
+    <subfield code="b">Scipio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020510</subfield>
+    <subfield code="z">Lentolo, Scipione</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Cato Censorius,</subfield>
+    <subfield code="b">Marcus Porcius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016740</subfield>
+    <subfield code="z">Cato, Marcus Porcius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Cato  Maior</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018590</subfield>
+    <subfield code="z">Cato, Marcus Porcius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Catone,</subfield>
+    <subfield code="b">Marco Porcio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018591</subfield>
+    <subfield code="z">Cato, Marcus Porcius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Catone</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018592</subfield>
+    <subfield code="z">Cato, Marcus Porcius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Catone Dionisio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018749</subfield>
+    <subfield code="z">Cato Dionysius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Cato,</subfield>
+    <subfield code="b">Dionysius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023242</subfield>
+    <subfield code="z">Cato Dionysius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Cato</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023243</subfield>
+    <subfield code="z">Cato Dionysius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Dyonisius Cato</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023244</subfield>
+    <subfield code="z">Cato Dionysius</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Norberto Bobbio dell&apos;Universit ̉degli Studi di Torino. Torino</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">TO1203</subfield>
+    <subfield code="2">UTO BB</subfield>
+  </datafield>
+</record>
+</collection>

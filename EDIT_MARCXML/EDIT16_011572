@@ -1,0 +1,100 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01264nam0a2200289 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\011572</controlfield>
+  <controlfield tag="005">20180507000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">t-es hjij i:s: crre (3) 1550 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1550        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">FR</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Missale Romanum</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud Gabrielem Iolitum</subfield>
+    <subfield code="d">et Lugduni</subfield>
+    <subfield code="c">apud Gulielmum Rouillium</subfield>
+    <subfield code="d">1550</subfield>
+    <subfield code="e">Lugduni</subfield>
+    <subfield code="g">excudebat Philibertus Rolletius</subfield>
+    <subfield code="h">die 10 Aprilis 1550</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\12!, 285, \1! c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2="0">
+    <subfield code="3">IT\ICCU\CNCE\037213</subfield>
+    <subfield code="a">Missale</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="d">Lione</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Chiesa cattolica</subfield>
+    <subfield code="3">6731</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Rollet, Philibert</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001043</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Rouill,̌ Guillaume</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000407</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Rolleto, Philiberto</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005389</subfield>
+    <subfield code="z">Rollet, Philibert</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Roletto, Philiberto</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005390</subfield>
+    <subfield code="z">Rollet, Philibert</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Rolletius, Philibertus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005391</subfield>
+    <subfield code="z">Rollet, Philibert</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Roviglio, Guglielmo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003146</subfield>
+    <subfield code="z">Rouill,̌ Guillaume</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Rovillio, Guglielmo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005411</subfield>
+    <subfield code="z">Rouill,̌ Guillaume</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Rovillius, Gulielmus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005412</subfield>
+    <subfield code="z">Rouill,̌ Guillaume</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Queriniana. Brescia</subfield>
+    <subfield code="1">BS0026</subfield>
+    <subfield code="2">ZBS 01</subfield>
+  </datafield>
+</record>
+</collection>

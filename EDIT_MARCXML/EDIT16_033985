@@ -1,0 +1,135 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02104nam0a2200349 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\033985</controlfield>
+  <controlfield tag="005">20130124000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">u-st r.ns ets. gest (C) 1518 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971224d1518        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗M. Io. Policarpi Seueritani Sibenicensis Dalmatae predicatorum Ordinis ℗Grammatices horisticae, methodicae et exegeticae libri tres, et de arte metrica libellus cum arte retrogradi carminis, opus, tum breuissimum, tum omnium artis grammatices vtilissimum</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Impressum Perusiae</subfield>
+    <subfield code="g">apud Leonem</subfield>
+    <subfield code="h">per Cosmum cognomine Blanchinum Veronensem</subfield>
+    <subfield code="h">1518</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\30! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Perugia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Severitanus,</subfield>
+    <subfield code="b">Iohannes Policarpus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004501</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Bianchini, Cosimo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000182</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Pompilius,</subfield>
+    <subfield code="b">Iohannes Barbula</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004907</subfield>
+    <subfield code="z">Severitanus, Iohannes Policarpus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Barbeta,</subfield>
+    <subfield code="b">Iohannes</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007681</subfield>
+    <subfield code="z">Severitanus, Iohannes Policarpus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Barbula,</subfield>
+    <subfield code="b">Iohannes</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007683</subfield>
+    <subfield code="z">Severitanus, Iohannes Policarpus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Policarpus,</subfield>
+    <subfield code="b">Iohannes</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008119</subfield>
+    <subfield code="z">Severitanus, Iohannes Policarpus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Severitano,</subfield>
+    <subfield code="b">Giovanni Policarpo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023424</subfield>
+    <subfield code="z">Severitanus, Iohannes Policarpus</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">℗al segno del ℗Leone</subfield>
+    <subfield code="c"> &lt;Perugia</subfield>
+    <subfield code="c"> ; 1513-1544&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002416</subfield>
+    <subfield code="z">Bianchini, Cosimo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Cosimo di Bernardo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003637</subfield>
+    <subfield code="z">Bianchini, Cosimo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Blanchinus, Cosmus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004371</subfield>
+    <subfield code="z">Bianchini, Cosimo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Assisi</subfield>
+    <subfield code="1">PG0001</subfield>
+    <subfield code="2">UM1 10</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Sperelliana. Gubbio</subfield>
+    <subfield code="1">PG0049</subfield>
+    <subfield code="2">UM1 11</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Senato della Repubblica Giovanni Spadolini. Roma</subfield>
+    <subfield code="1">RM0427</subfield>
+    <subfield code="2">ZRM 12</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Leonardo Centonze. Castelvetrano</subfield>
+    <subfield code="1">TP0059</subfield>
+    <subfield code="2">TPS CV</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Nel coloph.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001261</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001261</subfield>
+    <subfield code="b">Leone con spada e libri. Sullo sfondo paesaggio cittadino. In alto. Blanchinus Leonis</subfield>
+    <subfield code="c">K147</subfield>
+    <subfield code="c">V167</subfield>
+    <subfield code="c">Z804</subfield>
+    <subfield code="d">6,5 x 5,2</subfield>
+    <subfield code="f">LEONE</subfield>
+    <subfield code="f">SPADA</subfield>
+    <subfield code="f">LIBRI</subfield>
+    <subfield code="g">1517-1524</subfield>
+  </datafield>
+</record>
+</collection>

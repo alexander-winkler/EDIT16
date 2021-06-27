@@ -1,0 +1,161 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02329nam0a2200421 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\025814</controlfield>
+  <controlfield tag="005">20120511000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">n-in m,em o.e- Vone (3) 1550 (Q)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971001f1550        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Stephani Plazonis Asulani ℗Praeexercitamentorum libellus, et rhetorices compendium recte dispositum cum quadam percommoda paraphrasi ad communem omnium studiosorum adolescentum utilitatem</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud Dominicum Lilium</subfield>
+    <subfield code="d">\circa 1550!</subfield>
+    <subfield code="e">Venetiis</subfield>
+    <subfield code="g">apud Dominicum Lilium</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\8!, 52 c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">La data si ricava dall&apos;attivit ̉del tipografo</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Piazzoni,</subfield>
+    <subfield code="b">Stefano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004502</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Giglio, Domenico</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000655</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Plazo,</subfield>
+    <subfield code="b">Stephanus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004908</subfield>
+    <subfield code="z">Piazzoni, Stefano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Piazzone,</subfield>
+    <subfield code="b">Stefano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018771</subfield>
+    <subfield code="z">Piazzoni, Stefano</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Lilius, Dominicus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002808</subfield>
+    <subfield code="z">Giglio, Domenico</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Zio, Domenico</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003839</subfield>
+    <subfield code="z">Giglio, Domenico</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Bologna</subfield>
+    <subfield code="1">BO0098</subfield>
+    <subfield code="2">UBO BU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Valentiniana. Camerino</subfield>
+    <subfield code="1">MC0004</subfield>
+    <subfield code="2">UMC BV</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Accademia Georgica. Treia</subfield>
+    <subfield code="1">MC0251</subfield>
+    <subfield code="2">UMC AG</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Braidense. Milano</subfield>
+    <subfield code="1">MI0185</subfield>
+    <subfield code="2">MIL NB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca capitolare del Duomo di Monza. Monza</subfield>
+    <subfield code="1">MI0375</subfield>
+    <subfield code="2">ZMI 21</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Lorenzo Leonj. Todi</subfield>
+    <subfield code="1">PG0172</subfield>
+    <subfield code="2">UM1 20</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Palatina. Parma</subfield>
+    <subfield code="1">PR0072</subfield>
+    <subfield code="2">PAR PA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Oliveriana. Pesaro</subfield>
+    <subfield code="1">PU0061</subfield>
+    <subfield code="2">URB OL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Pavia</subfield>
+    <subfield code="1">PV0291</subfield>
+    <subfield code="2">MIL UP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria Alessandrina. Roma</subfield>
+    <subfield code="1">RM0280</subfield>
+    <subfield code="2">RML 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Angelica. Roma</subfield>
+    <subfield code="1">RM0290</subfield>
+    <subfield code="2">RML 06</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Fondazione Biblioteca S. Bernardino. Trento</subfield>
+    <subfield code="1">TN0122</subfield>
+    <subfield code="2">ZTN 18</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">British Library. London</subfield>
+    <subfield code="1">UK0001</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000296</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000296</subfield>
+    <subfield code="b">Uccello con scorpione nel becco su anfora con iniz. D.G., sorretta dalle code di due animali alati con testa caprina. Nel nastro le iniziali N.S.C.C.F .</subfield>
+    <subfield code="e">Non sine quare, sic facio</subfield>
+    <subfield code="c">A134</subfield>
+    <subfield code="c">V360</subfield>
+    <subfield code="c">Z957</subfield>
+    <subfield code="d">Dimensioni: 5 x 5,5</subfield>
+    <subfield code="f">ANFORA</subfield>
+    <subfield code="f">DG</subfield>
+    <subfield code="f">NONSINEQUA</subfield>
+    <subfield code="f">SCORPIONE</subfield>
+    <subfield code="f">UCCELLO</subfield>
+    <subfield code="g">[circa 1550]-1564</subfield>
+  </datafield>
+</record>
+</collection>

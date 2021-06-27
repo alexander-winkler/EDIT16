@@ -1,0 +1,25 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00310na 0a22001091i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\060329</controlfield>
+  <controlfield tag="005">20050322000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20050322             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Statuta curie officialis plani seu dannorum</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Citt ̉di Castello</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003333</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

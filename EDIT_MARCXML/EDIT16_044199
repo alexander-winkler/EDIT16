@@ -1,0 +1,169 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02808nam0a22004211i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\044199</controlfield>
+  <controlfield tag="005">19990114000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">ioe- d.i. e-m. baqu (3) 1573 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19990112d1573        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Angeli Aretini De maleficiis tractatus, de inquirendis animadvertendisq. criminibus, opus nedum vtile, sed necessarium omnibus, maxime ijs, qui ad prouincias regendas constituti sunt: cui tractatus Alberti de Gandino, necnon  Bonifacii de Vitellinis, vnacum apostillis Augustini de Arimino, &amp; Hieronymi Chuchalon, veluti apendices subiecimus. Cum summarijs, &amp; indice locupletiori quam antea, a multis erroribus expurgato, &amp; ad studiosorum utilitatem pristinae integritati suae nunc demum restituto. Cum eiusdem Angeli vita, per Thomam Diplobatacium edita</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud Cominum de Tridino Montisferrati</subfield>
+    <subfield code="d">1573</subfield>
+    <subfield code="e">Venetiis</subfield>
+    <subfield code="g">apud Cominum de Tridino Montisferrati</subfield>
+    <subfield code="h">1572</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\34!,482,\2! c.</subfield>
+    <subfield code="d">4o</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">((Cors. ; rom. - Segn.: A-Z8, AA-LL8, MM4, NN-ZZ8, AAa-OOo8, PPp4. - M. tip. sul front. Z1129</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Gambiglioni,</subfield>
+    <subfield code="b">Angelo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005861</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Cucalon,</subfield>
+    <subfield code="b">Jeronimo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004378</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Gandino,</subfield>
+    <subfield code="b">Alberto</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005648</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Bonfranceschi,</subfield>
+    <subfield code="b">Agostino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005649</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Vitalini,</subfield>
+    <subfield code="b">Bonifacio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">Comin da Trino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000112</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Gambilionibus,</subfield>
+    <subfield code="b">Angelus : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018951</subfield>
+    <subfield code="z">Gambiglioni, Angelo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Chucalon,</subfield>
+    <subfield code="b">Hieronymus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013235</subfield>
+    <subfield code="z">Cucalon, Jeronimo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Cucalon,</subfield>
+    <subfield code="b">Hieronymus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018599</subfield>
+    <subfield code="z">Cucalon, Jeronimo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Gandino,</subfield>
+    <subfield code="b">Alberto : da</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014051</subfield>
+    <subfield code="z">Gandino, Alberto</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Gandinus,</subfield>
+    <subfield code="b">Albertus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018978</subfield>
+    <subfield code="z">Gandino, Alberto</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Alberto</subfield>
+    <subfield code="c"> : da#Gandino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026558</subfield>
+    <subfield code="z">Gandino, Alberto</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Augustinus</subfield>
+    <subfield code="c"> : de#Arimino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005863</subfield>
+    <subfield code="z">Bonfranceschi, Agostino</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Bonfranciscus,</subfield>
+    <subfield code="b">Augutinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\028163</subfield>
+    <subfield code="z">Bonfranceschi, Agostino</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Vitalinis,</subfield>
+    <subfield code="b">Bonifacius : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025621</subfield>
+    <subfield code="z">Vitalini, Bonifacio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Vitalini,</subfield>
+    <subfield code="b">Bonifazio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025622</subfield>
+    <subfield code="z">Vitalini, Bonifacio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Vitalini,</subfield>
+    <subfield code="b">Boniface</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025623</subfield>
+    <subfield code="z">Vitalini, Bonifacio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Cominus de Tridino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004645</subfield>
+    <subfield code="z">Comin da Trino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Trino, Comin</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004646</subfield>
+    <subfield code="z">Comin da Trino</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Bertoliana. Vicenza</subfield>
+    <subfield code="1">VI0096</subfield>
+    <subfield code="2">VIA BE</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000366</subfield>
+    <subfield code="b">Fascio di frecce legate con un nastro su cui  ̈scritta la parola Unitas. In cornice:</subfield>
+    <subfield code="e">Concordia parvae res crescunt.</subfield>
+    <subfield code="c">Z1129</subfield>
+    <subfield code="d">Dimensioni: 5,2 x 5,7</subfield>
+    <subfield code="f">CONCORDIAR</subfield>
+    <subfield code="f">FRECCIA</subfield>
+    <subfield code="f">UNITAS</subfield>
+    <subfield code="g">1555-1575</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,72 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00938nam0a22002291i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\025900</controlfield>
+  <controlfield tag="005">19981207000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971006d1599        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Historia della vita, martirio e morte di S. Martiano e di Santo Innocentio, primi vescoui di Tortona</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Tortona</subfield>
+    <subfield code="c">per B. Bolla</subfield>
+    <subfield code="d">1599</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\12! c., 186 p.,\3! c..</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">siglata alla 15918</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Tortona</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Da_Milano,</subfield>
+    <subfield code="b">Giovanni Luigi</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004589</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Bolla, Bartolomeo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001720</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Gio. Luiggi</subfield>
+    <subfield code="c"> : da#Milano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015229</subfield>
+    <subfield code="z">Da_Milano, Giovanni Luigi</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bulla, Bartholomaeus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003639</subfield>
+    <subfield code="z">Bolla, Bartolomeo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca mandamentale. Caprino Bergamasco</subfield>
+    <subfield code="1">BG0072</subfield>
+    <subfield code="2">LO1 99</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Farinone-Centa. Varallo Sesia</subfield>
+    <subfield code="1">VC0086</subfield>
+    <subfield code="2">TO0 A5</subfield>
+  </datafield>
+</record>
+</collection>

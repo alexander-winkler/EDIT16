@@ -1,0 +1,111 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01585nam0a22003251i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\037362</controlfield>
+  <controlfield tag="005">20051031000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">uate e-f- itas usus (C) 1523 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19981013d1523        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Libri quarti meteorologicon summula Samuelis Tabonidis ... ex verbis Aristo. et Auer. expositione compacta: interprete eximio ... M. Iacob Man. Hebreo</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Impressum Bononiae</subfield>
+    <subfield code="g">ad instantiam heredum Benedicti Hectoris bibliopolae Bononiensis</subfield>
+    <subfield code="h">1523. die. 15. Decembris</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">8 c.</subfield>
+    <subfield code="d">2ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">E&apos; dubbio se Ibn Tibbon sia il compilatore o solo il traduttore</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Bologna</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Ibn Tibbon,</subfield>
+    <subfield code="b">Samuel ben Judah</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010473</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Aristoteles</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000006</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Averroes</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000273</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Mantino,</subfield>
+    <subfield code="b">Jacob</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000291</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Faelli, Benedetto</subfield>
+    <subfield code="c"> &lt;1.&gt; - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000503</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Tibbon,</subfield>
+    <subfield code="b">Samuel ben Judah Ibn</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014876</subfield>
+    <subfield code="z">Ibn Tibbon, Samuel ben Judah</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Tabonides,</subfield>
+    <subfield code="b">Samuel</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014953</subfield>
+    <subfield code="z">Ibn Tibbon, Samuel ben Judah</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Aristotele</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018928</subfield>
+    <subfield code="z">Aristoteles</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Ibn Rushd,</subfield>
+    <subfield code="b">Abu al-Walid Muhammad</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005380</subfield>
+    <subfield code="z">Averroes</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a"></subfield>
+    <subfield code="3">IT\ICCU\CNCA\018782</subfield>
+    <subfield code="z">Averroes</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Augusta. Perugia</subfield>
+    <subfield code="1">PG0109</subfield>
+    <subfield code="2">UM1 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+</record>
+</collection>

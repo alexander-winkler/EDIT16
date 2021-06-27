@@ -1,0 +1,127 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01910nam0a2200349 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\051751</controlfield>
+  <controlfield tag="005">20080207000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">duia nta. goij diip (3) 1511 (A)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">2</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20010323g15091511    0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Prima pars consiliorum excellentissimi iurisconsultorum principis domini Pauli de Castro</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Impressa Venetijs</subfield>
+    <subfield code="g">per Bernardinum Benalium</subfield>
+    <subfield code="h">1509</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">2 v.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">2: Repertorium secunde \!! partis Consiliorum celeberrimi iuris vtriusque monarce domini Pauli de Castro. (Impressa Venetijs : per Bernardinum Benalium, 1511)</subfield>
+  </datafield>
+  <datafield tag="423" ind1=" " ind2="0">
+    <subfield code="1">001IT\ICCU\CNCE\072430</subfield>
+    <subfield code="1">2001 </subfield>
+    <subfield code="a">Repertorium secunde [!] partis Consiliorum celeberrimi iuris vtriusque monarce domini Pauli de Castro</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Paolo</subfield>
+    <subfield code="c"> : di#Castro</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003176</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Benali, Bernardino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000212</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Castro,</subfield>
+    <subfield code="b">Paolo : di</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007923</subfield>
+    <subfield code="z">Paolo : di#Castro</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Paulus</subfield>
+    <subfield code="c"> : Castrensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014688</subfield>
+    <subfield code="z">Paolo : di#Castro</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Paolo</subfield>
+    <subfield code="c"> : da#Castro</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021479</subfield>
+    <subfield code="z">Paolo : di#Castro</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Paulus</subfield>
+    <subfield code="c"> : de#Castro</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021480</subfield>
+    <subfield code="z">Paolo : di#Castro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Benagli, Bernardino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003632</subfield>
+    <subfield code="z">Benali, Bernardino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Benalius, Bernardinus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004326</subfield>
+    <subfield code="z">Benali, Bernardino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Benaleis, Bernardinus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004327</subfield>
+    <subfield code="z">Benali, Bernardino</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario maggiore. Bressanone</subfield>
+    <subfield code="1">BZ0013</subfield>
+    <subfield code="2">ZBZ 05</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale del Monumento nazionale S. Scolastica. Subiaco</subfield>
+    <subfield code="1">RM0602</subfield>
+    <subfield code="2">BVE SU</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Nei colop.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000806</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000806</subfield>
+    <subfield code="b">Cerchio con croce doppia e iniziale B.</subfield>
+    <subfield code="c">Z251</subfield>
+    <subfield code="d">Dimensioni: 3 x 5,5</subfield>
+    <subfield code="f">CERCHIO</subfield>
+    <subfield code="f">CROCE</subfield>
+    <subfield code="g">1509-1520</subfield>
+  </datafield>
+</record>
+</collection>

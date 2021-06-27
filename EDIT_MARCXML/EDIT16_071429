@@ -1,0 +1,68 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00999nam0a2200229 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\071429</controlfield>
+  <controlfield tag="005">20090415000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">o,uo i-o, o-us r*r- (C) 1576 (Q)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20070725f1576        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Reformationes statutorum loquentium de dotibus, et dotatis mulieribus, et successionibus ab  intestato, ac de ultimis uoluntatibus obseruandis, in secundo volumine statutorum mag. ciuitatis Perusiae positorum sub rub XLV et XLVI ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="d">\1576?!</subfield>
+    <subfield code="e">Perusiae</subfield>
+    <subfield code="g">ex officina Petriiacobi Petrutij</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\4! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Data di emanazione: 2 luglio 1576</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Perugia</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Perugia</subfield>
+    <subfield code="3">IT\ICCU\CNCT\006577</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Petrucci, Pietro Giacomo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000870</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Perusia</subfield>
+    <subfield code="3">22230</subfield>
+    <subfield code="z">Perugia</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Petrutius, Petrusiacobus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002505</subfield>
+    <subfield code="z">Petrucci, Pietro Giacomo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Augusta. Perugia</subfield>
+    <subfield code="1">PG0109</subfield>
+    <subfield code="2">UM1 01</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,119 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02021nam0a2200337 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\007632</controlfield>
+  <controlfield tag="005">20180507000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">a-or o,so i-to vope (3) 1545 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1545        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">CH</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Expositione di Bernardino Ochino di Siena, sopra la epistola di s. Paulo alli romani</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="d">1545</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">282 \i.e. 272! p.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Stampato a Ginevra da Jean Gerard. Cfr.: Philausone (1500-1660): Repertoire des ouvrages en langue italienne publiš dans les pays de langue franȧise e 1500  ̉1660, n. 508. - Var. B: Expositione sopra la epistola di s. Paulo alli romani. Questa variantesenza il nome dell&apos;autore nel titolo,  ̈stata erroneamente attribuita ad Antonio Brucioli, cfr.: G. M. Mazzuchelli. Gli scrittori d&apos;Italia, cio ̈notizie storiche e critiche intorno alle vite, e agli scritti dei letterati italiani</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">CH</subfield>
+    <subfield code="d">Ginevra</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Ochino,</subfield>
+    <subfield code="b">Bernardino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007489</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Brucioli,</subfield>
+    <subfield code="b">Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000287</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Gřard, Jean</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003403</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Serafino</subfield>
+    <subfield code="c"> : da#Piacenza</subfield>
+    <subfield code="3">IT\ICCU\CNCA\028686</subfield>
+    <subfield code="z">Ochino, Bernardino</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Bernardino</subfield>
+    <subfield code="c"> : da#Siena</subfield>
+    <subfield code="3">IT\ICCU\CNCA\028690</subfield>
+    <subfield code="z">Ochino, Bernardino</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Tommaso</subfield>
+    <subfield code="c"> : da#Siena</subfield>
+    <subfield code="3">IT\ICCU\CNCA\029720</subfield>
+    <subfield code="z">Ochino, Bernardino</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Bruccioli,</subfield>
+    <subfield code="b">Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012848</subfield>
+    <subfield code="z">Brucioli, Antonio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Girardus, Ioannes</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004853</subfield>
+    <subfield code="z">Gřard, Jean</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Gerardus, Ioannes</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004855</subfield>
+    <subfield code="z">Gřard, Jean</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca estera - Biblioteca Nacional de Espaą. Madrid</subfield>
+    <subfield code="z">(Var. B)</subfield>
+    <subfield code="1">AA0001</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="z">(Var. B) - MUTILO</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Firenze</subfield>
+    <subfield code="z">(Var. A)</subfield>
+    <subfield code="1">FI0098</subfield>
+    <subfield code="2">CFI CF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Istituto italiano per gli studi storici. Napoli</subfield>
+    <subfield code="z">(Var. A)</subfield>
+    <subfield code="1">NA0120</subfield>
+    <subfield code="2">NAP CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Treviso</subfield>
+    <subfield code="1">TV0114</subfield>
+    <subfield code="2">VIA CT</subfield>
+  </datafield>
+</record>
+</collection>

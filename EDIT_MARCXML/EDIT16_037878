@@ -1,0 +1,130 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02024nam0a2200349 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\037878</controlfield>
+  <controlfield tag="005">20100430000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e-a- r.er n-a- laqu (3) 1579 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19981023d1579        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗P. Terentii Afri ℗Comoediae sex. A. M. Anto. Mureto locis prope innumeris suo nitori restitutae. Tum aliquot scholiis, et in singulas scenas argumentis illustratae. Maiore qum̉ hactenus vnquam diligentia emendatae</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Augustae Taurinorum</subfield>
+    <subfield code="c">sumptibus Ioannis Baptistae Ratterij</subfield>
+    <subfield code="d">1579</subfield>
+    <subfield code="e">Augustae Taurinorum</subfield>
+    <subfield code="g">ex typographia haeredum Beuilaquae</subfield>
+    <subfield code="g">sumptibus Ioannis Baptistae Ratterij</subfield>
+    <subfield code="h">1579</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">358, \2! p.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Torino</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Terentius Afer,</subfield>
+    <subfield code="b">Publius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003195</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Muret,</subfield>
+    <subfield code="b">Marc Antoine</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000118</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Ratteri, Giovanni Battista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000582</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Bevilacqua, Niccol ̣- eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000513</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Terenzio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014983</subfield>
+    <subfield code="z">Terentius Afer, Publius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Muretus,</subfield>
+    <subfield code="b">Marcus Antonius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014739</subfield>
+    <subfield code="z">Muret, Marc Antoine</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ratterius, Ioannes Baptista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005308</subfield>
+    <subfield code="z">Ratteri, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Novi Ligure</subfield>
+    <subfield code="1">AL0060</subfield>
+    <subfield code="2">TO0 33</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica di Mondov. Mondov</subfield>
+    <subfield code="1">CN0065</subfield>
+    <subfield code="2">TO0 55</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Collegio Gallio dei Padri Somaschi. Como</subfield>
+    <subfield code="1">CO0058</subfield>
+    <subfield code="2">ZCO 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Monumento nazionale di Praglia. Teolo</subfield>
+    <subfield code="1">PD0206</subfield>
+    <subfield code="2">PUV 24</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Manfrediana. Faenza</subfield>
+    <subfield code="1">RA0016</subfield>
+    <subfield code="2">RAV FA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Costantino Nigra. Ivrea</subfield>
+    <subfield code="1">TO0112</subfield>
+    <subfield code="2">TO0 54</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Farinone-Centa. Varallo Sesia</subfield>
+    <subfield code="1">VC0086</subfield>
+    <subfield code="2">TO0 A5</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">nel coloph.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000638</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000638</subfield>
+    <subfield code="b">Leone rampante con serpente intorno al collo. In cornice figurata</subfield>
+    <subfield code="e">Nec solis viribus</subfield>
+    <subfield code="c">Z777</subfield>
+    <subfield code="d">Dimensione: 4,5 x 8,5</subfield>
+    <subfield code="f">LEONE</subfield>
+    <subfield code="f">SERPENTE</subfield>
+    <subfield code="g">[non prima del 1573]-1583</subfield>
+  </datafield>
+</record>
+</collection>

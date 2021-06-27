@@ -1,0 +1,114 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01613nam0a22003251i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\062110</controlfield>
+  <controlfield tag="005">20130320000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">t.s, taam s,ba o,as (C) 1570 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20051026d1570        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Io. Antonii Taygeti Brix. ℗Carmen in quo Hippolytus Cinalia Brixien. et Carolus de Hortis Veron. manes eorum alloquuntur ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Patauii</subfield>
+    <subfield code="c">apud Laurentium Pasquatum</subfield>
+    <subfield code="d">1570</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\4! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Padova</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Taglietti,</subfield>
+    <subfield code="b">Giovanni Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008232</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Pasquato, Lorenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000004</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Taygetus,</subfield>
+    <subfield code="b">Ioannes Antonius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008233</subfield>
+    <subfield code="z">Taglietti, Giovanni Antonio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Taigeto,</subfield>
+    <subfield code="b">Giovanni Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024695</subfield>
+    <subfield code="z">Taglietti, Giovanni Antonio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Tajeti,</subfield>
+    <subfield code="b">Giovanantonio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024918</subfield>
+    <subfield code="z">Taglietti, Giovanni Antonio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Paschatius, Laurentius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002466</subfield>
+    <subfield code="z">Pasquato, Lorenzo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pasqualius, Laurentius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004022</subfield>
+    <subfield code="z">Pasquato, Lorenzo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pasquale, Lorenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004023</subfield>
+    <subfield code="z">Pasquato, Lorenzo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pasquatus, Laurentius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005296</subfield>
+    <subfield code="z">Pasquato, Lorenzo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pasquatius, Laurentius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005297</subfield>
+    <subfield code="z">Pasquato, Lorenzo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pasquatto, Lorenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005298</subfield>
+    <subfield code="z">Pasquato, Lorenzo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pasquati, Lorenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005299</subfield>
+    <subfield code="z">Pasquato, Lorenzo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca  Panizzi. Reggio Emilia</subfield>
+    <subfield code="1">RE0052</subfield>
+    <subfield code="2">RE2 PA</subfield>
+  </datafield>
+</record>
+</collection>

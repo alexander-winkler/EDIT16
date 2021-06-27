@@ -1,0 +1,43 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00514na 0a22001451i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\028626</controlfield>
+  <controlfield tag="005">20100408000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971110             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">GRC</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Tabula Cebetis</subfield>
+  </datafield>
+  <datafield tag="517" ind1="1" ind2=" ">
+    <subfield code="3">IT\ICCU\CNCE\071306</subfield>
+    <subfield code="a">Cebetos pinax</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Cebes</subfield>
+    <subfield code="c"> : Thebanus</subfield>
+    <subfield code="c"> &lt;sec. 5.-4. a.C.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\011933</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Cebes</subfield>
+    <subfield code="c"> : Thebanus </subfield>
+    <subfield code="c"> &lt;sec. 1.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026082</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Cebete</subfield>
+    <subfield code="c"> : di#Tebe</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026111</subfield>
+    <subfield code="z">Cebes : Thebanus &lt;sec. 5.-4. a.C.&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

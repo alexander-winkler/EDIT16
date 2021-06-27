@@ -1,0 +1,53 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00789nam0a22001811i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\039657</controlfield>
+  <controlfield tag="005">20051201000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19981110d1541        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Artis Notarie Tempestatis huius speculum ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Impressum Venetiis</subfield>
+    <subfield code="h">per Ioannem Andream Vauasorium</subfield>
+    <subfield code="h">cognomine  Guadagninum &amp; Florium fratrem eius</subfield>
+    <subfield code="h">1541</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">245, \3! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Valvassori, Giovanni Andrea &amp; Valvassori, Florio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000721</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Valvassori, Florio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000722</subfield>
+    <subfield code="z">Valvassori, Giovanni Andrea &amp; Valvassori, Florio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Vavasorius, Ioannes Andreas &amp; Vavasorius, Florius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004149</subfield>
+    <subfield code="z">Valvassori, Giovanni Andrea &amp; Valvassori, Florio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

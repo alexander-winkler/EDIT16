@@ -1,0 +1,118 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01972nam0a2200337 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\003794</controlfield>
+  <controlfield tag="005">20010802000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">read e-m. n.us sibe (3) 1599 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">*.u- l-si S?ia susp (3) 1598 (A)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">2</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101g15981599    0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Enchiridion, siue manuale confessariorum, et poenitentium. Complectens pene resolutionem omnium dubiorum, quae communiter in sacris confessionibus occurrere solent circa peccata, absolutiones, restitutiones, censuras, &amp; irregularitates. ... Nunc demum abeodem authore recognitum ... Accedit et huic nostrae impressioni, authoris commentarius de vsuris, resolutorius aliqu  ot dubiorum eiusdem manualis</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Ticini</subfield>
+    <subfield code="c">ex officina haeredum Hieronymi Bartoli</subfield>
+    <subfield code="d">1599</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">2 v.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">2: Ticini, apud haeredes Hieronymi Bartoli, 1598</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Pavia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Azpilcueta,</subfield>
+    <subfield code="b">Martin : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000998</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Bartoli, Girolamo - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000018</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Martinus Azpliqueta</subfield>
+    <subfield code="c"> : Navarro</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014102</subfield>
+    <subfield code="z">Azpilcueta, Martin : de</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Navarro,</subfield>
+    <subfield code="b">Martin : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014747</subfield>
+    <subfield code="z">Azpilcueta, Martin : de</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Tortona</subfield>
+    <subfield code="1">AL0101</subfield>
+    <subfield code="2">TO0 GP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Cagliari</subfield>
+    <subfield code="1">CA0194</subfield>
+    <subfield code="2">CAG UC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Capitolo della Cattedrale. Mondov</subfield>
+    <subfield code="1">CN0238</subfield>
+    <subfield code="2">TO0 ME</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca francescano-cappuccina provinciale. Milano</subfield>
+    <subfield code="1">MI0183</subfield>
+    <subfield code="2">ZMI 51</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Pontremoli</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">MS0019</subfield>
+    <subfield code="2">RT1 PP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario arcivescovile. Oristano</subfield>
+    <subfield code="1">OR0035</subfield>
+    <subfield code="2">PBE 91</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Ubaldo Mazzini. Fondi antichi. La Spezia</subfield>
+    <subfield code="1">SP0110</subfield>
+    <subfield code="2">LI2 L8</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Sassari</subfield>
+    <subfield code="1">SS0073</subfield>
+    <subfield code="2">CAG US</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale di filosofia San Tommaso d&apos;Aquino. Torino</subfield>
+    <subfield code="1">TO0071</subfield>
+    <subfield code="2">TO0 D8</subfield>
+  </datafield>
+</record>
+</collection>

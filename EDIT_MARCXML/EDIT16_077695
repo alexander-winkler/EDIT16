@@ -1,0 +1,85 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01203nam0a2200253 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\077695</controlfield>
+  <controlfield tag="005">20180611000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">V.a, maa- e-q. i-r- (S) 1595 (Q)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20121031f1595        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Indictio Synodi diocesanae Aquileiensis ad diem XVI mensis Augusti MDXCV</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">\Venezia</subfield>
+    <subfield code="c">Domenico e Giovanni Battista Guerra</subfield>
+    <subfield code="d">1595?!</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">1 foglio</subfield>
+    <subfield code="d">1/2</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">La marca tipografica si presenta rovesciata</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Aquileia</subfield>
+    <subfield code="c"> &lt;Patriarcato&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000811</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Guerra, Domenico &amp; Guerra, Giovanni Battista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000155</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Guerraei fratres</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005074</subfield>
+    <subfield code="z">Guerra, Domenico &amp; Guerra, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Guerri</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005076</subfield>
+    <subfield code="z">Guerra, Domenico &amp; Guerra, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Arcivescovile. Udine</subfield>
+    <subfield code="1">UD0100</subfield>
+    <subfield code="2">ZUD 11</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Nel fregio del front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\002387</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\002387</subfield>
+    <subfield code="b">Aquila vola verso il sole e perde le penne. In fregio con angeli trombettieri.</subfield>
+    <subfield code="e">Iuventus renovata</subfield>
+    <subfield code="c">U917</subfield>
+    <subfield code="f">AQUILA</subfield>
+    <subfield code="f">SOLE</subfield>
+    <subfield code="f">PENNE</subfield>
+    <subfield code="f">FREGIO</subfield>
+    <subfield code="f">IUVENTUSRE</subfield>
+    <subfield code="g">1580-[1595?]</subfield>
+  </datafield>
+</record>
+</collection>

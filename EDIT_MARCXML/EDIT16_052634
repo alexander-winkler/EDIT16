@@ -1,0 +1,134 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01820nam0a2200373 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\052634</controlfield>
+  <controlfield tag="005">20120601000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e?na noer t?ur ubte (C) 1502 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20020204d1502        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Donatus melior. Catonis Carmen de moribus. De arte libellus</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Impressum Venetiis</subfield>
+    <subfield code="g">per Ioannem de Cereto de Tridino cognominatum Tacuinus</subfield>
+    <subfield code="h">1502 die XXVIIII Octobris</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\32! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">L&apos;autore del De arte libellus  ̈Antonio Mancinelli</subfield>
+  </datafield>
+  <datafield tag="423" ind1=" " ind2="0">
+    <subfield code="1">001IT\ICCU\CNCE\048385</subfield>
+    <subfield code="1">2001 </subfield>
+    <subfield code="a">℗Catonis ℗Carmen de moribus</subfield>
+  </datafield>
+  <datafield tag="423" ind1=" " ind2="0">
+    <subfield code="1">001IT\ICCU\CNCE\053039</subfield>
+    <subfield code="1">2001 </subfield>
+    <subfield code="a">De arte libellus</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Donatus,</subfield>
+    <subfield code="b">Aelius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000324</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Mancinelli,</subfield>
+    <subfield code="b">Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001005</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Cato,</subfield>
+    <subfield code="b">Marcus Porcius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010196</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Tacuino, Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000206</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Dionisius,</subfield>
+    <subfield code="b">Appollonius Donatus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004906</subfield>
+    <subfield code="z">Donatus, Aelius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Aelius</subfield>
+    <subfield code="c"> : Donatus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009367</subfield>
+    <subfield code="z">Donatus, Aelius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Mancinellus,</subfield>
+    <subfield code="b">Antonius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019612</subfield>
+    <subfield code="z">Mancinelli, Antonio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Cato Censorius,</subfield>
+    <subfield code="b">Marcus Porcius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016740</subfield>
+    <subfield code="z">Cato, Marcus Porcius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Cato  Maior</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018590</subfield>
+    <subfield code="z">Cato, Marcus Porcius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Catone,</subfield>
+    <subfield code="b">Marco Porcio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018591</subfield>
+    <subfield code="z">Cato, Marcus Porcius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Catone</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018592</subfield>
+    <subfield code="z">Cato, Marcus Porcius</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Cereto, Ioannes de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002713</subfield>
+    <subfield code="z">Tacuino, Giovanni</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Ioannes de Cereto de Tridino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002724</subfield>
+    <subfield code="z">Tacuino, Giovanni</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Tacuinus, Ioannes</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005546</subfield>
+    <subfield code="z">Tacuino, Giovanni</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale dell&apos;Archiginnasio. Bologna</subfield>
+    <subfield code="1">BO0304</subfield>
+    <subfield code="2">UBO GA</subfield>
+  </datafield>
+</record>
+</collection>

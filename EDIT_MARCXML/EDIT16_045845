@@ -1,0 +1,68 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00975ncm0a22002171i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\045845</controlfield>
+  <controlfield tag="005">20090915000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19990126d1583        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Letaniae beatae Mariae Virginis, et nominis Iesu. Una cum quatuor antiphonis, que post officium dicuntur. Auctore Annibale Stabili. Romae, in Ecclesia S. Apollinaris Collegi Germanici capellae magistro. Octo vocum</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Romae</subfield>
+    <subfield code="c">apud Alexandrum Gardanum</subfield>
+    <subfield code="d">1583</subfield>
+    <subfield code="e">Impressum Romae Kalendis Nouembris</subfield>
+    <subfield code="h">1583</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">8 fasc.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">S, A, T, B, 5, 6, 7, 8</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Roma</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Stabile,</subfield>
+    <subfield code="b">Annibale</subfield>
+    <subfield code="3">IT\ICCU\CNCA\011714</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Gardane, Alessandro</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000583</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Gardano, Alessandro</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004832</subfield>
+    <subfield code="z">Gardane, Alessandro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Gardanus, Alexander</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004833</subfield>
+    <subfield code="z">Gardane, Alessandro</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Fabriano</subfield>
+    <subfield code="z">(T,B)</subfield>
+    <subfield code="1">AN0033</subfield>
+    <subfield code="2">URB BF</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,66 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00988nam0a22002171i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\032849</controlfield>
+  <controlfield tag="005">20170223000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971216f1549        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Exercitatio linguae Latinae</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="d">\1549!</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">130 p.</subfield>
+    <subfield code="d">24ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Stampata a Venezia da Pietro Nicolini da Sabbio &amp; Giovanni Maria Nicolini da Sabbio &amp; Cornelio Nicolini da Sabbio; per i tipografi e la data cfr.: Annali tipografici, Venezia 1521-1551. A cura di Lorenzo Carpan,̈ p. 225</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Vives,</subfield>
+    <subfield code="b">Juan Luis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006590</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Nicolini da Sabbio, Pietro &amp; Nicolini da Sabbio, Giovanni Maria &amp; Nicolini da Sabbio, Cornelio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002075</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Vives,</subfield>
+    <subfield code="b">Joannes Ludovicus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010249</subfield>
+    <subfield code="z">Vives, Juan Luis</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Vivius,</subfield>
+    <subfield code="b">Ioannes</subfield>
+    <subfield code="3">IT\ICCU\CNCA\017909</subfield>
+    <subfield code="z">Vives, Juan Luis</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Siracusa</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">SR0026</subfield>
+    <subfield code="2">SBS SR</subfield>
+  </datafield>
+</record>
+</collection>

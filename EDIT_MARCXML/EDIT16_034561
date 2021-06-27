@@ -1,0 +1,98 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01184nam0a22002891i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\034561</controlfield>
+  <controlfield tag="005">19990928000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19980105d1548        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">De coloribus libellus a Simone Portio Neapolitano latinitate donatus ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Firenze</subfield>
+    <subfield code="c">Lorenzo Torrentino</subfield>
+    <subfield code="d">1548</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">197 p.</subfield>
+    <subfield code="d">16ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">a DE COLORIBUS</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Firenze</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Porzio,</subfield>
+    <subfield code="b">Simone</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004354</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Torrentino, Lorenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000169</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Portius,</subfield>
+    <subfield code="b">Simon</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018664</subfield>
+    <subfield code="z">Porzio, Simone</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Porta,</subfield>
+    <subfield code="b">Simone</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018665</subfield>
+    <subfield code="z">Porzio, Simone</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Portio,</subfield>
+    <subfield code="b">Simone</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022679</subfield>
+    <subfield code="z">Porzio, Simone</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Torrentinus, Laurentius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005585</subfield>
+    <subfield code="z">Torrentino, Lorenzo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Biella</subfield>
+    <subfield code="1">BI0025</subfield>
+    <subfield code="2">BIA BC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Pietro De Nava. Reggio Calabria</subfield>
+    <subfield code="1">RC0058</subfield>
+    <subfield code="2">RCA RN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Paroniana. Rieti</subfield>
+    <subfield code="1">RI0126</subfield>
+    <subfield code="2">RMS B5</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca diocesana. Viterbo</subfield>
+    <subfield code="1">VT0125</subfield>
+    <subfield code="2">PBE 68</subfield>
+  </datafield>
+</record>
+</collection>

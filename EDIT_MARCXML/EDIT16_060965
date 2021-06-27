@@ -1,0 +1,90 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01122nam0a2200277 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\060965</controlfield>
+  <controlfield tag="005">20130911000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">neue a,so hesi Anti (3) 1585 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20050817d1585        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">GB</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Itinerario di Marc&apos;Antonio Pigafetta gentil&apos;huomo vicentino</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Londra</subfield>
+    <subfield code="c">appresso Giouanni Wolfio inghilese</subfield>
+    <subfield code="d">1585</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\8!, 141, \3! p.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">GB</subfield>
+    <subfield code="d">Londra</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Pigafetta,</subfield>
+    <subfield code="b">Marco Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022096</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Wolf, John</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000723</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Melagrano, Giovanni Andrea del</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002952</subfield>
+    <subfield code="z">Wolf, John</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pernetto, Giovanni Vincenzo del</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002953</subfield>
+    <subfield code="z">Wolf, John</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Volfeo, Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004173</subfield>
+    <subfield code="z">Wolf, John</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Vuolfio, Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005769</subfield>
+    <subfield code="z">Wolf, John</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Wolfio, Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005770</subfield>
+    <subfield code="z">Wolf, John</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Wolfe, John</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005771</subfield>
+    <subfield code="z">Wolf, John</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Arcivescovile. Udine</subfield>
+    <subfield code="1">UD0100</subfield>
+    <subfield code="2">ZUD 11</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">British Library. London</subfield>
+    <subfield code="1">UK0001</subfield>
+  </datafield>
+</record>
+</collection>

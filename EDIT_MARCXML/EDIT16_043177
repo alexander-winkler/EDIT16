@@ -1,0 +1,82 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01044na 0a22002411i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\043177</controlfield>
+  <controlfield tag="005">20030402000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19981224             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">De puro, et emendato sermone</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Romae</subfield>
+    <subfield code="c">apud Valerium Doricum</subfield>
+    <subfield code="c">apud Ioannem Gattam</subfield>
+    <subfield code="d">1563</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Roma</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Cafaro,</subfield>
+    <subfield code="b">Girolamo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002332</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Dorico, Valerio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001061</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Della_Gatta, Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001233</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Capharus,</subfield>
+    <subfield code="b">Hieronymus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012960</subfield>
+    <subfield code="z">Cafaro, Girolamo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Dorichus, Valerius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004721</subfield>
+    <subfield code="z">Dorico, Valerio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Doricus, Valerius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004723</subfield>
+    <subfield code="z">Dorico, Valerio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Oricus, Valerius d&apos;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004726</subfield>
+    <subfield code="z">Dorico, Valerio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Micheli, Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002827</subfield>
+    <subfield code="z">Della_Gatta, Giovanni</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Gatta, Giovanni della</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003207</subfield>
+    <subfield code="z">Della_Gatta, Giovanni</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Gata, Ioannes</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004581</subfield>
+    <subfield code="z">Della_Gatta, Giovanni</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

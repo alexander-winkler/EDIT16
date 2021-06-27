@@ -1,0 +1,83 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01244nam0a22002531i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\030427</controlfield>
+  <controlfield tag="005">20101126000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">o,al ,p,f a,n- lade (3) 1556 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971127d1556        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">SPA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Historia de la composicion del cuerpo humano, escrita por Ioan de Valuerde de Hamusco</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">En Roma</subfield>
+    <subfield code="c">impressa por Antonio Salamanca</subfield>
+    <subfield code="d">y Antonio Lafrerij</subfield>
+    <subfield code="d">1556</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\12!, 28, \10!, 29-59, \19!, 60-70, \9!, 72-77, \2!, 78-84, \6!, 85-97, \8!, 98-106 \i.e. 105, 7! c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Roma</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Valverde de Amusco,</subfield>
+    <subfield code="b">Juan</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007624</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Salamanca, Antonio &amp; Lafrřy, Antoine</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002618</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Valverde,</subfield>
+    <subfield code="b">Juan : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024682</subfield>
+    <subfield code="z">Valverde de Amusco, Juan</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Amusco,</subfield>
+    <subfield code="b">Juan Valverde : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024683</subfield>
+    <subfield code="z">Valverde de Amusco, Juan</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca estera - Biblioteca Universidad Complutense de Madrid. Madrid</subfield>
+    <subfield code="1">AA0002</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca estera - Biblioteca de Reserva CRAI UB. Barcellona (Spagna)</subfield>
+    <subfield code="1">AA0024</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Casanatense. Roma</subfield>
+    <subfield code="1">RM0313</subfield>
+    <subfield code="2">RML 07</subfield>
+  </datafield>
+</record>
+</collection>

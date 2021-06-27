@@ -1,0 +1,72 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01318nam0a2200229 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\073345</controlfield>
+  <controlfield tag="005">20110301000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">naue etat n-di deti (C) 1565 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20080829d1565        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Statutum prouisio et reformatio circa ordines seruandos per notarios palatij et cuiuscunque alterius tribunalis et officij ciuitatis et totius dominij Mantuae. Cum taxa limitatione &amp; declaratione mercedis notariorum &amp; nonullorum, aliorum interuenientium in agendis litibus &amp; causis. Ac in expensis exequendisque publicis iudiciis &amp; negotiis. Gulielmo Mantuae duce, et Montis Ferrati marchione</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Mantuae</subfield>
+    <subfield code="c">Philoterpses et Clidanus Philoponi fratres excudebant</subfield>
+    <subfield code="d">1565 mense Martio</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\32! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Mantova</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Mantova</subfield>
+    <subfield code="c"> &lt;Ducato&gt;</subfield>
+    <subfield code="3">8426</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Filoponi, Filoterpse &amp; Filoponi, Clidano</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000042</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Filoponi, Clidano</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000043</subfield>
+    <subfield code="z">Filoponi, Filoterpse &amp; Filoponi, Clidano</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Philoponus, Philoterpses &amp; Philoponus, Clidanus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003801</subfield>
+    <subfield code="z">Filoponi, Filoterpse &amp; Filoponi, Clidano</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale. Cremona</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">CR0062</subfield>
+    <subfield code="2">LO1 28</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Teresiana. Mantova</subfield>
+    <subfield code="1">MN0035</subfield>
+    <subfield code="2">LO1 12</subfield>
+  </datafield>
+</record>
+</collection>

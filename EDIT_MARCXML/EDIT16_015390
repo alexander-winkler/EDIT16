@@ -1,0 +1,86 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01346nam0a2200265 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\015390</controlfield>
+  <controlfield tag="005">20040326000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">I.se e-in n.to seer (C) 1579 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1579        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Capitoli della Compagnia del Crocifisso, detta de Bianchi della felice citta di Palermo. Riformati nell&apos;anno MDLXXVIIII</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Palermo</subfield>
+    <subfield code="d">1579</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\116!, 12 p.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Stampata probabilmente da Giovanni Mayda, cfr.: Bibliografia delle edizioni palermitane antiche, v. 1, n. 100</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Palermo</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Confraternita dei Bianchi del Crocifisso</subfield>
+    <subfield code="c"> &lt;Palermo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003847</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Mayda, Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001686</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Confraternita dei Bianchi</subfield>
+    <subfield code="c"> &lt;Palermo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003848</subfield>
+    <subfield code="z">Confraternita dei Bianchi del Crocifisso &lt;Palermo&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Compagnia del Crocifisso</subfield>
+    <subfield code="c"> &lt;Palermo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003850</subfield>
+    <subfield code="z">Confraternita dei Bianchi del Crocifisso &lt;Palermo&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Maida, Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003505</subfield>
+    <subfield code="z">Mayda, Giovanni</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Palermo</subfield>
+    <subfield code="1">PA0063</subfield>
+    <subfield code="2">PA1 CP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca centrale della Regione siciliana Alberto Bombace. Palermo</subfield>
+    <subfield code="1">PA0064</subfield>
+    <subfield code="2">PAL BP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca interna dell&apos;Archivio di Stato. Palermo</subfield>
+    <subfield code="1">PA0083</subfield>
+    <subfield code="2">ZPA 26</subfield>
+  </datafield>
+</record>
+</collection>

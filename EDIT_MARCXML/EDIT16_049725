@@ -1,0 +1,91 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01332nam0a2200277 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\049725</controlfield>
+  <controlfield tag="005">20150319000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">7440 4622 6844 a-o, (C) 1568 (Q)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19991118f1568        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Sommario del perticato generale dello stato di Milano. Secondo le misure fatte dell&apos;anno 1531. et 1549</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Milano</subfield>
+    <subfield code="c">per Paolo Gottardo Pontio</subfield>
+    <subfield code="d">\non prima del 1568!</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\8! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">La data si ricava dall&apos;attivit ̉del tipografo. - Var.B: frontespizio ricomposto e stemma diverso</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Milano</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Milano</subfield>
+    <subfield code="c"> &lt;Ducato&gt;</subfield>
+    <subfield code="3">6960</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Da_Ponte, Paolo Gottardo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001755</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pontius, Paulus Gottardus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003718</subfield>
+    <subfield code="z">Da_Ponte, Paolo Gottardo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ponte, Paolo Gottardo da</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003719</subfield>
+    <subfield code="z">Da_Ponte, Paolo Gottardo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pontio, Paolo Gottardo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004498</subfield>
+    <subfield code="z">Da_Ponte, Paolo Gottardo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ponzio, Paolo Gottardo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004500</subfield>
+    <subfield code="z">Da_Ponte, Paolo Gottardo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Poncio, Pablo Gotardo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004501</subfield>
+    <subfield code="z">Da_Ponte, Paolo Gottardo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Braidense. Milano</subfield>
+    <subfield code="z">(Var.A)</subfield>
+    <subfield code="1">MI0185</subfield>
+    <subfield code="2">MIL NB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Pavia</subfield>
+    <subfield code="z">(Var.B) - MUTILO</subfield>
+    <subfield code="1">PV0291</subfield>
+    <subfield code="2">MIL UP</subfield>
+  </datafield>
+</record>
+</collection>

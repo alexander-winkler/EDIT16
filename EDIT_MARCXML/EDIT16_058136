@@ -1,0 +1,56 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00859nam0a2200205 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\058136</controlfield>
+  <controlfield tag="005">20160309000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e.le s.s. D.r. i.o. (C) 1547 (Q)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20040512f1547        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Pragmatica: o vero ordini sopra il vestire: et banchettare: fatti per la citta de Cremona. Con l&apos;autorita del senato di Milano</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="d">\1547?!</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\6! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Data di emanazione: Milano, 12 febbraio 1547. - Stampata a Milano probabilmente dagli eredi di Vincenzo Meda. Cfr.: E. Sandal, L&apos;arte della stampa a Milano nell&apos;et ̉di Carlo V., p. 98</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Milano</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Cremona</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003560</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Meda, Vincenzo - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001098</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale. Cremona</subfield>
+    <subfield code="1">CR0062</subfield>
+    <subfield code="2">LO1 28</subfield>
+  </datafield>
+</record>
+</collection>

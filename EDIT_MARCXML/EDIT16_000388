@@ -1,0 +1,142 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02058nam0a2200385 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\000388</controlfield>
+  <controlfield tag="005">20050503000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">n-u- t.ha t.r. LeEL (3) 1563 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1563        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Aesopi et aliorum fabulae ... Absthemii Hecatomythion secundum ... Addita sunt Io. Fr. Quintiani Stoa Disticha in fabulas P. Ouidij Nasonis Metamorphoseon</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Brixiae</subfield>
+    <subfield code="c">ex officina Damiani Turlini</subfield>
+    <subfield code="d">1563</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">303, \24! p.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Brescia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Aesopus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000326</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Astemio,</subfield>
+    <subfield code="b">Lorenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000046</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Quinziano Stoa,</subfield>
+    <subfield code="b">Giovanni Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000051</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Turlino, Damiano</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000234</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Abstemius,</subfield>
+    <subfield code="b">Laurentius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007528</subfield>
+    <subfield code="z">Astemio, Lorenzo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Bevilacqua,</subfield>
+    <subfield code="b">Lorenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007859</subfield>
+    <subfield code="z">Astemio, Lorenzo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Conti,</subfield>
+    <subfield code="b">Giovanni Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013841</subfield>
+    <subfield code="z">Quinziano Stoa, Giovanni Francesco</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Stoa,</subfield>
+    <subfield code="b">Giovanni Francesco Quinziano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\017309</subfield>
+    <subfield code="z">Quinziano Stoa, Giovanni Francesco</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Quintianus Stoa,</subfield>
+    <subfield code="b">Ioannes Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\028956</subfield>
+    <subfield code="z">Quinziano Stoa, Giovanni Francesco</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Turlinis, Damianus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004144</subfield>
+    <subfield code="z">Turlino, Damiano</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Turlinus, Damianus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005604</subfield>
+    <subfield code="z">Turlino, Damiano</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Turlini, Damiano</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005605</subfield>
+    <subfield code="z">Turlino, Damiano</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica A. Mai. Bergamo</subfield>
+    <subfield code="1">BG0026</subfield>
+    <subfield code="2">LO1 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale G. U. Lanfranchi. Palazzolo sull&apos;Oglio</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">BS0124</subfield>
+    <subfield code="2">ZBS 08</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Como</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">CO0213</subfield>
+    <subfield code="2">PBE 18</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Braidense. Milano</subfield>
+    <subfield code="1">MI0185</subfield>
+    <subfield code="2">MIL NB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario diocesano di Concordia-Pordenone. Pordenone</subfield>
+    <subfield code="1">PN0052</subfield>
+    <subfield code="2">TSA SC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Fidenza</subfield>
+    <subfield code="1">PR0011</subfield>
+    <subfield code="2">ZPR 08</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Museo Camillo Leone. Vercelli</subfield>
+    <subfield code="1">VC0120</subfield>
+    <subfield code="2">ZVC 07</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,89 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01195nam0a2200265 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\018989</controlfield>
+  <controlfield tag="005">20071108000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">a.e. utti nour *sdi (C) 1516 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1516        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Epistole de mesere Francisco Filelpho vulgare e latine nouamente stampate a Turin e diligentemente correcte</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Impressum Taurini</subfield>
+    <subfield code="g">per magistrum Nicolaum de Benedictis</subfield>
+    <subfield code="h">1516 die XIX Ianuarii</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\38! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Torino</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Filelfo,</subfield>
+    <subfield code="b">Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005377</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Benedict, Nicolas</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001493</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Philelphus,</subfield>
+    <subfield code="b">Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005378</subfield>
+    <subfield code="z">Filelfo, Francesco</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">De_Benedictis, Nicolaus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003062</subfield>
+    <subfield code="z">Benedict, Nicolas</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Benedetti, Nicola</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003636</subfield>
+    <subfield code="z">Benedict, Nicolas</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Benedeto, Nicolo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004336</subfield>
+    <subfield code="z">Benedict, Nicolas</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Benedictis, Nicolaus de</subfield>
+    <subfield code="c"> &lt;Torino&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004337</subfield>
+    <subfield code="z">Benedict, Nicolas</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Reale. Torino</subfield>
+    <subfield code="1">TO0263</subfield>
+    <subfield code="2">TO0 07</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale universitaria. Torino</subfield>
+    <subfield code="1">TO0265</subfield>
+    <subfield code="2">TO0 02</subfield>
+  </datafield>
+</record>
+</collection>

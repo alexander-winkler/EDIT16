@@ -1,0 +1,41 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00532na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\016222</controlfield>
+  <controlfield tag="005">20050608000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">De secretis mulierum</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Albertus</subfield>
+    <subfield code="c"> : Magnus</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000555</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Albert</subfield>
+    <subfield code="c"> : der Grosse</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012421</subfield>
+    <subfield code="z">Albertus : Magnus &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Albert</subfield>
+    <subfield code="c"> : von#Bollstd̃t</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018619</subfield>
+    <subfield code="z">Albertus : Magnus &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Alberto Magno</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018898</subfield>
+    <subfield code="z">Albertus : Magnus &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

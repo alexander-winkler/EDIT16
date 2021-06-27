@@ -1,0 +1,112 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01662nam0a2200289 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\011606</controlfield>
+  <controlfield tag="005">20070920000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">3939 0.m. o-ie ores (3) 1566 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1566        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Missale Romanum ordine absolutissimo consummatum, celis et punctis apte distinctum, ab omnibus mendis expurgatum ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud Liechtenstein</subfield>
+    <subfield code="d">1566</subfield>
+    <subfield code="e">Venetijs</subfield>
+    <subfield code="g">apud Petrum Liechtenstein Coloniensem Germanum</subfield>
+    <subfield code="h">1566</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\12!, 264 c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2="0">
+    <subfield code="3">IT\ICCU\CNCE\037213</subfield>
+    <subfield code="a">Missale</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Chiesa cattolica</subfield>
+    <subfield code="3">6731</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Liechtenstein, Peter</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000403</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Lucidus Lapis, Petrus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004962</subfield>
+    <subfield code="z">Liechtenstein, Peter</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Firenze</subfield>
+    <subfield code="1">FI0098</subfield>
+    <subfield code="2">CFI CF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Vallicelliana. Roma</subfield>
+    <subfield code="1">RM0281</subfield>
+    <subfield code="2">RML 08</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca diocesana  Beata Lucia Broccadelli. Narni</subfield>
+    <subfield code="1">TR0059</subfield>
+    <subfield code="2">UM1 77</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000434</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Nel colophon.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000117</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000434</subfield>
+    <subfield code="b">Agnello pasquale che stringe nella zampa una croce da cui pende uno stendardo. In cornice tonda</subfield>
+    <subfield code="e">Agnus Dei qui tollis peccata mundi miserere nobis</subfield>
+    <subfield code="c">V385</subfield>
+    <subfield code="c">Z6</subfield>
+    <subfield code="d">Dimensioni: 4,2 x 4,2</subfield>
+    <subfield code="f">AGNELLO</subfield>
+    <subfield code="f">AGNUS</subfield>
+    <subfield code="f">CROCE</subfield>
+    <subfield code="f">DEI</subfield>
+    <subfield code="f">QUI</subfield>
+    <subfield code="g">1547-1567</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000117</subfield>
+    <subfield code="b">Due sfere armillari in scudo sovrastato da elmo che ha per cimiero un&apos;altra sfera armillare. In alto: Petrus Liechtenstein</subfield>
+    <subfield code="c">K242</subfield>
+    <subfield code="c">V386</subfield>
+    <subfield code="c">Z1064</subfield>
+    <subfield code="d">Dimensioni: 11,2 x 15. Con o senza la scritta in alto</subfield>
+    <subfield code="f">LIECHTENST</subfield>
+    <subfield code="f">SCUDO</subfield>
+    <subfield code="f">SFERE</subfield>
+    <subfield code="g">1503-1568</subfield>
+  </datafield>
+</record>
+</collection>

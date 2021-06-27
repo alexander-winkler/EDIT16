@@ -1,0 +1,87 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01154nam0a2200265 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\013445</controlfield>
+  <controlfield tag="005">19970101000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">n.mo c.j. m.m. taca (3) 1514 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1514        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Codicis Iustiniani amplissimum argumentum</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Taurin. urbe</subfield>
+    <subfield code="c">per Nicolaum de Benedictis</subfield>
+    <subfield code="d">1514 XI Kalen. Iunij</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">CCCLXXII, \18! c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2="1">
+    <subfield code="3">IT\ICCU\CNCE\013446</subfield>
+    <subfield code="a">Corpus iuris civilis. Codex</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Torino</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Benedict, Nicolas</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001493</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">De_Benedictis, Nicolaus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003062</subfield>
+    <subfield code="z">Benedict, Nicolas</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Benedetti, Nicola</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003636</subfield>
+    <subfield code="z">Benedict, Nicolas</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Benedeto, Nicolo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004336</subfield>
+    <subfield code="z">Benedict, Nicolas</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Benedictis, Nicolaus de</subfield>
+    <subfield code="c"> &lt;Torino&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004337</subfield>
+    <subfield code="z">Benedict, Nicolas</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale Angelo Camillo De Meis. Chieti</subfield>
+    <subfield code="1">CH0020</subfield>
+    <subfield code="2">ABR ME</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca diocesana. Ivrea</subfield>
+    <subfield code="1">TO0111</subfield>
+    <subfield code="2">TO0 92</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca storica della Provincia di Torino. Torino</subfield>
+    <subfield code="1">TO0277</subfield>
+    <subfield code="2">TO0 06</subfield>
+  </datafield>
+</record>
+</collection>

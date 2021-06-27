@@ -1,0 +1,72 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01005nam0a22002291i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\041666</controlfield>
+  <controlfield tag="005">19981109000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">s.t. e.a. e-i. tei, (S) 1579 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19981109d1579        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Capita aliquot, in quibus reuerendiss. archiepiscopus, die XXVI augusti M.D.LXXVII conuocatis superioribus ... eorum studium ... requisiuit, pro decore diuini cultus ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Mediolani</subfield>
+    <subfield code="c">apud Michaelem Tinum</subfield>
+    <subfield code="d">impressorem Seminarij</subfield>
+    <subfield code="d">1579</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">1 manifesto</subfield>
+    <subfield code="d">atl</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Milano</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Tini, Michele</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000804</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Typographia Seminarii</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002749</subfield>
+    <subfield code="z">Tini, Michele</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Thinus, Michael</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004118</subfield>
+    <subfield code="z">Tini, Michele</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Tino, Michele</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004119</subfield>
+    <subfield code="z">Tini, Michele</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Tinus, Michael</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005579</subfield>
+    <subfield code="z">Tini, Michele</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+</record>
+</collection>

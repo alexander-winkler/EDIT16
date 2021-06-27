@@ -1,0 +1,111 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02010nam0a2200313 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\019225</controlfield>
+  <controlfield tag="005">20120413000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">a.em 65um o,ad ti&amp;c (3) 1592 (A)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">m.s, usn- umi- prde (3) 1592 (A)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">2</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1592        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Decisiones fori Fiuizanen. ac aliorum insignium locorum. Quae sane practicabiles valde, &amp; vtiles sunt clericis, religiosis, &amp; laicis, &amp; in quatuor titulos distinctae, videlicet De iudiciis, contractibus, voluntatibus, delictis. Borgnino Caualcano, aduocato Fiuizanense, episcopatusque Papiae vic. generali, authore. Iam tertio accuratius excusae, et castigatiores redditae. Cum summarijs et indice rerum locupletissimis</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud Damanium Zenarium</subfield>
+    <subfield code="d">1592</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">2 v.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">2: Decisiones fori Fiuizanen. aliorumq. insignium locorum. Peregrinae et amabiles. Borgnino Caualcano aduocato Fiuizanense, episcopatusque Papiae vicario generali, authore. Secunda pars. Nunc tertio in lucem edita, atque ab innumeris erroribus expurgata</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Fivizzano</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005426</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Cavalcani,</subfield>
+    <subfield code="b">Borgnino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002849</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Zenaro, Damiano</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000294</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">℗al segno della ℗Salamandra</subfield>
+    <subfield code="c"> &lt;1563-1600&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002327</subfield>
+    <subfield code="z">Zenaro, Damiano</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Genarus, Damianus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002957</subfield>
+    <subfield code="z">Zenaro, Damiano</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Zenarus, Damianus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005823</subfield>
+    <subfield code="z">Zenaro, Damiano</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Zenarius, Damianus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005824</subfield>
+    <subfield code="z">Zenaro, Damiano</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Sassari</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">SS0073</subfield>
+    <subfield code="2">CAG US</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Treviso</subfield>
+    <subfield code="1">TV0114</subfield>
+    <subfield code="2">VIA CT</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sui front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000581</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000581</subfield>
+    <subfield code="b">Salamandra coronata tra le fiamme. In cornice figurata</subfield>
+    <subfield code="e">Virtuti sic cedit invidia.</subfield>
+    <subfield code="c">Z1016</subfield>
+    <subfield code="d">Dimensioni: 10,5 x 7 (con il motto)</subfield>
+    <subfield code="f">FIAMME</subfield>
+    <subfield code="f">SALAMANDRA</subfield>
+    <subfield code="f">VIRTUTISIC</subfield>
+    <subfield code="g">1582-1595</subfield>
+  </datafield>
+</record>
+</collection>

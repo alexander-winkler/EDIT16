@@ -1,0 +1,92 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01228nam0a22002771i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\080185</controlfield>
+  <controlfield tag="005">20191203000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">i*ue isn. r-a- tuce (3) 1595 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20191203d1595        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Pontificale Romanum Clementis VIII pont. max. iussu restitutum, atque editum</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Romae</subfield>
+    <subfield code="c">apud Iacobum Lunam</subfield>
+    <subfield code="c">impensis Leonardi Parasoli</subfield>
+    <subfield code="d">&amp; sociorum</subfield>
+    <subfield code="d">1595</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\4!, 705, \1! p.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Roma</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Chiesa cattolica</subfield>
+    <subfield code="3">6731</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Luna, Giacomo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000574</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Parasole, Leonardo &amp; C.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003089</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Luna, Iacobus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004983</subfield>
+    <subfield code="z">Luna, Giacomo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Parasolus, Leonardus &amp; C.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005274</subfield>
+    <subfield code="z">Parasole, Leonardo &amp; C.</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Parasoli, Leonardo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005275</subfield>
+    <subfield code="z">Parasole, Leonardo &amp; C.</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca diocesana. Sulmona</subfield>
+    <subfield code="1">AQ0114</subfield>
+    <subfield code="2">ZAQ 13</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca diocesana di Tricarico. Tricarico</subfield>
+    <subfield code="1">MT0069</subfield>
+    <subfield code="2">PBE58</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Archivio e biblioteca della Cattedrale di S. Ruffino. Assisi</subfield>
+    <subfield code="1">PG0399</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Abbazia di Monte Oliveto Maggiore. Asciano</subfield>
+    <subfield code="1">SI0003</subfield>
+    <subfield code="2">ZSI 04</subfield>
+  </datafield>
+</record>
+</collection>

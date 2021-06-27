@@ -1,0 +1,67 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00883na 0a22001931i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\054139</controlfield>
+  <controlfield tag="005">20080930000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20030226             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Rimedio a la pestilente dottrina de frate Bernardino Ochino ...</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Politi,</subfield>
+    <subfield code="b">Lancellotto</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006557</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Ochino,</subfield>
+    <subfield code="b">Bernardino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007489</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Politi,</subfield>
+    <subfield code="b">Ambrogio Catarino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007207</subfield>
+    <subfield code="z">Politi, Lancellotto</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Catarino,</subfield>
+    <subfield code="b">Ambrogio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007928</subfield>
+    <subfield code="z">Politi, Lancellotto</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Ambrosio Catarino</subfield>
+    <subfield code="c"> : da#Siena</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018056</subfield>
+    <subfield code="z">Politi, Lancellotto</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Serafino</subfield>
+    <subfield code="c"> : da#Piacenza</subfield>
+    <subfield code="3">IT\ICCU\CNCA\028686</subfield>
+    <subfield code="z">Ochino, Bernardino</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Bernardino</subfield>
+    <subfield code="c"> : da#Siena</subfield>
+    <subfield code="3">IT\ICCU\CNCA\028690</subfield>
+    <subfield code="z">Ochino, Bernardino</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Tommaso</subfield>
+    <subfield code="c"> : da#Siena</subfield>
+    <subfield code="3">IT\ICCU\CNCA\029720</subfield>
+    <subfield code="z">Ochino, Bernardino</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

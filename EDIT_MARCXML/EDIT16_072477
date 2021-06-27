@@ -1,0 +1,60 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00794na 0a22001811i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\072477</controlfield>
+  <controlfield tag="005">20081001000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20080218             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Libellus in tres partiales tractatus divisus quinque corporum regularium et dependentium active perscrutationis</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Piero</subfield>
+    <subfield code="c"> : della#Francesca</subfield>
+    <subfield code="3">IT\ICCU\CNCA\028788</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Pacioli,</subfield>
+    <subfield code="b">Luca</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005028</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Lucas de Burgo Sancti Sepulchri</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008517</subfield>
+    <subfield code="z">Pacioli, Luca</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Luca</subfield>
+    <subfield code="c"> : di#Borgo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022347</subfield>
+    <subfield code="z">Pacioli, Luca</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Paciolo,</subfield>
+    <subfield code="b">Luca</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022348</subfield>
+    <subfield code="z">Pacioli, Luca</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Paccioli,</subfield>
+    <subfield code="b">Luca</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022349</subfield>
+    <subfield code="z">Pacioli, Luca</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Pazioli,</subfield>
+    <subfield code="b">Luca</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022350</subfield>
+    <subfield code="z">Pacioli, Luca</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

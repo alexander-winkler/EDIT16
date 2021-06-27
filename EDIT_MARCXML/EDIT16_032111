@@ -1,0 +1,105 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01481nam0a22003011i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\032111</controlfield>
+  <controlfield tag="005">20060621000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">a-i- T.ma o-ip mota (3) 1555 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971210d1555        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Dialogo intitolato collirio della mente, composto dal seruo di Iesu Christo frate Pietromartire da Garesio dell&apos;Ordine de predicatori. Li interlocutori sono Addia, Amatino, Athenobio, Sabetio e Cainam</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="d">Genoua</subfield>
+    <subfield code="e">Stampata in Genoua</subfield>
+    <subfield code="g">appresso Antonio Bellono</subfield>
+    <subfield code="h">1555</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\2!, 110 c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Genova</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Morelli,</subfield>
+    <subfield code="b">Pietro Martire</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009687</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Bellone, Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000236</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Morello,</subfield>
+    <subfield code="b">Pietro Martire</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021000</subfield>
+    <subfield code="z">Morelli, Pietro Martire</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Pietromartire</subfield>
+    <subfield code="c"> : da#Garessio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026116</subfield>
+    <subfield code="z">Morelli, Pietro Martire</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bellono, Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004315</subfield>
+    <subfield code="z">Bellone, Antonio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bellonis, Antonio de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004316</subfield>
+    <subfield code="z">Bellone, Antonio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bellonus, Antonius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004317</subfield>
+    <subfield code="z">Bellone, Antonio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Belonus, Antonius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004318</subfield>
+    <subfield code="z">Bellone, Antonio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Berio. Genova</subfield>
+    <subfield code="1">GE0036</subfield>
+    <subfield code="2">SGE BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Sarnano</subfield>
+    <subfield code="1">MC0079</subfield>
+    <subfield code="2">UMC BS</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Casanatense. Roma</subfield>
+    <subfield code="1">RM0313</subfield>
+    <subfield code="2">RML 07</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale universitaria. Torino</subfield>
+    <subfield code="1">TO0265</subfield>
+    <subfield code="2">TO0 02</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,133 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02084nam0a2200373 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\000486</controlfield>
+  <controlfield tag="005">20050503000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">t,re t.de ama- t,e. (C) 1579 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1579        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Regula s.mi patris Aurelii Augustini cum variis decretis ex antiquis constitutionibus a patribus prouinciae Marchiae Taruisianae excerptis pro reformatione eiusdem prouinciae</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud Ioannem Baptistam a Porta</subfield>
+    <subfield code="d">1579</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\9! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Agostiniani</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000487</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Augustinus,</subfield>
+    <subfield code="b">Aurelius</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004494</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Porta, Giovanni Battista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000283</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Ordo fratrum eremitarum sancti Augustini</subfield>
+    <subfield code="3">15384</subfield>
+    <subfield code="z">Agostiniani</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Congregazione del beato Francesco di Zompano dell&apos;Ordine eremitano di S. Agostino in Calabria</subfield>
+    <subfield code="3">15498</subfield>
+    <subfield code="z">Agostiniani</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Congregatio divi Ioannis ad Carbonetum</subfield>
+    <subfield code="3">15555</subfield>
+    <subfield code="z">Agostiniani</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Congregatio Heremitarum Regni Siciliae</subfield>
+    <subfield code="3">15557</subfield>
+    <subfield code="z">Agostiniani</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Congregatio observantiae Lombardiae Ordinis Fratrum Eremitarum S. Augustini</subfield>
+    <subfield code="3">15561</subfield>
+    <subfield code="z">Agostiniani</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Congregatio S. Mariae de Consolatione</subfield>
+    <subfield code="3">15562</subfield>
+    <subfield code="z">Agostiniani</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Congregazione di S. Giovanni a Carbonara</subfield>
+    <subfield code="3">28561</subfield>
+    <subfield code="z">Agostiniani</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Agostino Aurelio</subfield>
+    <subfield code="c"> &lt;santo&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018777</subfield>
+    <subfield code="z">Augustinus, Aurelius &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Aurelius Augustinus</subfield>
+    <subfield code="c"> : Hipponensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018780</subfield>
+    <subfield code="z">Augustinus, Aurelius &lt;santo&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ostio, Iohannes Baptista ab</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002284</subfield>
+    <subfield code="z">Porta, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Hostio, Ioahnnes Baptista ab</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002533</subfield>
+    <subfield code="z">Porta, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Uscio, Giovanni Battista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004058</subfield>
+    <subfield code="z">Porta, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ussio, Giovanni Battista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005477</subfield>
+    <subfield code="z">Porta, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ussius, Ioannes Baptista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005478</subfield>
+    <subfield code="z">Porta, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Angelica. Roma</subfield>
+    <subfield code="1">RM0290</subfield>
+    <subfield code="2">RML 06</subfield>
+  </datafield>
+</record>
+</collection>

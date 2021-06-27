@@ -1,0 +1,83 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01297nam0a22002651i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\071920</controlfield>
+  <controlfield tag="005">20071024000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">l-i- ontu i,a- dizo (C) 1550 (Q)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20071024f1550        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">CH</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Una ℗familiare et paterna institutione della christiana religione, di M. Celio Secondo Curione, piu copiosa, et piu chiara che la latina del medesimo, con certe altre cose pie ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Basilea</subfield>
+    <subfield code="d">\1550?!</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\104! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Stampato da Johann Oporinus; per il tipografo e la data cfr.: Short title of books printed in Italy ... now in the British Library, p. 206</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">CH</subfield>
+    <subfield code="d">Basilea</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Curione,</subfield>
+    <subfield code="b">Celio Secondo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003695</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Oporinus, Johann</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005932</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Celio</subfield>
+    <subfield code="c"> : da#Torino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013125</subfield>
+    <subfield code="z">Curione, Celio Secondo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Curio,</subfield>
+    <subfield code="b">Celius Secundus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013901</subfield>
+    <subfield code="z">Curione, Celio Secondo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Herbst, Johann</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005933</subfield>
+    <subfield code="z">Oporinus, Johann</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca estera - Biblioteca Nacional de Espaą. Madrid</subfield>
+    <subfield code="1">AA0001</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Istituto italiano per gli studi storici. Napoli</subfield>
+    <subfield code="1">NA0120</subfield>
+    <subfield code="2">NAP CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">British Library. London</subfield>
+    <subfield code="1">UK0001</subfield>
+  </datafield>
+</record>
+</collection>

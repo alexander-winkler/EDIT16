@@ -1,0 +1,71 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01099nam0a22002171i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\049157</controlfield>
+  <controlfield tag="005">19991007000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">imno e.u. i.t. alpr (3) 1550 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19991007d1550        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Philippi Decii ℗In primam, ac secundam partem digesti ueteris, atque etiam codicis commentaria omnium uberrima ... Multo emedatiora quam usquam alibi, nunc magnis sumptibus nuper impressa</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">\eredi di Lucantonio Giunta il vecchio</subfield>
+    <subfield code="d">Gabriele Giolito de Ferrari</subfield>
+    <subfield code="d">eredi di Ottaviano Scoto il vecchio e Federico Torresano!</subfield>
+    <subfield code="d">1550</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">286, \22! c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Decio,</subfield>
+    <subfield code="b">Filippo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004660</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Decius,</subfield>
+    <subfield code="b">Philippus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015308</subfield>
+    <subfield code="z">Decio, Filippo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">De_Dexio,</subfield>
+    <subfield code="b">Philippus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023186</subfield>
+    <subfield code="z">Decio, Filippo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Istituto tecnico commerciale F. Carrara. Lucca</subfield>
+    <subfield code="1">LU0101</subfield>
+    <subfield code="2">ZLU 10</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Federiciana. Fano</subfield>
+    <subfield code="1">PU0018</subfield>
+    <subfield code="2">URB FN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca  Panizzi. Reggio Emilia</subfield>
+    <subfield code="1">RE0052</subfield>
+    <subfield code="2">RE2 PA</subfield>
+  </datafield>
+</record>
+</collection>

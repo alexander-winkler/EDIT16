@@ -1,0 +1,49 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00680na 0a22001571i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\069015</controlfield>
+  <controlfield tag="005">20080930000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20061207             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Q. Rhemii Palemonis ... ℗Ars grammaticae secunda</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Palaemon,</subfield>
+    <subfield code="b">Quintus Remmius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000323</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Rhemnius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004855</subfield>
+    <subfield code="z">Palaemon, Quintus Remmius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Remmio Palemone,</subfield>
+    <subfield code="b">Quinto</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014631</subfield>
+    <subfield code="z">Palaemon, Quintus Remmius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Remmius Palaemon,</subfield>
+    <subfield code="b">Quintus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014896</subfield>
+    <subfield code="z">Palaemon, Quintus Remmius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Rhemnius Palaemon,</subfield>
+    <subfield code="b">Quintus Fannius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\030019</subfield>
+    <subfield code="z">Palaemon, Quintus Remmius</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

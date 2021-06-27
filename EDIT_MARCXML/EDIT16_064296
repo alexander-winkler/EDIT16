@@ -1,0 +1,71 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00841nam0a22002171i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\064296</controlfield>
+  <controlfield tag="005">20060317000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20060317d1584        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Rime spirituali</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Vico Equense</subfield>
+    <subfield code="c">appresso Gioseppe Cacchio</subfield>
+    <subfield code="d">1584</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Vico Equense</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">De_Cesare,</subfield>
+    <subfield code="b">Raffaele</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004655</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Cacchi, Giuseppe</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000064</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Caesare,</subfield>
+    <subfield code="b">Raphael : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015301</subfield>
+    <subfield code="z">De_Cesare, Raffaele</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Cesare,</subfield>
+    <subfield code="b">Raphael</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018405</subfield>
+    <subfield code="z">De_Cesare, Raffaele</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Cesareo,</subfield>
+    <subfield code="b">Raffaele</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023177</subfield>
+    <subfield code="z">De_Cesare, Raffaele</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Cacchius, Iosephus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004389</subfield>
+    <subfield code="z">Cacchi, Giuseppe</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Cacchio, Giuseppe</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004390</subfield>
+    <subfield code="z">Cacchi, Giuseppe</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

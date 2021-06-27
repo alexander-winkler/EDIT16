@@ -1,0 +1,223 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>03598nam0a2200541 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\001835</controlfield>
+  <controlfield tag="005">20070607000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">n.io s-de e-n- cope (3) 1578 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">3030 f.2. *.no sino (3) 1578 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">2</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1578        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Summa Angelica de casibus conscientialibus r.p.f. Angeli de Clauasio ordinis Minor. Obser. reg. cum additionibus quam commodis. r.p.f. Iacobi Vngarelli Patauini eiusdem ordinis. Nouissime vero ab innumeris erroribus tam in textu, quam in allegationibus, &amp; aliis annotationibus, cura ac industria d. Petri Vendramaeni, Veneti iurisconsulti pristinae integritati restituta, ac decisionibus Sacrosancti Concilii Tridentini, nec non  catechismi, iuxt ̉materiarum exigentiam ab eodem aucta et decorata</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud Ioannem Variscum</subfield>
+    <subfield code="d">&amp; socios</subfield>
+    <subfield code="d">1578</subfield>
+    <subfield code="e">Venetiis</subfield>
+    <subfield code="g">excudebat Aegidius Regazzola</subfield>
+    <subfield code="h">1576</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">2 v.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">2: Venetiis : apud Ioannem Variscum, &amp; socios, 1578 (Venetiis : excudebat Aegidius Regazzola, 1578)</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Angelo</subfield>
+    <subfield code="c"> : da#Chivasso</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000724</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Vendramin,</subfield>
+    <subfield code="b">Pietro</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000011</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Ungarelli,</subfield>
+    <subfield code="b">Giacomo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000189</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Varisco, Giovanni &amp; C.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002997</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Regazzola, Egidio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000620</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Carletti,</subfield>
+    <subfield code="b">Angelo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007879</subfield>
+    <subfield code="z">Angelo : da#Chivasso</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Vendramini,</subfield>
+    <subfield code="b">Pietro</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024570</subfield>
+    <subfield code="z">Vendramin, Pietro</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Vendramenus,</subfield>
+    <subfield code="b">Petrus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024571</subfield>
+    <subfield code="z">Vendramin, Pietro</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Vendramino,</subfield>
+    <subfield code="b">Pietro</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024572</subfield>
+    <subfield code="z">Vendramin, Pietro</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Vendramaenus,</subfield>
+    <subfield code="b">Petrus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024573</subfield>
+    <subfield code="z">Vendramin, Pietro</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Ungarellus,</subfield>
+    <subfield code="b">Jacobus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025052</subfield>
+    <subfield code="z">Ungarelli, Giacomo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Guarisco, Giovanni &amp; C.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\006428</subfield>
+    <subfield code="z">Varisco, Giovanni &amp; C.</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ragazzola, Egidio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002304</subfield>
+    <subfield code="z">Regazzola, Egidio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Regazola, Aegidius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005339</subfield>
+    <subfield code="z">Regazzola, Egidio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Casale Monferrato</subfield>
+    <subfield code="1">AL0024</subfield>
+    <subfield code="2">TO0 L2</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca francescana Le Grazie. Benevento</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">BN0052</subfield>
+    <subfield code="2">NAP MG</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei Frati minori dell&apos;Emilia. Sezione Biblioteca dell&apos;Osservanza. Bologna</subfield>
+    <subfield code="1">BO0336</subfield>
+    <subfield code="2">ZBO 41</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale De Bellis-Pilla. Venafro</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">IS0048</subfield>
+    <subfield code="2">MOL BV</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Labronica Francesco Domenico Guerrazzi. Livorno</subfield>
+    <subfield code="1">LI0011</subfield>
+    <subfield code="2">LIA FA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Porziuncola. Assisi</subfield>
+    <subfield code="1">PG0179</subfield>
+    <subfield code="2">UM1 36</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Senato della Repubblica Giovanni Spadolini. Roma</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">RM0427</subfield>
+    <subfield code="2">ZRM 12</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale del Monumento nazionale S. Scolastica. Subiaco</subfield>
+    <subfield code="1">RM0602</subfield>
+    <subfield code="2">BVE SU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale Melchiorre Delfico. Teramo</subfield>
+    <subfield code="1">TE0024</subfield>
+    <subfield code="2">ABR R1</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Bruno Emmert. Arco</subfield>
+    <subfield code="1">TN0008</subfield>
+    <subfield code="2">ZTN 11</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca diocesana. Ivrea</subfield>
+    <subfield code="1">TO0111</subfield>
+    <subfield code="2">TO0 92</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Nuova biblioteca pubblica Luigi Fumi. Orvieto</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">TR0022</subfield>
+    <subfield code="2">UM1 06</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">nel front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001162</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sui colophon delle due pt.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000381</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001162</subfield>
+    <subfield code="b">Sirena  bicaudata tiene le due code alzate con le mani. In cornice figurata</subfield>
+    <subfield code="c">U181</subfield>
+    <subfield code="d">Dimensioni: 5 x 5</subfield>
+    <subfield code="f">SIRENA</subfield>
+    <subfield code="g">1570-1593</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000381</subfield>
+    <subfield code="b">Pavone apre la coda a ruota. In cornice figurata</subfield>
+    <subfield code="e">Ingenuus omnia.</subfield>
+    <subfield code="c">Q57</subfield>
+    <subfield code="c">V444</subfield>
+    <subfield code="c">Z934</subfield>
+    <subfield code="d">Dimensioni: 4,5 x 5</subfield>
+    <subfield code="f">CODA</subfield>
+    <subfield code="f">INGENUUSOM</subfield>
+    <subfield code="f">PAVONE</subfield>
+    <subfield code="g">1573-1579</subfield>
+  </datafield>
+</record>
+</collection>

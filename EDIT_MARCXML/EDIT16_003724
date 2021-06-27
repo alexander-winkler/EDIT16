@@ -1,0 +1,205 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>03342nam0a2200517 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\003724</controlfield>
+  <controlfield tag="005">20180316000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">ilo, o.ne a.il roco (3) 1584 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">s-a. o.a, e.in paog (3) 1584 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">2</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1584        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Manuale de&apos; confessori, nel quale si contiene la vniuersale, &amp; particolare decisione di tutti i dubbij, che nelle confessioni de&apos; peccati sogliono occorrere. Con cinque commentarii ... Composto dall&apos;eccellente dottore, Martino Azpliqueta Nauarro. Et tradotto di spagnuolo in italiano, dal r.p.f. Cola de&apos; Guglinisi ... Nuouamente ristampato, et aggiuntiui dieci preludii, come nel latino, tradotti da Gio. Giolito ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Vinegia</subfield>
+    <subfield code="c">appresso i Gioliti</subfield>
+    <subfield code="d">1584</subfield>
+    <subfield code="e">In Vinegia</subfield>
+    <subfield code="g">appresso i Gioliti</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">2 v.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Azpilcueta,</subfield>
+    <subfield code="b">Martin : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000998</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a"></subfield>
+    <subfield code="c"> : da#Guglionesi</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000375</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Giolito De_Ferrari,</subfield>
+    <subfield code="b">Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000377</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Giolito De Ferrari, Giovanni &lt;2.&gt; &amp; Giolito De Ferrari, Giovanni Paolo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002436</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Martinus Azpliqueta</subfield>
+    <subfield code="c"> : Navarro</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014102</subfield>
+    <subfield code="z">Azpilcueta, Martin : de</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Navarro,</subfield>
+    <subfield code="b">Martin : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014747</subfield>
+    <subfield code="z">Azpilcueta, Martin : de</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Cola</subfield>
+    <subfield code="c"> : di#Guglinisi</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008266</subfield>
+    <subfield code="z">Niccol ̣: da#Guglionesi</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Guglinisi,</subfield>
+    <subfield code="b">Cola : de&apos;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014300</subfield>
+    <subfield code="z">Niccol ̣: da#Guglionesi</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Ferraris Giolito,</subfield>
+    <subfield code="b">Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019987</subfield>
+    <subfield code="z">Giolito De_Ferrari, Giovanni</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Giolito,</subfield>
+    <subfield code="b">Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019988</subfield>
+    <subfield code="z">Giolito De_Ferrari, Giovanni</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Giolito De Ferrari, Giovanni Paolo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000849</subfield>
+    <subfield code="z">Giolito De Ferrari, Giovanni &lt;2.&gt; &amp; Giolito De Ferrari, Giovanni Paolo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Convento di S. Maria Valleverde. Celano</subfield>
+    <subfield code="1">AQ0028</subfield>
+    <subfield code="2">ABR SM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Pieve Santo Stefano</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">AR0049</subfield>
+    <subfield code="2">ZAR 16</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale dell&apos;Archiginnasio. Bologna</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">BO0304</subfield>
+    <subfield code="2">UBO GA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei Cappuccini. Firenze</subfield>
+    <subfield code="1">FI0041</subfield>
+    <subfield code="2">RT1 PC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale del Monumento nazionale di Casamari. Veroli</subfield>
+    <subfield code="1">FR0073</subfield>
+    <subfield code="2">BVE CA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca monsignor Luigi Roba. Genova</subfield>
+    <subfield code="1">GE0139</subfield>
+    <subfield code="2">PBE 10</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale. Lucca</subfield>
+    <subfield code="1">LU0022</subfield>
+    <subfield code="2">LUA BL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Abbazia S. Benedetto. Seregno</subfield>
+    <subfield code="1">MI0441</subfield>
+    <subfield code="2">ZMI 23</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Mansutti. Milano</subfield>
+    <subfield code="1">MI1179</subfield>
+    <subfield code="2">LO1 89</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Carpi</subfield>
+    <subfield code="1">MO0012</subfield>
+    <subfield code="2">MOD CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca centrale della Regione siciliana Alberto Bombace. Palermo</subfield>
+    <subfield code="1">PA0064</subfield>
+    <subfield code="2">PAL BP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Francesco Torti. Bevagna</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">PG0019</subfield>
+    <subfield code="2">UM1 12</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale del Monumento nazionale. Cava dei Tirreni</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">SA0088</subfield>
+    <subfield code="2">NAP 95</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Montepulciano</subfield>
+    <subfield code="1">SI0024</subfield>
+    <subfield code="2">RT1 QQ</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca di area Giuridico Politologica dell&apos;Universit ̉di Siena. Siena</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">SI0104</subfield>
+    <subfield code="2">RT1 QU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Sassari</subfield>
+    <subfield code="1">SS0073</subfield>
+    <subfield code="2">CAG US</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale di filosofia San Tommaso d&apos;Aquino. Torino</subfield>
+    <subfield code="1">TO0071</subfield>
+    <subfield code="2">TO0 D8</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Museo Camillo Leone. Vercelli</subfield>
+    <subfield code="1">VC0120</subfield>
+    <subfield code="2">ZVC 07</subfield>
+  </datafield>
+</record>
+</collection>

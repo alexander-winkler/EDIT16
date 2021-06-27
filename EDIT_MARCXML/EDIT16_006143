@@ -1,0 +1,128 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01920nam0a2200361 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\006143</controlfield>
+  <controlfield tag="005">20140604000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">S.r. usD. i-xi papr (3) 1540 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1540        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Eccellentissimus dominus d. Marcellus Biringuccius senensis i.v. docdor \!! vespertinas lectiones in senensi Gymnasio legens ℗Super tit. C. qui admit. et l. I. de inst. et subst</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Impressum Senis</subfield>
+    <subfield code="g">per Calistrum Symeonis Senensem</subfield>
+    <subfield code="g">ad instantiam Ioann. Alixandri lib.</subfield>
+    <subfield code="h">1540 die XXV Septembris</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\4!, 56 p.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Siena</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Biringucci,</subfield>
+    <subfield code="b">Marcello</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001750</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Nardi, Callisto</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000726</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Landi, Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000325</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Beringucius,</subfield>
+    <subfield code="b">Marcellus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007842</subfield>
+    <subfield code="z">Biringucci, Marcello</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Calixtus Simeonis</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002398</subfield>
+    <subfield code="z">Nardi, Callisto</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Calisto di Simone di Nicholo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002399</subfield>
+    <subfield code="z">Nardi, Callisto</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Symeon, Calistrus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002400</subfield>
+    <subfield code="z">Nardi, Callisto</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bindi, Callisto</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004004</subfield>
+    <subfield code="z">Nardi, Callisto</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Giovanni di Alexandro</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002718</subfield>
+    <subfield code="z">Landi, Giovanni</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">G. di A. L.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002892</subfield>
+    <subfield code="z">Landi, Giovanni</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Giovanni di A. L.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002893</subfield>
+    <subfield code="z">Landi, Giovanni</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Ioannes Alexandri</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004896</subfield>
+    <subfield code="z">Landi, Giovanni</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Romolo Spezioli. Fermo</subfield>
+    <subfield code="1">AP0012</subfield>
+    <subfield code="2">UMC FM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Braidense. Milano</subfield>
+    <subfield code="1">MI0185</subfield>
+    <subfield code="2">MIL NB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale degli Intronati. Siena</subfield>
+    <subfield code="1">SI0046</subfield>
+    <subfield code="2">RT1 QI</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Collezione privata Tiezzi Mazzoni Della Stella Maestri. Torrita di Siena</subfield>
+    <subfield code="1">SI0161</subfield>
+    <subfield code="2">ZSI 14</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Norberto Bobbio dell&apos;Universit ̉degli Studi di Torino. Torino</subfield>
+    <subfield code="1">TO1203</subfield>
+    <subfield code="2">UTO BB</subfield>
+  </datafield>
+</record>
+</collection>

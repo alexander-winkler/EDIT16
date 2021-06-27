@@ -1,0 +1,44 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00510na 0a22001451i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\051449</controlfield>
+  <controlfield tag="005">20030919000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20010118             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Trattato della messa ...</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">De_Bonis,</subfield>
+    <subfield code="b">Emerio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Bonis,</subfield>
+    <subfield code="b">Emerio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004651</subfield>
+    <subfield code="z">De_Bonis, Emerio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Bonis,</subfield>
+    <subfield code="b">Emerio : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008179</subfield>
+    <subfield code="z">De_Bonis, Emerio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">De_Bonis,</subfield>
+    <subfield code="b">Emerius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022743</subfield>
+    <subfield code="z">De_Bonis, Emerio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

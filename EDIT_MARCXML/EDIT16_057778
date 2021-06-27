@@ -1,0 +1,109 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01836nam0a22003131i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\057778</controlfield>
+  <controlfield tag="005">20120518000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">s.i- inn- itr- bumi (3) 1511 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20040428d1511        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Habes candide lector in hoc opere Prisciani uolumen maius cum expositione elegantissima clarissimi philosophi Ioannis de Aingre. Habes insuper eiusdem uolumen minus &amp; de duodecim carminibus ac etiam de accentibus cum expositione viri eloquentissimi Danielis Caetani nunc primum edita. Habes praeterea de numeris ponderibus &amp; mensuris de praeexercitamenta rhetoricae. de uersibus comicis de declinationibus, necnon de situ orbis. Omnia quippe accuratissime emendata</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Impressum Mediolani</subfield>
+    <subfield code="g">per magistrum Leonardum Pachel</subfield>
+    <subfield code="h">1511 die iiii Iunii</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">283, \1! p.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Milano</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Priscianus</subfield>
+    <subfield code="c"> : Caesariensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004467</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Gaetani,</subfield>
+    <subfield code="b">Daniele</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005785</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Aingre,</subfield>
+    <subfield code="b">Johannes : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010511</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Pachel, Leonhard</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000080</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Prisciano</subfield>
+    <subfield code="c"> : di#Cesarea</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018674</subfield>
+    <subfield code="z">Priscianus : Caesariensis</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Caietanus,</subfield>
+    <subfield code="b">Daniel</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005786</subfield>
+    <subfield code="z">Gaetani, Daniele</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Caetani,</subfield>
+    <subfield code="b">Daniele</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005787</subfield>
+    <subfield code="z">Gaetani, Daniele</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Convento della Verna. Chiusi della Verna</subfield>
+    <subfield code="1">AR0029</subfield>
+    <subfield code="2">RT1 CB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica A. Mai. Bergamo</subfield>
+    <subfield code="1">BG0026</subfield>
+    <subfield code="2">LO1 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Archivio storico civico e Biblioteca Trivulziana. Milano</subfield>
+    <subfield code="1">MI0327</subfield>
+    <subfield code="2">LO1 13</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca capitolare. Padova</subfield>
+    <subfield code="1">PD0093</subfield>
+    <subfield code="2">PUV 74</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Collegio Ghislieri. Pavia</subfield>
+    <subfield code="1">PV0079</subfield>
+    <subfield code="2">PAV C2</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca diocesana  Beata Lucia Broccadelli. Narni</subfield>
+    <subfield code="1">TR0059</subfield>
+    <subfield code="2">UM1 77</subfield>
+  </datafield>
+</record>
+</collection>

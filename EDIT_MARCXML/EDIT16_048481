@@ -1,0 +1,57 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00720na 0a22001691i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\048481</controlfield>
+  <controlfield tag="005">20020521000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19990415             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">De machinis bellicis</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Hero</subfield>
+    <subfield code="c"> : Alexandrinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006483</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Hero</subfield>
+    <subfield code="c"> : Byzantius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006484</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Erone</subfield>
+    <subfield code="c"> : di#Alessandria</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014189</subfield>
+    <subfield code="z">Hero : Alexandrinus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Herone</subfield>
+    <subfield code="c"> : Alessandrino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014364</subfield>
+    <subfield code="z">Hero : Alexandrinus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Herrone</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014365</subfield>
+    <subfield code="z">Hero : Alexandrinus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Heron</subfield>
+    <subfield code="c"> : Alexandrinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014371</subfield>
+    <subfield code="z">Hero : Alexandrinus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Hero</subfield>
+    <subfield code="c"> : of#Costantinople</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014366</subfield>
+    <subfield code="z">Hero : Byzantius</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

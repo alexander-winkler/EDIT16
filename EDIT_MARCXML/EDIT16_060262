@@ -1,0 +1,38 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00643na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\060262</controlfield>
+  <controlfield tag="005">20060519000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20050304             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Allegationes ... Iacobi de Puteo pro Communitate terrae Valentiae, contra Communitatem Sancti Saluatoris, &amp; Luchini de Curte pro Communitate Sancti Saluatoris, contra Communitatem Terrae Valentiae, in materia confinum ...</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Dal_Pozzo,</subfield>
+    <subfield code="b">Giacomo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016586</subfield>
+  </datafield>
+  <datafield tag="701" ind1=" " ind2="1">
+    <subfield code="a">Corte,</subfield>
+    <subfield code="b">Luchinus : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\011250</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Iacobus</subfield>
+    <subfield code="c"> : de#Puteo</subfield>
+    <subfield code="c"> &lt;m. ca. 1464&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016588</subfield>
+    <subfield code="z">Dal_Pozzo, Giacomo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

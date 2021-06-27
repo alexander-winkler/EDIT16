@@ -1,0 +1,151 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02433nam0a2200397 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\034483</controlfield>
+  <controlfield tag="005">20071107000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">**ti r.me s.ul ququ (3) 1509 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971231d1509        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Ovidii ℗Metamorphoses cum Raphaelis Regii commento. Habes praeterea candidissime lector hoc uolumine nuperrime impresso &amp; diligenti cura reuiso. Emendationes quamplurimas per Aemilium Merulam aeditas &amp; seorsum ordine coadunatas. Item fabularum &amp; quorundam quae scitu digna sunt indicem per alphabeti seriem: numero etiam paginis addito: ut intelligas paginam quae aperto libro statim cernitur. Item errores quos alii calcographi admiserunt emendatos suisque locis situatos</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">\Milano</subfield>
+    <subfield code="c">Niccol ̣Gorgonzola!</subfield>
+    <subfield code="e">Mediolani</subfield>
+    <subfield code="g">impensa L. V.</subfield>
+    <subfield code="h">1509 die XXIIII mensis Octobris</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\6!, CLXI, \1! c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Milano</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Ovidius Naso,</subfield>
+    <subfield code="b">Publius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003076</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Regio,</subfield>
+    <subfield code="b">Raffaele</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012451</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Merula,</subfield>
+    <subfield code="b">Emilio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016988</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a"></subfield>
+    <subfield code="3">IT\ICCU\CNCT\000205</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Vegio, Leonardo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000313</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Ovidius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022433</subfield>
+    <subfield code="z">Ovidius Naso, Publius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Publius Ovidius Naso</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022434</subfield>
+    <subfield code="z">Ovidius Naso, Publius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Regius,</subfield>
+    <subfield code="b">Raphael</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023427</subfield>
+    <subfield code="z">Regio, Raffaele</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Merola,</subfield>
+    <subfield code="b">Emilio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020873</subfield>
+    <subfield code="z">Merula, Emilio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Nicolo da Gorgonzola</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004950</subfield>
+    <subfield code="z"></subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">De_Vegiis, Leonardus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004154</subfield>
+    <subfield code="z">Vegio, Leonardo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Vegius, Leonardus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005862</subfield>
+    <subfield code="z">Vegio, Leonardo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Vegiis, Leonardus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005863</subfield>
+    <subfield code="z">Vegio, Leonardo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Vegii, Leonardo di</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005864</subfield>
+    <subfield code="z">Vegio, Leonardo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Cuneo</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">CN0037</subfield>
+    <subfield code="2">TO0 50</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Collegio Gallio dei Padri Somaschi. Como</subfield>
+    <subfield code="1">CO0058</subfield>
+    <subfield code="2">ZCO 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Porziuncola. Assisi</subfield>
+    <subfield code="1">PG0179</subfield>
+    <subfield code="2">UM1 36</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">British Library. London</subfield>
+    <subfield code="1">UK0001</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000436</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000436</subfield>
+    <subfield code="b">Nastro con nome di Nicolaus Gorgonzola avvolge uno scettro che ha alla base una P e all&apos;apice una stella. Intorno ornamenti floreali.</subfield>
+    <subfield code="c">K70</subfield>
+    <subfield code="c">Z913</subfield>
+    <subfield code="f">GORGONZOLA</subfield>
+    <subfield code="f">LETTERAP</subfield>
+    <subfield code="f">NASTRO</subfield>
+    <subfield code="f">NICOLAUS</subfield>
+    <subfield code="f">STELLA</subfield>
+    <subfield code="g">1509-1523</subfield>
+  </datafield>
+</record>
+</collection>

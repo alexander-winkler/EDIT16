@@ -1,0 +1,108 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01925nam0a22003131i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\057419</controlfield>
+  <controlfield tag="005">20080129000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">a-i- ymer esus HeHe (C) 1523 (Q)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20040414f1523        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Nicolai Peranzoni de monte sancte marie in Cassiano ℗Vaticinium de vera futuri diluuij declaratione cum vna et viginti vndationibus memorabilibus. Ante et post diluuium Noeticum nec non cum determinatione vltimorum dierum huius mundi cum laudibus astrologie alijsque rebus occultis ex intimarum mathematicarum cabalisticarumque scientia de promptis non minus iucundis quam vtilibus lege et letaberis si lati tantis nature arcana intelligere aues</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Impressum Anconae</subfield>
+    <subfield code="c">per Bernardinum Gueralda</subfield>
+    <subfield code="d">\1523!</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\24! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Per la data di stampa cfr. F.M. Giochi e A. Mordenti, Annali della tipografia in Ancona 1512-1799, n. 33</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Ancona</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Peranzone,</subfield>
+    <subfield code="b"></subfield>
+    <subfield code="3">IT\ICCU\CNCA\010863</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Guerralda, Bernardino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000425</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Riccio Marchesiano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\017252</subfield>
+    <subfield code="z"></subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Peranzonus,</subfield>
+    <subfield code="b">Nicolaus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022268</subfield>
+    <subfield code="z"></subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Marchesiano,</subfield>
+    <subfield code="b">Riccio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022269</subfield>
+    <subfield code="z"></subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Bernardinus Vercellensis</subfield>
+    <subfield code="c"> &lt;1502-1528&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002942</subfield>
+    <subfield code="z">Guerralda, Bernardino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Vercellensis, Bernardinus</subfield>
+    <subfield code="c"> &lt;1502-1528&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002943</subfield>
+    <subfield code="z">Guerralda, Bernardino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Guiraldo, Bernardino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005078</subfield>
+    <subfield code="z">Guerralda, Bernardino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Guerraldus, Bernardinus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005079</subfield>
+    <subfield code="z">Guerralda, Bernardino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Guerarda, Bernardino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005080</subfield>
+    <subfield code="z">Guerralda, Bernardino</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Bertoliana. Vicenza</subfield>
+    <subfield code="1">VI0096</subfield>
+    <subfield code="2">VIA BE</subfield>
+  </datafield>
+</record>
+</collection>

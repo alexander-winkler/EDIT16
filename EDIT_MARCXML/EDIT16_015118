@@ -1,0 +1,109 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01515nam0a2200313 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\015118</controlfield>
+  <controlfield tag="005">19990727000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">i-c- titi dio- noe. (C) 1593 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1593        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Decreti preparatorij alla riforma dell&apos;Ordine conuentuale di santo Francesco. Fatti dal p.m. Filippo Gesualdo, ministro generale dell&apos;istesso Ordine col consiglio, e consenso  de suoi padri assistenti. MDXCIII</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Piacenza</subfield>
+    <subfield code="c">appresso Giouanni Bazachi</subfield>
+    <subfield code="d">1593</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\8! c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Piacenza</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Conventuali</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003474</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Gesualdo,</subfield>
+    <subfield code="b">Filippo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003216</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Bazachi, Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001313</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Ordo fratrum minorum conventualium</subfield>
+    <subfield code="3">15501</subfield>
+    <subfield code="z">Conventuali</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Fratres s. Francisci conventuales</subfield>
+    <subfield code="3">15502</subfield>
+    <subfield code="z">Conventuali</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Frati minori conventuali</subfield>
+    <subfield code="3">26310</subfield>
+    <subfield code="z">Conventuali</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Gesualdus,</subfield>
+    <subfield code="b">Philippus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014097</subfield>
+    <subfield code="z">Gesualdo, Filippo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Gesualdi,</subfield>
+    <subfield code="b">Filippo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019484</subfield>
+    <subfield code="z">Gesualdo, Filippo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Filippo</subfield>
+    <subfield code="c"> : da#Castrovillari</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019809</subfield>
+    <subfield code="z">Gesualdo, Filippo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bazzachi, Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003629</subfield>
+    <subfield code="z">Bazachi, Giovanni</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bazachius, Ioannes</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004307</subfield>
+    <subfield code="z">Bazachi, Giovanni</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Giuseppe Taroni. Bagnacavallo</subfield>
+    <subfield code="1">RA0002</subfield>
+    <subfield code="2">RAV BC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Casanatense. Roma</subfield>
+    <subfield code="1">RM0313</subfield>
+    <subfield code="2">RML 07</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,103 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01400nam0a2200289 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\049902</controlfield>
+  <controlfield tag="005">20200320000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">amue u-si irI- ceph (3) 1525 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19991201d1525        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Foederici Nauseae Blancicampiani iurisconsulti ℗In libros diuorum praeludia</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">\Venezia</subfield>
+    <subfield code="c">Lorenzo Lorio!</subfield>
+    <subfield code="e">Venetijs</subfield>
+    <subfield code="g">per Laurentium Lorium Portesiensem</subfield>
+    <subfield code="h">1525 mense Septemb.</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">XXXII c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Nausea,</subfield>
+    <subfield code="b">Friedrich</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008862</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Lorio, Lorenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000607</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Grau,</subfield>
+    <subfield code="b">Friedrich</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021594</subfield>
+    <subfield code="z">Nausea, Friedrich</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Orius, Laurentius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003013</subfield>
+    <subfield code="z">Lorio, Lorenzo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Lorius, Laurentius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004977</subfield>
+    <subfield code="z">Lorio, Lorenzo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Pietro Siciliani. Galatina</subfield>
+    <subfield code="1">LE0209</subfield>
+    <subfield code="2">LEK SF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Braidense. Milano</subfield>
+    <subfield code="1">MI0185</subfield>
+    <subfield code="2">MIL NB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Augusta. Perugia</subfield>
+    <subfield code="1">PG0109</subfield>
+    <subfield code="2">UM1 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Marciana. Venezia</subfield>
+    <subfield code="1">VE0049</subfield>
+    <subfield code="2">VEA BM</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\002026</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\002026</subfield>
+    <subfield code="b">S. Caterina d&apos;Alessandria tiene una palma nella mano destra e regge con la sinistra la ruota dentata.</subfield>
+    <subfield code="c">U596</subfield>
+    <subfield code="d">Dimensioni: 3,5 x 5,2</subfield>
+    <subfield code="f">S.CATERINA</subfield>
+    <subfield code="f">PALMA</subfield>
+    <subfield code="f">RUOTA</subfield>
+    <subfield code="g">1522-1525</subfield>
+  </datafield>
+</record>
+</collection>

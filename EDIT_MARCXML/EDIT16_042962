@@ -1,0 +1,107 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01849nam0a2200301 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\042962</controlfield>
+  <controlfield tag="005">20120720000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">r.n- leoc nio. taex (3) 1550 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19981219d1550        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Bartholomaei Fumi Vilaurensis Placentini Ordinis praedi. ac haereticae prauitatis inquisitoris ℗Summa, quae aurea armilla inscribitur. Continens breuiter, et strictim quaecunque in iure canonico, et apud theologos circa animarum curam diffuse dispersimque  tractantur</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Placentiae</subfield>
+    <subfield code="c">apud Ioannem Mutium Cremonen. et Bernardum Lochetam Papiensem</subfield>
+    <subfield code="d">1550</subfield>
+    <subfield code="e">In alma urbe Placentiae</subfield>
+    <subfield code="g">aeneis typis per Ioannem Mutium Cremonensem et Bernardum Lochetam Papiensem excussum</subfield>
+    <subfield code="h">Nonis Augusti 1549</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\4!, 308 c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Piacenza</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Fumo,</subfield>
+    <subfield code="b">Bartolomeo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005611</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Muzio, Giovanni &amp; Locheta, Bernardino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001256</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Fumus,</subfield>
+    <subfield code="b">Bartholomaeus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019242</subfield>
+    <subfield code="z">Fumo, Bartolomeo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Fumi,</subfield>
+    <subfield code="b">Bartolommeo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019243</subfield>
+    <subfield code="z">Fumo, Bartolomeo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">℗In aedibus ℗Divae Margaritae</subfield>
+    <subfield code="c"> &lt;1549-1553&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002193</subfield>
+    <subfield code="z">Muzio, Giovanni &amp; Locheta, Bernardino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Mutius, Ioannes &amp; Locheta, Bernardinus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002394</subfield>
+    <subfield code="z">Muzio, Giovanni &amp; Locheta, Bernardino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Mutio, Ioan et Locheta, Bernardino di</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005256</subfield>
+    <subfield code="z">Muzio, Giovanni &amp; Locheta, Bernardino</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Marucelliana. Firenze</subfield>
+    <subfield code="1">FI0101</subfield>
+    <subfield code="2">CFI MF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Painiana. Messina</subfield>
+    <subfield code="1">ME0052</subfield>
+    <subfield code="2">MES PA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca centrale della Regione siciliana Alberto Bombace. Palermo</subfield>
+    <subfield code="1">PA0064</subfield>
+    <subfield code="2">PAL BP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Palatina. Parma</subfield>
+    <subfield code="1">PR0072</subfield>
+    <subfield code="2">PAR PA</subfield>
+  </datafield>
+</record>
+</collection>

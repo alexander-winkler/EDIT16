@@ -1,0 +1,164 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02366nam0a2200421 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\016103</controlfield>
+  <controlfield tag="005">20030919000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">inhe uopo i.l- glla (3) 1556 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1556        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Prattica vniuersale in cirugia de l&apos;eccellente m. Giouanni di Vigo. Et il dotto compendio di Mariano suo discepolo. Opere vtilissime et necessarie nouamente tradotte per m. Lorenzo Chrisaorio con le sue tauole in fine</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Vinegia</subfield>
+    <subfield code="c">appresso Federico Torresano</subfield>
+    <subfield code="d">1556</subfield>
+    <subfield code="e">In Vinegia</subfield>
+    <subfield code="g">per Domenico de&apos; Farri</subfield>
+    <subfield code="g">ad instantia di Federico Torresano</subfield>
+    <subfield code="h">1556</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\4!, 758 \i.e. 258!, \4! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Da_Vigo,</subfield>
+    <subfield code="b">Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004632</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Santo,</subfield>
+    <subfield code="b">Mariano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004347</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Chrisaorio,</subfield>
+    <subfield code="b">Lorenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004348</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Torresano, Federico</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000193</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Farri, Domenico</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000035</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Di_Vico,</subfield>
+    <subfield code="b">Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010144</subfield>
+    <subfield code="z">Da_Vigo, Giovanni</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Vigo,</subfield>
+    <subfield code="b">Giovanni : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015042</subfield>
+    <subfield code="z">Da_Vigo, Giovanni</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">De_Vigo,</subfield>
+    <subfield code="b">Giannettino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015280</subfield>
+    <subfield code="z">Da_Vigo, Giovanni</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Sanctus,</subfield>
+    <subfield code="b">Marianus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023421</subfield>
+    <subfield code="z">Santo, Mariano</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Turrisanus, Federicus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004128</subfield>
+    <subfield code="z">Torresano, Federico</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Turrisanis, Federicus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005589</subfield>
+    <subfield code="z">Torresano, Federico</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Toresano, Federico</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005590</subfield>
+    <subfield code="z">Torresano, Federico</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Farris, Dominicus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005455</subfield>
+    <subfield code="z">Farri, Domenico</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Farreus, Dominicus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005459</subfield>
+    <subfield code="z">Farri, Domenico</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Farris, Domingo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005462</subfield>
+    <subfield code="z">Farri, Domenico</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Ugo Granafei. Mesagne</subfield>
+    <subfield code="1">BR0011</subfield>
+    <subfield code="2">BRI PE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Fossano</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">CN0049</subfield>
+    <subfield code="2">TO0 52</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Carpi</subfield>
+    <subfield code="1">MO0012</subfield>
+    <subfield code="2">MOD CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Passerini Landi. Piacenza</subfield>
+    <subfield code="1">PC0030</subfield>
+    <subfield code="2">PIA PL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Oliveriana. Pesaro</subfield>
+    <subfield code="1">PU0061</subfield>
+    <subfield code="2">URB OL</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000350</subfield>
+    <subfield code="b">Torre quadrata e merlata incorniciata da un nastro sul quale  ̈scritto Toresanus Federicus</subfield>
+    <subfield code="c">Z1172</subfield>
+    <subfield code="d">Dimensioni: 3,5 x 4,1</subfield>
+    <subfield code="f">TORESANUSF</subfield>
+    <subfield code="f">TORRE</subfield>
+    <subfield code="g">1539-1556</subfield>
+  </datafield>
+</record>
+</collection>

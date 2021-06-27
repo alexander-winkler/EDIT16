@@ -1,0 +1,134 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02105nam0a22003611i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\040788</controlfield>
+  <controlfield tag="005">20080114000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">u-am 1n.1 o-ta teti (3) 1588 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">r-um adm- i-a- ueAn (3) 1588 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">2</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19981119d1588        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Summa totius artis notariae, Rolandini Rodulphi Bonon ... Vna cum solenni tract. Angeli a Gambilionibus de testamentis ... Hac nouiss. vero editione ab erroribus innumerabilibus ... summo studio vindicata</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud haeredes Francisci Ziletti</subfield>
+    <subfield code="d">1588</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">2 v.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Rolandino</subfield>
+    <subfield code="c"> : de&apos;#Passaggeri</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000001</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Gambiglioni,</subfield>
+    <subfield code="b">Angelo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005861</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Ziletti, Francesco - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003832</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Orlandinus,</subfield>
+    <subfield code="b">Rudulphinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006656</subfield>
+    <subfield code="z">Rolandino : de&apos;#Passaggeri</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Rolandinus Rodulphinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008154</subfield>
+    <subfield code="z">Rolandino : de&apos;#Passaggeri</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Passeggeri,</subfield>
+    <subfield code="b">Rolandino : de&apos;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014697</subfield>
+    <subfield code="z">Rolandino : de&apos;#Passaggeri</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Rudolphinus de Passageriis,</subfield>
+    <subfield code="b">Rolandinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015181</subfield>
+    <subfield code="z">Rolandino : de&apos;#Passaggeri</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Passaggeri,</subfield>
+    <subfield code="b">Rolandino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023840</subfield>
+    <subfield code="z">Rolandino : de&apos;#Passaggeri</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Gambilionibus,</subfield>
+    <subfield code="b">Angelus : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018951</subfield>
+    <subfield code="z">Gambiglioni, Angelo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a"></subfield>
+    <subfield code="1">BS0156</subfield>
+    <subfield code="2">ZBS 07</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Istituto tecnico commerciale F. Carrara. Lucca</subfield>
+    <subfield code="1">LU0101</subfield>
+    <subfield code="2">ZLU 10</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Fondo Fortunato Cavazzoni Pederzini. Ravarino</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">MO0110</subfield>
+    <subfield code="2">MOD RV</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario Vescovile della Facolt ̉Teologica del Triveneto dell&apos;Istituto Filosofico Aloisianum. Padova</subfield>
+    <subfield code="1">PD0073</subfield>
+    <subfield code="2">PUV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Forteguerriana. Pistoia</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">PT0025</subfield>
+    <subfield code="2">RT1 IE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca di area Giuridico Politologica dell&apos;Universit ̉di Siena. Siena</subfield>
+    <subfield code="1">SI0104</subfield>
+    <subfield code="2">RT1 QU</subfield>
+  </datafield>
+</record>
+</collection>

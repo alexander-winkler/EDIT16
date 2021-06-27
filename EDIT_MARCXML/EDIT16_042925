@@ -1,0 +1,38 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00515na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\042925</controlfield>
+  <controlfield tag="005">20080206000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19981221             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">In C. Iulii Caesaris commentarios de bello Gallico, ac ciuili, Henrici Glareani annotationes</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Glareanus,</subfield>
+    <subfield code="b">Henricus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002162</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Loritus,</subfield>
+    <subfield code="b">Henricus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002326</subfield>
+    <subfield code="z">Glareanus, Henricus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Loriti,</subfield>
+    <subfield code="b">Heinrich</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022328</subfield>
+    <subfield code="z">Glareanus, Henricus</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

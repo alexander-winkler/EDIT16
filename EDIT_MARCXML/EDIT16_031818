@@ -1,0 +1,29 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00350na 0a22001091i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\031818</controlfield>
+  <controlfield tag="005">20060321000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971206             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Giardino de oratione</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a"></subfield>
+    <subfield code="c"> : da#Osimo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018290</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Nicolaus</subfield>
+    <subfield code="c"> : Auximanus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022506</subfield>
+    <subfield code="z">Niccol ̣: da#Osimo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

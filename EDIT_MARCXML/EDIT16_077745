@@ -1,0 +1,44 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00539na 0a22001451i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\077745</controlfield>
+  <controlfield tag="005">20121129000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20121129             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Institutiones christianae pietatis ...</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Chaves,</subfield>
+    <subfield code="b">Tomaz : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002982</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Caves,</subfield>
+    <subfield code="b">Tomaso : di</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007936</subfield>
+    <subfield code="z">Chaves, Tomaz : de</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Tomaso</subfield>
+    <subfield code="c"> : di#Caves</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013202</subfield>
+    <subfield code="z">Chaves, Tomaz : de</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Thomas</subfield>
+    <subfield code="c"> : de#Chaves</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013203</subfield>
+    <subfield code="z">Chaves, Tomaz : de</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

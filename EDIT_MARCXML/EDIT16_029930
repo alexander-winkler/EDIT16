@@ -1,0 +1,169 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02588nam0a2200433 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\029930</controlfield>
+  <controlfield tag="005">20080414000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">2865 s,e- umu- utmo (3) 1559 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971124d1559        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗M. Gatinariae medici clarissimi, Nonum ad Almansorem in gymnasio Papiensi publice profitentis, ℗De remediis morborum omnium particularibus: opus medicinam exercentibus maxime utile, et accommodatum. Huic (ut uniuersam praxin medicin ̆studiosis exhiberemus) accesserunt, De curandis febribus Gentilis Fulginatis introductio, Blasii Astarij Libellus, Caesaris Landulphi Opusculum. Cum indice copiosisssimo</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud Lodouicum Auancium</subfield>
+    <subfield code="d">1559</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\8!, 424 \i.e. 524!  p.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Gattinara,</subfield>
+    <subfield code="b">Marco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004516</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Astari,</subfield>
+    <subfield code="b">Biagio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005654</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Landolfi,</subfield>
+    <subfield code="b">Cesare</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005655</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Gentile</subfield>
+    <subfield code="c"> : da#Foligno</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000362</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Avanzi, Ludovico</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000357</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Gatinaria,</subfield>
+    <subfield code="b">Marcus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018622</subfield>
+    <subfield code="z">Gattinara, Marco</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Gatenaria,</subfield>
+    <subfield code="b">Marco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022155</subfield>
+    <subfield code="z">Gattinara, Marco</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Astarius,</subfield>
+    <subfield code="b">Blasius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005907</subfield>
+    <subfield code="z">Astari, Biagio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Astori,</subfield>
+    <subfield code="b">Biagio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005908</subfield>
+    <subfield code="z">Astari, Biagio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Landulphus,</subfield>
+    <subfield code="b">Caesar</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005909</subfield>
+    <subfield code="z">Landolfi, Cesare</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Gentili,</subfield>
+    <subfield code="b">Gentile</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018711</subfield>
+    <subfield code="z">Gentile : da#Foligno</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Gentilis</subfield>
+    <subfield code="c"> : Fulginas</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018713</subfield>
+    <subfield code="z">Gentile : da#Foligno</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Gentilibus,</subfield>
+    <subfield code="b">Gentilis : de#Fulgineo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022158</subfield>
+    <subfield code="z">Gentile : da#Foligno</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Avantius, Ludovicus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004269</subfield>
+    <subfield code="z">Avanzi, Ludovico</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Avancius, Lodovicus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004270</subfield>
+    <subfield code="z">Avanzi, Ludovico</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Avanzo, Lodovico</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004271</subfield>
+    <subfield code="z">Avanzi, Ludovico</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale Angelo Camillo De Meis. Chieti</subfield>
+    <subfield code="1">CH0020</subfield>
+    <subfield code="2">ABR ME</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale. Cremona</subfield>
+    <subfield code="1">CR0062</subfield>
+    <subfield code="2">LO1 28</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Aprosiana. Ventimiglia</subfield>
+    <subfield code="1">IM0038</subfield>
+    <subfield code="2">LI3 VM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario Vescovile della Facolt ̉Teologica del Triveneto dell&apos;Istituto Filosofico Aloisianum. Padova</subfield>
+    <subfield code="1">PD0073</subfield>
+    <subfield code="2">PUV 01</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001042</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001042</subfield>
+    <subfield code="b">Albero di olivo con radici affioranti.</subfield>
+    <subfield code="e">Pax artium altrix</subfield>
+    <subfield code="c">U112</subfield>
+    <subfield code="d">Dimensioni: 4 x 4,5</subfield>
+    <subfield code="f">PAXARTIUMA</subfield>
+    <subfield code="f">OLIVO</subfield>
+    <subfield code="f">ALBERO</subfield>
+    <subfield code="g">1557-1569</subfield>
+  </datafield>
+</record>
+</collection>

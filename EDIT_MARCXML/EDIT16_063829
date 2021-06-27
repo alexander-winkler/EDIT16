@@ -1,0 +1,80 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01374nam0a22002411i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\063829</controlfield>
+  <controlfield tag="005">20060123000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">s,q; r*on usc, DuAr (3) 1564 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20060119d1564        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Bartholomaei Eustachii Sanctoseuerinatis medici ac philosophi opuscula anatomica</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetijs</subfield>
+    <subfield code="c">Vincentius Luchinus excudebat</subfield>
+    <subfield code="d">1564</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">2 pt. (\12!, 323 \i.e. 332! p.</subfield>
+    <subfield code="d">\9!, 95, \205! p.)</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d"></subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a"></subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Eustachi,</subfield>
+    <subfield code="b">Bartolomeo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005024</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Pini,</subfield>
+    <subfield code="b">Pietro Matteo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018572</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Eustachius,</subfield>
+    <subfield code="b">Bartolomaeus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019312</subfield>
+    <subfield code="z">Eustachi, Bartolomeo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Eustachio,</subfield>
+    <subfield code="b">Bartolomeo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022563</subfield>
+    <subfield code="z">Eustachi, Bartolomeo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Pinus,</subfield>
+    <subfield code="b">Petrus Matthaeus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021585</subfield>
+    <subfield code="z">Pini, Pietro Matteo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Lancisiana. Roma</subfield>
+    <subfield code="1">RM0260</subfield>
+    <subfield code="2">RMS H8</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Casanatense. Roma</subfield>
+    <subfield code="1">RM0313</subfield>
+    <subfield code="2">RML 07</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,32 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00431na 0a22001211i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\056718</controlfield>
+  <controlfield tag="005">20060206000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20040324             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Caroli Sigonij ℗Liuianorum scholiorum aliquot Defensiones aduersus Glareanum et Robortellum</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Sigonio,</subfield>
+    <subfield code="b">Carlo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000297</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Sigonius,</subfield>
+    <subfield code="b">Carolus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014875</subfield>
+    <subfield code="z">Sigonio, Carlo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

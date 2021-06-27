@@ -1,0 +1,129 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01806nam0a22003611i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\067789</controlfield>
+  <controlfield tag="005">20101112000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">I.I. d*re ust, spmu (C) 1554 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20060907d1554        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Valerii Maximi, ℗Dictorum, factorumque memorabilium libri nouem. A Sebastiano Corrado emendati, &amp; illustrati. Indice adiecto copiosissimo</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud Hieronymum Scotum</subfield>
+    <subfield code="d">1554</subfield>
+    <subfield code="e">Venetiis</subfield>
+    <subfield code="g">apud Hieronymum Scotum</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">216 \i.e. 207!, \9! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Valerius Maximus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001232</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Corradi,</subfield>
+    <subfield code="b">Sebastiano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003053</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Scoto, Girolamo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000134</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Valerio Massimo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024512</subfield>
+    <subfield code="z">Valerius Maximus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Corradus,</subfield>
+    <subfield code="b">Sebastianus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013992</subfield>
+    <subfield code="z">Corradi, Sebastiano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Fedele Accademico Acceso</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013993</subfield>
+    <subfield code="z">Corradi, Sebastiano</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Scotto, Girolamo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002826</subfield>
+    <subfield code="z">Scoto, Girolamo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Schottus, Hieronymus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004087</subfield>
+    <subfield code="z">Scoto, Girolamo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Scotus, Hieronymus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005629</subfield>
+    <subfield code="z">Scoto, Girolamo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Scottus, Hieronymus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005630</subfield>
+    <subfield code="z">Scoto, Girolamo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Schotus, Hieronymus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005631</subfield>
+    <subfield code="z">Scoto, Girolamo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Scotti, Girolamo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005632</subfield>
+    <subfield code="z">Scoto, Girolamo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Filelfica. Tolentino</subfield>
+    <subfield code="1">MC0082</subfield>
+    <subfield code="2">UMC BT</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Manfrediana. Faenza</subfield>
+    <subfield code="1">RA0016</subfield>
+    <subfield code="2">RAV FA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Reggio Emilia</subfield>
+    <subfield code="1">RE0049</subfield>
+    <subfield code="2">PBE 05</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Bertoliana. Vicenza</subfield>
+    <subfield code="1">VI0096</subfield>
+    <subfield code="2">VIA BE</subfield>
+  </datafield>
+</record>
+</collection>

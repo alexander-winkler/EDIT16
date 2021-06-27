@@ -1,0 +1,184 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02511nam0a2200481 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\016127</controlfield>
+  <controlfield tag="005">20051005000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">m,i- l.ur do.&amp; uoru (3) 1572 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1572        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Democritus Ebderita. ℗De arte magna, siue De rebus naturalibus. Nec non Synesii, &amp; Pelagii, &amp; Stephani Alexandrini, &amp; Michaelis Pselli in eundem commentaria. Dominico Pizimentio Vibonensi interprete</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Patauii</subfield>
+    <subfield code="c">\Marcantonio Olmo!</subfield>
+    <subfield code="c">apud Simonem Galignanum</subfield>
+    <subfield code="d">1572</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">70 c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Opera di incerto autore, attribuita sia a Democrito sia a Bolo da Mende</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2="1">
+    <subfield code="3">IT\ICCU\CNCE\016126</subfield>
+    <subfield code="a">De arte magna</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Padova</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Pizzimenti,</subfield>
+    <subfield code="b">Domenico</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000235</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Psellus,</subfield>
+    <subfield code="b">Michael</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000283</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Synesius</subfield>
+    <subfield code="c"> &lt;alchimista&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004351</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Democritus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004352</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Pelagius</subfield>
+    <subfield code="c"> &lt;alchimista&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004353</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Stephanus</subfield>
+    <subfield code="c"> : Alexandrinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016462</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Bolus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016464</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Galignani, Simone</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000461</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Olmo, Marcantonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001616</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Pizimentius,</subfield>
+    <subfield code="b">Dominicus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014868</subfield>
+    <subfield code="z">Pizzimenti, Domenico</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Pizimenti,</subfield>
+    <subfield code="b">Domenico</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018612</subfield>
+    <subfield code="z">Pizzimenti, Domenico</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Psellos,</subfield>
+    <subfield code="b">Konstantinos</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014957</subfield>
+    <subfield code="z">Psellus, Michael</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Psello,</subfield>
+    <subfield code="b">Michele</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018692</subfield>
+    <subfield code="z">Psellus, Michael</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Psellos</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022684</subfield>
+    <subfield code="z">Psellus, Michael</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Psellus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022685</subfield>
+    <subfield code="z">Psellus, Michael</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Democrito</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019691</subfield>
+    <subfield code="z">Democritus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Bolus</subfield>
+    <subfield code="c"> : Mendesius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016465</subfield>
+    <subfield code="z">Bolus</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Galignanus, Simon</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004819</subfield>
+    <subfield code="z">Galignani, Simone</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ulmus, Marcus Antonius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002447</subfield>
+    <subfield code="z">Olmo, Marcantonio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Fabriano</subfield>
+    <subfield code="1">AN0033</subfield>
+    <subfield code="2">URB BF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale. Gorizia</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">GO0027</subfield>
+    <subfield code="2">TSA AG</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Pavia</subfield>
+    <subfield code="1">PV0291</subfield>
+    <subfield code="2">MIL UP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Girolamo Tartarotti. Rovereto</subfield>
+    <subfield code="1">TN0103</subfield>
+    <subfield code="2">ZTN 08</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000497</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000497</subfield>
+    <subfield code="b">Due mani reggono un&apos;ancora che termina con un bastone a T sul quale si avvolge un serpente.</subfield>
+    <subfield code="c">A145</subfield>
+    <subfield code="c">V146</subfield>
+    <subfield code="c">Z1038</subfield>
+    <subfield code="d">Dimensioni: 3,3 x 3,5</subfield>
+    <subfield code="f">ANCORA</subfield>
+    <subfield code="f">MANI</subfield>
+    <subfield code="f">SERPENTE</subfield>
+    <subfield code="g">1558-1573</subfield>
+  </datafield>
+</record>
+</collection>

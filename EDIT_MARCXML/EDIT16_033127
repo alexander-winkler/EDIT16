@@ -1,0 +1,196 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>03090nam0a2200505 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\033127</controlfield>
+  <controlfield tag="005">20100609000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">ots: loa: onge enEs (3) 1522 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971217d1522        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Gaietanus super Metheo. Habes solertissime lector in hoc codice libros metheororum Aristotelis Stragirite peripatheticorum principis cum commentarijs fidelissimi expositori Gaietani de Thienis: vna cum duplici translatione vero Francisci Vatabli &amp; antiqua: nouiter impressos: ac mendis erroribusque purgatos. Tractatum de reactione.Et tractatum de intensione &amp; remissione eiusdem Gaietani. Questiones perspicacissimi philosophi Thimonis super quatuor libros metheororum</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Venetijs</subfield>
+    <subfield code="g">nutu ac impendio heredum quondam nobilis viri domini Octauiani Scoti ciuis Modoetiensis ac sociorum</subfield>
+    <subfield code="h">1522 die 20 Nouembris</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">138 c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Tiene,</subfield>
+    <subfield code="b">Gaetano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008731</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Timon</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009595</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Aristoteles</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000006</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Vatable,</subfield>
+    <subfield code="b">Franȯis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008164</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Scoto, Ottaviano &lt;1.&gt; - eredi &amp; C.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002931</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Caietanus</subfield>
+    <subfield code="c"> : de#Thienis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009534</subfield>
+    <subfield code="z">Tiene, Gaetano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Gaetano</subfield>
+    <subfield code="c"> : da#Thiene</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024853</subfield>
+    <subfield code="z">Tiene, Gaetano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Thienis,</subfield>
+    <subfield code="b">Gaietanus : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024854</subfield>
+    <subfield code="z">Tiene, Gaetano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Gaetanus</subfield>
+    <subfield code="c"> : de#Thienis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024856</subfield>
+    <subfield code="z">Tiene, Gaetano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Thimo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025270</subfield>
+    <subfield code="z">Timon</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Timon</subfield>
+    <subfield code="c"> : Judaeous</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025309</subfield>
+    <subfield code="z">Timon</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Aristotele</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018928</subfield>
+    <subfield code="z">Aristoteles</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Vatablus,</subfield>
+    <subfield code="b">Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024522</subfield>
+    <subfield code="z">Vatable, Franȯis</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale di Montevergine. Mercogliano</subfield>
+    <subfield code="1">AV0045</subfield>
+    <subfield code="2">NAP MV</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Ariostea. Ferrara</subfield>
+    <subfield code="1">FE0017</subfield>
+    <subfield code="2">UFE AR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale del Monumento nazionale di Montecassino. Cassino</subfield>
+    <subfield code="1">FR0084</subfield>
+    <subfield code="2">RML 25</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Berio. Genova</subfield>
+    <subfield code="1">GE0036</subfield>
+    <subfield code="2">SGE BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Pietro Siciliani. Galatina</subfield>
+    <subfield code="1">LE0209</subfield>
+    <subfield code="2">LEK SF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca regionale universitaria. Messina</subfield>
+    <subfield code="1">ME0050</subfield>
+    <subfield code="2">PAL BM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario Vescovile della Facolt ̉Teologica del Triveneto dell&apos;Istituto Filosofico Aloisianum. Padova</subfield>
+    <subfield code="1">PD0073</subfield>
+    <subfield code="2">PUV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Padova</subfield>
+    <subfield code="1">PD0158</subfield>
+    <subfield code="2">PUV 00</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria Alessandrina. Roma</subfield>
+    <subfield code="1">RM0280</subfield>
+    <subfield code="2">RML 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Angelica. Roma</subfield>
+    <subfield code="1">RM0290</subfield>
+    <subfield code="2">RML 06</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Gambalunghiana. Rimini</subfield>
+    <subfield code="1">RN0013</subfield>
+    <subfield code="2">RAV RI</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Trento</subfield>
+    <subfield code="1">TN0121</subfield>
+    <subfield code="2">ZTN 01</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">in fine</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000019</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000019</subfield>
+    <subfield code="b">Cerchio con croce doppia e iniziali O.S.M. Intorno fregi floreali</subfield>
+    <subfield code="c">A101</subfield>
+    <subfield code="c">V466</subfield>
+    <subfield code="c">Z297</subfield>
+    <subfield code="d">7x8</subfield>
+    <subfield code="f">CROCE</subfield>
+    <subfield code="f">LORENA</subfield>
+    <subfield code="f">OSM</subfield>
+    <subfield code="g">1507-1550</subfield>
+  </datafield>
+</record>
+</collection>

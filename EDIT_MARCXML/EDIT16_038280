@@ -1,0 +1,112 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01738nam0a2200325 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\038280</controlfield>
+  <controlfield tag="005">20160311000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">leue E.62 o,i, PeDa (3) 1580 (Q)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19981028f1580        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗I ℗cantici di Fidentio a i quali con l&apos;auxilio del prelo, si sono aggiunti altri cantici e rithmi di molti celeberrimi ludimagistri, e professori della prisca fauella</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Vicenza</subfield>
+    <subfield code="c">per Giorgio Greco</subfield>
+    <subfield code="d">\non prima del 1580!</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\12!, 107 \i.e. 117!, \3! p.</subfield>
+    <subfield code="d">12ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">La data si ricava dall&apos;attivit ̉del tipografo. -  Variante B: la pagina 117  ̈correttamente numerata; la Tavola dell&apos;indice da carta a4r a carta a6r non presenta il punto dopo la numerazione</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Vicenza</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Scroffa,</subfield>
+    <subfield code="b">Camillo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008428</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Greco, Giorgio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000092</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Fidentio Glotto Crysio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010287</subfield>
+    <subfield code="z">Scroffa, Camillo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Glottogrysio,</subfield>
+    <subfield code="b">Fidentio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024429</subfield>
+    <subfield code="z">Scroffa, Camillo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Fidentio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024430</subfield>
+    <subfield code="z">Scroffa, Camillo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Pedante Appassionato</subfield>
+    <subfield code="3">IT\ICCU\CNCA\029295</subfield>
+    <subfield code="z">Scroffa, Camillo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Graecus, Georgius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005047</subfield>
+    <subfield code="z">Greco, Giorgio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale dell&apos;Archiginnasio. Bologna</subfield>
+    <subfield code="1">BO0304</subfield>
+    <subfield code="2">UBO GA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Padova</subfield>
+    <subfield code="1">PD0090</subfield>
+    <subfield code="2">PUV 55</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Classense. Ravenna</subfield>
+    <subfield code="z">(Var.B)</subfield>
+    <subfield code="1">RA0036</subfield>
+    <subfield code="2">RAV CL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca storica della Provincia di Torino. Torino</subfield>
+    <subfield code="z">(Var.A)</subfield>
+    <subfield code="1">TO0277</subfield>
+    <subfield code="2">TO0 06</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Collezione privata Casagrande. San Don ̉di Piave</subfield>
+    <subfield code="1">VE0259</subfield>
+    <subfield code="2">ZVE 20</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Verona</subfield>
+    <subfield code="1">VR0059</subfield>
+    <subfield code="2">ZVR 02</subfield>
+  </datafield>
+</record>
+</collection>

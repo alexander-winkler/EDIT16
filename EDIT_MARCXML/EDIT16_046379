@@ -1,0 +1,153 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02182nam0a2200409 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\046379</controlfield>
+  <controlfield tag="005">20160526000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">teem ,&amp;um noi- dui- (C) 1579 (Q)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19990119f1579        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Breue Gregorii XI confirmatum, ampliatumq. a Sixto IIII, Iulio II &amp; Gregorio XIII. Limitans, et declarans auctoritatem protectoris Ordinis minorum. Ab illustriss. &amp; reuerendiss. d. Hieronymo Matthaeo S.R.E. cardinale, dum esset auditor Camerae Apostolicae, &amp;c. autenticatum sub anno 1579</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Mantuae</subfield>
+    <subfield code="c">apud Franciscum Osanam impressorem ducalem</subfield>
+    <subfield code="d">\1579?!</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\6! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Data di emanazione: Mantova, 5 febbraio 1579</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Mantova</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Francescani</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005533</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Mattei,</subfield>
+    <subfield code="b">Girolamo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007472</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Sixtus</subfield>
+    <subfield code="c"> &lt;papa</subfield>
+    <subfield code="c"> ; 4.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010440</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Gregorius</subfield>
+    <subfield code="c"> &lt;papa</subfield>
+    <subfield code="c"> ; 11&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012088</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Gregorius</subfield>
+    <subfield code="c"> &lt;papa</subfield>
+    <subfield code="c"> ; 13.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000020</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Iulius</subfield>
+    <subfield code="c"> &lt;papa</subfield>
+    <subfield code="c"> ; 2.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003147</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Osanna, Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000504</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Ordo fratrum minorum</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005181</subfield>
+    <subfield code="z">Francescani</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Ordo fratrum minorum de observantia</subfield>
+    <subfield code="3">15534</subfield>
+    <subfield code="z">Francescani</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Ordo Minorum sancti Francisci de observantia</subfield>
+    <subfield code="3">15535</subfield>
+    <subfield code="z">Francescani</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Matthaeius,</subfield>
+    <subfield code="b">Hieronymus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020834</subfield>
+    <subfield code="z">Mattei, Girolamo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Della_Rovere,</subfield>
+    <subfield code="b">Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016087</subfield>
+    <subfield code="z">Sixtus &lt;papa ; 4.&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Roger,</subfield>
+    <subfield code="b">Pierre</subfield>
+    <subfield code="c"> &lt;1329-1378&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019877</subfield>
+    <subfield code="z">Gregorius &lt;papa ; 11&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Buoncompagni,</subfield>
+    <subfield code="b">Ugo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008198</subfield>
+    <subfield code="z">Gregorius &lt;papa ; 13.&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Della_Rovere,</subfield>
+    <subfield code="b">Giuliano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014541</subfield>
+    <subfield code="z">Iulius &lt;papa ; 2.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Osanna, Francesco Bernardino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002263</subfield>
+    <subfield code="z">Osanna, Francesco</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Osana, Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005166</subfield>
+    <subfield code="z">Osanna, Francesco</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Osana, Francesco Bernardino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005167</subfield>
+    <subfield code="z">Osanna, Francesco</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Padova</subfield>
+    <subfield code="1">PD0158</subfield>
+    <subfield code="2">PUV 00</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Porziuncola. Assisi</subfield>
+    <subfield code="1">PG0179</subfield>
+    <subfield code="2">UM1 36</subfield>
+  </datafield>
+</record>
+</collection>

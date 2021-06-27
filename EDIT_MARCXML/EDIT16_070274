@@ -1,0 +1,26 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00356na 0a22001091i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\070274</controlfield>
+  <controlfield tag="005">20070417000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20070417             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Tabula Ioannis Beckenhaub Mogunti in scripta diui Bonauenturae cum textu sententiarum</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Beckenhaub,</subfield>
+    <subfield code="b">Johannes</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001199</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

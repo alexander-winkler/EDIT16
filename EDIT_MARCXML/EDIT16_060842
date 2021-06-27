@@ -1,0 +1,100 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01815nam0a22003011i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\060842</controlfield>
+  <controlfield tag="005">20050805000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">I.4. I.6. pon- sine (C) 1520 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20050803d1520        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Continentur in hoc volumine. Aesopi Phrygis fabulae. 21. e Graeco in Latinum elegantissima oratione conuersae. Eiusdem fabulae.33.per Lauremtium Vallam virum clarissimum versae. Eiusdem fabulae.63.a Salone Parmense versu elego latinitate donatae. Eiusdemitem fabulae.42.elego quoque versu ab Auianotralate. Laurentii Abstemii Maceratensis Hecatomythium primum, hoc est centum fabulae. Eiusdem Hecatomythium secundum, hoc est centum fabulae. Eiusdem Libellus de verbis communibus</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Impressum Venetiis</subfield>
+    <subfield code="g">per Alexandrum &amp; Benedictum De Bindonis</subfield>
+    <subfield code="h">1520. die. XV. Decembris</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">272 p.</subfield>
+    <subfield code="d"></subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a"></subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Aesopus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000326</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Salo</subfield>
+    <subfield code="c"> : Parmensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000043</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Avianus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000044</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Valla,</subfield>
+    <subfield code="b">Lorenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000045</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Astemio,</subfield>
+    <subfield code="b">Lorenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000046</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Bindoni, Alessandro &amp; Bindoni, Benedetto</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000214</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Salone</subfield>
+    <subfield code="c"> : da#Parma</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014737</subfield>
+    <subfield code="z">Salo : Parmensis</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Abstemius,</subfield>
+    <subfield code="b">Laurentius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007528</subfield>
+    <subfield code="z">Astemio, Lorenzo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Bevilacqua,</subfield>
+    <subfield code="b">Lorenzo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007859</subfield>
+    <subfield code="z">Astemio, Lorenzo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica A. Mai. Bergamo</subfield>
+    <subfield code="1">BG0026</subfield>
+    <subfield code="2">LO1 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+</record>
+</collection>

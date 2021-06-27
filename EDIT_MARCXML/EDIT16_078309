@@ -1,0 +1,40 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00512na 0a22001451i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\078309</controlfield>
+  <controlfield tag="005">20131216000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20131216             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Beatissimi Romualdi vita</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Camaldolesi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002423</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Ordo monachorum eremitarum Camaldulensium</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002425</subfield>
+    <subfield code="z">Camaldolesi</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Congregatio  Camaldulensis</subfield>
+    <subfield code="3">15449</subfield>
+    <subfield code="z">Camaldolesi</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Congregatio S. Michaelis de Muriano</subfield>
+    <subfield code="3">15450</subfield>
+    <subfield code="z">Camaldolesi</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

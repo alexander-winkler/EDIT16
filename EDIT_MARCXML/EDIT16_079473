@@ -1,0 +1,68 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00974nam0a22002291i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\079473</controlfield>
+  <controlfield tag="005">20170516000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">i.i, o,o, e.re AcCh (C) 1541 (Q)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20170516f15411542    0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Predica de i sogni composta per lo reuerendo padre d. Hypneo da Schio</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="d">\tra il 1541 e il 1542!</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\16! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Stampata a Venezia da Paolo Manuzio; per il tipografo e la data cfr.: A. Renouard. Annales de l&apos;imprimerie des Alde, ou histoire des trois Manuce et des leurs editions, p. 265, n. 29</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Barbaro,</subfield>
+    <subfield code="b">Daniele</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000285</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Manuzio, Paolo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000570</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Hypneo</subfield>
+    <subfield code="c"> : da#Schio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012470</subfield>
+    <subfield code="z">Barbaro, Daniele</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Manutius, Paulus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005020</subfield>
+    <subfield code="z">Manuzio, Paolo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Manutio, Paolo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005021</subfield>
+    <subfield code="z">Manuzio, Paolo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,111 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01771nam0a2200313 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\022537</controlfield>
+  <controlfield tag="005">20071022000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">osus r,tu e,s&amp; abad (3) 1548 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1548        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Hippocratis medentium principis ℗Libellus, de significatione mortis &amp; vitae, secundum cursum lunae &amp; aspectus planetarum, Gulideolo Mordico interprete prisco. Nuper repertus in quibusdam latebris &amp; scoliis ornatus, vtilissimis &amp; lingua castigatiori eductus in lucem a Blondo medico ad doctrinam illorum qui non norunt astronomiam medico valde necessariam. Post hac ergo iudicent viri qui dicturi sint in Hip. ignari astronomiae medentes</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">\Venezia!</subfield>
+    <subfield code="c">apud Blondum sub signo Apolline</subfield>
+    <subfield code="d">1548</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">16 c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Hippocrates</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000096</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Biondo,</subfield>
+    <subfield code="b">Michelangelo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000361</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Guillaume</subfield>
+    <subfield code="c"> : de#Moerbeke</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009273</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Biondo, Michelangelo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001060</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Hippokrates</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005430</subfield>
+    <subfield code="z">Hippocrates</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Ippocrate</subfield>
+    <subfield code="c"> : di#Cos</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014391</subfield>
+    <subfield code="z">Hippocrates</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Morbecke,</subfield>
+    <subfield code="b">Guillaume</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009274</subfield>
+    <subfield code="z">Guillaume : de#Moerbeke</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Morbetus,</subfield>
+    <subfield code="b">Guillermus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009276</subfield>
+    <subfield code="z">Guillaume : de#Moerbeke</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Guillelmus</subfield>
+    <subfield code="c"> : de#Moerbecka</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019868</subfield>
+    <subfield code="z">Guillaume : de#Moerbeke</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Mordicus,</subfield>
+    <subfield code="b">Gulideolus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025777</subfield>
+    <subfield code="z">Guillaume : de#Moerbeke</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Blondus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004395</subfield>
+    <subfield code="z">Biondo, Michelangelo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca medica statale. Roma</subfield>
+    <subfield code="1">RM0263</subfield>
+    <subfield code="2">RML 05</subfield>
+  </datafield>
+</record>
+</collection>

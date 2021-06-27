@@ -1,0 +1,33 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00451na 0a22001211i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\057545</controlfield>
+  <controlfield tag="005">20061124000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20040420             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Del calendario. Ouero ephemeride historico, di m. Costanzo Felici medico ... Parte seconda</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Felici,</subfield>
+    <subfield code="b">Costanzo</subfield>
+    <subfield code="c"> &lt;medico&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005296</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Costantius,</subfield>
+    <subfield code="b">Felix</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018917</subfield>
+    <subfield code="z">Felici, Costanzo &lt;medico&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,82 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00983nam0a2200241 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\014540</controlfield>
+  <controlfield tag="005">20140414000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">      </subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">INR</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1550        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">GRC</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Erotemata Guarini cum multis additamentis emendatiora quam unquam prodierint</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">ex Sirenis officina</subfield>
+    <subfield code="d">1550</subfield>
+    <subfield code="e">apud haeredes Petri Rauani</subfield>
+    <subfield code="h">&amp; socios</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">43 \ma 51! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Chrysoloras,</subfield>
+    <subfield code="b">Manuel</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003288</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Guarino</subfield>
+    <subfield code="c"> : Veronese</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003041</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Ravani, Pietro - eredi &amp; C.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002927</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Crisolora,</subfield>
+    <subfield code="b">Manuele</subfield>
+    <subfield code="3">IT\ICCU\CNCA\011353</subfield>
+    <subfield code="z">Chrysoloras, Manuel</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Guarini,</subfield>
+    <subfield code="b">Guarino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014293</subfield>
+    <subfield code="z">Guarino : Veronese</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Guarinus</subfield>
+    <subfield code="c"> : Veronensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014294</subfield>
+    <subfield code="z">Guarino : Veronese</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Marciana. Venezia</subfield>
+    <subfield code="1">VE0049</subfield>
+    <subfield code="2">VEA BM</subfield>
+  </datafield>
+</record>
+</collection>

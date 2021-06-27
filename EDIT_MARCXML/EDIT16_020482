@@ -1,0 +1,131 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01921nam0a2200349 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\020482</controlfield>
+  <controlfield tag="005">20080414000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">homi o-n- taen Quiq (3) 1595 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1595        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Il ℗theatro de vari, e diuersi ceruelli mondani. Nouamente formato, et posto in luce da Thomaso Garzoni da Bagnacauallo</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Venetia</subfield>
+    <subfield code="c">appresso Giacomo Antonio Somascho</subfield>
+    <subfield code="d">1595</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\4!, 96, \2! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Garzoni,</subfield>
+    <subfield code="b">Tommaso</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004432</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Somasco, Giacomo Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001318</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Garzoni,</subfield>
+    <subfield code="b">Ottaviano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018614</subfield>
+    <subfield code="z">Garzoni, Tommaso</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Somaschus, Iacobus Antonius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005694</subfield>
+    <subfield code="z">Somasco, Giacomo Antonio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Somascho, Iacomo Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005695</subfield>
+    <subfield code="z">Somasco, Giacomo Antonio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale. Cremona</subfield>
+    <subfield code="1">CR0062</subfield>
+    <subfield code="2">LO1 28</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Aurelio Saffi. Forl</subfield>
+    <subfield code="1">FC0018</subfield>
+    <subfield code="2">RAV FO</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Teresiana. Mantova</subfield>
+    <subfield code="1">MN0035</subfield>
+    <subfield code="2">LO1 12</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Centro interdipartimentale di servizi di palazzo Maldura dell&apos;Universit ̉degli Studi di Padova. Padova</subfield>
+    <subfield code="1">PD0343</subfield>
+    <subfield code="2">PUV 21</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Pisa</subfield>
+    <subfield code="1">PI0112</subfield>
+    <subfield code="2">PIS R1</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. San Miniato</subfield>
+    <subfield code="1">PI0171</subfield>
+    <subfield code="2">PBI SM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca medica statale. Roma</subfield>
+    <subfield code="1">RM0263</subfield>
+    <subfield code="2">RML 05</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca scientifica Antonio Cencelli. Roma</subfield>
+    <subfield code="1">RM0283</subfield>
+    <subfield code="2">RMS F3</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Treviso</subfield>
+    <subfield code="1">TV0113</subfield>
+    <subfield code="2">VIA TS</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">nel front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000023</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000023</subfield>
+    <subfield code="b">Centauro con arco nella mano sinistra, faretra a tracolla e serpente attorno al braccio destro.</subfield>
+    <subfield code="e">Viribus iungenda sapientia.</subfield>
+    <subfield code="c">Q62</subfield>
+    <subfield code="c">V481</subfield>
+    <subfield code="c">Z227</subfield>
+    <subfield code="d">Dimensioni: 5 x 4,5</subfield>
+    <subfield code="f">ARCO</subfield>
+    <subfield code="f">CENTAURO</subfield>
+    <subfield code="f">FARETRA</subfield>
+    <subfield code="f">SERPENTE</subfield>
+    <subfield code="f">VIRIBUSIUN</subfield>
+    <subfield code="g">1563-1600</subfield>
+  </datafield>
+</record>
+</collection>

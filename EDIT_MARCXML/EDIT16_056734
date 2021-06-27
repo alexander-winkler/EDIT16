@@ -1,0 +1,114 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01569nam0a22003251i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\056734</controlfield>
+  <controlfield tag="005">20040325000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">n-s, s,s, n.um ViCl (3) 1597 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20040325d1597        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Catullus, Tibullus, Propertius ab obscoenitate expurgati</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Panormi</subfield>
+    <subfield code="c">apud Io. Antonium de Franciscis</subfield>
+    <subfield code="d">1597</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\4!, 186, \2! p.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Palermo</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Catullus,</subfield>
+    <subfield code="b">Gaius Valerius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002843</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Tibullus,</subfield>
+    <subfield code="b">Albius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002248</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Propertius,</subfield>
+    <subfield code="b">Sextus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002249</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">De_Franceschi, Giovanni Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000304</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Catullus,</subfield>
+    <subfield code="b">Caius Valerius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020719</subfield>
+    <subfield code="z">Catullus, Gaius Valerius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Tibullo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024843</subfield>
+    <subfield code="z">Tibullus, Albius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Tibullo,</subfield>
+    <subfield code="b">Albio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024844</subfield>
+    <subfield code="z">Tibullus, Albius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Sextus Propertius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014954</subfield>
+    <subfield code="z">Propertius, Sextus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Propertius,</subfield>
+    <subfield code="b">Sextus Aurelius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023183</subfield>
+    <subfield code="z">Propertius, Sextus</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Franceschi, Giovanni Antonio de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004554</subfield>
+    <subfield code="z">De_Franceschi, Giovanni Antonio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Franciscis, Ioannes Antonius de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004555</subfield>
+    <subfield code="z">De_Franceschi, Giovanni Antonio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Francisci, Giovanni Antonio de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004557</subfield>
+    <subfield code="z">De_Franceschi, Giovanni Antonio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Francisco, Giovanni Antonio de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004558</subfield>
+    <subfield code="z">De_Franceschi, Giovanni Antonio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Palermo</subfield>
+    <subfield code="1">PA0063</subfield>
+    <subfield code="2">PA1 CP</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,27 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00374na 0a22001091i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\040694</controlfield>
+  <controlfield tag="005">19990105000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19981119             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Commentarii in Acta Apostolorum, in epistulas catholicas, in Pauli epistulas</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Oecumenius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005045</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Ecumenio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013955</subfield>
+    <subfield code="z">Oecumenius</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,109 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01735nam0a22003251i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\078587</controlfield>
+  <controlfield tag="005">20170713000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">lan- nin- ruhe pop- (C) 1515 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20140611d1515        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Copia di vna epistola di Gualtieri Panciatichi ciptadino fiorentino nella entrata di papa Leone. Nellacipta \!! di Firenze. Adi XXX di nouembre MDXV</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Impresso in ella inclita cipta di Firenze</subfield>
+    <subfield code="g">adpetitione di Lionardo di Neri cartolaio</subfield>
+    <subfield code="h">adi III di gennaio nel 1515</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\8! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Attribuibile alla tipografia di Michelangelo de&apos; Libri sulla base delle caratteristiche tipografiche</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Firenze</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Panciatichi,</subfield>
+    <subfield code="b">Gualtieri</subfield>
+    <subfield code="3">IT\ICCU\CNCA\029875</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Cartolari, Leonardo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\006506</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Libri, Michelangelo de&apos;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002873</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Lionardo di Neri Cartolaio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\006507</subfield>
+    <subfield code="z">Cartolari, Leonardo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Neri, Lionardo di</subfield>
+    <subfield code="3">IT\ICCU\CNCT\006508</subfield>
+    <subfield code="z">Cartolari, Leonardo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Michelangelo di Bartolomeo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000324</subfield>
+    <subfield code="z">Libri, Michelangelo de&apos;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">M. di B. F.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002369</subfield>
+    <subfield code="z">Libri, Michelangelo de&apos;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">M. di Bart. F.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002370</subfield>
+    <subfield code="z">Libri, Michelangelo de&apos;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bartolomeo, Michele Angelo di</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002371</subfield>
+    <subfield code="z">Libri, Michelangelo de&apos;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Michelangelo de&apos; Libri</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002372</subfield>
+    <subfield code="z">Libri, Michelangelo de&apos;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Michelagnolo di Bart. di F.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003276</subfield>
+    <subfield code="z">Libri, Michelangelo de&apos;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Michael Angelus Bartholomei</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004961</subfield>
+    <subfield code="z">Libri, Michelangelo de&apos;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">British Library. London</subfield>
+    <subfield code="1">UK0001</subfield>
+  </datafield>
+</record>
+</collection>

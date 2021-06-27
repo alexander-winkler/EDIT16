@@ -1,0 +1,212 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>03425nam0a22005291i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\060360</controlfield>
+  <controlfield tag="005">20160105000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">sqde aqnu r.c. Betu (C) 1510 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20050404d1510        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Euclidis Megarensis philosophi Platonicj mathematicarum disciplinarum Ianitoris  ℗Habent in hoc volumine quicumque ad mathematicam substantia aspirant: elementorum libros XIII cum expositione Theonis insignis mathematici quibus multa quae deerant exlectione graeca sumpta addita sub nec non plurima subuersa &amp; prepostere: uoluta in Campani interpretatione: ordinata digesta e castigata sunt ... cum expositione Hypsi. Alex. Itidemque &amp; Phaeno. Specu. &amp; Perspe. cum expositione Theonis. ac mirandus ille liber Datorum cum expositione Pappi Mechanicivna cum Marini dialectici protheoria. Bar. Zamber. Vene. interprete</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Impressum Venetiis</subfield>
+    <subfield code="g">in aedibus Ioannis Tacuini librarii</subfield>
+    <subfield code="h">1510</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\240! c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">ANNULLATA  !!!!!  vedi 18351</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Euclides</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005103</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Hypsicles</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020515</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Pappus</subfield>
+    <subfield code="c"> : Alexandrinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000218</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Campano</subfield>
+    <subfield code="c"> : da#Novara</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002468</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Theon</subfield>
+    <subfield code="c"> : Alexandrinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005025</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Marinus</subfield>
+    <subfield code="c"> : Neapolitanus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005026</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Zamberti,</subfield>
+    <subfield code="b">Bartolomeo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005029</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Tacuino, Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000206</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Eukleides</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022554</subfield>
+    <subfield code="z">Euclides</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Hypsikles</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021146</subfield>
+    <subfield code="z">Hypsicles</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Ipsicle</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021147</subfield>
+    <subfield code="z">Hypsicles</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Campano,</subfield>
+    <subfield code="b">Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002469</subfield>
+    <subfield code="z">Campano : da#Novara</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Marinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022368</subfield>
+    <subfield code="z">Marinus : Neapolitanus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Marino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022370</subfield>
+    <subfield code="z">Marinus : Neapolitanus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Marinus</subfield>
+    <subfield code="c"> : aus#Neapolis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022371</subfield>
+    <subfield code="z">Marinus : Neapolitanus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Zambertus,</subfield>
+    <subfield code="b">Bartholomaeus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025485</subfield>
+    <subfield code="z">Zamberti, Bartolomeo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Bartolommeo</subfield>
+    <subfield code="c"> &lt;da li Sonetti&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025486</subfield>
+    <subfield code="z">Zamberti, Bartolomeo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Cereto, Ioannes de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002713</subfield>
+    <subfield code="z">Tacuino, Giovanni</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Ioannes de Cereto de Tridino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002724</subfield>
+    <subfield code="z">Tacuino, Giovanni</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Tacuinus, Ioannes</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005546</subfield>
+    <subfield code="z">Tacuino, Giovanni</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Giovanni Canna. Casale Monferrato</subfield>
+    <subfield code="1">AL0114</subfield>
+    <subfield code="2">TO0 49</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica di Mondov. Mondov</subfield>
+    <subfield code="1">CN0065</subfield>
+    <subfield code="2">TO0 55</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Firenze</subfield>
+    <subfield code="1">FI0098</subfield>
+    <subfield code="2">CFI CF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Osservatorio Ximeniano. Firenze</subfield>
+    <subfield code="1">FI0133</subfield>
+    <subfield code="2">ZFI 34</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Osservatorio astronomico di Roma. Sede di Roma. Roma</subfield>
+    <subfield code="1">RM0160</subfield>
+    <subfield code="2">RMS F6</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Trento</subfield>
+    <subfield code="1">TN0121</subfield>
+    <subfield code="2">ZTN 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Liceo ginnasio statale S. Maffei. Verona</subfield>
+    <subfield code="1">VR0179</subfield>
+    <subfield code="2">ZVR 08</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Nel coloph.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000237</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000620</subfield>
+    <subfield code="b">S. Giovanni Battista con la croce e accanto l&apos;agnello. Dalla croce scende il nastro con il motto</subfield>
+    <subfield code="e">Ecce agnus Dei</subfield>
+    <subfield code="c">K328</subfield>
+    <subfield code="c">V487</subfield>
+    <subfield code="c">Z675</subfield>
+    <subfield code="d">Dimensioni: 7,8 x 10</subfield>
+    <subfield code="f">AGNELLO</subfield>
+    <subfield code="f">CROCE</subfield>
+    <subfield code="f">ECCEAGNUSD</subfield>
+    <subfield code="f">GIOVANNI</subfield>
+    <subfield code="g">1502-1531</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000237</subfield>
+    <subfield code="b">Cerchi concentrici con croce doppia e iniziali Z.T.</subfield>
+    <subfield code="c">A91</subfield>
+    <subfield code="c">V486</subfield>
+    <subfield code="c">Z326</subfield>
+    <subfield code="d">Dimensioni: 5,4 x 6,8</subfield>
+    <subfield code="f">CERCHIO</subfield>
+    <subfield code="f">CROCE</subfield>
+    <subfield code="f">ZT</subfield>
+    <subfield code="g">1501-1520</subfield>
+  </datafield>
+</record>
+</collection>

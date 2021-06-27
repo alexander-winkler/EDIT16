@@ -1,0 +1,37 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00606na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\061921</controlfield>
+  <controlfield tag="005">20051018000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20051018             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Opuscula omnia reueren. d.d. Thomae de Vio, cardinalis tituli sancti Sixti,  ... in tres distincta tomos ...Venetiis : apud Dominicum Nicolinum, &amp; socios, 1593  (Venetiis : apud Dominicum Nicolinum, 1592)</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">De_Vio,</subfield>
+    <subfield code="b">Tommaso</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001139</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Vio,</subfield>
+    <subfield code="b">Thomas : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006584</subfield>
+    <subfield code="z">De_Vio, Tommaso</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Caietanus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007739</subfield>
+    <subfield code="z">De_Vio, Tommaso</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

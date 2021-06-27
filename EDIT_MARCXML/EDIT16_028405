@@ -1,0 +1,228 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>03502nam0a22005531i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\028405</controlfield>
+  <controlfield tag="005">20150427000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">x-i* 43a. isde test (3) 1588 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971106d1588        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Quinque illustrium auctorum formalitatum libelli. Nempe, Antonij Syrecti, cum annotationibus Mauritij. Stephani Burlipheri. Mauritij Hibernatis. Antonij Trombetae, &amp; Laurentij Brixiensis. Cum indice amplissimo</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud Franciscum de Franciscis Senensem</subfield>
+    <subfield code="d">1588</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\16!, 293, \3!, 325 \i.e. 125!, \3! p.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="423" ind1=" " ind2="0">
+    <subfield code="1">001IT\ICCU\CNCE\036290</subfield>
+    <subfield code="1">2001 </subfield>
+    <subfield code="a">℗Magistri Laurentii Brixiensis ℗In Ioannis Scoti ... formalitates isagogica expositio</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Brulefer,</subfield>
+    <subfield code="b">Etienne</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002060</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">O&apos;Fihely,</subfield>
+    <subfield code="b">Maurice</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004527</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Lorenzo</subfield>
+    <subfield code="c"> : da#Brescia</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008561</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Trombetta,</subfield>
+    <subfield code="b">Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008736</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Sirect,</subfield>
+    <subfield code="b">Antoine</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008737</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">De_Franceschi, Francesco</subfield>
+    <subfield code="c"> &lt;senese&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000366</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Pillet,</subfield>
+    <subfield code="b">Etienne</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012852</subfield>
+    <subfield code="z">Brulefer, Etienne</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Burlifer,</subfield>
+    <subfield code="b">Stephanus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018043</subfield>
+    <subfield code="z">Brulefer, Etienne</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Mauritius</subfield>
+    <subfield code="c"> : Hibernicus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004522</subfield>
+    <subfield code="z">O&apos;Fihely, Maurice</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Mauritius</subfield>
+    <subfield code="c"> : de#Portu</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007860</subfield>
+    <subfield code="z">O&apos;Fihely, Maurice</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Portu,</subfield>
+    <subfield code="b">Mauritius : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022332</subfield>
+    <subfield code="z">O&apos;Fihely, Maurice</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Laurentius</subfield>
+    <subfield code="c"> : Brixiensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020612</subfield>
+    <subfield code="z">Lorenzo : da#Brescia</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Laurentius</subfield>
+    <subfield code="c"> : Brixianus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020613</subfield>
+    <subfield code="z">Lorenzo : da#Brescia</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Trombeta,</subfield>
+    <subfield code="b">Antonius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018632</subfield>
+    <subfield code="z">Trombetta, Antonio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Sirectus,</subfield>
+    <subfield code="b">Antonius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009552</subfield>
+    <subfield code="z">Sirect, Antoine</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Syrectus,</subfield>
+    <subfield code="b">Antonius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018604</subfield>
+    <subfield code="z">Sirect, Antoine</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Franceschi, Francesco de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003741</subfield>
+    <subfield code="z">De_Franceschi, Francesco &lt;senese&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Franciscus Senensis</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003742</subfield>
+    <subfield code="z">De_Franceschi, Francesco &lt;senese&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Francesco Senese</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003743</subfield>
+    <subfield code="z">De_Franceschi, Francesco &lt;senese&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Franciscius, Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003744</subfield>
+    <subfield code="z">De_Franceschi, Francesco &lt;senese&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Franciscis, Franciscus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003745</subfield>
+    <subfield code="z">De_Franceschi, Francesco &lt;senese&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei cappuccini. Foggia</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">FG0045</subfield>
+    <subfield code="2">ZFG 09</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Assisi</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">PG0001</subfield>
+    <subfield code="2">UM1 10</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Montefalco</subfield>
+    <subfield code="1">PG0058</subfield>
+    <subfield code="2">UM1 17</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Centro di documentazione francescana. Assisi</subfield>
+    <subfield code="1">PG0213</subfield>
+    <subfield code="2">UM1 37</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Salvatore Quasimodo. Modica</subfield>
+    <subfield code="1">RG0007</subfield>
+    <subfield code="2">ZRG 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Pontificio Ateneo Antonianum. Roma</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">RM0692</subfield>
+    <subfield code="2">ZRM 44</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale del Monumento nazionale. Cava dei Tirreni</subfield>
+    <subfield code="1">SA0088</subfield>
+    <subfield code="2">NAP 95</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Leonardo Centonze. Castelvetrano</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">TP0059</subfield>
+    <subfield code="2">TPS CV</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001280</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001280</subfield>
+    <subfield code="b">Pace (donna seduta accanto a colonna, con ramo d&apos;olivo nella destra e fiaccola capovolta nella sinistra). Sulla colonna: PAX. In cornice figurata</subfield>
+    <subfield code="e">Per me qui si riposa e&apos;n ciel si gode.</subfield>
+    <subfield code="c">U212</subfield>
+    <subfield code="d">Dimensioni: 3 x 3,5. Con o senza motto</subfield>
+    <subfield code="f">PERMEQUISI</subfield>
+    <subfield code="f">PACE</subfield>
+    <subfield code="f">PAX</subfield>
+    <subfield code="f">DONNA</subfield>
+    <subfield code="f">OLIVO</subfield>
+    <subfield code="g">1579-1600</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,107 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01675nam0a2200301 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\037272</controlfield>
+  <controlfield tag="005">20030919000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">dia- o&amp;e, cote seti (3) 1580 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19980902d1580        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Ricordo del ben morire, quinto et ultimo libro della Consolatione de&apos; penitenti. Con il modo di raccomandar l&apos;anima a gli infermi, o condannati a morte. Nuouamente dato in luce dal r.p.f. Bartolomeo d&apos;Angelo da Napoli, dell&apos;Ordine de&apos; Predicatori</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Vinegia</subfield>
+    <subfield code="c">ad instantia de Iacobo Anello de Maria libraro in Napoli</subfield>
+    <subfield code="d">1580</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\24!, 360, \26! p.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">12ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">D&apos;Angelo,</subfield>
+    <subfield code="b">Bartolomeo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004603</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">De_Maria, Giacomo Aniello</subfield>
+    <subfield code="c"> &lt;1.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000526</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Angelo,</subfield>
+    <subfield code="b">Bartolomeo : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007591</subfield>
+    <subfield code="z">D&apos;Angelo, Bartolomeo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Bartholomaeus</subfield>
+    <subfield code="c"> : ab#Angelo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007715</subfield>
+    <subfield code="z">D&apos;Angelo, Bartolomeo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Bartolomeo</subfield>
+    <subfield code="c"> : d&apos;#Angelo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015241</subfield>
+    <subfield code="z">D&apos;Angelo, Bartolomeo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Angelo,</subfield>
+    <subfield code="b">Bartholomaeus : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015243</subfield>
+    <subfield code="z">D&apos;Angelo, Bartolomeo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Maria, Iacobus Anellus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002831</subfield>
+    <subfield code="z">De_Maria, Giacomo Aniello &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Maria, Iacobus Aniellus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004600</subfield>
+    <subfield code="z">De_Maria, Giacomo Aniello &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Maria, Giacomo Aniello de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004601</subfield>
+    <subfield code="z">De_Maria, Giacomo Aniello &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Patriarcale S. Domenico. Bologna</subfield>
+    <subfield code="1">BO0333</subfield>
+    <subfield code="2">ZBO 05</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale La Magna Capitana. Foggia</subfield>
+    <subfield code="1">FG0046</subfield>
+    <subfield code="2">FOG FG</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Porziuncola. Assisi</subfield>
+    <subfield code="1">PG0179</subfield>
+    <subfield code="2">UM1 36</subfield>
+  </datafield>
+</record>
+</collection>

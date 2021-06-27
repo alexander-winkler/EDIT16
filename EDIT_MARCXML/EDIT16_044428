@@ -1,0 +1,169 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02841nam0a22004331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\044428</controlfield>
+  <controlfield tag="005">20120625000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">ermo lai- a-Ma sfau (3) 1590 (A)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">erza eaen beo- deto (3) 1590 (A)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">2</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19990114d1590        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗La ℗historia d&apos;Italia di m. Francesco Guicciardini gentil&apos; huomo fiorentino, diuisa in venti libri : riscontrata con tutti gli altri historici, &amp; auttori, che dell&apos;istesse cose habbiano scritto, per Thomaso Porcacchi ... Con vn giudicio fatto dal medesimo ... &amp; vna raccolta di tutte le sentenze sparse per l&apos;opera. Et con due tauole ... Aggiuntaui la vita dell&apos;auttore, scritta da M. Remigio Fiorentino</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Venetia</subfield>
+    <subfield code="c">presso Paulo Vgolino</subfield>
+    <subfield code="d">1590</subfield>
+    <subfield code="e">In Venetia</subfield>
+    <subfield code="g">appresso Gio. Battista Vscio</subfield>
+    <subfield code="h">1590</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">2 pt.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">ANNULLATA E&apos; LA 22336!2: Dell&apos;historia d&apos;Italia, di m. Franc.co Guicciardini gentil&apos;huomo fiorentino. Gli ultimi quattro libri. In Venetia, appresso Gio. Battista Vscio, 1590</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Guicciardini,</subfield>
+    <subfield code="b">Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006362</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Porcacchi,</subfield>
+    <subfield code="b">Tommaso</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000149</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Nannini,</subfield>
+    <subfield code="b">Remigio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000162</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Porta, Giovanni Battista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000283</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Ugolino, Paolo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000360</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Porcacchi da Castiglione,</subfield>
+    <subfield code="b">Tomaso</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014928</subfield>
+    <subfield code="z">Porcacchi, Tommaso</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Nanni,</subfield>
+    <subfield code="b">Remigio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014746</subfield>
+    <subfield code="z">Nannini, Remigio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Remigio</subfield>
+    <subfield code="c"> : Fiorentino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016484</subfield>
+    <subfield code="z">Nannini, Remigio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ostio, Iohannes Baptista ab</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002284</subfield>
+    <subfield code="z">Porta, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Hostio, Ioahnnes Baptista ab</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002533</subfield>
+    <subfield code="z">Porta, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Uscio, Giovanni Battista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004058</subfield>
+    <subfield code="z">Porta, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ussio, Giovanni Battista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005477</subfield>
+    <subfield code="z">Porta, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ussius, Ioannes Baptista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005478</subfield>
+    <subfield code="z">Porta, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ugolinus, Paulus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005615</subfield>
+    <subfield code="z">Ugolino, Paolo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ugolini, Paolo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005616</subfield>
+    <subfield code="z">Ugolino, Paolo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Planettiana. Jesi</subfield>
+    <subfield code="1">AN0092</subfield>
+    <subfield code="2">URB BC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale dell&apos;Archiginnasio. Bologna</subfield>
+    <subfield code="1">BO0304</subfield>
+    <subfield code="2">UBO GA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale universitaria. Torino</subfield>
+    <subfield code="1">TO0265</subfield>
+    <subfield code="2">TO0 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Vicenza</subfield>
+    <subfield code="1">VI0101</subfield>
+    <subfield code="2">PBE D1</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front della pt. 2</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000022</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000022</subfield>
+    <subfield code="b">Porta con timpano triangolare e colonne ioniche, al centro S. Pietro con le chiavi. In cornice figurata</subfield>
+    <subfield code="e">Iusti intrabunt per eam</subfield>
+    <subfield code="c">V434</subfield>
+    <subfield code="c">Z975</subfield>
+    <subfield code="d">Dimensioni: 6,4 x 6,8</subfield>
+    <subfield code="f">COLONNE</subfield>
+    <subfield code="f">IUSTIENTRA</subfield>
+    <subfield code="f">PORTA</subfield>
+    <subfield code="f">S PIETRO</subfield>
+    <subfield code="f">TIMPANO</subfield>
+    <subfield code="g">1581-1592</subfield>
+  </datafield>
+</record>
+</collection>

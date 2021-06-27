@@ -1,0 +1,99 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01504nam0a2200289 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\019022</controlfield>
+  <controlfield tag="005">20070806000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e.i- e.io o.ro IoAl (3) 1562 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1562        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Vita di santa Catherina vergine, e martire; nuouamente composta, per Marco Filippi, detto il Funesto. Et appresso, vna operetta di sonetti, e canzoni spirituali, con alcune stanze della Magdalena a Christo; del medesmo autore</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Palermo</subfield>
+    <subfield code="d">1562</subfield>
+    <subfield code="e">In Palermo</subfield>
+    <subfield code="g">appresso Gio. Matteo Maida</subfield>
+    <subfield code="h">1562</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\8!, 200 c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">A c.X1r altro front.: Rime spirituali, et alcune stanze della Magdalena a Christo</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Palermo</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Filippi,</subfield>
+    <subfield code="b">Marco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005387</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Mayda, Giovanni Matteo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000016</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">℗Il ℗Funesto</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005388</subfield>
+    <subfield code="z">Filippi, Marco</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Maida, Giovanni Matteo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003506</subfield>
+    <subfield code="z">Mayda, Giovanni Matteo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Maida, Ioannes Matthaeus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005110</subfield>
+    <subfield code="z">Mayda, Giovanni Matteo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Mayda, Ioannes Mattheus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005112</subfield>
+    <subfield code="z">Mayda, Giovanni Matteo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Enna</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">EN0025</subfield>
+    <subfield code="2">ZEN 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Firenze</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">FI0098</subfield>
+    <subfield code="2">CFI CF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Palermo</subfield>
+    <subfield code="1">PA0063</subfield>
+    <subfield code="2">PA1 CP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca centrale della Regione siciliana Alberto Bombace. Palermo</subfield>
+    <subfield code="1">PA0064</subfield>
+    <subfield code="2">PAL BP</subfield>
+  </datafield>
+</record>
+</collection>

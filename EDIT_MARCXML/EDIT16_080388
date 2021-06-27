@@ -1,0 +1,126 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01781nam0a22003251i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\080388</controlfield>
+  <controlfield tag="005">20200929000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">i.iq m.m. n.nc s.ta (3) 1520 (A)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">i.iq r.m. n.nc s.ta (3) 1520 (A)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">2</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20200929d1520        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Scamnalia secundum ritum ac ordinem ecclesie et diocesis Frisingensis. Pars hyemalis \-estiualis!</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Venetijs</subfield>
+    <subfield code="g">in edibus Petri Liechtenstein</subfield>
+    <subfield code="g">impensis Ioannis Oswalt</subfield>
+    <subfield code="h">1520</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">2 pt.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Freising</subfield>
+    <subfield code="c"> &lt;Diocesi&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005583</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Liechtenstein, Peter</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000403</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Oswalt, Johann</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000694</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Frisinga</subfield>
+    <subfield code="c"> &lt;diocesi&gt;</subfield>
+    <subfield code="3">19766</subfield>
+    <subfield code="z">Freising &lt;Diocesi&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Lucidus Lapis, Petrus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004962</subfield>
+    <subfield code="z">Liechtenstein, Peter</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Osvaldus, Ioannes</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005168</subfield>
+    <subfield code="z">Oswalt, Johann</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Osvalt, Ioannes</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005169</subfield>
+    <subfield code="z">Oswalt, Johann</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Oswald, Ioannes</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005170</subfield>
+    <subfield code="z">Oswalt, Johann</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca estera - Bayerische StaatsBibliothek. Muenchen</subfield>
+    <subfield code="1">AA0008</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">in fine a entrambe le parti</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000117</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">in fine a entrambe le parti</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001838</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000117</subfield>
+    <subfield code="b">Due sfere armillari in scudo sovrastato da elmo che ha per cimiero un&apos;altra sfera armillare. In alto: Petrus Liechtenstein</subfield>
+    <subfield code="c">K242</subfield>
+    <subfield code="c">V386</subfield>
+    <subfield code="c">Z1064</subfield>
+    <subfield code="d">Dimensioni: 11,2 x 15. Con o senza la scritta in alto</subfield>
+    <subfield code="f">LIECHTENST</subfield>
+    <subfield code="f">SCUDO</subfield>
+    <subfield code="f">SFERE</subfield>
+    <subfield code="g">1503-1568</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001838</subfield>
+    <subfield code="b">Iniziali H.O. (la O  ̈sormontata da una croce) all&apos;interno di scudo</subfield>
+    <subfield code="c">K250</subfield>
+    <subfield code="c">Z749</subfield>
+    <subfield code="d">Dimensioni: 4,7 x 6</subfield>
+    <subfield code="f">INIZIALI</subfield>
+    <subfield code="f">HO</subfield>
+    <subfield code="f">SCUDO</subfield>
+    <subfield code="f">CROCE</subfield>
+    <subfield code="g">1520-1524</subfield>
+  </datafield>
+</record>
+</collection>

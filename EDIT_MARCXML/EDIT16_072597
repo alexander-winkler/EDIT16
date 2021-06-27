@@ -1,0 +1,32 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00425na 0a22001211i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\072597</controlfield>
+  <controlfield tag="005">20080930000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20080326             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Ordine delle stazioni, indulgenze, et gratie spirituali, et diuine ... Libro secondo</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Pagni,</subfield>
+    <subfield code="b">Serafino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009711</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Pagnius,</subfield>
+    <subfield code="b">Seraphinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021786</subfield>
+    <subfield code="z">Pagni, Serafino</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,82 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01110nam0a22002531i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\061399</controlfield>
+  <controlfield tag="005">20080529000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">amn, i-no r:le **M. (3) 1531 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20050923d1531        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Comentaria in titulos, C. de pactis et transactionibus</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Excudebant in vrbe Taurini</subfield>
+    <subfield code="g">typis Antonij Ranoti Taurinatis</subfield>
+    <subfield code="h">1531</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">LIIII, \i.e. 59!, \1! c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Il nome dell&apos;autore si ricava da c. A1r</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Torino</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Porporato,</subfield>
+    <subfield code="b">Giovanni Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004411</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Ranoto, Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000382</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Purpuratus,</subfield>
+    <subfield code="b">Ioannes Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004734</subfield>
+    <subfield code="z">Porporato, Giovanni Francesco</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Purpuratus,</subfield>
+    <subfield code="b">Joannes Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022677</subfield>
+    <subfield code="z">Porporato, Giovanni Francesco</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Purpuratus,</subfield>
+    <subfield code="b">Johannes Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022678</subfield>
+    <subfield code="z">Porporato, Giovanni Francesco</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Ranotus, Antonius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005306</subfield>
+    <subfield code="z">Ranoto, Antonio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Casanatense. Roma</subfield>
+    <subfield code="1">RM0313</subfield>
+    <subfield code="2">RML 07</subfield>
+  </datafield>
+</record>
+</collection>

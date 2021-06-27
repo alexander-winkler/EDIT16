@@ -1,0 +1,123 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01729nam0a2200349 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\010821</controlfield>
+  <controlfield tag="005">20151117000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">midi a.ta o:i- pepe (3) 1594 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1594        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Trattato del terzo nouissimo, cio ̈dell&apos;inferno ... Di don Francesco Cereale</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Cremona</subfield>
+    <subfield code="c">per Battista Pellizzari</subfield>
+    <subfield code="d">1594</subfield>
+    <subfield code="e">In Cremona</subfield>
+    <subfield code="g">appresso Barucino Zanni</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\24!, 174, \1! p.</subfield>
+    <subfield code="d">12ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Cremona</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Cereali,</subfield>
+    <subfield code="b">Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002919</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Pellizzari, Giovanni Battista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000833</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Zanni, Barucino</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000799</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pellizzaro, Battista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005348</subfield>
+    <subfield code="z">Pellizzari, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pellizari, Battista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005349</subfield>
+    <subfield code="z">Pellizzari, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pellizarius, Ioannes Baptista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005350</subfield>
+    <subfield code="z">Pellizzari, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pellizzarius, Baptista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005353</subfield>
+    <subfield code="z">Pellizzari, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Barucino di Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002710</subfield>
+    <subfield code="z">Zanni, Barucino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Giovanni, Barucino di</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002719</subfield>
+    <subfield code="z">Zanni, Barucino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Zannius, Barucinus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005811</subfield>
+    <subfield code="z">Zanni, Barucino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Giovannis, Barucinus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005812</subfield>
+    <subfield code="z">Zanni, Barucino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Zannis, Barucinus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005813</subfield>
+    <subfield code="z">Zanni, Barucino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Zani, Barucino di</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005814</subfield>
+    <subfield code="z">Zanni, Barucino</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Casale Monferrato</subfield>
+    <subfield code="1">AL0024</subfield>
+    <subfield code="2">TO0 L2</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale. Cremona</subfield>
+    <subfield code="1">CR0062</subfield>
+    <subfield code="2">LO1 28</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale. Lucca</subfield>
+    <subfield code="1">LU0022</subfield>
+    <subfield code="2">LUA BL</subfield>
+  </datafield>
+</record>
+</collection>

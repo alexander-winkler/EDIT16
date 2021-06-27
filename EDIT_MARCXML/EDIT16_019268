@@ -1,0 +1,104 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01614nam0a2200301 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\019268</controlfield>
+  <controlfield tag="005">20131106000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">o-m. *ai. deu. piCa (3) 1540 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1540        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Flores legum secundum ordinem alphabeti. Cum infinitis additionibus &amp; concordantijs doctorum nuper per d. Lucium Paulum Rosellum Patauinum  i.v. doctorem denuo recognitis additis</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Impressum in oppido Tridini</subfield>
+    <subfield code="g">per Iacobum de Portonarijs &amp; socios</subfield>
+    <subfield code="g">expensis domini Ioannis Bap. de Zeijs Papiensis</subfield>
+    <subfield code="h">1540 die IIII Septembris</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">80 c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="10" ind1="I" ind2="T">
+    <subfield code="I">CCU\CNCE\071991</subfield>
+    <subfield code="1">2001 </subfield>
+    <subfield code="a">Flores legum secundum ordinem alphabeti.</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Trino</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Rosello,</subfield>
+    <subfield code="b">Lucio Paolo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000009</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Portonari, Giacomo &amp; C.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004059</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Zeglio, Giovanni Battista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002285</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Rosselli,</subfield>
+    <subfield code="b">Lucio Paolo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015330</subfield>
+    <subfield code="z">Rosello, Lucio Paolo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Rosellus,</subfield>
+    <subfield code="b">Lucius Paulus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023586</subfield>
+    <subfield code="z">Rosello, Lucio Paolo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Zeiis, Ioannes Baptista de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004184</subfield>
+    <subfield code="z">Zeglio, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Zeis, Giovanni Battista</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005821</subfield>
+    <subfield code="z">Zeglio, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale dei cappuccini. Palermo</subfield>
+    <subfield code="1">PA0092</subfield>
+    <subfield code="2">PAL 66</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Favorino Brunod. Trino</subfield>
+    <subfield code="1">VC0061</subfield>
+    <subfield code="2">TO0 ER</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca d&apos;arte del Museo civico Correr. Venezia</subfield>
+    <subfield code="1">VE0039</subfield>
+    <subfield code="2">VEA BC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteche della Fondazione Giorgio Cini onlus. Venezia</subfield>
+    <subfield code="1">VE0239</subfield>
+    <subfield code="2">VEA FC</subfield>
+  </datafield>
+</record>
+</collection>

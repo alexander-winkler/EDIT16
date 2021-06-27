@@ -1,0 +1,95 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01535nam0a22002771i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\053651</controlfield>
+  <controlfield tag="005">20021204000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">lane hen- b-ue seti (3) 1585 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20021203d1585        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Lettioni sopra dogmi fatte da F. Francesco Panigarola ... alla presenza, e per commandamento del serenis. Carlo Emanuelle duca di Sauoia, nelle quali de lui dette caluiniche; come si confonda la maggior parte della dottrina di Gio. Caluino, e con che ordine si faccia, doppo la lettera si dimostrera</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Ferrara</subfield>
+    <subfield code="c">appresso Giulio Vasalini</subfield>
+    <subfield code="d">e Giulio Cesare Cagnacini</subfield>
+    <subfield code="d">1585</subfield>
+    <subfield code="e">In Ferrara</subfield>
+    <subfield code="g">appresso Giulio Cesare Cagnacini</subfield>
+    <subfield code="h">&amp; fratelli</subfield>
+    <subfield code="h">1585</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\28!, 327, \1! c.</subfield>
+    <subfield code="d"></subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a"></subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Ferrara</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Panigarola,</subfield>
+    <subfield code="b">Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000327</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Cagnacini, Giulio Cesare &amp; fratelli</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001275</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Vassalini, Giulio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002613</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Panigarola,</subfield>
+    <subfield code="b">Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022139</subfield>
+    <subfield code="z">Panigarola, Francesco</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Vasalini, Giulio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004151</subfield>
+    <subfield code="z">Vassalini, Giulio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Vassallini, Giulio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005859</subfield>
+    <subfield code="z">Vassalini, Giulio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Planettiana. Jesi</subfield>
+    <subfield code="1">AN0092</subfield>
+    <subfield code="2">URB BC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Asti</subfield>
+    <subfield code="1">AT0005</subfield>
+    <subfield code="2">TO0 45</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+</record>
+</collection>

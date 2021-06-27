@@ -1,0 +1,120 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01828nam0a2200325 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\019774</controlfield>
+  <controlfield tag="005">20151005000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">tea, n-r- n-za tie, (C) 1598 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1598        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Capitoli et conditioni della perpetua pace, &amp; confederatione stabilita fra gli altissimi, &amp; potentissimi prencipi Henrico Quarto per la Dio gratia re di Francia, e di Nauarra, christianissimo, &amp; Philippo II per Dio gratia (altresi) re delle Spagne, cattolico. Tradotte fedelmente in italiano dell&apos;original francese stampato in Parigi, dal sig. Camillo Bergameno da Trento</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Ferrara</subfield>
+    <subfield code="d">in Modona &amp; poi in Piacenza</subfield>
+    <subfield code="c">per Gio. Bazachi</subfield>
+    <subfield code="d">1598</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\4! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Piacenza</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Francia</subfield>
+    <subfield code="c"> &lt;Regno&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005550</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Henri</subfield>
+    <subfield code="c"> &lt;re di Francia</subfield>
+    <subfield code="c"> ; 4.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006465</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Felipe</subfield>
+    <subfield code="c"> &lt;re di Spagna</subfield>
+    <subfield code="c"> ; 2.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007101</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Bergameno,</subfield>
+    <subfield code="b">Camillo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005189</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Bazachi, Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001313</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Enrico</subfield>
+    <subfield code="c"> &lt;re di Francia</subfield>
+    <subfield code="c"> ; 4.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019686</subfield>
+    <subfield code="z">Henri &lt;re di Francia ; 4.&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Filippo</subfield>
+    <subfield code="c"> &lt;re di Spagna</subfield>
+    <subfield code="c"> ; 2&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018962</subfield>
+    <subfield code="z">Felipe &lt;re di Spagna ; 2.&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Philip</subfield>
+    <subfield code="c"> &lt;re di Spagna</subfield>
+    <subfield code="c"> ; 2.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019356</subfield>
+    <subfield code="z">Felipe &lt;re di Spagna ; 2.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bazzachi, Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003629</subfield>
+    <subfield code="z">Bazachi, Giovanni</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Bazachius, Ioannes</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004307</subfield>
+    <subfield code="z">Bazachi, Giovanni</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Archivio di Stato di Modena. Modena</subfield>
+    <subfield code="1">MO0172</subfield>
+    <subfield code="2">ZMO 19</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Passerini Landi. Piacenza</subfield>
+    <subfield code="1">PC0030</subfield>
+    <subfield code="2">PIA PL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Parma</subfield>
+    <subfield code="1">PR0031</subfield>
+    <subfield code="2">PAR BC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della collegiata S. Pietro Apostolo. Broni</subfield>
+    <subfield code="1">PV0012</subfield>
+    <subfield code="2">ZPV 05</subfield>
+  </datafield>
+</record>
+</collection>

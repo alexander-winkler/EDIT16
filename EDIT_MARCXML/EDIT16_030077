@@ -1,0 +1,131 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02049nam0a22003611i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\030077</controlfield>
+  <controlfield tag="005">20020923000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">istu lit- erlo SyQu (C) 1522 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971125d1522        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Magistri  Ioannis Policarpi Seueritani ... ℗Feretreidos libri tres</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Impressum Venetijs</subfield>
+    <subfield code="g">per magistrum Ioannem Franciscum &amp; Ioannem Antonium fratres de Rusconibus</subfield>
+    <subfield code="h">1522. die xxiiii Iulij</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\24! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Severitanus,</subfield>
+    <subfield code="b">Iohannes Policarpus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004501</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Rusconi, Giovanni Francesco &amp; Rusconi, Giovanni Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001130</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Pompilius,</subfield>
+    <subfield code="b">Iohannes Barbula</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004907</subfield>
+    <subfield code="z">Severitanus, Iohannes Policarpus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Barbeta,</subfield>
+    <subfield code="b">Iohannes</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007681</subfield>
+    <subfield code="z">Severitanus, Iohannes Policarpus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Barbula,</subfield>
+    <subfield code="b">Iohannes</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007683</subfield>
+    <subfield code="z">Severitanus, Iohannes Policarpus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Policarpus,</subfield>
+    <subfield code="b">Iohannes</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008119</subfield>
+    <subfield code="z">Severitanus, Iohannes Policarpus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Severitano,</subfield>
+    <subfield code="b">Giovanni Policarpo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023424</subfield>
+    <subfield code="z">Severitanus, Iohannes Policarpus</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Rusconi, Giovanni Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001131</subfield>
+    <subfield code="z">Rusconi, Giovanni Francesco &amp; Rusconi, Giovanni Antonio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Rusconibus, Ioannes Franciscus de &amp; Rusconibus, Ioannes Antonius de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005491</subfield>
+    <subfield code="z">Rusconi, Giovanni Francesco &amp; Rusconi, Giovanni Antonio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca umanistica. Sede di Lettere. Firenze</subfield>
+    <subfield code="1">FI0211</subfield>
+    <subfield code="2">UFI LT</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Valentiniana. Camerino</subfield>
+    <subfield code="1">MC0004</subfield>
+    <subfield code="2">UMC BV</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Assisi</subfield>
+    <subfield code="1">PG0001</subfield>
+    <subfield code="2">UM1 10</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca  Panizzi. Reggio Emilia</subfield>
+    <subfield code="1">RE0052</subfield>
+    <subfield code="2">RE2 PA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria Alessandrina. Roma</subfield>
+    <subfield code="1">RM0280</subfield>
+    <subfield code="2">RML 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica A. Hortis. Trieste</subfield>
+    <subfield code="1">TS0013</subfield>
+    <subfield code="2">TSA BC</subfield>
+  </datafield>
+</record>
+</collection>

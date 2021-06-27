@@ -1,0 +1,133 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01953nam0a22003611i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\037413</controlfield>
+  <controlfield tag="005">20080225000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">t.ua naia o-ca tiEx (3) 1522 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19981015d1522        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Logica Pamph. collecta sub excellenti artium et medicinae doctore m. Pamphilo de Monte Bononiensi publice theoricam medicinae et ordinarie docente, dum is Pauli Veneti opusculum in Bonon. Academia magno scholasticorum conventu pro fiteretur anno MDXII ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Bononie</subfield>
+    <subfield code="g">impensis Benedicti Hectoris Bononiensis</subfield>
+    <subfield code="h">1522 die 30 Iulii</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">76 c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Bologna</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Paolo</subfield>
+    <subfield code="c"> : Veneto</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001113</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Monti,</subfield>
+    <subfield code="b">Panfilo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000018</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Faelli, Benedetto</subfield>
+    <subfield code="c"> &lt;1.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000129</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Nicoletti,</subfield>
+    <subfield code="b">Paolo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005499</subfield>
+    <subfield code="z">Paolo : Veneto</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Paulus</subfield>
+    <subfield code="c"> : Venetus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014707</subfield>
+    <subfield code="z">Paolo : Veneto</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Paolo</subfield>
+    <subfield code="c"> : da#Venezia</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021500</subfield>
+    <subfield code="z">Paolo : Veneto</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">De_Monte,</subfield>
+    <subfield code="b">Pamphilus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014689</subfield>
+    <subfield code="z">Monti, Panfilo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Montius,</subfield>
+    <subfield code="b">Pamphilus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021418</subfield>
+    <subfield code="z">Monti, Panfilo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Benedictus Hectoris</subfield>
+    <subfield code="c"> &lt;1.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002712</subfield>
+    <subfield code="z">Faelli, Benedetto &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Hectoris, Benedictus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002721</subfield>
+    <subfield code="z">Faelli, Benedetto &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Benedictus Bononiensis</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003789</subfield>
+    <subfield code="z">Faelli, Benedetto &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Benedetto di Hettore</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005101</subfield>
+    <subfield code="z">Faelli, Benedetto &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Hectoreus, Benedictus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005102</subfield>
+    <subfield code="z">Faelli, Benedetto &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale dell&apos;Archiginnasio. Bologna</subfield>
+    <subfield code="1">BO0304</subfield>
+    <subfield code="2">UBO GA</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Teresiana. Mantova</subfield>
+    <subfield code="1">MN0035</subfield>
+    <subfield code="2">LO1 12</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca statale del Monumento nazionale. Cava dei Tirreni</subfield>
+    <subfield code="1">SA0088</subfield>
+    <subfield code="2">NAP 95</subfield>
+  </datafield>
+</record>
+</collection>

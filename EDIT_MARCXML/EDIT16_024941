@@ -1,0 +1,176 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02624nam0a2200469 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\024941</controlfield>
+  <controlfield tag="005">20141126000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">acs ̈en37 n-u. Bape (3) 1589 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970916d1589        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Solemnis elegansque tractatus; in quo subtiliter, et abunde de alienationibus rerum ecclesiarum, illarum causis, et solemnitatibus ... discutitur ... Authore d. Gulielmo Redoano ... cum aureis apostillis, ac additionibus ... d. Petri Antonii de Petra ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">ad signum Concordiae</subfield>
+    <subfield code="d">1589</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\76!, 463, \1! p.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Redoano,</subfield>
+    <subfield code="b">Guglielmo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006562</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Pietra,</subfield>
+    <subfield code="b">Pietro Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009371</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">℗al segno della ℗Concordia</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000531</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Rodano,</subfield>
+    <subfield code="b">Guglielmo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007294</subfield>
+    <subfield code="z">Redoano, Guglielmo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Rodoano,</subfield>
+    <subfield code="b">Guglielmo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013597</subfield>
+    <subfield code="z">Redoano, Guglielmo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Redoni,</subfield>
+    <subfield code="b">Guglielmo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\017809</subfield>
+    <subfield code="z">Redoano, Guglielmo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Petrus Antonius</subfield>
+    <subfield code="c"> : de#Petra</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025272</subfield>
+    <subfield code="z">Pietra, Pietro Antonio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Petrus Antonius</subfield>
+    <subfield code="c"> : a#Petra</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026067</subfield>
+    <subfield code="z">Pietra, Pietro Antonio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Petra,</subfield>
+    <subfield code="b">Petrus Antonius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\028824</subfield>
+    <subfield code="z">Pietra, Pietro Antonio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">℗Ad signum ℗Concordiae</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004656</subfield>
+    <subfield code="z">℗al segno della ℗Concordia</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Concordia, al segno della</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004658</subfield>
+    <subfield code="z">℗al segno della ℗Concordia</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Tortona</subfield>
+    <subfield code="1">AL0101</subfield>
+    <subfield code="2">TO0 GP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Fabriano</subfield>
+    <subfield code="1">AN0033</subfield>
+    <subfield code="2">URB BF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Francesco Cini. Osimo</subfield>
+    <subfield code="1">AN0054</subfield>
+    <subfield code="2">URB B2</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Osimo</subfield>
+    <subfield code="1">AN0056</subfield>
+    <subfield code="2">PBE D3</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Cagliari</subfield>
+    <subfield code="1">CA0194</subfield>
+    <subfield code="2">CAG UC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca regionale universitaria. Catania</subfield>
+    <subfield code="1">CT0062</subfield>
+    <subfield code="2">PAL BC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Istituto tecnico commerciale F. Carrara. Lucca</subfield>
+    <subfield code="1">LU0101</subfield>
+    <subfield code="2">ZLU 10</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Valentiniana. Camerino</subfield>
+    <subfield code="1">MC0004</subfield>
+    <subfield code="2">UMC BV</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Braidense. Milano</subfield>
+    <subfield code="1">MI0185</subfield>
+    <subfield code="2">MIL NB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario vescovile. Mantova</subfield>
+    <subfield code="1">MN0041</subfield>
+    <subfield code="2">PBE 23</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Porziuncola. Assisi</subfield>
+    <subfield code="1">PG0179</subfield>
+    <subfield code="2">UM1 36</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Forteguerriana. Pistoia</subfield>
+    <subfield code="1">PT0025</subfield>
+    <subfield code="2">RT1 IE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Fondo edifici di culto. Roma</subfield>
+    <subfield code="1">RM1637</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Siracusa</subfield>
+    <subfield code="1">SR0026</subfield>
+    <subfield code="2">SBS SR</subfield>
+  </datafield>
+</record>
+</collection>

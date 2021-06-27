@@ -1,0 +1,279 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>04161nam0a2200685 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\039204</controlfield>
+  <controlfield tag="005">20101104000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e.s. r.o: usno meri (3) 1508 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19981106d1508        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Valerii Maximi ℗Priscorum exemplorum libri nouem, diligenti castigatione emendati, aptissimisque figuris exculti cum laudatis Oliuerii ac Theophili commentariis, Hermolai Barbari, Georgii Merulae, Mar. Antonii Sabellici, Iani Parrhasii, Raphaelis Rhegii,multorumque praeterea nouis obseruationibus, indiceque mirifico per ordinem litterarum, ad inueniendas historias nuper excogitato, alteroque in usum grammaticorum ad uocabula rerumque cognitionem</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Impressum Venetiis</subfield>
+    <subfield code="g">per Bartholomeum de Zanis de Portesio</subfield>
+    <subfield code="h">1508 die xxiiii mensis Octobri</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\4!, 208, \10! c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Valerius Maximus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001232</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Parrasio,</subfield>
+    <subfield code="b">Aulo Giano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003080</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Oliviero</subfield>
+    <subfield code="c"> : d&apos;Arzignano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\011562</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Regio,</subfield>
+    <subfield code="b">Raffaele</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012451</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Chalcondylas,</subfield>
+    <subfield code="b">Theophilus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013408</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Barbaro,</subfield>
+    <subfield code="b">Ermolao</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000272</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Sabellico,</subfield>
+    <subfield code="b">Marco Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001155</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Merula,</subfield>
+    <subfield code="b">Giorgio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001156</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Zani, Bartolomeo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000488</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Valerio Massimo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024512</subfield>
+    <subfield code="z">Valerius Maximus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Parisio,</subfield>
+    <subfield code="b">Giovan Paolo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009807</subfield>
+    <subfield code="z">Parrasio, Aulo Giano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Parrhasius,</subfield>
+    <subfield code="b">Aulus Ianus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009808</subfield>
+    <subfield code="z">Parrasio, Aulo Giano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Oliverius</subfield>
+    <subfield code="c"> : Arzignanensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\017030</subfield>
+    <subfield code="z">Oliviero : d&apos;Arzignano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Arzignano,</subfield>
+    <subfield code="b">Oliviero : d&apos;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022613</subfield>
+    <subfield code="z">Oliviero : d&apos;Arzignano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Regius,</subfield>
+    <subfield code="b">Raphael</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023427</subfield>
+    <subfield code="z">Regio, Raffaele</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Theophilus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021095</subfield>
+    <subfield code="z">Chalcondylas, Theophilus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Calcondila,</subfield>
+    <subfield code="b">Teofilo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023564</subfield>
+    <subfield code="z">Chalcondylas, Theophilus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Barbarus,</subfield>
+    <subfield code="b">Hermolaus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019065</subfield>
+    <subfield code="z">Barbaro, Ermolao</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Barbaro,</subfield>
+    <subfield code="b"></subfield>
+    <subfield code="3">IT\ICCU\CNCA\019066</subfield>
+    <subfield code="z">Barbaro, Ermolao</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Coccio,</subfield>
+    <subfield code="b">Marcantonio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008260</subfield>
+    <subfield code="z">Sabellico, Marco Antonio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Sabellicus,</subfield>
+    <subfield code="b">Marcus Antonius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024070</subfield>
+    <subfield code="z">Sabellico, Marco Antonio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Georgius</subfield>
+    <subfield code="c"> : Alexandrinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014110</subfield>
+    <subfield code="z">Merula, Giorgio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Merula,</subfield>
+    <subfield code="b">Georgius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014655</subfield>
+    <subfield code="z">Merula, Giorgio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Zanni, Bartolomeo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002955</subfield>
+    <subfield code="z">Zani, Bartolomeo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Zannis, Bartholomeus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005809</subfield>
+    <subfield code="z">Zani, Bartolomeo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Zanis, Bartholomeus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005810</subfield>
+    <subfield code="z">Zani, Bartolomeo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Archivio biblioteca museo civico. ABMC. Altamura</subfield>
+    <subfield code="1">BA0004</subfield>
+    <subfield code="2">BA1 34</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca della Fondazione Ettore Pomarici Santomasi. Gravina di Puglia</subfield>
+    <subfield code="1">BA0143</subfield>
+    <subfield code="2">BA1 25</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Queriniana. Brescia</subfield>
+    <subfield code="1">BS0026</subfield>
+    <subfield code="2">ZBS 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Abbazia di Novacella. Varna</subfield>
+    <subfield code="1">BZ0109</subfield>
+    <subfield code="2">ZBZ 04</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Apostolica Vaticana. Citt ̉del Vaticano</subfield>
+    <subfield code="1">EX0001</subfield>
+    <subfield code="2">ZCV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Pontificia Biblioteca Antoniana. Padova</subfield>
+    <subfield code="1">EX0020</subfield>
+    <subfield code="2">PUV 78</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Firenze</subfield>
+    <subfield code="1">FI0098</subfield>
+    <subfield code="2">CFI CF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Braidense. Milano</subfield>
+    <subfield code="1">MI0185</subfield>
+    <subfield code="2">MIL NB</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Augusta. Perugia</subfield>
+    <subfield code="1">PG0109</subfield>
+    <subfield code="2">UM1 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Oasis. Perugia</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">PG0149</subfield>
+    <subfield code="2">UM1 44</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Porziuncola. Assisi</subfield>
+    <subfield code="1">PG0179</subfield>
+    <subfield code="2">UM1 36</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Pavia</subfield>
+    <subfield code="1">PV0291</subfield>
+    <subfield code="2">MIL UP</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Montepulciano</subfield>
+    <subfield code="1">SI0024</subfield>
+    <subfield code="2">RT1 QQ</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Fondazione Biblioteca S. Bernardino. Trento</subfield>
+    <subfield code="1">TN0122</subfield>
+    <subfield code="2">ZTN 18</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Leonardo Centonze. Castelvetrano</subfield>
+    <subfield code="1">TP0059</subfield>
+    <subfield code="2">TPS CV</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Nel coloph.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\002256</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\002256</subfield>
+    <subfield code="b">Cerchio con croce doppia e iniziali B.Z. In cornice.</subfield>
+    <subfield code="c">A93</subfield>
+    <subfield code="c">K339</subfield>
+    <subfield code="c">Z299</subfield>
+    <subfield code="f">CERCHIO</subfield>
+    <subfield code="f">CROCE</subfield>
+    <subfield code="f">BZ</subfield>
+    <subfield code="g">1506-1512</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,63 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00777nam0a22002051i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\059341</controlfield>
+  <controlfield tag="005">20121003000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20041006d1501        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Anathomia Mundini cum postillis</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Taurini</subfield>
+    <subfield code="g">impressa per solertem impressorem magistrum Franciscum Siluam</subfield>
+    <subfield code="h">1501 die penultimo Ianuarij</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\20! c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Torino</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Mondino</subfield>
+    <subfield code="c"> : dei#Liucci</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001094</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Silva, Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000197</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Mundinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014671</subfield>
+    <subfield code="z">Mondino : dei#Liucci</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Mundinus</subfield>
+    <subfield code="c"> : de#Lentijs</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025882</subfield>
+    <subfield code="z">Mondino : dei#Liucci</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Sylva, Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004093</subfield>
+    <subfield code="z">Silva, Francesco</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

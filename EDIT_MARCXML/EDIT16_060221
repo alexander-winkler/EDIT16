@@ -1,0 +1,417 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>06604nam0a2200961 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\060221</controlfield>
+  <controlfield tag="005">20130314000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">x-ed vnf. r.ie axxo (C) 1505 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20050219g15041505    0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Tractatus diuersorum doctorum. Tractatus de sequestris do. Fran. Curte ... Tractatus de legitimatione d. Anto. de Roselis. Tractatus de expensis d. Iacobi de Arena. Tractatus de modo studen. d. Iacobi Can. Tractatus de ludo d. Stephani Costa. Tractatus de ludo d. Pari de Putheo. Tractatus de excusatore  do. Anto. de Canario. Tractatus de substitutionum d. Baldi. Tractatus de gabellis Bertachini. Trac. de matrimonio et legi d. Bapti. Caci. Lu. Tracta. in materia petitori d. Philipi de Franchis ... Tractatus de arbitris d. Lanfranchi de Oriano. Tractatus de priuilegio phisci Fran. Lucani. Tractatus de emptione et vendi. d. Fabiani ... Tractatus de testibus Alberici</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">\Pavia</subfield>
+    <subfield code="c">Giovanni Giolito De Ferrari il vecchio!</subfield>
+    <subfield code="e">Impressum Papie</subfield>
+    <subfield code="g">per Gasparem de Nebijs de Burgofrancho</subfield>
+    <subfield code="h">1505 xxvij mensis Februarij</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\226! c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Altri colophon alla fine del Tractatus de testibus (Papieque impressus : per Jacob de Burgofrancho, 1504 die XIII Nouembris), alla fine del Tractatus monetarum di Francesco Corti (Papie, 1504 die XVI mensis Nouembris), alla fine del Tractatus de consanguinitate et affinitate di Stefano Costa (Papie impressus : per Jacob de Burgofrancho, 1504 die XXI Nouembris)</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Pavia</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Ubaldi,</subfield>
+    <subfield code="b">Baldo : degli</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000077</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Caccialupi,</subfield>
+    <subfield code="b">Giovanni Battista</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001226</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Corti,</subfield>
+    <subfield code="b">Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001245</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Bertachini,</subfield>
+    <subfield code="b">Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001670</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Cani,</subfield>
+    <subfield code="b">Giovanni Iacopo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002513</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Costa,</subfield>
+    <subfield code="b">Stefano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003546</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Dal_Pozzo,</subfield>
+    <subfield code="b">Paride</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004574</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Antonio</subfield>
+    <subfield code="c"> : da#Cannara</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005195</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Franchi,</subfield>
+    <subfield code="b">Filippo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005546</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Arena,</subfield>
+    <subfield code="b">Jacopo : d&apos;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005652</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Giocchi,</subfield>
+    <subfield code="b">Fabiano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006051</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Oriano,</subfield>
+    <subfield code="b">Lanfranco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010574</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Roselli,</subfield>
+    <subfield code="b">Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026172</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Lucani,</subfield>
+    <subfield code="b">Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026285</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Maletis,</subfield>
+    <subfield code="b">Alberico : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026317</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Giolito De Ferrari, Giovanni</subfield>
+    <subfield code="c"> &lt;1.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000472</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Nebbi, Gaspare</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000078</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Pocatela, Giacomo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000347</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Baldo</subfield>
+    <subfield code="c"> : degli#Ubaldi</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007674</subfield>
+    <subfield code="z">Ubaldi, Baldo : degli</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Baldus</subfield>
+    <subfield code="c"> : Perusinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007676</subfield>
+    <subfield code="z">Ubaldi, Baldo : degli</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Baldus</subfield>
+    <subfield code="c"> : de#Perusio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012449</subfield>
+    <subfield code="z">Ubaldi, Baldo : degli</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Baldus</subfield>
+    <subfield code="c"> &lt;giurista&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023536</subfield>
+    <subfield code="z">Ubaldi, Baldo : degli</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Gazalupi,</subfield>
+    <subfield code="b">Iohannes Baptista</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012945</subfield>
+    <subfield code="z">Caccialupi, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">De_Caccialupis,</subfield>
+    <subfield code="b">Ioannes Baptista</subfield>
+    <subfield code="3">IT\ICCU\CNCA\027227</subfield>
+    <subfield code="z">Caccialupi, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Curtius,</subfield>
+    <subfield code="b">Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013913</subfield>
+    <subfield code="z">Corti, Francesco</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Franciscus</subfield>
+    <subfield code="c"> : de#Curte</subfield>
+    <subfield code="3">IT\ICCU\CNCA\027178</subfield>
+    <subfield code="z">Corti, Francesco</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Bertacchini,</subfield>
+    <subfield code="b">Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012771</subfield>
+    <subfield code="z">Bertachini, Giovanni</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Cane,</subfield>
+    <subfield code="b">Giovanni Iacopo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013096</subfield>
+    <subfield code="z">Cani, Giovanni Iacopo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Cane,</subfield>
+    <subfield code="b">Gianjacopo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013101</subfield>
+    <subfield code="z">Cani, Giovanni Iacopo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">De_Canibus,</subfield>
+    <subfield code="b">Ioannes Iacobus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015922</subfield>
+    <subfield code="z">Cani, Giovanni Iacopo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Costa,</subfield>
+    <subfield code="b">Stephanus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013788</subfield>
+    <subfield code="z">Costa, Stefano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Puteo,</subfield>
+    <subfield code="b">Paris : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014981</subfield>
+    <subfield code="z">Dal_Pozzo, Paride</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Pozzo,</subfield>
+    <subfield code="b">Paride : del</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015188</subfield>
+    <subfield code="z">Dal_Pozzo, Paride</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Paris</subfield>
+    <subfield code="c"> : de#Puteo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015206</subfield>
+    <subfield code="z">Dal_Pozzo, Paride</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Del_Pozzo,</subfield>
+    <subfield code="b">Paride</subfield>
+    <subfield code="3">IT\ICCU\CNCA\015275</subfield>
+    <subfield code="z">Dal_Pozzo, Paride</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Paris</subfield>
+    <subfield code="c"> : a#Puteo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020855</subfield>
+    <subfield code="z">Dal_Pozzo, Paride</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Bencioli,</subfield>
+    <subfield code="b">Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012607</subfield>
+    <subfield code="z">Antonio : da#Cannara</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Antonius</subfield>
+    <subfield code="c"> : de#Canario</subfield>
+    <subfield code="3">IT\ICCU\CNCA\028634</subfield>
+    <subfield code="z">Antonio : da#Cannara</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Franchis,</subfield>
+    <subfield code="b">Philippus : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009757</subfield>
+    <subfield code="z">Franchi, Filippo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Franco,</subfield>
+    <subfield code="b">Filippo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016388</subfield>
+    <subfield code="z">Franchi, Filippo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">D&apos;Arena,</subfield>
+    <subfield code="b">Giacomo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012661</subfield>
+    <subfield code="z">Arena, Jacopo : d&apos;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Dell&apos;Arena,</subfield>
+    <subfield code="b">Iacopo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012662</subfield>
+    <subfield code="z">Arena, Jacopo : d&apos;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Fabianus</subfield>
+    <subfield code="c"> : de#Monte Sancti Savini</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013941</subfield>
+    <subfield code="z">Giocchi, Fabiano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Giocchis,</subfield>
+    <subfield code="b">Fabianus : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019936</subfield>
+    <subfield code="z">Giocchi, Fabiano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Monte Sancti Sabini,</subfield>
+    <subfield code="b">Fabianus : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019937</subfield>
+    <subfield code="z">Giocchi, Fabiano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Lanfrancus</subfield>
+    <subfield code="c"> : de#Oriano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022995</subfield>
+    <subfield code="z">Oriano, Lanfranco</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Lanfranco</subfield>
+    <subfield code="c"> : da#Oriano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\028825</subfield>
+    <subfield code="z">Oriano, Lanfranco</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Antonius</subfield>
+    <subfield code="c"> : de#Rosellis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026210</subfield>
+    <subfield code="z">Roselli, Antonio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Roselis,</subfield>
+    <subfield code="b">Antonius de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026303</subfield>
+    <subfield code="z">Roselli, Antonio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Lucanus,</subfield>
+    <subfield code="b">Franciscus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026286</subfield>
+    <subfield code="z">Lucani, Francesco</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Albericus</subfield>
+    <subfield code="c"> : de#Maletis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026318</subfield>
+    <subfield code="z">Maletis, Alberico : de</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Militio,</subfield>
+    <subfield code="b">Albericus de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026319</subfield>
+    <subfield code="z">Maletis, Alberico : de</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Maletta,</subfield>
+    <subfield code="b">Albrighetto</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026320</subfield>
+    <subfield code="z">Maletis, Alberico : de</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Iolitus, Ioannes</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003848</subfield>
+    <subfield code="z">Giolito De Ferrari, Giovanni &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Giolitto, Giovanni</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004887</subfield>
+    <subfield code="z">Giolito De Ferrari, Giovanni &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Giolitus, Ioannes alias Ferrarius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004888</subfield>
+    <subfield code="z">Giolito De Ferrari, Giovanni &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Nebiis, Gaspar de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004006</subfield>
+    <subfield code="z">Nebbi, Gaspare</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Nebbia, Gaspare de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005109</subfield>
+    <subfield code="z">Nebbi, Gaspare</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Burgofrancho, Iacob de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002277</subfield>
+    <subfield code="z">Pocatela, Giacomo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Paucisdrapis, Iacob de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002278</subfield>
+    <subfield code="z">Pocatela, Giacomo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pulchridrapensis, Iacob</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002279</subfield>
+    <subfield code="z">Pocatela, Giacomo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Paucidrapensis, Iacob</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005452</subfield>
+    <subfield code="z">Pocatela, Giacomo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Paucisdrapius, Iacob</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005454</subfield>
+    <subfield code="z">Pocatela, Giacomo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Trento</subfield>
+    <subfield code="1">TN0121</subfield>
+    <subfield code="2">ZTN 01</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000315</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000315</subfield>
+    <subfield code="b">Guerriero armato di spada, con la mano appoggiata su uno scudo. Nello scudo le iniziali IGS e doppia croce. Sopra lo scudo una sorta di caduceo.</subfield>
+    <subfield code="c">K126</subfield>
+    <subfield code="c">Z839</subfield>
+    <subfield code="f">CADUCEO</subfield>
+    <subfield code="f">GUERRIERO</subfield>
+    <subfield code="f">IGS</subfield>
+    <subfield code="f">SCUDO</subfield>
+    <subfield code="g">1504-1520</subfield>
+  </datafield>
+</record>
+</collection>

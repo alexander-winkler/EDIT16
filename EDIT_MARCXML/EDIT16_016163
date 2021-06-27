@@ -1,0 +1,68 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00910na 0a22002051i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\016163</controlfield>
+  <controlfield tag="005">20151014000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">De imitatione Christi</subfield>
+  </datafield>
+  <datafield tag="517" ind1="1" ind2=" ">
+    <subfield code="3">IT\ICCU\CNCE\043299</subfield>
+    <subfield code="a">De contemptu omnium vanitatum mundi</subfield>
+  </datafield>
+  <datafield tag="517" ind1="1" ind2=" ">
+    <subfield code="3">IT\ICCU\CNCE\050130</subfield>
+    <subfield code="a">Imitatio Christi</subfield>
+  </datafield>
+  <datafield tag="517" ind1="1" ind2=" ">
+    <subfield code="3">IT\ICCU\CNCE\050132</subfield>
+    <subfield code="a">De Christo imitando</subfield>
+  </datafield>
+  <datafield tag="517" ind1="1" ind2=" ">
+    <subfield code="3">IT\ICCU\CNCE\050133</subfield>
+    <subfield code="a">Contemptus mundi</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Gerson,</subfield>
+    <subfield code="b">Jean Charlier : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001101</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Thomas</subfield>
+    <subfield code="c"> : a#Kempis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008162</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Charlier De Gerson,</subfield>
+    <subfield code="b">Jean</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007956</subfield>
+    <subfield code="z">Gerson, Jean Charlier : de</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Gerson,</subfield>
+    <subfield code="b">Joannes</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014120</subfield>
+    <subfield code="z">Gerson, Jean Charlier : de</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Haemmerlein,</subfield>
+    <subfield code="b">Thomas : a#Kempis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014315</subfield>
+    <subfield code="z">Thomas : a#Kempis</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Kempis,</subfield>
+    <subfield code="b">Thomas : a</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014553</subfield>
+    <subfield code="z">Thomas : a#Kempis</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

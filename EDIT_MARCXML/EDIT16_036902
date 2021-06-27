@@ -1,0 +1,65 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00833ncm0a22002171i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\036902</controlfield>
+  <controlfield tag="005">20000606000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19980605d1566        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Modulationes in Magnificat ad omnes tropos, nuper aeditae a Simone Boyleau, in capella S. Mariae apud d. Celsum Phonasco, quatuor, quinque, ac sex vocibus distinctae</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Milano</subfield>
+    <subfield code="c">Cesare Pozzo</subfield>
+    <subfield code="d">1566</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">5 fasc.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">S, A, T, B, 5</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Milano</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Boyleau,</subfield>
+    <subfield code="b">Simon</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010351</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Pozzo, Cesare</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002785</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Puteus, Caesar</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003092</subfield>
+    <subfield code="z">Pozzo, Cesare</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Pozzi, Cesare</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005504</subfield>
+    <subfield code="z">Pozzo, Cesare</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Laudense. Lodi</subfield>
+    <subfield code="1">LO0020</subfield>
+    <subfield code="2">ZLO 05</subfield>
+  </datafield>
+</record>
+</collection>

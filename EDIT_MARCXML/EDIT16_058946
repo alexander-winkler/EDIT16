@@ -1,0 +1,58 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00832na 0a22001811i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\058946</controlfield>
+  <controlfield tag="005">20090205000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20040809             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Problematum Aristotelis selectiones duae de quadraginta Theodoro Gaza interprete. Problematun \!! Alexandri Aphrodisiei libri duo eodem Theodoro interprete</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Aristoteles</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000006</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Gaza,</subfield>
+    <subfield code="b">Theodorus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000101</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Alexander</subfield>
+    <subfield code="c"> :  Aphrodisiensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000270</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Aristotele</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018928</subfield>
+    <subfield code="z">Aristoteles</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Gazes,</subfield>
+    <subfield code="b">Theodoros</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008766</subfield>
+    <subfield code="z">Gaza, Theodorus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Gaza,</subfield>
+    <subfield code="b">Teodoro</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014082</subfield>
+    <subfield code="z">Gaza, Theodorus</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Alexander</subfield>
+    <subfield code="c"> : Aphrodisaeus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026284</subfield>
+    <subfield code="z">Alexander :  Aphrodisiensis</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

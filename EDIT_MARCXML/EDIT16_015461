@@ -1,0 +1,65 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00851nam0a2200205 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\015461</controlfield>
+  <controlfield tag="005">19970101000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1516        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Psalterio ouer Rosario della gloriosa Vergine Maria, con li soi misterii</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Napoli</subfield>
+    <subfield code="c">per Sigismondo Mayr</subfield>
+    <subfield code="d">1516</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\22! c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Napoli</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Confraternita del SS. Rosario</subfield>
+    <subfield code="c"> &lt;Napoli&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003945</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Mayr, Sigismondo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000066</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Compagnia del Psalterio</subfield>
+    <subfield code="c"> &lt;Napoli&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003946</subfield>
+    <subfield code="z">Confraternita del SS. Rosario &lt;Napoli&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Confraternita del Psalterio</subfield>
+    <subfield code="c"> &lt;Napoli&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003947</subfield>
+    <subfield code="z">Confraternita del SS. Rosario &lt;Napoli&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Mayr, Sigmund</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005129</subfield>
+    <subfield code="z">Mayr, Sigismondo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

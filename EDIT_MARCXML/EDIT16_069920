@@ -1,0 +1,47 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00515na 0a22001571i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\069920</controlfield>
+  <controlfield tag="005">20091106000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20070315             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Aurea Brocardica Azonis Bononiensis ...</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Azzone</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001002</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Azo,</subfield>
+    <subfield code="b">Portius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023408</subfield>
+    <subfield code="z">Azzone</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Azone</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023410</subfield>
+    <subfield code="z">Azzone</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Azo,</subfield>
+    <subfield code="b">Dominicus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023411</subfield>
+    <subfield code="z">Azzone</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Azo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023412</subfield>
+    <subfield code="z">Azzone</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

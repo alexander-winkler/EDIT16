@@ -1,0 +1,38 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00579na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\071270</controlfield>
+  <controlfield tag="005">20070626000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20070626             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Veneran. patris fratris Gerardi Senen.... ℗Tractatus de vsuris &amp; restitutionibus a magistro Fabiano Genuen. ad vnguem examinatus atque in lucem aeditus</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Chiavari,</subfield>
+    <subfield code="b">Fabiano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003002</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Fabianus</subfield>
+    <subfield code="c"> : Genuensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005054</subfield>
+    <subfield code="z">Chiavari, Fabiano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Fabiano</subfield>
+    <subfield code="c"> : da#Genova</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013940</subfield>
+    <subfield code="z">Chiavari, Fabiano</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

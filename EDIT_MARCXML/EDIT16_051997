@@ -1,0 +1,39 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00519na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\051997</controlfield>
+  <controlfield tag="005">20060413000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20010524             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Expositio in Isaiam</subfield>
+  </datafield>
+  <datafield tag="517" ind1="1" ind2=" ">
+    <subfield code="3">IT\ICCU\CNCE\051999</subfield>
+    <subfield code="a">Lectura Isaiae super oneribus</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Ioachim</subfield>
+    <subfield code="c"> &lt;abbas Florensis&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006621</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Gioacchino</subfield>
+    <subfield code="c"> : da#Fiore</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018770</subfield>
+    <subfield code="z">Ioachim &lt;abbas Florensis&gt;</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Fiore,</subfield>
+    <subfield code="b">Gioacchino : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020118</subfield>
+    <subfield code="z">Ioachim &lt;abbas Florensis&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

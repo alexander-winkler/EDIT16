@@ -1,0 +1,178 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02408nam0a2200457 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\073531</controlfield>
+  <controlfield tag="005">20120524000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e-se n-c. meim ripr (3) 1591 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20081105d1591        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Heroidum epistolae P. Ouidij Nasonis. Et Auli Sabini Responsiones, cum Guidonis Morillonij argumentis, ac scholijs. Hic accesserunt Ioannis Baptist ̆Egnatij obseruationes</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Vincentiae</subfield>
+    <subfield code="c">\Giorgio Greco!</subfield>
+    <subfield code="c">apud Paulum Meietum</subfield>
+    <subfield code="d">1591</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">221, \1! p.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Vicenza</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Ovidius Naso,</subfield>
+    <subfield code="b">Publius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003076</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Sabino,</subfield>
+    <subfield code="b">Angelo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012457</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Morillon,</subfield>
+    <subfield code="b">Gui</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012458</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Egnazio,</subfield>
+    <subfield code="b">Giovanni Battista</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003049</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Meietti, Paolo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000300</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Greco, Giorgio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000092</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Ovidius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022433</subfield>
+    <subfield code="z">Ovidius Naso, Publius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Publius Ovidius Naso</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022434</subfield>
+    <subfield code="z">Ovidius Naso, Publius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Sabinus,</subfield>
+    <subfield code="b">Angelus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\017208</subfield>
+    <subfield code="z">Sabino, Angelo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Sabinus,</subfield>
+    <subfield code="b">Aulus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\017209</subfield>
+    <subfield code="z">Sabino, Angelo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Morillonus,</subfield>
+    <subfield code="b">Guido</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021186</subfield>
+    <subfield code="z">Morillon, Gui</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Morillon,</subfield>
+    <subfield code="b">Guy</subfield>
+    <subfield code="3">IT\ICCU\CNCA\021810</subfield>
+    <subfield code="z">Morillon, Gui</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Cipelli,</subfield>
+    <subfield code="b">Giovanni Battista</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003293</subfield>
+    <subfield code="z">Egnazio, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Egnatius,</subfield>
+    <subfield code="b">Ioannes Baptista</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013969</subfield>
+    <subfield code="z">Egnazio, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Egnatius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023268</subfield>
+    <subfield code="z">Egnazio, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Egnatius</subfield>
+    <subfield code="c"> : Venetus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023272</subfield>
+    <subfield code="z">Egnazio, Giovanni Battista</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Megietti, Paolo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003998</subfield>
+    <subfield code="z">Meietti, Paolo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Miglietti, Paolo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003999</subfield>
+    <subfield code="z">Meietti, Paolo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Megietto, Paolo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005150</subfield>
+    <subfield code="z">Meietti, Paolo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Meietus, Paulus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005151</subfield>
+    <subfield code="z">Meietti, Paolo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Meietto, Paolo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005152</subfield>
+    <subfield code="z">Meietti, Paolo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Graecus, Georgius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005047</subfield>
+    <subfield code="z">Greco, Giorgio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica. Verona</subfield>
+    <subfield code="1">VR0059</subfield>
+    <subfield code="2">ZVR 02</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000809</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000809</subfield>
+    <subfield code="b">Grifone che regge con l&apos;artiglio una pietra alla quale  ̈incatenato un globo alato.</subfield>
+    <subfield code="c">Z709</subfield>
+    <subfield code="d">Dimensioni: 4 x 4,5</subfield>
+    <subfield code="f">GRIFONE</subfield>
+    <subfield code="f">PIETRA</subfield>
+    <subfield code="f">GLOBO</subfield>
+    <subfield code="g">1591-1597</subfield>
+  </datafield>
+</record>
+</collection>

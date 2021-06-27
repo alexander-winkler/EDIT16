@@ -1,0 +1,106 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01956nam0a22003011i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\059458</controlfield>
+  <controlfield tag="005">20070419000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">e.*. reru into teqa (3) 1574 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20041018d1574        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Ioannis Francisci a&apos; Ripa Papiensis ℗Commentaria ad ius civile. Additis in hac postrema editione, quae in praecedentibus desiderabantur. Summo studio ac labore, collatis manuscriptis exemplaribus, innumeris prop ̈mendis purgata. Additionibus insuper analyticis clarissimi d. Bernardi Trotti i.c. et in Taurinensi Academia professoris acutissimi, nunc recens illustrata. Communes praeterea doctorum sententiae ab authore passim citatae, hoc signo praenotantur. Index rerum &amp; verborum in calcem secundi voluminis est reiectus</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Augustae Taurinorum</subfield>
+    <subfield code="c">apud haeredes Nicolai Beuilaquae</subfield>
+    <subfield code="d">1574</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">328 c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Torino</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Ripa,</subfield>
+    <subfield code="b">Giovanni Francesco : da</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012905</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Trotti,</subfield>
+    <subfield code="b">Bernardo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004417</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Bevilacqua, Niccol ̣- eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000513</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Riva di San Nazzaro,</subfield>
+    <subfield code="b">Gianni Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\009677</subfield>
+    <subfield code="z">Ripa, Giovanni Francesco : da</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Sannazari della Ripa,</subfield>
+    <subfield code="b">Gianfrancesco</subfield>
+    <subfield code="3">IT\ICCU\CNCA\023444</subfield>
+    <subfield code="z">Ripa, Giovanni Francesco : da</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Trottus,</subfield>
+    <subfield code="b">Bernardus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018642</subfield>
+    <subfield code="z">Trotti, Bernardo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Trotto,</subfield>
+    <subfield code="b">Bernardo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022663</subfield>
+    <subfield code="z">Trotti, Bernardo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca provinciale Salvatore Tommasi. Bazzano</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">AQ0047</subfield>
+    <subfield code="2">ABR PR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Valentiniana. Camerino</subfield>
+    <subfield code="1">MC0004</subfield>
+    <subfield code="2">UMC BV</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale Vittorio Emanuele III. Napoli</subfield>
+    <subfield code="1">NA0079</subfield>
+    <subfield code="2">NAP BN</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Seminario Vescovile della Facolt ̉Teologica del Triveneto dell&apos;Istituto Filosofico Aloisianum. Padova</subfield>
+    <subfield code="1">PD0073</subfield>
+    <subfield code="2">PUV 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Pavia</subfield>
+    <subfield code="1">PV0291</subfield>
+    <subfield code="2">MIL UP</subfield>
+  </datafield>
+</record>
+</collection>

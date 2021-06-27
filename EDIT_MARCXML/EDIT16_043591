@@ -1,0 +1,232 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>04352nam0a2200529 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\043591</controlfield>
+  <controlfield tag="005">20071128000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">o.e. o?o, e.re SeFa (3) 1573 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">1</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">o.no i.mi e.e, DiPa (3) 1574 (Q)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">2</subfield>
+  </datafield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">o.o, a.a, i.ri QuAt (3) 1574 (R)</subfield>
+    <subfield code="2">fei</subfield>
+    <subfield code="9">3</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19990105g15731574    0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗La ℗nobilt ̉di Roma. Versi in lode di cento gentildonne romane. Et le vilanelle  ̉tre voci di Gasparo Fiorino, della citt ̉di Rossano, musico dell&apos;illustrissimo &amp; reuerendissimo signore cardinale di Ferrara. Intauolate dal magnifico m. Francesco di Parise, musico eccellentissimo in Roma. Nuouamente ristampate</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Vinegia</subfield>
+    <subfield code="c">appresso Girolamo Scotto</subfield>
+    <subfield code="d">1573</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">3 v.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">2 : Libro secondo.Canzonelle a tre e  ̉quattro voci di Gasparo Fiorino ... In lode &amp; gloria d&apos;alcune signore &amp; gentildonne genouesi ... \Venezia : eredi di Antonio Gardane, 1574!. - La data del 2ʻ v. si ricava dalla dedica.3 : Libro  terzo di canzonelle a tre, et a quattro voci di Gasparo Fiorino ... in materia di diuersi principi, et signori et altri soggetti ... In Vineggia : appresso l&apos;herede di Girolamo Scotto, 1574</subfield>
+  </datafield>
+  <datafield tag="423" ind1=" " ind2="0">
+    <subfield code="1">001IT\ICCU\CNCE\071325</subfield>
+    <subfield code="1">2001 </subfield>
+    <subfield code="a">Libro secondo. Canzonelle a tre e Aa quattro voci di Gasparo Fiorino della cittAa di Rossano, musico.</subfield>
+  </datafield>
+  <datafield tag="423" ind1=" " ind2="0">
+    <subfield code="1">001IT\ICCU\CNCE\071326</subfield>
+    <subfield code="1">2001 </subfield>
+    <subfield code="a">Libro terzo di canzonelle a tre, et a quattro voci di Gasparo Fiorino della cittAa di Rossano musico.</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Fiorino,</subfield>
+    <subfield code="b">Gaspare</subfield>
+    <subfield code="3">IT\ICCU\CNCA\011542</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Francesco</subfield>
+    <subfield code="c"> : da#Parigi</subfield>
+    <subfield code="3">IT\ICCU\CNCA\011543</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Scoto, Girolamo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000134</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Gardane, Antonio - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003018</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Scoto, Girolamo - erede</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000459</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Francesco</subfield>
+    <subfield code="c"> : di#Parise</subfield>
+    <subfield code="3">IT\ICCU\CNCA\011544</subfield>
+    <subfield code="z">Francesco : da#Parigi</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Scotto, Girolamo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002826</subfield>
+    <subfield code="z">Scoto, Girolamo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Schottus, Hieronymus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004087</subfield>
+    <subfield code="z">Scoto, Girolamo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Scotus, Hieronymus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005629</subfield>
+    <subfield code="z">Scoto, Girolamo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Scottus, Hieronymus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005630</subfield>
+    <subfield code="z">Scoto, Girolamo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Schotus, Hieronymus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005631</subfield>
+    <subfield code="z">Scoto, Girolamo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Scotti, Girolamo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005632</subfield>
+    <subfield code="z">Scoto, Girolamo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Museo Internazionale e Biblioteca della Musica. Bologna</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">BO0310</subfield>
+    <subfield code="2">UBO BM</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Conservatorio statale di musica Luigi Cherubini. Firenze</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">FI0035</subfield>
+    <subfield code="2">CFI FC</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Firenze</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">FI0098</subfield>
+    <subfield code="2">CFI CF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Casanatense. Roma</subfield>
+    <subfield code="1">RM0313</subfield>
+    <subfield code="2">RML 07</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Marca tip. con motto sul front. del 1ʻ v.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000053</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul colophon del 3 v.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000086</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Marca tip. con motto sul front. del 3ʻ v.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000306</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Marca tip. con motto sul colophon del 3ʻ v.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000305</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front. del v. 2</subfield>
+    <subfield code="9">IT\ICCU\CNCM\001548</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000053</subfield>
+    <subfield code="b">Fama (donna alata con in bocca un corno tiene uno scudo con iniziali O.S.M. Ai lati uomini con faretre. In alto Mercurio volante in atto di incoronarla</subfield>
+    <subfield code="e">Famam extendere factis est virtutis opus</subfield>
+    <subfield code="c">V457</subfield>
+    <subfield code="c">Z521</subfield>
+    <subfield code="d">Dimensioni : 6x7</subfield>
+    <subfield code="f">FAMA</subfield>
+    <subfield code="f">FAMAMEXTEN</subfield>
+    <subfield code="f">MERCURIO</subfield>
+    <subfield code="f">OSM</subfield>
+    <subfield code="f">TROMBA</subfield>
+    <subfield code="g">1539-1594</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000086</subfield>
+    <subfield code="b">Leone ed orso rampanti sorreggono una rosa con al centro un giglio. Ai lati del fiore le iniziali: A.G.</subfield>
+    <subfield code="e">Concordes virtute et naturae miraculis</subfield>
+    <subfield code="c">V355</subfield>
+    <subfield code="c">Z801</subfield>
+    <subfield code="d">Dimensioni : 11 x 10</subfield>
+    <subfield code="f">AG</subfield>
+    <subfield code="f">GIGLIO</subfield>
+    <subfield code="f">LEONE</subfield>
+    <subfield code="f">ORSO</subfield>
+    <subfield code="f">ROSA</subfield>
+    <subfield code="g">1539-1576</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000306</subfield>
+    <subfield code="b">Le *tre Grazie in un palmeto. Sopra la cornice due putti sostengono un nastro con il motto. In cornice figurata</subfield>
+    <subfield code="e">Virtus in omni re dominatur</subfield>
+    <subfield code="c">V463</subfield>
+    <subfield code="d">Dimensioni: 8,5 x 11,5</subfield>
+    <subfield code="f">GRAZIE</subfield>
+    <subfield code="f">PALMETO</subfield>
+    <subfield code="f">PUTTI</subfield>
+    <subfield code="f">VIRTUSINOM</subfield>
+    <subfield code="g">1573-1595</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000305</subfield>
+    <subfield code="b">Pace (donna seduta su globo celeste con ramo d&apos;olivo nella destra).</subfield>
+    <subfield code="e">Fiat pax in virtute tua.</subfield>
+    <subfield code="c">Z923</subfield>
+    <subfield code="d">Dimensioni: 8 x 9</subfield>
+    <subfield code="f">FIATPAXINV</subfield>
+    <subfield code="f">MAPPAMONDO</subfield>
+    <subfield code="f">PACE</subfield>
+    <subfield code="f">OLIVO</subfield>
+    <subfield code="g">1540-1595</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\001548</subfield>
+    <subfield code="b">Orso e leone rampanti sostengono fiore. Nella cornice del frontespizio</subfield>
+    <subfield code="e">Concordes virtute et naturae miraculis</subfield>
+    <subfield code="c">U444</subfield>
+    <subfield code="d">Dimensioni della marca: 7,2 x 4,2</subfield>
+    <subfield code="f">ORSO</subfield>
+    <subfield code="f">LEONE</subfield>
+    <subfield code="f">FIORE</subfield>
+    <subfield code="g">1559-1574</subfield>
+  </datafield>
+</record>
+</collection>

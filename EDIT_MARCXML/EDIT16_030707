@@ -1,0 +1,133 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01780nam0a22003491i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\030707</controlfield>
+  <controlfield tag="005">20120403000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">s,am X.*. *,r, frqu (3) 1560 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971128d1560        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Leonis Rogani Caetani ℗De vrinis libri III. Quorum primus de vrinarum differentijs est. Secundus de vrinarum causis. Tertius de prouidentia ex urinis</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Romae</subfield>
+    <subfield code="c">in officina Saluiana</subfield>
+    <subfield code="d">1560</subfield>
+    <subfield code="e">Romae</subfield>
+    <subfield code="g">in officina Saluiana</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">83, \1! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Roma</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Rogano,</subfield>
+    <subfield code="b">Leone</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007889</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Salviani,</subfield>
+    <subfield code="b">Ippolito</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006962</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Salviani, Ippolito</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000955</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Roganus,</subfield>
+    <subfield code="b">Leo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018170</subfield>
+    <subfield code="z">Rogano, Leone</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Salvianus,</subfield>
+    <subfield code="b">Hippolytus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024272</subfield>
+    <subfield code="z">Salviani, Ippolito</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Salviano,</subfield>
+    <subfield code="b">Ippolito</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024273</subfield>
+    <subfield code="z">Salviani, Ippolito</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Officina Salviana</subfield>
+    <subfield code="c"> &lt;Roma&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003025</subfield>
+    <subfield code="z">Salviani, Ippolito</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Salviano, Hippolito</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005544</subfield>
+    <subfield code="z">Salviani, Ippolito</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Salvianus, Hippolitus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005545</subfield>
+    <subfield code="z">Salviani, Ippolito</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica A. Mai. Bergamo</subfield>
+    <subfield code="1">BG0026</subfield>
+    <subfield code="2">LO1 02</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Bologna</subfield>
+    <subfield code="1">BO0098</subfield>
+    <subfield code="2">UBO BU</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Firenze</subfield>
+    <subfield code="1">FI0098</subfield>
+    <subfield code="2">CFI CF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Roma</subfield>
+    <subfield code="1">RM0267</subfield>
+    <subfield code="2">BVE CR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale. Terni</subfield>
+    <subfield code="1">TR0032</subfield>
+    <subfield code="2">UM1 09</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000379</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000379</subfield>
+    <subfield code="b">Uomo (Sansone) che trasporta sulle spalle due colonne incrociate</subfield>
+    <subfield code="e">Nihil difficile volenti</subfield>
+    <subfield code="c">V121</subfield>
+    <subfield code="c">Z1022</subfield>
+    <subfield code="d">Dimensioni: 4 x 5</subfield>
+    <subfield code="f">COLONNE</subfield>
+    <subfield code="f">NIHILDIFFI</subfield>
+    <subfield code="f">UOMO</subfield>
+    <subfield code="g">1554-1574</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,179 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>03055nam0a2200457 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\029903</controlfield>
+  <controlfield tag="005">20100316000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">j.j. s.o- onam repo (3) 1514 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971124d1514        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Marsilij de Sancta Sophia Patauini artium &amp; medicine doctoris profundissimi ℗De febribus celeberrimus tractatus cum omnium accidentium cura nouissime recognitus. Additis tribus solemnissimis tractatibus de febribus inferius descriptis: nunc primum in lucem editis. Una cum elegantibus repertorijs nouiter excogitatis: que omnes principales materias mirifice demonstrant. Tractatus tres  videlicet Galeatij de sancta Sophia de feb. cum cura accidentium. Ricardi Parisiensis De signis febrium. Antonij De GradisMediolanensis De febribus</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Venetijs</subfield>
+    <subfield code="g">mandato et impensis heredum nobilis viri domini Octauiani Scoti ciuis Modoetiensis &amp; sociorum</subfield>
+    <subfield code="g">impressi per Georgium Arriuabenum</subfield>
+    <subfield code="h">1514 die 6 Septembris</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\2!, 56, 66, 13, \1! c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Santa Sofia,</subfield>
+    <subfield code="b">Marsilio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006399</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Santa Sofia,</subfield>
+    <subfield code="b">Galeazzo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018538</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Ricardus</subfield>
+    <subfield code="c"> : Parisiensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018691</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">De_Gradi,</subfield>
+    <subfield code="b">Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005147</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Arrivabene, Giorgio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000599</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Scoto, Ottaviano &lt;1.&gt; - eredi &amp; C.</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002931</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Marsilio</subfield>
+    <subfield code="c"> : da#Santa Sofia</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014592</subfield>
+    <subfield code="z">Santa Sofia, Marsilio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Sancta Sophia,</subfield>
+    <subfield code="b">Marsilius : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014915</subfield>
+    <subfield code="z">Santa Sofia, Marsilio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Sancta Sophia,</subfield>
+    <subfield code="b">Galeatius : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018540</subfield>
+    <subfield code="z">Santa Sofia, Galeazzo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Galeazzo</subfield>
+    <subfield code="c"> : da#Santa Sofia</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018586</subfield>
+    <subfield code="z">Santa Sofia, Galeazzo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Ricardus</subfield>
+    <subfield code="c"> : Anglicus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018740</subfield>
+    <subfield code="z">Ricardus : Parisiensis</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Gradius,</subfield>
+    <subfield code="b">Antonius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005328</subfield>
+    <subfield code="z">De_Gradi, Antonio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Agrati,</subfield>
+    <subfield code="b">Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\026304</subfield>
+    <subfield code="z">De_Gradi, Antonio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Arrivabenis, Georgius de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004264</subfield>
+    <subfield code="z">Arrivabene, Giorgio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Arrivabenus, Georgius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004265</subfield>
+    <subfield code="z">Arrivabene, Giorgio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Firenze</subfield>
+    <subfield code="1">FI0098</subfield>
+    <subfield code="2">CFI CF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Berio. Genova</subfield>
+    <subfield code="1">GE0036</subfield>
+    <subfield code="2">SGE BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca universitaria. Padova</subfield>
+    <subfield code="1">PD0158</subfield>
+    <subfield code="2">PUV 00</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteche del Polo di medicina legale, anatomia patologica e storia della medicina dell&apos;Universit ̉degli Studi di Padova. Padova</subfield>
+    <subfield code="1">PD0403</subfield>
+    <subfield code="2">PUV 43</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Forteguerriana. Pistoia</subfield>
+    <subfield code="1">PT0025</subfield>
+    <subfield code="2">RT1 IE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Angelica. Roma</subfield>
+    <subfield code="1">RM0290</subfield>
+    <subfield code="2">RML 06</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Bertoliana. Vicenza</subfield>
+    <subfield code="1">VI0096</subfield>
+    <subfield code="2">VIA BE</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Nel coloph.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000020</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000020</subfield>
+    <subfield code="b">Cerchio con croce doppia e iniziali O.S.M. su sfondo nero</subfield>
+    <subfield code="c">K281</subfield>
+    <subfield code="c">Z272</subfield>
+    <subfield code="d">Dimensioni: 5,8 x 9,3</subfield>
+    <subfield code="f">CERCHIO</subfield>
+    <subfield code="f">OSM</subfield>
+    <subfield code="f">CROCE</subfield>
+    <subfield code="g">[150.]-1517</subfield>
+  </datafield>
+</record>
+</collection>

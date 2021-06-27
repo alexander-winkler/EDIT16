@@ -1,0 +1,38 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00579na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\072500</controlfield>
+  <controlfield tag="005">20160920000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20080221             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗La ℗seconda parte de le prediche, di m. Giulio da Milano, predicate in Vinetia, nel tempio di San Casciano, ne l&apos;anno del MDXXXXI</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Giulio</subfield>
+    <subfield code="c"> : da#Milano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016815</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Della_Rovere,</subfield>
+    <subfield code="b">Giulio</subfield>
+    <subfield code="c"> &lt;monaco agostiniano&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016816</subfield>
+    <subfield code="z">Giulio : da#Milano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Girolamo Savonese</subfield>
+    <subfield code="3">IT\ICCU\CNCA\028633</subfield>
+    <subfield code="z">Giulio : da#Milano</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

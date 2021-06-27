@@ -1,0 +1,65 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00929na 0a22001931i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\001280</controlfield>
+  <controlfield tag="005">20191023000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Altobello</subfield>
+  </datafield>
+  <datafield tag="517" ind1="1" ind2=" ">
+    <subfield code="3">IT\ICCU\CNCE\049074</subfield>
+    <subfield code="a">Historia de Altobello e de re Troiano</subfield>
+  </datafield>
+  <datafield tag="517" ind1="1" ind2=" ">
+    <subfield code="3">IT\ICCU\CNCE\049118</subfield>
+    <subfield code="a">Libro de le battaglie de li baroni di Francia sotto il nome di Altobello</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Rubini, Bartolomeo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000658</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Robini, Bartolomeo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002578</subfield>
+    <subfield code="z">Rubini, Bartolomeo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Rubinus, Bartolomaeus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005422</subfield>
+    <subfield code="z">Rubini, Bartolomeo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Rubino, Bartholomeo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005423</subfield>
+    <subfield code="z">Rubini, Bartolomeo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Robino, Bartolomeo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005425</subfield>
+    <subfield code="z">Rubini, Bartolomeo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\002030</subfield>
+    <subfield code="b">Giureconsulto seduto riceve un libro.</subfield>
+    <subfield code="e">Omnibus idem</subfield>
+    <subfield code="c">V447</subfield>
+    <subfield code="d">Dimensioni: 2,9 x 4</subfield>
+    <subfield code="f">GIURECONSU</subfield>
+    <subfield code="f">LIBRO</subfield>
+    <subfield code="g">1574-1576</subfield>
+  </datafield>
+</record>
+</collection>

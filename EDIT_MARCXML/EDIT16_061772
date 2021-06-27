@@ -1,0 +1,81 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01497nam0a22002411i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\061772</controlfield>
+  <controlfield tag="005">20051012000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20051010d1561        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Repertorium ... domini Ioannis Antonio de Nigris de Ciuitate campaniae. 1.5. doctoris super capitulis regni, et recollectis additionibus Ioannis Arcamoni, Neapodani Sebastiani de Neapoli, Bartolomei de Capua, NIcolai de Neapoli, Luce de Penna, ac mirifico apparatu eiusdem Ioannis Antonij de Nigrissuper capitulis regni ... nouiter impressum, et in lucem editum</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Ciuitate Campaniae</subfield>
+    <subfield code="c">Apud Io. Dominicum Nibium</subfield>
+    <subfield code="d">1561</subfield>
+    <subfield code="e">Impressum ... in aedibus eiusdem Io. Dominici eius propriis sumptibus</subfield>
+    <subfield code="h">die XIIII. Mensi Augusti. Quarte indictionis</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">2pt. (42; 290)c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a"></subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">De_Nigris,</subfield>
+    <subfield code="b">Giovanni Antonio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004752</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Luca</subfield>
+    <subfield code="c"> : da#Penne</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004427</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Nibbio, Giovanni Domenico</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002663</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Nigris,</subfield>
+    <subfield code="b">Giovanni Antonio : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014785</subfield>
+    <subfield code="z">De_Nigris, Giovanni Antonio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Penna,</subfield>
+    <subfield code="b">Lucas : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004755</subfield>
+    <subfield code="z">Luca : da#Penne</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Penna,</subfield>
+    <subfield code="b">Luca : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019600</subfield>
+    <subfield code="z">Luca : da#Penne</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Nibius, Ioannes Dominicus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005111</subfield>
+    <subfield code="z">Nibbio, Giovanni Domenico</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Casanatense. Roma</subfield>
+    <subfield code="1">RM0313</subfield>
+    <subfield code="2">RML 07</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,69 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00857nam0a22002171i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\056968</controlfield>
+  <controlfield tag="005">20060508000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20040330d1503        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Nouellino de Masuccio Salernitano</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Impresso in Venetia</subfield>
+    <subfield code="g">per Bertholomio de Zannis da Portese</subfield>
+    <subfield code="h">1503 adi XXIX de februaro</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">64 c.</subfield>
+    <subfield code="c">ill.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Masuccio</subfield>
+    <subfield code="c"> : Salernitano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008966</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Zani, Bartolomeo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000488</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Guardati,</subfield>
+    <subfield code="b">Tommaso</subfield>
+    <subfield code="3">IT\ICCU\CNCA\017161</subfield>
+    <subfield code="z">Masuccio : Salernitano</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Zanni, Bartolomeo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002955</subfield>
+    <subfield code="z">Zani, Bartolomeo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Zannis, Bartholomeus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005809</subfield>
+    <subfield code="z">Zani, Bartolomeo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Zanis, Bartholomeus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005810</subfield>
+    <subfield code="z">Zani, Bartolomeo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

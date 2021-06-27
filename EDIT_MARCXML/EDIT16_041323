@@ -1,0 +1,111 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01597nam0a2200313 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\041323</controlfield>
+  <controlfield tag="005">20071108000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">a.ta noar u-i: lami (C) 1523 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19981124d1523        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Contro alla peste. Il consiglio di messer Marsilio Ficino. Remedio di maestro Tommaso del Garbo. Una ricepta duna \!! poluere composta da maestro Mingo da Faenza. Una ricetta facta nello studio di Bologna, &amp; molti altri remedij</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="e">Impresso in Fiorenza</subfield>
+    <subfield code="g">per ser Francesco di Hieronymo Risorboli</subfield>
+    <subfield code="h">nel mese di marzo 1523</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\60! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Firenze</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Ficino,</subfield>
+    <subfield code="b">Marsilio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003110</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Del_Garbo,</subfield>
+    <subfield code="b">Tommaso</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003111</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Bianchelli,</subfield>
+    <subfield code="b">Mengo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001704</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Risorboli, Francesco</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003363</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Cappelli,</subfield>
+    <subfield code="b">Marsilio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019009</subfield>
+    <subfield code="z">Ficino, Marsilio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Garbo,</subfield>
+    <subfield code="b">Tommaso : del</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018517</subfield>
+    <subfield code="z">Del_Garbo, Tommaso</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Garbo,</subfield>
+    <subfield code="b">Thomas : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022122</subfield>
+    <subfield code="z">Del_Garbo, Tommaso</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Mengo</subfield>
+    <subfield code="c"> : da#Faenza</subfield>
+    <subfield code="3">IT\ICCU\CNCA\005366</subfield>
+    <subfield code="z">Bianchelli, Mengo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Blanchellus,</subfield>
+    <subfield code="b">Menghus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007985</subfield>
+    <subfield code="z">Bianchelli, Mengo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Menghus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\012784</subfield>
+    <subfield code="z">Bianchelli, Mengo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca comunale Ariostea. Ferrara</subfield>
+    <subfield code="1">FE0017</subfield>
+    <subfield code="2">UFE AR</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Firenze</subfield>
+    <subfield code="1">FI0098</subfield>
+    <subfield code="2">CFI CF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Collezione privata Tiezzi Mazzoni Della Stella Maestri. Torrita di Siena</subfield>
+    <subfield code="1">SI0161</subfield>
+    <subfield code="2">ZSI 14</subfield>
+  </datafield>
+</record>
+</collection>

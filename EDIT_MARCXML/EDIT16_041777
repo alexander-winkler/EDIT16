@@ -1,0 +1,27 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00332na 0a22001091i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\041777</controlfield>
+  <controlfield tag="005">20050609000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19981201             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">De universi natura</subfield>
+  </datafield>
+  <datafield tag="517" ind1="1" ind2=" ">
+    <subfield code="3">IT\ICCU\CNCE\052928</subfield>
+    <subfield code="a">Peri tes tou pantos physeos</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Ocellus</subfield>
+    <subfield code="c"> : Lucanus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\011337</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

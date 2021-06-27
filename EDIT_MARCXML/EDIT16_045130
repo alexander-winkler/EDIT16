@@ -1,0 +1,102 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01445nam0a22003011i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\045130</controlfield>
+  <controlfield tag="005">20190219000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">5.s. o.el n*i- ere- (S) 1595 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19990121d1595        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Clemens Papa VIII Ad perpetuam rei memoriae. Aequa, &amp; circumspecta ...</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Romae</subfield>
+    <subfield code="c">apud impressores Camerales</subfield>
+    <subfield code="d">1595</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">1 foglio</subfield>
+    <subfield code="d">atl</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Data di emanazione: Roma, 18 dicembre 1595</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Roma</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Clemens</subfield>
+    <subfield code="c"> &lt;papa</subfield>
+    <subfield code="c"> ; 8.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000064</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="2">
+    <subfield code="a">Stamperia Camerale</subfield>
+    <subfield code="c"> &lt;Roma&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002461</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Aldobrandini,</subfield>
+    <subfield code="b">Ippolito</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007560</subfield>
+    <subfield code="z">Clemens &lt;papa ; 8.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Typographia Reverendae Camerae Apostolicae</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002739</subfield>
+    <subfield code="z">Stamperia Camerale &lt;Roma&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Impressores Camerales</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003607</subfield>
+    <subfield code="z">Stamperia Camerale &lt;Roma&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Stamperia della reverenda Camera Apostolica</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005740</subfield>
+    <subfield code="z">Stamperia Camerale &lt;Roma&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Stampatori Camerali</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005741</subfield>
+    <subfield code="z">Stamperia Camerale &lt;Roma&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="2">
+    <subfield code="a">Typographi Camerales</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005742</subfield>
+    <subfield code="z">Stamperia Camerale &lt;Roma&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Zelantea. Acireale</subfield>
+    <subfield code="1">CT0260</subfield>
+    <subfield code="2">CAT ZE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Monumento nazionale di Praglia. Teolo</subfield>
+    <subfield code="1">PD0206</subfield>
+    <subfield code="2">PUV 24</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca P. Bertolla del Seminario arcivescovile. Udine</subfield>
+    <subfield code="1">UD0123</subfield>
+    <subfield code="2">ZUD 06</subfield>
+  </datafield>
+</record>
+</collection>

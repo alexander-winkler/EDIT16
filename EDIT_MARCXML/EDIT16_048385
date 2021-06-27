@@ -1,0 +1,52 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00660na 0a22001691i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\048385</controlfield>
+  <controlfield tag="005">20021118000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19990325             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Catonis ℗Carmen de moribus</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2="1">
+    <subfield code="3">IT\ICCU\CNCE\017097</subfield>
+    <subfield code="a">Dicta Catonis</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Cato,</subfield>
+    <subfield code="b">Marcus Porcius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010196</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Cato Censorius,</subfield>
+    <subfield code="b">Marcus Porcius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016740</subfield>
+    <subfield code="z">Cato, Marcus Porcius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Cato  Maior</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018590</subfield>
+    <subfield code="z">Cato, Marcus Porcius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Catone,</subfield>
+    <subfield code="b">Marco Porcio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018591</subfield>
+    <subfield code="z">Cato, Marcus Porcius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Catone</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018592</subfield>
+    <subfield code="z">Cato, Marcus Porcius</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>

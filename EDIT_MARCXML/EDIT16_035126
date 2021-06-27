@@ -1,0 +1,106 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01709nam0a22002891i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\035126</controlfield>
+  <controlfield tag="005">20191119000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">i-n- e,to n-l- mein (3) 1544 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19980109d1544        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Historia del valorosissimo Cauallier de la Croce, che per sue gran prodezze dopo uarie imprese fu a l&apos;imperio de Alemagna soblimato. Tratta nuouamente da l&apos;idioma spagnuolo in lingua italiana</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">In Venetia</subfield>
+    <subfield code="c">\Michele Tramezzino!</subfield>
+    <subfield code="d">1544</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\4!, 180, \4! c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="500" ind1="1" ind2="1">
+    <subfield code="3">IT\ICCU\CNCE\042217</subfield>
+    <subfield code="a">Lepolemo</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Tramezzino, Michele</subfield>
+    <subfield code="c"> &lt;1.&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000227</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Tramezinus, Michael</subfield>
+    <subfield code="c"> &lt;1&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005599</subfield>
+    <subfield code="z">Tramezzino, Michele &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Tramezino, Michiel</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005600</subfield>
+    <subfield code="z">Tramezzino, Michele &lt;1.&gt;</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca del Dipartimento di lingue e letterature straniere moderne dell&apos;Universit ̉degli studi di Bologna. Bologna</subfield>
+    <subfield code="1">BO0452</subfield>
+    <subfield code="2">UBO LL</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Estense Universitaria. Modena</subfield>
+    <subfield code="1">MO0089</subfield>
+    <subfield code="2">MOD BE</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">British Library. London</subfield>
+    <subfield code="1">UK0001</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">Sul front.</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000166</subfield>
+  </datafield>
+  <datafield tag="911" ind1=" " ind2=" ">
+    <subfield code="a">In fine</subfield>
+    <subfield code="9">IT\ICCU\CNCM\000708</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000166</subfield>
+    <subfield code="b">Sibilla in piedi con libro chiuso nella mano destra e paesaggio sullo sfondo. In basso a sinistra altro libro aperto. Nel nastro in alto: Sibilla</subfield>
+    <subfield code="c">A127</subfield>
+    <subfield code="c">V489</subfield>
+    <subfield code="c">Z1073</subfield>
+    <subfield code="d">Dimensioni: 6,4 x 7,2</subfield>
+    <subfield code="f">LIBRO</subfield>
+    <subfield code="f">PAESAGGIO</subfield>
+    <subfield code="f">SIBILLA</subfield>
+    <subfield code="g">1539-1549</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000708</subfield>
+    <subfield code="b">Sibilla in piedi con libro chiuso nella mano sinistra e paesaggio sullo sfondo. In basso a destra altro libro aperto</subfield>
+    <subfield code="c">A126</subfield>
+    <subfield code="c">Z1069</subfield>
+    <subfield code="f">LIBRO</subfield>
+    <subfield code="f">PAESAGGIO</subfield>
+    <subfield code="f">SIBILLA</subfield>
+    <subfield code="g">1544</subfield>
+  </datafield>
+</record>
+</collection>

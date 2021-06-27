@@ -1,0 +1,38 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00528na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\036290</controlfield>
+  <controlfield tag="005">20060426000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19980204             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">℗Magistri Laurentii Brixiensis ℗In Ioannis Scoti ... formalitates isagogica expositio</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="0">
+    <subfield code="a">Lorenzo</subfield>
+    <subfield code="c"> : da#Brescia</subfield>
+    <subfield code="3">IT\ICCU\CNCA\008561</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Laurentius</subfield>
+    <subfield code="c"> : Brixiensis</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020612</subfield>
+    <subfield code="z">Lorenzo : da#Brescia</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Laurentius</subfield>
+    <subfield code="c"> : Brixianus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020613</subfield>
+    <subfield code="z">Lorenzo : da#Brescia</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

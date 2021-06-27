@@ -1,0 +1,83 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00998nam0a2200253 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\010760</controlfield>
+  <controlfield tag="005">19970101000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">toto reto reto reto (C) 1558 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1558        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">ITA</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Tognia, comedia rusticale e soldatesca, composta per il Resoluto de i Rozzi</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Roma</subfield>
+    <subfield code="c">Valerio Dorico</subfield>
+    <subfield code="d">1558</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">4 c.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Roma</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Cenni,</subfield>
+    <subfield code="b">Angelo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001268</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Dorico, Valerio</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001061</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Risoluto</subfield>
+    <subfield code="c"> : dei#Rozzi</subfield>
+    <subfield code="3">IT\ICCU\CNCA\013135</subfield>
+    <subfield code="z">Cenni, Angelo</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Resoluto</subfield>
+    <subfield code="c"> : Rozo</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016549</subfield>
+    <subfield code="z">Cenni, Angelo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Dorichus, Valerius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004721</subfield>
+    <subfield code="z">Dorico, Valerio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Doricus, Valerius</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004723</subfield>
+    <subfield code="z">Dorico, Valerio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Oricus, Valerius d&apos;</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004726</subfield>
+    <subfield code="z">Dorico, Valerio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Firenze</subfield>
+    <subfield code="1">FI0098</subfield>
+    <subfield code="2">CFI CF</subfield>
+  </datafield>
+</record>
+</collection>

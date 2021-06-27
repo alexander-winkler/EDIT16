@@ -1,0 +1,56 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00701ncm0a22001931i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\036815</controlfield>
+  <controlfield tag="005">20000602000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19980530d1574        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Missarum quinque et sex vocibus fratris Cathewrini Blanchi Sanctae Mariae Cruciferarum organistae.  Liber primus</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venezia</subfield>
+    <subfield code="c">eredi di Antonio Gardane</subfield>
+    <subfield code="d">1574</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">6 fasc.</subfield>
+    <subfield code="d">8ʻ</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">S, A, T, B, 5, 6</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Bianchi,</subfield>
+    <subfield code="b">Caterino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\010310</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Gardane, Antonio - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003018</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Archivio - Biblioteca capitolare. Faenza</subfield>
+    <subfield code="z">(S,A*,T*,B,5,6)</subfield>
+    <subfield code="1">RA0046</subfield>
+    <subfield code="2">ZRA 15</subfield>
+  </datafield>
+</record>
+</collection>

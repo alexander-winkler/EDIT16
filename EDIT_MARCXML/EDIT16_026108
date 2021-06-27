@@ -1,0 +1,38 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00438na 0a22001331i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\026108</controlfield>
+  <controlfield tag="005">19971008000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19971008             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Corollari libri quinque</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Barbaro,</subfield>
+    <subfield code="b">Ermolao</subfield>
+    <subfield code="3">IT\ICCU\CNCA\000272</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Barbarus,</subfield>
+    <subfield code="b">Hermolaus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019065</subfield>
+    <subfield code="z">Barbaro, Ermolao</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Barbaro,</subfield>
+    <subfield code="b"></subfield>
+    <subfield code="3">IT\ICCU\CNCA\019066</subfield>
+    <subfield code="z">Barbaro, Ermolao</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,89 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01311nam0a22002651i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\037938</controlfield>
+  <controlfield tag="005">20121108000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">t.a, em51 s.n. licu (3) 1599 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19981023d1599        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Scrutinium sacerdotale, siue modus examinandi, tam in visitatione episcopali, quam in susceptione ordinum. A r.d. Fabio Incarnato Neap. ... accumulatum, ac multis ... illustratum ... nunc postremo ab infinitis mendis ... a r.p.m. Liuio a Lege Veneto Augu. ... repurgatum</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">apud haeredes Ioan. Mariae Leni</subfield>
+    <subfield code="d">1599</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\24!, 252 c.</subfield>
+    <subfield code="d">12ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Incarnato,</subfield>
+    <subfield code="b">Fabio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\007160</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Legge,</subfield>
+    <subfield code="b">Livio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001261</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Leni, Giovanni Maria - eredi</subfield>
+    <subfield code="3">IT\ICCU\CNCT\001540</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Incarnatus,</subfield>
+    <subfield code="b">Fabius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020090</subfield>
+    <subfield code="z">Incarnato, Fabio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Livius</subfield>
+    <subfield code="c"> : a#Lege</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020415</subfield>
+    <subfield code="z">Legge, Livio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Livius</subfield>
+    <subfield code="c"> : Venetus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020646</subfield>
+    <subfield code="z">Legge, Livio</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201114</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca pubblica arcivescovile Francesco Pacca. Benevento</subfield>
+    <subfield code="1">BN0008</subfield>
+    <subfield code="2">PBE 84</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Queriniana. Brescia</subfield>
+    <subfield code="1">BS0026</subfield>
+    <subfield code="2">ZBS 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca dell&apos;Abbazia di Novacella. Varna</subfield>
+    <subfield code="1">BZ0109</subfield>
+    <subfield code="2">ZBZ 04</subfield>
+  </datafield>
+</record>
+</collection>

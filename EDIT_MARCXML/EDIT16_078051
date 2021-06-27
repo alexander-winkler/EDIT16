@@ -1,0 +1,83 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01596nam0a2200253 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\078051</controlfield>
+  <controlfield tag="005">20130422000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">s:s: m.to iom. ems. (C) 1580 (A)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20130410d1580        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Ode ad illustrissimum, et reuerendiss. Carolum Borrhomŭm ... ab illustri com. Scipione Lucretii filio Gambara ei Virol ̆recitata. Ode ad reuerendissimum d.d. Ioannem Delphinum Brixi ̆episcopum ... Ad illustrissimam Barbaram Sanseuerinam Sal ̆com. Virolam, hortosque nostros visentem Scipionis Lucretii filli Gambar ̆epigramma. Ad illustres Cremonenses pro sereniss. Philippo Austrio Hispaniarum rege catholico Lusitani ̆regno potito elogium. Epitaphium serenissimi Philiberti Allobrogum ducis. Epitaphium multum illustris Lucretii Gambar ̆virol ̆com. et vescouati domini. Pecini Seiani secerdotis Brixiani, ciuisque Cremonensis</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Cremonae</subfield>
+    <subfield code="c">apud Christophorum Draconium</subfield>
+    <subfield code="d">1580</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">\2! c.</subfield>
+    <subfield code="d">4ʻ</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Cremona</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Seiano,</subfield>
+    <subfield code="b">Publio Pecino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\016173</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Draconi, Cristoforo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000063</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Seiano,</subfield>
+    <subfield code="b">Pecino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024740</subfield>
+    <subfield code="z">Seiano, Publio Pecino</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Sejanus,</subfield>
+    <subfield code="b">Pecinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024741</subfield>
+    <subfield code="z">Seiano, Publio Pecino</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Dragoni, Cristoforo</subfield>
+    <subfield code="3">IT\ICCU\CNCT\003781</subfield>
+    <subfield code="z">Draconi, Cristoforo</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Draconius, Christophorus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\004736</subfield>
+    <subfield code="z">Draconi, Cristoforo</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca nazionale centrale. Firenze</subfield>
+    <subfield code="1">FI0098</subfield>
+    <subfield code="2">CFI CF</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca Palatina. Parma</subfield>
+    <subfield code="1">PR0072</subfield>
+    <subfield code="2">PAR PA</subfield>
+  </datafield>
+</record>
+</collection>

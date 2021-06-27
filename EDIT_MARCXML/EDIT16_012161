@@ -1,0 +1,152 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>02189nam0a2200385 i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\012161</controlfield>
+  <controlfield tag="005">20000712000000.0</controlfield>
+  <datafield tag="012" ind1=" " ind2=" ">
+    <subfield code="a">++++ m.at iau. diqu (C) 1502 (R)</subfield>
+    <subfield code="2">fei</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">19970101d1502        0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="102" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Hoc in uolumine haec continentur. M. Tulii \sic! Ciceronis Epistolarum familiarium libri sexdecim. Vbertini clerici Crescentinatis in Ciceronis epistolas commentarii. Martini Philetici in quasdam epistolas ellectas \sic! commentarii. Georgii Merulae in epistolam ad Lentulum Spintherem accurata interpretatio</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">Venetiis</subfield>
+    <subfield code="c">per Lazarum de Soardis</subfield>
+    <subfield code="d">1502 die IIII Iunii</subfield>
+  </datafield>
+  <datafield tag="215" ind1=" " ind2=" ">
+    <subfield code="a">CCXX \ma 224! c.</subfield>
+    <subfield code="d">fol</subfield>
+  </datafield>
+  <datafield tag="620" ind1=" " ind2=" ">
+    <subfield code="a">IT</subfield>
+    <subfield code="d">Venezia</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2="1">
+    <subfield code="a">Cicero,</subfield>
+    <subfield code="b">Marcus Tullius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\002170</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Ubertino</subfield>
+    <subfield code="c"> : da#Crescentino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003044</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Filetico,</subfield>
+    <subfield code="b">Martino</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003045</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Merula,</subfield>
+    <subfield code="b">Giorgio</subfield>
+    <subfield code="3">IT\ICCU\CNCA\001156</subfield>
+  </datafield>
+  <datafield tag="712" ind1="0" ind2="0">
+    <subfield code="a">Soardi, Lazzaro</subfield>
+    <subfield code="3">IT\ICCU\CNCT\000387</subfield>
+    <subfield code="4">650</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Tullius Cicero,</subfield>
+    <subfield code="b">Marcus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\020042</subfield>
+    <subfield code="z">Cicero, Marcus Tullius</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Hubertinus</subfield>
+    <subfield code="c"> : Crescentinas</subfield>
+    <subfield code="3">IT\ICCU\CNCA\003292</subfield>
+    <subfield code="z">Ubertino : da#Crescentino</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Clerico,</subfield>
+    <subfield code="b">Uberto</subfield>
+    <subfield code="3">IT\ICCU\CNCA\017260</subfield>
+    <subfield code="z">Ubertino : da#Crescentino</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Ubertinus</subfield>
+    <subfield code="c"> : Clericus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\025013</subfield>
+    <subfield code="z">Ubertino : da#Crescentino</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Phileticus,</subfield>
+    <subfield code="b">Martinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014812</subfield>
+    <subfield code="z">Filetico, Martino</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Georgius</subfield>
+    <subfield code="c"> : Alexandrinus</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014110</subfield>
+    <subfield code="z">Merula, Giorgio</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Merula,</subfield>
+    <subfield code="b">Georgius</subfield>
+    <subfield code="3">IT\ICCU\CNCA\014655</subfield>
+    <subfield code="z">Merula, Giorgio</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Suardi, Lazzaro</subfield>
+    <subfield code="3">IT\ICCU\CNCT\002884</subfield>
+    <subfield code="z">Soardi, Lazzaro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Soardus, Lazarus</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005682</subfield>
+    <subfield code="z">Soardi, Lazzaro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Soardis, Lazarus de</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005684</subfield>
+    <subfield code="z">Soardi, Lazzaro</subfield>
+  </datafield>
+  <datafield tag="791" ind1="0" ind2="0">
+    <subfield code="a">Soardo, Lazaro</subfield>
+    <subfield code="3">IT\ICCU\CNCT\005685</subfield>
+    <subfield code="z">Soardi, Lazzaro</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201113</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica Queriniana. Brescia</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">BS0026</subfield>
+    <subfield code="2">ZBS 01</subfield>
+  </datafield>
+  <datafield tag="899" ind1=" " ind2=" ">
+    <subfield code="a">Biblioteca civica A. Hortis. Trieste</subfield>
+    <subfield code="z">MUTILO</subfield>
+    <subfield code="1">TS0013</subfield>
+    <subfield code="2">TSA BC</subfield>
+  </datafield>
+  <datafield tag="921" ind1=" " ind2=" ">
+    <subfield code="a">IT\ICCU\CNCM\000186</subfield>
+    <subfield code="b">Cerchio con croce doppia e iniziali L.S.O.</subfield>
+    <subfield code="c">A95</subfield>
+    <subfield code="c">V480</subfield>
+    <subfield code="c">Z282</subfield>
+    <subfield code="d">Dimensioni: 4,2 x 7,5</subfield>
+    <subfield code="f">CERCHIO</subfield>
+    <subfield code="f">CROCE</subfield>
+    <subfield code="f">LSO</subfield>
+    <subfield code="g">1501-1516</subfield>
+  </datafield>
+</record>
+</collection>

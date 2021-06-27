@@ -1,0 +1,71 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>00860na 0a22002051i 450 </leader>
+  <controlfield tag="001">IT\ICCU\CNCE\072204</controlfield>
+  <controlfield tag="005">20100209000000.0</controlfield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20071212             0itac0103    ba</subfield>
+  </datafield>
+  <datafield tag="101" ind1=" " ind2=" ">
+    <subfield code="a">LAT</subfield>
+  </datafield>
+  <datafield tag="200" ind1="1" ind2=" ">
+    <subfield code="a">Capitula Regni Siciliae</subfield>
+  </datafield>
+  <datafield tag="710" ind1="0" ind2="2">
+    <subfield code="a">Sicilia</subfield>
+    <subfield code="c"> &lt;Regno&gt;</subfield>
+    <subfield code="3">IT\ICCU\CNCA\006798</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a"></subfield>
+    <subfield code="c"> : da#Napoli</subfield>
+    <subfield code="3">IT\ICCU\CNCA\024180</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="1">
+    <subfield code="a">Napodano,</subfield>
+    <subfield code="b">Sebastiano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004425</subfield>
+  </datafield>
+  <datafield tag="702" ind1=" " ind2="0">
+    <subfield code="a">Luca</subfield>
+    <subfield code="c"> : da#Penne</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004427</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="0">
+    <subfield code="a">Sebastianus</subfield>
+    <subfield code="c"> : de#Neapoli</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004753</subfield>
+    <subfield code="z">Napodano, Sebastiano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Napolitano,</subfield>
+    <subfield code="b">Sebastiano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\018615</subfield>
+    <subfield code="z">Napodano, Sebastiano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Sebastiani,</subfield>
+    <subfield code="b">Napoletano</subfield>
+    <subfield code="3">IT\ICCU\CNCA\022324</subfield>
+    <subfield code="z">Napodano, Sebastiano</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Penna,</subfield>
+    <subfield code="b">Lucas : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\004755</subfield>
+    <subfield code="z">Luca : da#Penne</subfield>
+  </datafield>
+  <datafield tag="790" ind1=" " ind2="1">
+    <subfield code="a">Penna,</subfield>
+    <subfield code="b">Luca : de</subfield>
+    <subfield code="3">IT\ICCU\CNCA\019600</subfield>
+    <subfield code="z">Luca : da#Penne</subfield>
+  </datafield>
+  <datafield tag="801" ind1=" " ind2="3">
+    <subfield code="a">IT</subfield>
+    <subfield code="b">ICCU</subfield>
+    <subfield code="c">20201115</subfield>
+  </datafield>
+</record>
+</collection>
